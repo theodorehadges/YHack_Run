@@ -1,0 +1,664 @@
+{
+  "usage": {
+    "text_characters": 1110, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.925031, 
+      "text": "President Donald Trump", 
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.817872, 
+      "text": "Trump National Security", 
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.800005, 
+      "text": "Adviser Michael Flynn", 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.672828, 
+      "text": "Maxine Waters", 
+      "emotion": {
+        "anger": 0.11328, 
+        "joy": 0.227821, 
+        "sadness": 0.212356, 
+        "fear": 0.090892, 
+        "disgust": 0.396216
+      }, 
+      "sentiment": {
+        "score": 0.444396, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.636977, 
+      "text": "guilty plea", 
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.625126, 
+      "text": "Saturday appearance", 
+      "emotion": {
+        "anger": 0.040179, 
+        "joy": 0.517938, 
+        "sadness": 0.122374, 
+        "fear": 0.03236, 
+        "disgust": 0.115172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.623352, 
+      "text": "Joy Reid", 
+      "emotion": {
+        "anger": 0.048678, 
+        "joy": 0.794951, 
+        "sadness": 0.053376, 
+        "fear": 0.011889, 
+        "disgust": 0.111022
+      }, 
+      "sentiment": {
+        "score": 0.526451, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.599567, 
+      "text": "money laundering", 
+      "emotion": {
+        "anger": 0.272041, 
+        "joy": 0.201026, 
+        "sadness": 0.16313, 
+        "fear": 0.108579, 
+        "disgust": 0.373336
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.576668, 
+      "text": "United States", 
+      "emotion": {
+        "anger": 0.336083, 
+        "joy": 0.095468, 
+        "sadness": 0.279099, 
+        "fear": 0.09761, 
+        "disgust": 0.470628
+      }, 
+      "sentiment": {
+        "score": -0.336072, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.462364, 
+      "text": "iceberg", 
+      "emotion": {
+        "anger": 0.035028, 
+        "joy": 0.485749, 
+        "sadness": 0.14848, 
+        "fear": 0.187969, 
+        "disgust": 0.063008
+      }, 
+      "sentiment": {
+        "score": 0.562561, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.461446, 
+      "text": "Putin", 
+      "emotion": {
+        "anger": 0.099041, 
+        "joy": 0.248621, 
+        "sadness": 0.246692, 
+        "fear": 0.057603, 
+        "disgust": 0.159993
+      }, 
+      "sentiment": {
+        "score": -0.206883, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.457953, 
+      "text": "collusion", 
+      "emotion": {
+        "anger": 0.164675, 
+        "joy": 0.156803, 
+        "sadness": 0.243352, 
+        "fear": 0.322759, 
+        "disgust": 0.1035
+      }, 
+      "sentiment": {
+        "score": 0.451021, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.456312, 
+      "text": "obstruction", 
+      "emotion": {
+        "anger": 0.212089, 
+        "joy": 0.143575, 
+        "sadness": 0.622945, 
+        "fear": 0.04346, 
+        "disgust": 0.102787
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.454402, 
+      "text": "Kremlin", 
+      "emotion": {
+        "anger": 0.155227, 
+        "joy": 0.102108, 
+        "sadness": 0.199931, 
+        "fear": 0.270126, 
+        "disgust": 0.0676
+      }, 
+      "sentiment": {
+        "score": -0.607358, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.454258, 
+      "text": "Republicans", 
+      "emotion": {
+        "anger": 0.255318, 
+        "joy": 0.030913, 
+        "sadness": 0.655687, 
+        "fear": 0.048477, 
+        "disgust": 0.296717
+      }, 
+      "sentiment": {
+        "score": -0.232795, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.453564, 
+      "text": "Rep", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.452618, 
+      "text": "MSNBC", 
+      "emotion": {
+        "anger": 0.040179, 
+        "joy": 0.517938, 
+        "sadness": 0.122374, 
+        "fear": 0.03236, 
+        "disgust": 0.115172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.450422, 
+      "text": "impeachment", 
+      "emotion": {
+        "anger": 0.118698, 
+        "joy": 0.078959, 
+        "sadness": 0.257875, 
+        "fear": 0.098249, 
+        "disgust": 0.086958
+      }, 
+      "sentiment": {
+        "score": -0.533423, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.450265, 
+      "text": "connection", 
+      "emotion": {
+        "anger": 0.15798, 
+        "joy": 0.124045, 
+        "sadness": 0.234738, 
+        "fear": 0.21486, 
+        "disgust": 0.100864
+      }, 
+      "sentiment": {
+        "score": -0.407121, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.446784, 
+      "text": "sanctions", 
+      "emotion": {
+        "anger": 0.079705, 
+        "joy": 0.225794, 
+        "sadness": 0.137461, 
+        "fear": 0.067763, 
+        "disgust": 0.148846
+      }, 
+      "sentiment": {
+        "score": -0.35603, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.445146, 
+      "text": "crusade", 
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.442836, 
+      "text": "wake", 
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.442479, 
+      "text": "tip", 
+      "emotion": {
+        "anger": 0.035028, 
+        "joy": 0.485749, 
+        "sadness": 0.14848, 
+        "fear": 0.187969, 
+        "disgust": 0.063008
+      }, 
+      "sentiment": {
+        "score": 0.562561, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.440174, 
+      "text": "allies", 
+      "emotion": {
+        "anger": 0.10709, 
+        "joy": 0.378662, 
+        "sadness": 0.179301, 
+        "fear": 0.103239, 
+        "disgust": 0.018474
+      }, 
+      "sentiment": {
+        "score": -0.369784, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.433537, 
+      "text": "D-CA", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.433449, 
+      "text": "kinds", 
+      "emotion": {
+        "anger": 0.336083, 
+        "joy": 0.095468, 
+        "sadness": 0.279099, 
+        "fear": 0.09761, 
+        "disgust": 0.470628
+      }, 
+      "sentiment": {
+        "score": -0.336072, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.43062, 
+      "text": "justice", 
+      "emotion": {
+        "anger": 0.212089, 
+        "joy": 0.143575, 
+        "sadness": 0.622945, 
+        "fear": 0.04346, 
+        "disgust": 0.102787
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.429652, 
+      "text": "point", 
+      "emotion": {
+        "anger": 0.336083, 
+        "joy": 0.095468, 
+        "sadness": 0.279099, 
+        "fear": 0.09761, 
+        "disgust": 0.470628
+      }, 
+      "sentiment": {
+        "score": -0.336072, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.429623, 
+      "text": "time", 
+      "emotion": {
+        "anger": 0.336083, 
+        "joy": 0.095468, 
+        "sadness": 0.279099, 
+        "fear": 0.09761, 
+        "disgust": 0.470628
+      }, 
+      "sentiment": {
+        "score": -0.336072, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.354821, 
+        "joy": 0.035818, 
+        "sadness": 0.500892, 
+        "fear": 0.078944, 
+        "disgust": 0.378845
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.347194, 
+        "label": "negative"
+      }, 
+      "text": "president", 
+      "relevance": 0.931882, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.062621, 
+        "joy": 0.753312, 
+        "sadness": 0.04683, 
+        "fear": 0.015721, 
+        "disgust": 0.140141
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.43555, 
+        "label": "positive"
+      }, 
+      "text": "Maxine Waters", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Maxine Waters", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Maxine_Waters"
+      }, 
+      "relevance": 0.924319, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }, 
+      "text": "President Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.774592, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.10709, 
+        "joy": 0.378662, 
+        "sadness": 0.179301, 
+        "fear": 0.103239, 
+        "disgust": 0.018474
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.356635, 
+        "label": "negative"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.483979, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.040179, 
+        "joy": 0.517938, 
+        "sadness": 0.122374, 
+        "fear": 0.03236, 
+        "disgust": 0.115172
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "MSNBC", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TVNetwork"
+        ], 
+        "name": "MSNBC", 
+        "dbpedia_resource": "http://dbpedia.org/resource/MSNBC"
+      }, 
+      "relevance": 0.381739, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.280842, 
+        "joy": 0.163803, 
+        "sadness": 0.40759, 
+        "fear": 0.075023, 
+        "disgust": 0.272063
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.343486, 
+        "label": "negative"
+      }, 
+      "text": "National Security", 
+      "disambiguation": {
+        "subtype": [
+          "OrganizationSector"
+        ], 
+        "name": "National security", 
+        "dbpedia_resource": "http://dbpedia.org/resource/National_security"
+      }, 
+      "relevance": 0.331818, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.099041, 
+        "joy": 0.248621, 
+        "sadness": 0.246692, 
+        "fear": 0.057603, 
+        "disgust": 0.159993
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.206883, 
+        "label": "negative"
+      }, 
+      "text": "Putin", 
+      "relevance": 0.319675, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.048678, 
+        "joy": 0.794951, 
+        "sadness": 0.053376, 
+        "fear": 0.011889, 
+        "disgust": 0.111022
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.526451, 
+        "label": "positive"
+      }, 
+      "text": "Joy Reid", 
+      "relevance": 0.317481, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.336083, 
+        "joy": 0.095468, 
+        "sadness": 0.279099, 
+        "fear": 0.09761, 
+        "disgust": 0.470628
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.336072, 
+        "label": "negative"
+      }, 
+      "text": "United States", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.28135, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.336083, 
+        "joy": 0.095468, 
+        "sadness": 0.279099, 
+        "fear": 0.09761, 
+        "disgust": 0.470628
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.336072, 
+        "label": "negative"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.248782, 
+      "type": "Location"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/video/2017/12/02/maxine-waters-were-going-to-find-that-trump-needs-to-be-impeached/"
+}

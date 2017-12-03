@@ -1,0 +1,974 @@
+{
+  "usage": {
+    "text_characters": 3118, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.99917, 
+      "text": "Kato", 
+      "emotion": {
+        "anger": 0.146461, 
+        "joy": 0.157487, 
+        "sadness": 0.589425, 
+        "fear": 0.115843, 
+        "disgust": 0.175541
+      }, 
+      "sentiment": {
+        "score": 0.544998, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.905975, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.090838, 
+        "joy": 0.258879, 
+        "sadness": 0.535215, 
+        "fear": 0.167272, 
+        "disgust": 0.1117
+      }, 
+      "sentiment": {
+        "score": -0.104393, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.777061, 
+      "text": "Takahiro Kato", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.767259, 
+      "text": "cabinet survey", 
+      "emotion": {
+        "anger": 0.049792, 
+        "joy": 0.288578, 
+        "sadness": 0.059312, 
+        "fear": 0.079796, 
+        "disgust": 0.070362
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.756501, 
+      "text": "little social interactions", 
+      "emotion": {
+        "anger": 0.012858, 
+        "joy": 0.131391, 
+        "sadness": 0.535746, 
+        "fear": 0.473532, 
+        "disgust": 0.02203
+      }, 
+      "sentiment": {
+        "score": -0.420331, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.755802, 
+      "text": "high-pressured working environments", 
+      "emotion": {
+        "anger": 0.012858, 
+        "joy": 0.131391, 
+        "sadness": 0.535746, 
+        "fear": 0.473532, 
+        "disgust": 0.02203
+      }, 
+      "sentiment": {
+        "score": -0.420331, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.739921, 
+      "text": "hikikomori support center", 
+      "emotion": {
+        "anger": 0.056202, 
+        "joy": 0.191548, 
+        "sadness": 0.387837, 
+        "fear": 0.073275, 
+        "disgust": 0.020309
+      }, 
+      "sentiment": {
+        "score": 0.387152, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.731011, 
+      "text": "group therapy sessions", 
+      "emotion": {
+        "anger": 0.074561, 
+        "joy": 0.421708, 
+        "sadness": 0.43314, 
+        "fear": 0.103681, 
+        "disgust": 0.013566
+      }, 
+      "sentiment": {
+        "score": 0.407118, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.702478, 
+      "text": "virtual high schools", 
+      "emotion": {
+        "anger": 0.055692, 
+        "joy": 0.162607, 
+        "sadness": 0.25801, 
+        "fear": 0.067369, 
+        "disgust": 0.062933
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.582153, 
+      "text": "video games", 
+      "emotion": {
+        "anger": 0.15257, 
+        "joy": 0.328413, 
+        "sadness": 0.15994, 
+        "fear": 0.113144, 
+        "disgust": 0.287457
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.581843, 
+      "text": "sports programs", 
+      "emotion": {
+        "anger": 0.082883, 
+        "joy": 0.59824, 
+        "sadness": 0.128079, 
+        "fear": 0.051817, 
+        "disgust": 0.168306
+      }, 
+      "sentiment": {
+        "score": 0.368692, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.572779, 
+      "text": "Welfare Ministry", 
+      "emotion": {
+        "anger": 0.119762, 
+        "joy": 0.356399, 
+        "sadness": 0.304119, 
+        "fear": 0.103955, 
+        "disgust": 0.078424
+      }, 
+      "sentiment": {
+        "score": -0.248211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.567146, 
+      "text": "Japanese Health", 
+      "emotion": {
+        "anger": 0.033765, 
+        "joy": 0.351438, 
+        "sadness": 0.20383, 
+        "fear": 0.007564, 
+        "disgust": 0.002148
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.566186, 
+      "text": "Kyushu University", 
+      "emotion": {
+        "anger": 0.095351, 
+        "joy": 0.202378, 
+        "sadness": 0.154461, 
+        "fear": 0.094786, 
+        "disgust": 0.07361
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.55845, 
+      "text": "neuropsychiatrist professor", 
+      "emotion": {
+        "anger": 0.095351, 
+        "joy": 0.202378, 
+        "sadness": 0.154461, 
+        "fear": 0.094786, 
+        "disgust": 0.07361
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.55738, 
+      "text": "male hikikomori", 
+      "emotion": {
+        "anger": 0.112639, 
+        "joy": 0.167065, 
+        "sadness": 0.351883, 
+        "fear": 0.023797, 
+        "disgust": 0.211462
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.555677, 
+      "text": "societal influences", 
+      "emotion": {
+        "anger": 0.080835, 
+        "joy": 0.351356, 
+        "sadness": 0.191834, 
+        "fear": 0.105523, 
+        "disgust": 0.100805
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.554396, 
+      "text": "society", 
+      "emotion": {
+        "anger": 0.110136, 
+        "joy": 0.319935, 
+        "sadness": 0.485275, 
+        "fear": 0.073036, 
+        "disgust": 0.112964
+      }, 
+      "sentiment": {
+        "score": 0.407118, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.551574, 
+      "text": "psychological aspect", 
+      "emotion": {
+        "anger": 0.116736, 
+        "joy": 0.155054, 
+        "sadness": 0.22033, 
+        "fear": 0.164915, 
+        "disgust": 0.099633
+      }, 
+      "sentiment": {
+        "score": 0.394282, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.548797, 
+      "text": "fewer people", 
+      "emotion": {
+        "anger": 0.138281, 
+        "joy": 0.480817, 
+        "sadness": 0.131252, 
+        "fear": 0.201757, 
+        "disgust": 0.103242
+      }, 
+      "sentiment": {
+        "score": -0.434182, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.548046, 
+      "text": "lower levels", 
+      "emotion": {
+        "anger": 0.070482, 
+        "joy": 0.091733, 
+        "sadness": 0.493394, 
+        "fear": 0.273489, 
+        "disgust": 0.232067
+      }, 
+      "sentiment": {
+        "score": -0.506626, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.54641, 
+      "text": "Iwai", 
+      "emotion": {
+        "anger": 0.177833, 
+        "joy": 0.103974, 
+        "sadness": 0.276786, 
+        "fear": 0.047115, 
+        "disgust": 0.134998
+      }, 
+      "sentiment": {
+        "score": -0.344641, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.543, 
+      "text": "higher expectations", 
+      "emotion": {
+        "anger": 0.112639, 
+        "joy": 0.167065, 
+        "sadness": 0.351883, 
+        "fear": 0.023797, 
+        "disgust": 0.211462
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.536087, 
+      "text": "old friends", 
+      "emotion": {
+        "anger": 0.101602, 
+        "joy": 0.525441, 
+        "sadness": 0.140874, 
+        "fear": 0.055374, 
+        "disgust": 0.025618
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.533106, 
+      "text": "face-to-face interactions", 
+      "emotion": {
+        "anger": 0.061988, 
+        "joy": 0.28109, 
+        "sadness": 0.410292, 
+        "fear": 0.22756, 
+        "disgust": 0.146108
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.533076, 
+      "text": "Japanese society", 
+      "emotion": {
+        "anger": 0.112639, 
+        "joy": 0.167065, 
+        "sadness": 0.351883, 
+        "fear": 0.023797, 
+        "disgust": 0.211462
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.524949, 
+      "text": "unique talent", 
+      "emotion": {
+        "anger": 0.055775, 
+        "joy": 0.438576, 
+        "sadness": 0.254004, 
+        "fear": 0.102322, 
+        "disgust": 0.003259
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.522196, 
+      "text": "different types", 
+      "emotion": {
+        "anger": 0.115072, 
+        "joy": 0.289036, 
+        "sadness": 0.315384, 
+        "fear": 0.120565, 
+        "disgust": 0.03585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.519732, 
+      "text": "Japanese companies", 
+      "emotion": {
+        "anger": 0.055775, 
+        "joy": 0.438576, 
+        "sadness": 0.254004, 
+        "fear": 0.102322, 
+        "disgust": 0.003259
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.51828, 
+      "text": "different reasons", 
+      "emotion": {
+        "anger": 0.115072, 
+        "joy": 0.289036, 
+        "sadness": 0.315384, 
+        "fear": 0.120565, 
+        "disgust": 0.03585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.517173, 
+      "text": "support centers", 
+      "emotion": {
+        "anger": 0.083639, 
+        "joy": 0.178127, 
+        "sadness": 0.268739, 
+        "fear": 0.132389, 
+        "disgust": 0.087303
+      }, 
+      "sentiment": {
+        "score": 0.544998, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.507002, 
+      "text": "virtual schools", 
+      "emotion": {
+        "anger": 0.232535, 
+        "joy": 0.167323, 
+        "sadness": 0.173258, 
+        "fear": 0.099425, 
+        "disgust": 0.461012
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.478395, 
+      "text": "CNN", 
+      "emotion": {
+        "anger": 0.170456, 
+        "joy": 0.106241, 
+        "sadness": 0.210232, 
+        "fear": 0.073201, 
+        "disgust": 0.069598
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.464485, 
+      "text": "term", 
+      "emotion": {
+        "anger": 0.311218, 
+        "joy": 0.094092, 
+        "sadness": 0.608391, 
+        "fear": 0.050943, 
+        "disgust": 0.042909
+      }, 
+      "sentiment": {
+        "score": -0.652883, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.446346, 
+      "text": "condition", 
+      "emotion": {
+        "anger": 0.126062, 
+        "joy": 0.161462, 
+        "sadness": 0.486198, 
+        "fear": 0.14313, 
+        "disgust": 0.08205
+      }, 
+      "sentiment": {
+        "score": 0.390717, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.398106, 
+      "text": "homes", 
+      "emotion": {
+        "anger": 0.078929, 
+        "joy": 0.314847, 
+        "sadness": 0.353752, 
+        "fear": 0.167442, 
+        "disgust": 0.108135
+      }, 
+      "sentiment": {
+        "score": -0.248211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.392166, 
+      "text": "numbers", 
+      "emotion": {
+        "anger": 0.105524, 
+        "joy": 0.126728, 
+        "sadness": 0.42411, 
+        "fear": 0.02425, 
+        "disgust": 0.187079
+      }, 
+      "sentiment": {
+        "score": -0.318751, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.390228, 
+      "text": "rooms", 
+      "emotion": {
+        "anger": 0.367775, 
+        "joy": 0.033356, 
+        "sadness": 0.532513, 
+        "fear": 0.183093, 
+        "disgust": 0.182178
+      }, 
+      "sentiment": {
+        "score": -0.562977, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.352982, 
+      "text": "resilience", 
+      "emotion": {
+        "anger": 0.070482, 
+        "joy": 0.091733, 
+        "sadness": 0.493394, 
+        "fear": 0.273489, 
+        "disgust": 0.232067
+      }, 
+      "sentiment": {
+        "score": -0.506626, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.352209, 
+      "text": "Fukuoka", 
+      "emotion": {
+        "anger": 0.056202, 
+        "joy": 0.191548, 
+        "sadness": 0.387837, 
+        "fear": 0.073275, 
+        "disgust": 0.020309
+      }, 
+      "sentiment": {
+        "score": 0.387152, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.351811, 
+      "text": "room", 
+      "emotion": {
+        "anger": 0.15257, 
+        "joy": 0.328413, 
+        "sadness": 0.15994, 
+        "fear": 0.113144, 
+        "disgust": 0.287457
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.351754, 
+      "text": "films", 
+      "emotion": {
+        "anger": 0.082883, 
+        "joy": 0.59824, 
+        "sadness": 0.128079, 
+        "fear": 0.051817, 
+        "disgust": 0.168306
+      }, 
+      "sentiment": {
+        "score": 0.368692, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.35129, 
+      "text": "Labor", 
+      "emotion": {
+        "anger": 0.119762, 
+        "joy": 0.356399, 
+        "sadness": 0.304119, 
+        "fear": 0.103955, 
+        "disgust": 0.078424
+      }, 
+      "sentiment": {
+        "score": -0.248211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.349159, 
+      "text": "stigma", 
+      "emotion": {
+        "anger": 0.102242, 
+        "joy": 0.057654, 
+        "sadness": 0.565199, 
+        "fear": 0.386412, 
+        "disgust": 0.047248
+      }, 
+      "sentiment": {
+        "score": -0.601967, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.347758, 
+      "text": "teenager", 
+      "emotion": {
+        "anger": 0.063739, 
+        "joy": 0.163787, 
+        "sadness": 0.344008, 
+        "fear": 0.085989, 
+        "disgust": 0.103502
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.346383, 
+      "text": "women", 
+      "emotion": {
+        "anger": 0.112639, 
+        "joy": 0.167065, 
+        "sadness": 0.351883, 
+        "fear": 0.023797, 
+        "disgust": 0.211462
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.346194, 
+      "text": "debate", 
+      "emotion": {
+        "anger": 0.214578, 
+        "joy": 0.115246, 
+        "sadness": 0.370349, 
+        "fear": 0.174543, 
+        "disgust": 0.254489
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.345627, 
+      "text": "desire", 
+      "emotion": {
+        "anger": 0.599596, 
+        "joy": 0.089728, 
+        "sadness": 0.427739, 
+        "fear": 0.113225, 
+        "disgust": 0.023423
+      }, 
+      "sentiment": {
+        "score": -0.650386, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.34546, 
+      "text": "adults", 
+      "emotion": {
+        "anger": 0.129978, 
+        "joy": 0.018403, 
+        "sadness": 0.608452, 
+        "fear": 0.244727, 
+        "disgust": 0.270431
+      }, 
+      "sentiment": {
+        "score": -0.361743, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.34528, 
+      "text": "evenings", 
+      "emotion": {
+        "anger": 0.042767, 
+        "joy": 0.41271, 
+        "sadness": 0.220042, 
+        "fear": 0.078024, 
+        "disgust": 0.051931
+      }, 
+      "sentiment": {
+        "score": 0.448922, 
+        "label": "positive"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.457235, 
+        "joy": 0.133723, 
+        "sadness": 0.567983, 
+        "fear": 0.097375, 
+        "disgust": 0.143233
+      }, 
+      "count": 14, 
+      "sentiment": {
+        "score": 0.0930891, 
+        "label": "positive"
+      }, 
+      "text": "Takahiro Kato", 
+      "relevance": 0.935474, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.124825, 
+        "joy": 0.442089, 
+        "sadness": 0.590139, 
+        "fear": 0.126707, 
+        "disgust": 0.101737
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.449168, 
+        "label": "negative"
+      }, 
+      "text": "Iwai", 
+      "relevance": 0.364325, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.170456, 
+        "joy": 0.106241, 
+        "sadness": 0.210232, 
+        "fear": 0.073201, 
+        "disgust": 0.069598
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CNN", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "RadioNetwork", 
+          "TVNetwork"
+        ], 
+        "name": "CNN", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      }, 
+      "relevance": 0.308075, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.119762, 
+        "joy": 0.356399, 
+        "sadness": 0.304119, 
+        "fear": 0.103955, 
+        "disgust": 0.078424
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.248211, 
+        "label": "negative"
+      }, 
+      "text": "Labor and Welfare Ministry", 
+      "relevance": 0.210499, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.056202, 
+        "joy": 0.191548, 
+        "sadness": 0.387837, 
+        "fear": 0.073275, 
+        "disgust": 0.020309
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.387152, 
+        "label": "positive"
+      }, 
+      "text": "Fukuoka", 
+      "disambiguation": {
+        "subtype": [
+          "JapaneseDesignatedCity", 
+          "City"
+        ], 
+        "name": "Fukuoka", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Fukuoka"
+      }, 
+      "relevance": 0.188829, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095351, 
+        "joy": 0.202378, 
+        "sadness": 0.154461, 
+        "fear": 0.094786, 
+        "disgust": 0.07361
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Kyushu University", 
+      "disambiguation": {
+        "subtype": [
+          "CollegeUniversity", 
+          "University"
+        ], 
+        "name": "Kyushu University", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Kyushu_University"
+      }, 
+      "relevance": 0.181807, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.016271, 
+        "joy": 0.019686, 
+        "sadness": 0.641769, 
+        "fear": 0.509598, 
+        "disgust": 0.005874
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.312273, 
+        "label": "negative"
+      }, 
+      "text": "depression", 
+      "relevance": 0.173675, 
+      "type": "HealthCondition"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.042767, 
+        "joy": 0.41271, 
+        "sadness": 0.220042, 
+        "fear": 0.078024, 
+        "disgust": 0.051931
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.448922, 
+        "label": "positive"
+      }, 
+      "text": "soccer", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Association football", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Association_football"
+      }, 
+      "relevance": 0.171009, 
+      "type": "Sport"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095351, 
+        "joy": 0.202378, 
+        "sadness": 0.154461, 
+        "fear": 0.094786, 
+        "disgust": 0.07361
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "neuropsychiatrist", 
+      "relevance": 0.151928, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095351, 
+        "joy": 0.202378, 
+        "sadness": 0.154461, 
+        "fear": 0.094786, 
+        "disgust": 0.07361
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "professor", 
+      "relevance": 0.141503, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.141503, 
+      "text": "six months", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.cnn.com/2016/09/11/asia/japanese-millennials-hikikomori-social-recluse/index.html"
+}

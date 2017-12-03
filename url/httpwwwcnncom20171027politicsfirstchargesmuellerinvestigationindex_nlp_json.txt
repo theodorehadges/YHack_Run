@@ -1,0 +1,1151 @@
+{
+  "usage": {
+    "text_characters": 2204, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.956886, 
+      "text": "special counsel", 
+      "emotion": {
+        "anger": 0.038943, 
+        "joy": 0.295671, 
+        "sadness": 0.101507, 
+        "fear": 0.199787, 
+        "disgust": 0.09938
+      }, 
+      "sentiment": {
+        "score": 0.610979, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.926752, 
+      "text": "Trump campaign", 
+      "emotion": {
+        "anger": 0.010636, 
+        "joy": 0.412612, 
+        "sadness": 0.220317, 
+        "fear": 0.077924, 
+        "disgust": 0.222831
+      }, 
+      "sentiment": {
+        "score": 0.610979, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.925503, 
+      "text": "Trump campaign adviser", 
+      "emotion": {
+        "anger": 0.03736, 
+        "joy": 0.272875, 
+        "sadness": 0.345508, 
+        "fear": 0.081506, 
+        "disgust": 0.198981
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.909186, 
+      "text": "President Donald Trump", 
+      "emotion": {
+        "anger": 0.283082, 
+        "joy": 0.084274, 
+        "sadness": 0.156344, 
+        "fear": 0.03677, 
+        "disgust": 0.217591
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.896719, 
+      "text": "Trump campaign chairman", 
+      "emotion": {
+        "anger": 0.042558, 
+        "joy": 0.13525, 
+        "sadness": 0.233785, 
+        "fear": 0.103287, 
+        "disgust": 0.305139
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.863622, 
+      "text": "Trump Tower meeting", 
+      "emotion": {
+        "anger": 0.059505, 
+        "joy": 0.306994, 
+        "sadness": 0.166371, 
+        "fear": 0.331223, 
+        "disgust": 0.225663
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.796383, 
+      "text": "Director James Comey", 
+      "emotion": {
+        "anger": 0.283082, 
+        "joy": 0.084274, 
+        "sadness": 0.156344, 
+        "fear": 0.03677, 
+        "disgust": 0.217591
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.77048, 
+      "text": "grand jury", 
+      "emotion": {
+        "anger": 0.069482, 
+        "joy": 0.625071, 
+        "sadness": 0.05007, 
+        "fear": 0.180887, 
+        "disgust": 0.091233
+      }, 
+      "sentiment": {
+        "score": -0.642271, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.758368, 
+      "text": "Mueller probe", 
+      "emotion": {
+        "anger": 0.049487, 
+        "joy": 0.236494, 
+        "sadness": 0.305969, 
+        "fear": 0.10002, 
+        "disgust": 0.028655
+      }, 
+      "sentiment": {
+        "score": 0.475681, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.748978, 
+      "text": "grand jury room", 
+      "emotion": {
+        "anger": 0.042735, 
+        "joy": 0.71518, 
+        "sadness": 0.021473, 
+        "fear": 0.162396, 
+        "disgust": 0.076644
+      }, 
+      "sentiment": {
+        "score": -0.642271, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.746432, 
+      "text": "DC federal court", 
+      "emotion": {
+        "anger": 0.122331, 
+        "joy": 0.376168, 
+        "sadness": 0.137096, 
+        "fear": 0.200122, 
+        "disgust": 0.102167
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.744395, 
+      "text": "senior administration official", 
+      "emotion": {
+        "anger": 0.107136, 
+        "joy": 0.568815, 
+        "sadness": 0.218569, 
+        "fear": 0.042537, 
+        "disgust": 0.101232
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.742186, 
+      "text": "prosecutor Andrew Weissmann", 
+      "emotion": {
+        "anger": 0.06531, 
+        "joy": 0.100208, 
+        "sadness": 0.180276, 
+        "fear": 0.07094, 
+        "disgust": 0.146363
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.738735, 
+      "text": "adviser Michael Flynn", 
+      "emotion": {
+        "anger": 0.095519, 
+        "joy": 0.245952, 
+        "sadness": 0.343223, 
+        "fear": 0.132676, 
+        "disgust": 0.264371
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.708574, 
+      "text": "Intelligence Surveillance Act", 
+      "emotion": {
+        "anger": 0.107872, 
+        "joy": 0.155577, 
+        "sadness": 0.09433, 
+        "fear": 0.11214, 
+        "disgust": 0.050423
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.613771, 
+      "text": "Russia investigation", 
+      "emotion": {
+        "anger": 0.122331, 
+        "joy": 0.376168, 
+        "sadness": 0.137096, 
+        "fear": 0.200122, 
+        "disgust": 0.102167
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.609366, 
+      "text": "federal judge", 
+      "emotion": {
+        "anger": 0.244422, 
+        "joy": 0.046261, 
+        "sadness": 0.431852, 
+        "fear": 0.016138, 
+        "disgust": 0.102645
+      }, 
+      "sentiment": {
+        "score": -0.39427, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.606777, 
+      "text": "federal investigation", 
+      "emotion": {
+        "anger": 0.108215, 
+        "joy": 0.140726, 
+        "sadness": 0.166655, 
+        "fear": 0.15829, 
+        "disgust": 0.274
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.595679, 
+      "text": "Comey-led investigation", 
+      "emotion": {
+        "anger": 0.107872, 
+        "joy": 0.155577, 
+        "sadness": 0.09433, 
+        "fear": 0.11214, 
+        "disgust": 0.050423
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.592188, 
+      "text": "presidential campaign", 
+      "emotion": {
+        "anger": 0.108215, 
+        "joy": 0.140726, 
+        "sadness": 0.166655, 
+        "fear": 0.15829, 
+        "disgust": 0.274
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.587804, 
+      "text": "court room", 
+      "emotion": {
+        "anger": 0.122331, 
+        "joy": 0.376168, 
+        "sadness": 0.137096, 
+        "fear": 0.200122, 
+        "disgust": 0.102167
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.587759, 
+      "text": "potential collusion", 
+      "emotion": {
+        "anger": 0.003295, 
+        "joy": 0.494977, 
+        "sadness": 0.156573, 
+        "fear": 0.130088, 
+        "disgust": 0.121921
+      }, 
+      "sentiment": {
+        "score": 0.610979, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.587615, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.086373, 
+        "joy": 0.415012, 
+        "sadness": 0.152107, 
+        "fear": 0.207771, 
+        "disgust": 0.115174
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.587587, 
+      "text": "Russian meddling", 
+      "emotion": {
+        "anger": 0.029342, 
+        "joy": 0.106569, 
+        "sadness": 0.170491, 
+        "fear": 0.638834, 
+        "disgust": 0.047185
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.580516, 
+      "text": "campaign officials", 
+      "emotion": {
+        "anger": 0.059505, 
+        "joy": 0.306994, 
+        "sadness": 0.166371, 
+        "fear": 0.331223, 
+        "disgust": 0.225663
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.578028, 
+      "text": "Saturday morning", 
+      "emotion": {
+        "anger": 0.107136, 
+        "joy": 0.568815, 
+        "sadness": 0.218569, 
+        "fear": 0.042537, 
+        "disgust": 0.101232
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.570764, 
+      "text": "Paul Manafort", 
+      "emotion": {
+        "anger": 0.042558, 
+        "joy": 0.13525, 
+        "sadness": 0.233785, 
+        "fear": 0.103287, 
+        "disgust": 0.305139
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.569309, 
+      "text": "financial ties", 
+      "emotion": {
+        "anger": 0.137487, 
+        "joy": 0.092667, 
+        "sadness": 0.262299, 
+        "fear": 0.069441, 
+        "disgust": 0.075548
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.568774, 
+      "text": "secret court", 
+      "emotion": {
+        "anger": 0.107872, 
+        "joy": 0.155577, 
+        "sadness": 0.09433, 
+        "fear": 0.11214, 
+        "disgust": 0.050423
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.568199, 
+      "text": "foreign lobbying", 
+      "emotion": {
+        "anger": 0.042558, 
+        "joy": 0.13525, 
+        "sadness": 0.233785, 
+        "fear": 0.103287, 
+        "disgust": 0.305139
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.566902, 
+      "text": "Capitol Hill", 
+      "emotion": {
+        "anger": 0.193231, 
+        "joy": 0.154733, 
+        "sadness": 0.171945, 
+        "fear": 0.070747, 
+        "disgust": 0.078453
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.565923, 
+      "text": "Carter Page", 
+      "emotion": {
+        "anger": 0.03736, 
+        "joy": 0.272875, 
+        "sadness": 0.345508, 
+        "fear": 0.081506, 
+        "disgust": 0.198981
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.506789, 
+      "text": "Rosenstein", 
+      "emotion": {
+        "anger": 0.038943, 
+        "joy": 0.295671, 
+        "sadness": 0.101507, 
+        "fear": 0.199787, 
+        "disgust": 0.09938
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.481108, 
+      "text": "charges", 
+      "emotion": {
+        "anger": 0.272114, 
+        "joy": 0.037043, 
+        "sadness": 0.404197, 
+        "fear": 0.014357, 
+        "disgust": 0.118913
+      }, 
+      "sentiment": {
+        "score": -0.588679, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.469623, 
+      "text": "Friday", 
+      "emotion": {
+        "anger": 0.208445, 
+        "joy": 0.303051, 
+        "sadness": 0.188055, 
+        "fear": 0.283791, 
+        "disgust": 0.061935
+      }, 
+      "sentiment": {
+        "score": -0.277611, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.455044, 
+      "text": "testimony", 
+      "emotion": {
+        "anger": 0.129087, 
+        "joy": 0.290908, 
+        "sadness": 0.209798, 
+        "fear": 0.152169, 
+        "disgust": 0.098027
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.447138, 
+      "text": "team", 
+      "emotion": {
+        "anger": 0.056767, 
+        "joy": 0.115702, 
+        "sadness": 0.304789, 
+        "fear": 0.090124, 
+        "disgust": 0.229101
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.446945, 
+      "text": "reins", 
+      "emotion": {
+        "anger": 0.108215, 
+        "joy": 0.140726, 
+        "sadness": 0.166655, 
+        "fear": 0.15829, 
+        "disgust": 0.274
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.445767, 
+      "text": "flurry", 
+      "emotion": {
+        "anger": 0.042735, 
+        "joy": 0.71518, 
+        "sadness": 0.021473, 
+        "fear": 0.162396, 
+        "disgust": 0.076644
+      }, 
+      "sentiment": {
+        "score": -0.642271, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.444364, 
+      "text": "spokesman", 
+      "emotion": {
+        "anger": 0.05496, 
+        "joy": 0.214737, 
+        "sadness": 0.109508, 
+        "fear": 0.274543, 
+        "disgust": 0.136686
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.442893, 
+      "text": "subpoenas", 
+      "emotion": {
+        "anger": 0.10156, 
+        "joy": 0.103737, 
+        "sadness": 0.26409, 
+        "fear": 0.054926, 
+        "disgust": 0.068382
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.441371, 
+      "text": "obstruction", 
+      "emotion": {
+        "anger": 0.175853, 
+        "joy": 0.428525, 
+        "sadness": 0.307025, 
+        "fear": 0.021038, 
+        "disgust": 0.123542
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.436774, 
+      "text": "Russians", 
+      "emotion": {
+        "anger": 0.059505, 
+        "joy": 0.306994, 
+        "sadness": 0.166371, 
+        "fear": 0.331223, 
+        "disgust": 0.225663
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.436531, 
+      "text": "comment", 
+      "emotion": {
+        "anger": 0.058813, 
+        "joy": 0.35559, 
+        "sadness": 0.109216, 
+        "fear": 0.310659, 
+        "disgust": 0.149961
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.433906, 
+      "text": "handful", 
+      "emotion": {
+        "anger": 0.10156, 
+        "joy": 0.103737, 
+        "sadness": 0.26409, 
+        "fear": 0.054926, 
+        "disgust": 0.068382
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.432622, 
+      "text": "Plans", 
+      "emotion": {
+        "anger": 0.24398, 
+        "joy": 0.195107, 
+        "sadness": 0.219888, 
+        "fear": 0.31376, 
+        "disgust": 0.076367
+      }, 
+      "sentiment": {
+        "score": -0.277611, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.432456, 
+      "text": "sources", 
+      "emotion": {
+        "anger": 0.149767, 
+        "joy": 0.119997, 
+        "sadness": 0.457345, 
+        "fear": 0.305583, 
+        "disgust": 0.002069
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.430289, 
+      "text": "custody", 
+      "emotion": {
+        "anger": 0.24398, 
+        "joy": 0.195107, 
+        "sadness": 0.219888, 
+        "fear": 0.31376, 
+        "disgust": 0.076367
+      }, 
+      "sentiment": {
+        "score": -0.277611, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.429752, 
+      "text": "approval", 
+      "emotion": {
+        "anger": 0.107872, 
+        "joy": 0.155577, 
+        "sadness": 0.09433, 
+        "fear": 0.11214, 
+        "disgust": 0.050423
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.429692, 
+      "text": "lawyers", 
+      "emotion": {
+        "anger": 0.049487, 
+        "joy": 0.236494, 
+        "sadness": 0.305969, 
+        "fear": 0.10002, 
+        "disgust": 0.028655
+      }, 
+      "sentiment": {
+        "score": 0.475681, 
+        "label": "positive"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.057902, 
+        "joy": 0.252473, 
+        "sadness": 0.15485, 
+        "fear": 0.229072, 
+        "disgust": 0.122595
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": 0.435367, 
+        "label": "positive"
+      }, 
+      "text": "Mueller", 
+      "relevance": 0.8798, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.202669, 
+        "joy": 0.043555, 
+        "sadness": 0.129289, 
+        "fear": 0.020381, 
+        "disgust": 0.17541
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.660423, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.038943, 
+        "joy": 0.295671, 
+        "sadness": 0.101507, 
+        "fear": 0.199787, 
+        "disgust": 0.09938
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.610979, 
+        "label": "positive"
+      }, 
+      "text": "special counsel", 
+      "relevance": 0.536916, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.059505, 
+        "joy": 0.306994, 
+        "sadness": 0.166371, 
+        "fear": 0.331223, 
+        "disgust": 0.225663
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump Tower", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Company", 
+          "Building"
+        ], 
+        "name": "Trump Tower (Tampa)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Trump_Tower_(Tampa)"
+      }, 
+      "relevance": 0.514124, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.03736, 
+        "joy": 0.272875, 
+        "sadness": 0.345508, 
+        "fear": 0.081506, 
+        "disgust": 0.198981
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.439256, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.254618, 
+        "joy": 0.097195, 
+        "sadness": 0.142455, 
+        "fear": 0.064805, 
+        "disgust": 0.353851
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "James Comey", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "James Comey", 
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Comey"
+      }, 
+      "relevance": 0.418993, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.01833, 
+        "joy": 0.507978, 
+        "sadness": 0.169583, 
+        "fear": 0.157967, 
+        "disgust": 0.11384
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.610979, 
+        "label": "positive"
+      }, 
+      "text": "Russia", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.398912, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.038943, 
+        "joy": 0.295671, 
+        "sadness": 0.101507, 
+        "fear": 0.199787, 
+        "disgust": 0.09938
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Rosenstein", 
+      "relevance": 0.357657, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.086854, 
+        "joy": 0.14698, 
+        "sadness": 0.199698, 
+        "fear": 0.10302, 
+        "disgust": 0.199143
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Paul Manafort", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Paul J. Manafort", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_J._Manafort"
+      }, 
+      "relevance": 0.357532, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.122331, 
+        "joy": 0.376168, 
+        "sadness": 0.137096, 
+        "fear": 0.200122, 
+        "disgust": 0.102167
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "DC federal court", 
+      "relevance": 0.351367, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.086373, 
+        "joy": 0.415012, 
+        "sadness": 0.152107, 
+        "fear": 0.207771, 
+        "disgust": 0.115174
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "White House", 
+      "relevance": 0.265276, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.070814, 
+        "joy": 0.043849, 
+        "sadness": 0.147067, 
+        "fear": 0.028539, 
+        "disgust": 0.107579
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CNN", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "RadioNetwork", 
+          "TVNetwork"
+        ], 
+        "name": "CNN", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      }, 
+      "relevance": 0.262194, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.06531, 
+        "joy": 0.100208, 
+        "sadness": 0.180276, 
+        "fear": 0.07094, 
+        "disgust": 0.146363
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Andrew Weissmann", 
+      "relevance": 0.252878, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.175853, 
+        "joy": 0.428525, 
+        "sadness": 0.307025, 
+        "fear": 0.021038, 
+        "disgust": 0.123542
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President", 
+      "relevance": 0.244713, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.03736, 
+        "joy": 0.272875, 
+        "sadness": 0.345508, 
+        "fear": 0.081506, 
+        "disgust": 0.198981
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Carter Page", 
+      "relevance": 0.243886, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.06531, 
+        "joy": 0.100208, 
+        "sadness": 0.180276, 
+        "fear": 0.07094, 
+        "disgust": 0.146363
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "prosecutor", 
+      "relevance": 0.243703, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095519, 
+        "joy": 0.245952, 
+        "sadness": 0.343223, 
+        "fear": 0.132676, 
+        "disgust": 0.264371
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.236543, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.107136, 
+        "joy": 0.568815, 
+        "sadness": 0.218569, 
+        "fear": 0.042537, 
+        "disgust": 0.101232
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "official", 
+      "relevance": 0.2363, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.283082, 
+        "joy": 0.084274, 
+        "sadness": 0.156344, 
+        "fear": 0.03677, 
+        "disgust": 0.217591
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Director", 
+      "relevance": 0.227694, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.042558, 
+        "joy": 0.13525, 
+        "sadness": 0.233785, 
+        "fear": 0.103287, 
+        "disgust": 0.305139
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "chairman", 
+      "relevance": 0.227408, 
+      "type": "JobTitle"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.cnn.com/2017/10/27/politics/first-charges-mueller-investigation/index.html"
+}

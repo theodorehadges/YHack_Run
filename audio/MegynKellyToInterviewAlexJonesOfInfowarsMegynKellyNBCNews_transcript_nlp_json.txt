@@ -1,0 +1,848 @@
+{
+  "usage": {
+    "text_characters": 1825, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.963151, 
+      "text": "fact sandy hook", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.962205, 
+      "text": "digital exclusives thanks", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.953413, 
+      "text": "point blank range", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.952247, 
+      "text": "great global battle", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.94589, 
+      "text": "battle black lives", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.927161, 
+      "text": "animal human hybrids", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.92482, 
+      "text": "NBC news vans", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.923994, 
+      "text": "story bigger Kelly", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.915554, 
+      "text": "big announcement funny", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.889912, 
+      "text": "important stuff", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.792355, 
+      "text": "paranoid man", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.785823, 
+      "text": "paranoid person", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.755497, 
+      "text": "Saudi Arabia", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.754404, 
+      "text": "sandy looks", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.751357, 
+      "text": "evil wards", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.749841, 
+      "text": "planetary scale", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.743634, 
+      "text": "criminal elements", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.738671, 
+      "text": "death people", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.737398, 
+      "text": "son Dodge", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.7352, 
+      "text": "job means", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.734886, 
+      "text": "new count", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.726044, 
+      "text": "latest interviews", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.723984, 
+      "text": "add button", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.597398, 
+      "text": "debates", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.572463, 
+      "text": "authoritarianism", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571106, 
+      "text": "Iraqis", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.569462, 
+      "text": "HESITATION", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.567536, 
+      "text": "media", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.555576, 
+      "text": "conspiracies", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.551758, 
+      "text": "sanctions", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.549452, 
+      "text": "controversies", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.548218, 
+      "text": "angles", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.547602, 
+      "text": "Newtown", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.545814, 
+      "text": "Iraq", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.54289, 
+      "text": "humanity", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541726, 
+      "text": "humanities", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541238, 
+      "text": "future", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541201, 
+      "text": "species", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541181, 
+      "text": "devil", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541032, 
+      "text": "America", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.540863, 
+      "text": "house", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.54073, 
+      "text": "street", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.540318, 
+      "text": "government", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.540311, 
+      "text": "difference", 
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.540086, 
+      "text": "advocates", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.539617, 
+      "text": "parents", 
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.539569, 
+      "text": "children", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.508955, 
+        "label": "negative"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.33, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.508955, 
+        "label": "negative"
+      }, 
+      "text": "Saudi Arabia", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction", 
+          "Kingdom", 
+          "MilitaryPost", 
+          "CityTown", 
+          "Country"
+        ], 
+        "name": "Saudi Arabia", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Saudi_Arabia"
+      }, 
+      "relevance": 0.33, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.56278, 
+        "joy": 0.011705, 
+        "sadness": 0.44636, 
+        "fear": 0.11211, 
+        "disgust": 0.234315
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.508955, 
+        "label": "negative"
+      }, 
+      "text": "Iraq", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction", 
+          "MilitaryPost", 
+          "CityTown", 
+          "Country"
+        ], 
+        "name": "Iraq", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Iraq"
+      }, 
+      "relevance": 0.33, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.61789, 
+        "label": "positive"
+      }, 
+      "text": "Dodge", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.61789, 
+        "label": "positive"
+      }, 
+      "text": "Kelly", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.076297, 
+        "joy": 0.524016, 
+        "sadness": 0.108047, 
+        "fear": 0.036316, 
+        "disgust": 0.38063
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.61789, 
+        "label": "positive"
+      }, 
+      "text": "NBC", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "Company", 
+          "FilmDistributor", 
+          "TVNetwork", 
+          "TVWriter", 
+          "TelevisionStation"
+        ], 
+        "name": "NBC", 
+        "dbpedia_resource": "http://dbpedia.org/resource/NBC"
+      }, 
+      "relevance": 0.33, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "relevance": 0.33, 
+      "text": "thirty years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ]
+}

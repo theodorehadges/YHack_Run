@@ -1,0 +1,1120 @@
+{
+  "usage": {
+    "text_characters": 10641, 
+    "features": 2, 
+    "text_units": 2
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.914401, 
+      "text": "GOP senators", 
+      "emotion": {
+        "anger": 0.500282, 
+        "joy": 0.47124, 
+        "sadness": 0.201671, 
+        "fear": 0.03391, 
+        "disgust": 0.648598
+      }, 
+      "sentiment": {
+        "score": -0.309912, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.737045, 
+      "text": "GOP tax push", 
+      "emotion": {
+        "anger": 0.461055, 
+        "joy": 0.14558, 
+        "sadness": 0.210242, 
+        "fear": 0.016167, 
+        "disgust": 0.421073
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.445433, 
+      "text": "GOP leaders", 
+      "emotion": {
+        "anger": 0.39487, 
+        "joy": 0.097725, 
+        "sadness": 0.178527, 
+        "fear": 0.055461, 
+        "disgust": 0.541029
+      }, 
+      "sentiment": {
+        "score": -0.596239, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.442315, 
+      "text": "Senate GOP Conference", 
+      "emotion": {
+        "anger": 0.384388, 
+        "joy": 0.094735, 
+        "sadness": 0.308816, 
+        "fear": 0.036893, 
+        "disgust": 0.279932
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.381172, 
+      "text": "McConnell Top GOP", 
+      "emotion": {
+        "anger": 0.264614, 
+        "joy": 0.058508, 
+        "sadness": 0.216925, 
+        "fear": 0.040118, 
+        "disgust": 0.488302
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.349473, 
+      "text": "Harold Johnson GOP", 
+      "emotion": {
+        "anger": 0.27212, 
+        "joy": 0.118375, 
+        "sadness": 0.274929, 
+        "fear": 0.049009, 
+        "disgust": 0.275545
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.321457, 
+      "text": "GOP defection", 
+      "emotion": {
+        "anger": 0.159669, 
+        "joy": 0.052257, 
+        "sadness": 0.514171, 
+        "fear": 0.220802, 
+        "disgust": 0.23217
+      }, 
+      "sentiment": {
+        "score": -0.922505, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.31929, 
+      "text": "Susan Collins", 
+      "emotion": {
+        "anger": 0.202972, 
+        "joy": 0.49952, 
+        "sadness": 0.182178, 
+        "fear": 0.025712, 
+        "disgust": 0.675938
+      }, 
+      "sentiment": {
+        "score": -0.291066, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.312649, 
+      "text": "Daines Top GOP", 
+      "emotion": {
+        "anger": 0.2645, 
+        "joy": 0.04178, 
+        "sadness": 0.22756, 
+        "fear": 0.034386, 
+        "disgust": 0.554987
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.282867, 
+      "text": "Cruz Top GOP", 
+      "emotion": {
+        "anger": 0.584639, 
+        "joy": 0.011945, 
+        "sadness": 0.041016, 
+        "fear": 0.026187, 
+        "disgust": 0.599315
+      }, 
+      "sentiment": {
+        "score": -0.328758, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.282111, 
+      "text": "GOP leadership", 
+      "emotion": {
+        "anger": 0.175209, 
+        "joy": 0.053439, 
+        "sadness": 0.220455, 
+        "fear": 0.292012, 
+        "disgust": 0.152116
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.26257, 
+      "text": "Senate Finance Committee", 
+      "emotion": {
+        "anger": 0.307768, 
+        "joy": 0.196615, 
+        "sadness": 0.207128, 
+        "fear": 0.037048, 
+        "disgust": 0.365794
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.261465, 
+      "text": "Angus King", 
+      "emotion": {
+        "anger": 0.461055, 
+        "joy": 0.14558, 
+        "sadness": 0.210242, 
+        "fear": 0.016167, 
+        "disgust": 0.421073
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.236063, 
+      "text": "Senate tax", 
+      "emotion": {
+        "anger": 0.221135, 
+        "joy": 0.022419, 
+        "sadness": 0.092143, 
+        "fear": 0.013879, 
+        "disgust": 0.65723
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.234079, 
+        "joy": 0.472707, 
+        "sadness": 0.19559, 
+        "fear": 0.047861, 
+        "disgust": 0.576002
+      }, 
+      "count": 24, 
+      "sentiment": {
+        "score": -0.424, 
+        "label": "negative"
+      }, 
+      "text": "GOP", 
+      "relevance": 0.840704, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.234079, 
+        "joy": 0.472707, 
+        "sadness": 0.19559, 
+        "fear": 0.047861, 
+        "disgust": 0.576002
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.487297, 
+        "label": "negative"
+      }, 
+      "text": "GOP", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalParty"
+        ], 
+        "name": "Republican Party (United States)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+      }, 
+      "relevance": 0.492028, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.143364, 
+        "joy": 0.122648, 
+        "sadness": 0.168573, 
+        "fear": 0.043494, 
+        "disgust": 0.178945
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "bill Trump", 
+      "relevance": 0.425853, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.240748, 
+        "joy": 0.088633, 
+        "sadness": 0.284809, 
+        "fear": 0.03405, 
+        "disgust": 0.436583
+      }, 
+      "count": 13, 
+      "sentiment": {
+        "score": -0.182207, 
+        "label": "negative"
+      }, 
+      "text": "Senate", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody", 
+          "Legislature"
+        ], 
+        "name": "United States Senate", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      }, 
+      "relevance": 0.393112, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.137783, 
+        "joy": 0.172743, 
+        "sadness": 0.339931, 
+        "fear": 0.080501, 
+        "disgust": 0.203916
+      }, 
+      "count": 9, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Mitch McConnell", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Mitch McConnell", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Mitch_McConnell"
+      }, 
+      "relevance": 0.35222, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sen. Susan Collins Susan Margaret Collins Susan Collins", 
+      "relevance": 0.341808, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Rob Portman Robert", 
+      "relevance": 0.331817, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.196737, 
+        "joy": 0.152644, 
+        "sadness": 0.180772, 
+        "fear": 0.009764, 
+        "disgust": 0.621184
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.643832, 
+        "label": "negative"
+      }, 
+      "text": "John Cornyn John Cornyn Susan Collins", 
+      "relevance": 0.295119, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.364369, 
+        "joy": 0.078297, 
+        "sadness": 0.038204, 
+        "fear": 0.011648, 
+        "disgust": 0.663399
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.222625, 
+        "label": "negative"
+      }, 
+      "text": "bill Collins", 
+      "relevance": 0.275779, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.634816, 
+        "joy": 0.083235, 
+        "sadness": 0.688803, 
+        "fear": 0.676928, 
+        "disgust": 0.701163
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0201987, 
+        "label": "positive"
+      }, 
+      "text": "bill Cruz", 
+      "relevance": 0.263024, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Harold Johnson GOP", 
+      "relevance": 0.240352, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.104612, 
+        "joy": 0.11263, 
+        "sadness": 0.169271, 
+        "fear": 0.114549, 
+        "disgust": 0.154623
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Senate Finance Committee", 
+      "relevance": 0.238858, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.263606, 
+        "joy": 0.074223, 
+        "sadness": 0.230665, 
+        "fear": 0.035723, 
+        "disgust": 0.705259
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.415448, 
+        "label": "negative"
+      }, 
+      "text": "Angus King", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Governor"
+        ], 
+        "name": "Angus King", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Angus_King"
+      }, 
+      "relevance": 0.237271, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.153641, 
+        "joy": 0.338949, 
+        "sadness": 0.067097, 
+        "fear": 0.158902, 
+        "disgust": 0.08503
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.230788, 
+        "label": "positive"
+      }, 
+      "text": "Corker", 
+      "relevance": 0.227576, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.119416, 
+        "joy": 0.55425, 
+        "sadness": 0.149271, 
+        "fear": 0.422683, 
+        "disgust": 0.480686
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.422803, 
+        "label": "negative"
+      }, 
+      "text": "Sen. Bill Nelson Clarence", 
+      "relevance": 0.212948, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.323423, 
+        "joy": 0.148247, 
+        "sadness": 0.148128, 
+        "fear": 0.334426, 
+        "disgust": 0.107872
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.559536, 
+        "label": "negative"
+      }, 
+      "text": "Johnson", 
+      "relevance": 0.212857, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.195692, 
+        "joy": 0.054906, 
+        "sadness": 0.110083, 
+        "fear": 0.055115, 
+        "disgust": 0.343898
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.5983, 
+        "label": "negative"
+      }, 
+      "text": "John Thune", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "John Thune", 
+        "dbpedia_resource": "http://dbpedia.org/resource/John_Thune"
+      }, 
+      "relevance": 0.209275, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.307768, 
+        "joy": 0.196615, 
+        "sadness": 0.207128, 
+        "fear": 0.037048, 
+        "disgust": 0.365794
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.424, 
+        "label": "negative"
+      }, 
+      "text": "Jeff Flake", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Jeff Flake", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Jeff_Flake"
+      }, 
+      "relevance": 0.209249, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.279542, 
+        "joy": 0.068552, 
+        "sadness": 0.196168, 
+        "fear": 0.024405, 
+        "disgust": 0.343795
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Bob Corker Robert", 
+      "relevance": 0.19241, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.080346, 
+        "joy": 0.032279, 
+        "sadness": 0.127826, 
+        "fear": 0.049484, 
+        "disgust": 0.024861
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Orrin Grant Hatch Susan Collins", 
+      "relevance": 0.190743, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.13111, 
+        "joy": 0.123737, 
+        "sadness": 0.200389, 
+        "fear": 0.041279, 
+        "disgust": 0.093052
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Mitch McConnell Addison", 
+      "relevance": 0.190136, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.189653, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.260398, 
+        "joy": 0.099782, 
+        "sadness": 0.226591, 
+        "fear": 0.061064, 
+        "disgust": 0.627507
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.469814, 
+        "label": "negative"
+      }, 
+      "text": "McConnell", 
+      "relevance": 0.187661, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Susan Collins", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "BoardMember", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Susan Collins", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Susan_Collins"
+      }, 
+      "relevance": 0.185943, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.27212, 
+        "joy": 0.118375, 
+        "sadness": 0.274929, 
+        "fear": 0.049009, 
+        "disgust": 0.275545
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.404885, 
+        "label": "negative"
+      }, 
+      "text": "Phillips Corker Susan Collins", 
+      "relevance": 0.178699, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.493642, 
+        "joy": 0.248155, 
+        "sadness": 0.173227, 
+        "fear": 0.01145, 
+        "disgust": 0.24984
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.388702, 
+        "label": "negative"
+      }, 
+      "text": "chairman", 
+      "relevance": 0.17711, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.074488, 
+        "joy": 0.0973, 
+        "sadness": 0.105865, 
+        "fear": 0.360893, 
+        "disgust": 0.118665
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.371319, 
+        "label": "negative"
+      }, 
+      "text": "Roy Moore", 
+      "relevance": 0.167566, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090923, 
+        "joy": 0.242045, 
+        "sadness": 0.169391, 
+        "fear": 0.070758, 
+        "disgust": 0.15361
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Pat Toomey Patrick", 
+      "relevance": 0.163961, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.035488, 
+        "joy": 0.726189, 
+        "sadness": 0.031622, 
+        "fear": 0.026799, 
+        "disgust": 0.093072
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Scott", 
+      "relevance": 0.159705, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.119841, 
+        "joy": 0.06734, 
+        "sadness": 0.126051, 
+        "fear": 0.036255, 
+        "disgust": 0.266248
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.5983, 
+        "label": "negative"
+      }, 
+      "text": "Daines", 
+      "relevance": 0.159308, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.16575, 
+        "joy": 0.043579, 
+        "sadness": 0.299642, 
+        "fear": 0.231432, 
+        "disgust": 0.095384
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.765272, 
+        "label": "negative"
+      }, 
+      "text": "Toomey", 
+      "relevance": 0.151192, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.107525, 
+        "joy": 0.188787, 
+        "sadness": 0.182819, 
+        "fear": 0.051484, 
+        "disgust": 0.172927
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.241505, 
+        "label": "negative"
+      }, 
+      "text": "U.S.", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.148308, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.076642, 
+        "joy": 0.063894, 
+        "sadness": 0.0649, 
+        "fear": 0.111728, 
+        "disgust": 0.07052
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.379128, 
+        "label": "negative"
+      }, 
+      "text": "Joseph Toomey", 
+      "relevance": 0.145767, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.194605, 
+        "joy": 0.162772, 
+        "sadness": 0.149042, 
+        "fear": 0.184025, 
+        "disgust": 0.385621
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.476483, 
+        "label": "negative"
+      }, 
+      "text": "Colbert", 
+      "relevance": 0.145589, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.584639, 
+        "joy": 0.011945, 
+        "sadness": 0.041016, 
+        "fear": 0.026187, 
+        "disgust": 0.599315
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.328758, 
+        "label": "negative"
+      }, 
+      "text": "Sen. Lisa Murkowski", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Lisa Murkowski", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Lisa_Murkowski"
+      }, 
+      "relevance": 0.145577, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.194605, 
+        "joy": 0.162772, 
+        "sadness": 0.149042, 
+        "fear": 0.184025, 
+        "disgust": 0.385621
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.476483, 
+        "label": "negative"
+      }, 
+      "text": "FCC", 
+      "relevance": 0.14521, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.169956, 
+        "joy": 0.071005, 
+        "sadness": 0.445588, 
+        "fear": 0.05649, 
+        "disgust": 0.39653
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.558181, 
+        "label": "negative"
+      }, 
+      "text": "Congressional Budget Office", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ], 
+        "name": "Congressional Budget Office", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Congressional_Budget_Office"
+      }, 
+      "relevance": 0.144505, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.267361, 
+        "joy": 0.159995, 
+        "sadness": 0.286234, 
+        "fear": 0.094808, 
+        "disgust": 0.184694
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.408005, 
+        "label": "negative"
+      }, 
+      "text": "Steve Daines", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Steve Daines", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Daines"
+      }, 
+      "relevance": 0.144147, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ron Johnson Ronald", 
+      "relevance": 0.144013, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.618565, 
+        "joy": 0.039039, 
+        "sadness": 0.023737, 
+        "fear": 0.016194, 
+        "disgust": 0.562424
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "senator", 
+      "relevance": 0.140617, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.195692, 
+        "joy": 0.054906, 
+        "sadness": 0.110083, 
+        "fear": 0.055115, 
+        "disgust": 0.343898
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.5983, 
+        "label": "negative"
+      }, 
+      "text": "Pence", 
+      "relevance": 0.138332, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.325695, 
+        "joy": 0.092124, 
+        "sadness": 0.214983, 
+        "fear": 0.024038, 
+        "disgust": 0.56187
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.497266, 
+        "label": "negative"
+      }, 
+      "text": "Cruz", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.138135, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.20369, 
+        "joy": 0.083309, 
+        "sadness": 0.244256, 
+        "fear": 0.029091, 
+        "disgust": 0.592748
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.365244, 
+        "label": "negative"
+      }, 
+      "text": "Sen. Ted Cruz Rafael", 
+      "relevance": 0.13709, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.13608, 
+        "joy": 0.511426, 
+        "sadness": 0.199608, 
+        "fear": 0.103647, 
+        "disgust": 0.129961
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.428722, 
+        "label": "negative"
+      }, 
+      "text": "Maine", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Maine", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Maine"
+      }, 
+      "relevance": 0.136744, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.252935, 
+        "joy": 0.09415, 
+        "sadness": 0.206692, 
+        "fear": 0.059105, 
+        "disgust": 0.58712
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.510001, 
+        "label": "negative"
+      }, 
+      "text": "Finance Committee", 
+      "relevance": 0.135878, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "The Christian Science Monitor", 
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner", 
+          "Newspaper"
+        ], 
+        "name": "The Christian Science Monitor", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Christian_Science_Monitor"
+      }, 
+      "relevance": 0.135002, 
+      "type": "PrintMedia"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://thehill.com/homenews/senate/362924-how-four-gop-senators-guided-a-tax-bill-victory-behind-the-scenes"
+}

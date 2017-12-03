@@ -1,0 +1,985 @@
+{
+  "usage": {
+    "text_characters": 2118, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.913867, 
+      "text": "New York Fed", 
+      "emotion": {
+        "anger": 0.201523, 
+        "joy": 0.447603, 
+        "sadness": 0.219976, 
+        "fear": 0.023513, 
+        "disgust": 0.031953
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.65291, 
+      "text": "percent", 
+      "emotion": {
+        "anger": 0.026916, 
+        "joy": 0.606034, 
+        "sadness": 0.308362, 
+        "fear": 0.141993, 
+        "disgust": 0.031712
+      }, 
+      "sentiment": {
+        "score": -0.0240881, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.646786, 
+      "text": "percent growth", 
+      "emotion": {
+        "anger": 0.013192, 
+        "joy": 0.496765, 
+        "sadness": 0.208501, 
+        "fear": 0.106072, 
+        "disgust": 0.038186
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.602293, 
+      "text": "percent growth forecast", 
+      "emotion": {
+        "anger": 0.011614, 
+        "joy": 0.582008, 
+        "sadness": 0.276773, 
+        "fear": 0.095669, 
+        "disgust": 0.007732
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.59532, 
+      "text": "percent growth rate", 
+      "emotion": {
+        "anger": 0.014241, 
+        "joy": 0.321437, 
+        "sadness": 0.120391, 
+        "fear": 0.105239, 
+        "disgust": 0.097419
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.57095, 
+      "text": "York Fed Nowcast", 
+      "emotion": {
+        "anger": 0.230804, 
+        "joy": 0.288507, 
+        "sadness": 0.282458, 
+        "fear": 0.02995, 
+        "disgust": 0.074353
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495774, 
+      "text": "fourth-quarter GDP growth", 
+      "emotion": {
+        "anger": 0.032714, 
+        "joy": 0.42815, 
+        "sadness": 0.342145, 
+        "fear": 0.072572, 
+        "disgust": 0.011242
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.453676, 
+      "text": "New York Federal", 
+      "emotion": {
+        "anger": 0.114128, 
+        "joy": 0.069272, 
+        "sadness": 0.125185, 
+        "fear": 0.070516, 
+        "disgust": 0.480808
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.451468, 
+      "text": "gross domestic product", 
+      "emotion": {
+        "anger": 0.114128, 
+        "joy": 0.069272, 
+        "sadness": 0.125185, 
+        "fear": 0.070516, 
+        "disgust": 0.480808
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.42731, 
+      "text": "NABE survey forecast", 
+      "emotion": {
+        "anger": 0.035185, 
+        "joy": 0.311924, 
+        "sadness": 0.390477, 
+        "fear": 0.128823, 
+        "disgust": 0.024607
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.427064, 
+      "text": "new home sales", 
+      "emotion": {
+        "anger": 0.04134, 
+        "joy": 0.572814, 
+        "sadness": 0.117506, 
+        "fear": 0.152254, 
+        "disgust": 0.009285
+      }, 
+      "sentiment": {
+        "score": 0.378913, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.419086, 
+      "text": "recent economic figures", 
+      "emotion": {
+        "anger": 0.142475, 
+        "joy": 0.277204, 
+        "sadness": 0.253251, 
+        "fear": 0.305872, 
+        "disgust": 0.079777
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.397854, 
+      "text": "older GDPNOW tool", 
+      "emotion": {
+        "anger": 0.194561, 
+        "joy": 0.33606, 
+        "sadness": 0.305675, 
+        "fear": 0.037563, 
+        "disgust": 0.083503
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.363456, 
+      "text": "economy", 
+      "emotion": {
+        "anger": 0.089448, 
+        "joy": 0.596901, 
+        "sadness": 0.604331, 
+        "fear": 0.25389, 
+        "disgust": 0.036687
+      }, 
+      "sentiment": {
+        "score": -0.187252, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.362001, 
+      "text": "Donald Trump", 
+      "emotion": {
+        "anger": 0.038481, 
+        "joy": 0.714885, 
+        "sadness": 0.145629, 
+        "fear": 0.110161, 
+        "disgust": 0.023334
+      }, 
+      "sentiment": {
+        "score": 0.436917, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.358331, 
+      "text": "Trump administration", 
+      "emotion": {
+        "anger": 0.044965, 
+        "joy": 0.434606, 
+        "sadness": 0.312228, 
+        "fear": 0.076897, 
+        "disgust": 0.086727
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.35772, 
+      "text": "Atlanta Fed", 
+      "emotion": {
+        "anger": 0.194561, 
+        "joy": 0.33606, 
+        "sadness": 0.305675, 
+        "fear": 0.037563, 
+        "disgust": 0.083503
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.348619, 
+      "text": "Trump\u2019s prediction", 
+      "emotion": {
+        "anger": 0.009449, 
+        "joy": 0.48567, 
+        "sadness": 0.313207, 
+        "fear": 0.096925, 
+        "disgust": 0.01218
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.348321, 
+      "text": "Nowcasting Report", 
+      "emotion": {
+        "anger": 0.092351, 
+        "joy": 0.02337, 
+        "sadness": 0.110909, 
+        "fear": 0.09177, 
+        "disgust": 0.077114
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.347461, 
+      "text": "recent quarter", 
+      "emotion": {
+        "anger": 0.214208, 
+        "joy": 0.14724, 
+        "sadness": 0.165509, 
+        "fear": 0.174082, 
+        "disgust": 0.054411
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.331899, 
+      "text": "highest point", 
+      "emotion": {
+        "anger": 0.227846, 
+        "joy": 0.328385, 
+        "sadness": 0.285214, 
+        "fear": 0.185562, 
+        "disgust": 0.080875
+      }, 
+      "sentiment": {
+        "score": 0.522111, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.331529, 
+      "text": "Reserve\u2019s tool", 
+      "emotion": {
+        "anger": 0.114128, 
+        "joy": 0.069272, 
+        "sadness": 0.125185, 
+        "fear": 0.070516, 
+        "disgust": 0.480808
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.327694, 
+      "text": "Low inflation", 
+      "emotion": {
+        "anger": 0.090106, 
+        "joy": 0.008738, 
+        "sadness": 0.30948, 
+        "fear": 0.190266, 
+        "disgust": 0.527788
+      }, 
+      "sentiment": {
+        "score": -0.528237, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.327315, 
+      "text": "high reading", 
+      "emotion": {
+        "anger": 0.235818, 
+        "joy": 0.429277, 
+        "sadness": 0.051816, 
+        "fear": 0.08062, 
+        "disgust": 0.275317
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.323419, 
+      "text": "good news", 
+      "emotion": {
+        "anger": 0.023554, 
+        "joy": 0.553888, 
+        "sadness": 0.317349, 
+        "fear": 0.060035, 
+        "disgust": 0.022697
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.321894, 
+      "text": "real-time reading", 
+      "emotion": {
+        "anger": 0.142475, 
+        "joy": 0.277204, 
+        "sadness": 0.253251, 
+        "fear": 0.305872, 
+        "disgust": 0.079777
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.319864, 
+      "text": "economic output", 
+      "emotion": {
+        "anger": 0.142475, 
+        "joy": 0.277204, 
+        "sadness": 0.253251, 
+        "fear": 0.305872, 
+        "disgust": 0.079777
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.317156, 
+      "text": "Obama administration", 
+      "emotion": {
+        "anger": 0.044965, 
+        "joy": 0.434606, 
+        "sadness": 0.312228, 
+        "fear": 0.076897, 
+        "disgust": 0.086727
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.316922, 
+      "text": "National Association", 
+      "emotion": {
+        "anger": 0.014241, 
+        "joy": 0.321437, 
+        "sadness": 0.120391, 
+        "fear": 0.105239, 
+        "disgust": 0.097419
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.316824, 
+      "text": "Business Economics", 
+      "emotion": {
+        "anger": 0.014241, 
+        "joy": 0.321437, 
+        "sadness": 0.120391, 
+        "fear": 0.105239, 
+        "disgust": 0.097419
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.315094, 
+      "text": "consecutive quarters", 
+      "emotion": {
+        "anger": 0.007828, 
+        "joy": 0.346464, 
+        "sadness": 0.317033, 
+        "fear": 0.118998, 
+        "disgust": 0.004728
+      }, 
+      "sentiment": {
+        "score": -0.260062, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.312986, 
+      "text": "U.S. government", 
+      "emotion": {
+        "anger": 0.108422, 
+        "joy": 0.182145, 
+        "sadness": 0.099072, 
+        "fear": 0.327582, 
+        "disgust": 0.05038
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.310621, 
+      "text": "percentage point", 
+      "emotion": {
+        "anger": 0.23225, 
+        "joy": 0.116352, 
+        "sadness": 0.273648, 
+        "fear": 0.039778, 
+        "disgust": 0.052128
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.309954, 
+      "text": "latest figures", 
+      "emotion": {
+        "anger": 0.108422, 
+        "joy": 0.182145, 
+        "sadness": 0.099072, 
+        "fear": 0.327582, 
+        "disgust": 0.05038
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.309433, 
+      "text": "real possibility", 
+      "emotion": {
+        "anger": 0.116108, 
+        "joy": 0.266928, 
+        "sadness": 0.179025, 
+        "fear": 0.318742, 
+        "disgust": 0.08685
+      }, 
+      "sentiment": {
+        "score": 0.213698, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.27044, 
+      "text": "number", 
+      "emotion": {
+        "anger": 0.071701, 
+        "joy": 0.181702, 
+        "sadness": 0.603356, 
+        "fear": 0.087992, 
+        "disgust": 0.157342
+      }, 
+      "sentiment": {
+        "score": -0.528237, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.247882, 
+      "text": "Friday", 
+      "emotion": {
+        "anger": 0.043778, 
+        "joy": 0.535414, 
+        "sadness": 0.315578, 
+        "fear": 0.131129, 
+        "disgust": 0.016748
+      }, 
+      "sentiment": {
+        "score": 0.522111, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.246433, 
+      "text": "economists", 
+      "emotion": {
+        "anger": 0.016013, 
+        "joy": 0.286614, 
+        "sadness": 0.142935, 
+        "fear": 0.101803, 
+        "disgust": 0.098859
+      }, 
+      "sentiment": {
+        "score": -0.453944, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.227463, 
+      "text": "scorn", 
+      "emotion": {
+        "anger": 0.009449, 
+        "joy": 0.48567, 
+        "sadness": 0.313207, 
+        "fear": 0.096925, 
+        "disgust": 0.01218
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.223584, 
+      "text": "inventories", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.222844, 
+      "text": "forecasting", 
+      "emotion": {
+        "anger": 0.114128, 
+        "joy": 0.069272, 
+        "sadness": 0.125185, 
+        "fear": 0.070516, 
+        "disgust": 0.480808
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.221311, 
+      "text": "employment", 
+      "emotion": {
+        "anger": 0.023554, 
+        "joy": 0.553888, 
+        "sadness": 0.317349, 
+        "fear": 0.060035, 
+        "disgust": 0.022697
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.220971, 
+      "text": "message", 
+      "emotion": {
+        "anger": 0.063615, 
+        "joy": 0.561758, 
+        "sadness": 0.171079, 
+        "fear": 0.087007, 
+        "disgust": 0.008925
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.220465, 
+      "text": "country", 
+      "emotion": {
+        "anger": 0.044965, 
+        "joy": 0.434606, 
+        "sadness": 0.312228, 
+        "fear": 0.076897, 
+        "disgust": 0.086727
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.220252, 
+      "text": "signs", 
+      "emotion": {
+        "anger": 0.142575, 
+        "joy": 0.13192, 
+        "sadness": 0.644975, 
+        "fear": 0.122398, 
+        "disgust": 0.046537
+      }, 
+      "sentiment": {
+        "score": -0.752353, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.024908, 
+        "joy": 0.60646, 
+        "sadness": 0.224345, 
+        "fear": 0.154928, 
+        "disgust": 0.016245
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.436917, 
+        "label": "positive"
+      }, 
+      "text": "Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.854027, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.194582, 
+        "joy": 0.286257, 
+        "sadness": 0.24161, 
+        "fear": 0.026819, 
+        "disgust": 0.019104
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.77069, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York Federal Reserve", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "Company", 
+          "Facility", 
+          "Building"
+        ], 
+        "name": "Federal Reserve Bank of New York", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Reserve_Bank_of_New_York"
+      }, 
+      "relevance": 0.628367, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.027061, 
+        "joy": 0.353179, 
+        "sadness": 0.235189, 
+        "fear": 0.127112, 
+        "disgust": 0.060857
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.386803, 
+        "label": "positive"
+      }, 
+      "text": "NABE", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "National Association for Business Economics", 
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Association_for_Business_Economics"
+      }, 
+      "relevance": 0.538513, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.230804, 
+        "joy": 0.288507, 
+        "sadness": 0.282458, 
+        "fear": 0.02995, 
+        "disgust": 0.074353
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Nowcast", 
+      "relevance": 0.417929, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.044965, 
+        "joy": 0.434606, 
+        "sadness": 0.312228, 
+        "fear": 0.076897, 
+        "disgust": 0.086727
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Obama administration", 
+      "relevance": 0.388096, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.108422, 
+        "joy": 0.182145, 
+        "sadness": 0.099072, 
+        "fear": 0.327582, 
+        "disgust": 0.05038
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "U.S. government", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Federal government of the United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+      }, 
+      "relevance": 0.340792, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.038481, 
+        "joy": 0.714885, 
+        "sadness": 0.145629, 
+        "fear": 0.110161, 
+        "disgust": 0.023334
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.436917, 
+        "label": "positive"
+      }, 
+      "text": "president", 
+      "relevance": 0.330748, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.194561, 
+        "joy": 0.33606, 
+        "sadness": 0.305675, 
+        "fear": 0.037563, 
+        "disgust": 0.083503
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Atlanta", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.312229, 
+      "type": "Location"
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "three percent", 
+      "type": "Quantity", 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "3 percent", 
+      "type": "Quantity", 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "1.24 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "3.93 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "2.5 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "2.8 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "3.2 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "3.3 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "3.5 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.312229, 
+      "text": "3.9 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/economics/2017/12/02/booming-economy-new-york-fed-gdp-reading-3-9-percent/"
+}

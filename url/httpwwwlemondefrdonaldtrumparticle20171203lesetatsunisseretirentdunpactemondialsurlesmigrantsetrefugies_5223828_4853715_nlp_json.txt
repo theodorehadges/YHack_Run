@@ -1,0 +1,307 @@
+{
+  "usage": {
+    "text_characters": 3288, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.939275, 
+      "text": "Donald Trump"
+    }, 
+    {
+      "relevance": 0.892457, 
+      "text": "pacte mondial"
+    }, 
+    {
+      "relevance": 0.774279, 
+      "text": "nations unies"
+    }, 
+    {
+      "relevance": 0.705619, 
+      "text": "New York"
+    }, 
+    {
+      "relevance": 0.470013, 
+      "text": "politiques d\u2019immigration"
+    }, 
+    {
+      "relevance": 0.434049, 
+      "text": "am\u00e9ricain donald trump"
+    }, 
+    {
+      "relevance": 0.403495, 
+      "text": "gestion internationale"
+    }, 
+    {
+      "relevance": 0.38214, 
+      "text": "d\u2019un pacte mondial"
+    }, 
+    {
+      "relevance": 0.319627, 
+      "text": "politiques am\u00e9ricaines d\u2019immigration"
+    }, 
+    {
+      "relevance": 0.310882, 
+      "text": "retrait am\u00e9ricain d\u2019un"
+    }, 
+    {
+      "relevance": 0.310411, 
+      "text": "mission am\u00e9ricaine aupr\u00e8s"
+    }, 
+    {
+      "relevance": 0.306657, 
+      "text": "l\u2019administration trump"
+    }, 
+    {
+      "relevance": 0.305121, 
+      "text": "communiqu\u00e9 l\u2019ambassadrice am\u00e9ricaine"
+    }, 
+    {
+      "relevance": 0.302027, 
+      "text": "d\u00e9finition d\u2019un cadre"
+    }, 
+    {
+      "relevance": 0.299766, 
+      "text": "pr\u00e9d\u00e9cesseur barack obama"
+    }, 
+    {
+      "relevance": 0.295044, 
+      "text": "rapport annuel en\u00a02018"
+    }, 
+    {
+      "relevance": 0.282674, 
+      "text": "\u00ab\u00a0op\u00e9rations d\u2019\u00e9vacuation d\u2019urgence"
+    }, 
+    {
+      "relevance": 0.280239, 
+      "text": "souverainet\u00e9 am\u00e9ricaine.\u00a0\u00bb sous"
+    }, 
+    {
+      "relevance": 0.26024, 
+      "text": "seuls am\u00e9ricains\u00a0\u00bb"
+    }, 
+    {
+      "relevance": 0.249746, 
+      "text": "migrants victimes"
+    }, 
+    {
+      "relevance": 0.243979, 
+      "text": "\u00ab\u00a0Aucun pays"
+    }, 
+    {
+      "relevance": 0.236472, 
+      "text": "mouvements migratoires"
+    }, 
+    {
+      "relevance": 0.230222, 
+      "text": "Etats-Unis aupr\u00e8s"
+    }, 
+    {
+      "relevance": 0.226498, 
+      "text": "Le pays"
+    }, 
+    {
+      "relevance": 0.224325, 
+      "text": "pays europ\u00e9ens"
+    }, 
+    {
+      "relevance": 0.22356, 
+      "text": "Nikki Haley"
+    }, 
+    {
+      "relevance": 0.221137, 
+      "text": "politique migratoire"
+    }, 
+    {
+      "relevance": 0.218136, 
+      "text": "samedi 2\u00a0d\u00e9cembre"
+    }, 
+    {
+      "relevance": 0.214083, 
+      "text": "juste incompatible"
+    }, 
+    {
+      "relevance": 0.21243, 
+      "text": "l\u2019Assembl\u00e9e g\u00e9n\u00e9rale"
+    }, 
+    {
+      "relevance": 0.212203, 
+      "text": "pr\u00e9sidence r\u00e9publicaine"
+    }, 
+    {
+      "relevance": 0.209271, 
+      "text": "l\u2019Union africaine"
+    }, 
+    {
+      "relevance": 0.208872, 
+      "text": "populations migrantes"
+    }, 
+    {
+      "relevance": 0.208297, 
+      "text": "principes \u00e9dict\u00e9s"
+    }, 
+    {
+      "relevance": 0.207771, 
+      "text": "meilleure mani\u00e8re"
+    }, 
+    {
+      "relevance": 0.202495, 
+      "text": "programme d\u2019action"
+    }
+  ], 
+  "entities": [
+    {
+      "relevance": 0.957507, 
+      "text": "l\u2019ONU", 
+      "type": "Organization", 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.761489, 
+      "type": "Location"
+    }, 
+    {
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Etats-Unis", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.709022, 
+      "type": "Location"
+    }, 
+    {
+      "relevance": 0.615057, 
+      "text": "Donald Trump", 
+      "type": "Person", 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.410715, 
+      "text": "des Nations unies", 
+      "type": "Organization", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.273126, 
+      "text": "l\u2019ONU", 
+      "type": "Person", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.359214, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.224204, 
+      "text": "Nations unies", 
+      "type": "Organization", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.222015, 
+      "text": "Nikki Haley", 
+      "type": "Person", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.121575, 
+      "text": "Barack Obama", 
+      "type": "Person", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.104272, 
+      "text": "Maison Blanche", 
+      "type": "Organization", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0913961, 
+      "text": "des Nations Unies", 
+      "type": "Organization", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Paris", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.0344419, 
+      "type": "Location"
+    }, 
+    {
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Libye", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.000406563, 
+      "type": "Location"
+    }
+  ], 
+  "language": "fr", 
+  "retrieved_url": "http://www.lemonde.fr/donald-trump/article/2017/12/03/les-etats-unis-se-retirent-d-un-pacte-mondial-sur-les-migrants-et-refugies_5223828_4853715.html"
+}

@@ -1,0 +1,1040 @@
+{
+  "usage": {
+    "text_characters": 2718, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.984789, 
+      "text": "delegates", 
+      "emotion": {
+        "anger": 0.098095, 
+        "joy": 0.665669, 
+        "sadness": 0.521156, 
+        "fear": 0.091559, 
+        "disgust": 0.081958
+      }, 
+      "sentiment": {
+        "score": -0.41782, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.975794, 
+      "text": "co-leader Frauke Petry", 
+      "emotion": {
+        "anger": 0.347896, 
+        "joy": 0.074829, 
+        "sadness": 0.339277, 
+        "fear": 0.227633, 
+        "disgust": 0.141117
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.967115, 
+      "text": "biggest non-government party", 
+      "emotion": {
+        "anger": 0.07437, 
+        "joy": 0.053532, 
+        "sadness": 0.200547, 
+        "fear": 0.141113, 
+        "disgust": 0.340442
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.961585, 
+      "text": "social democrat SPD", 
+      "emotion": {
+        "anger": 0.366082, 
+        "joy": 0.021194, 
+        "sadness": 0.468772, 
+        "fear": 0.352043, 
+        "disgust": 0.096111
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.958921, 
+      "text": "main opposition party", 
+      "emotion": {
+        "anger": 0.015525, 
+        "joy": 0.300806, 
+        "sadness": 0.363411, 
+        "fear": 0.281923, 
+        "disgust": 0.059137
+      }, 
+      "sentiment": {
+        "score": 0.443139, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.946681, 
+      "text": "Christian Democrat alliance", 
+      "emotion": {
+        "anger": 0.364305, 
+        "joy": 0.061838, 
+        "sadness": 0.22073, 
+        "fear": 0.052553, 
+        "disgust": 0.471008
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.922449, 
+      "text": "pathetic childish games", 
+      "emotion": {
+        "anger": 0.411237, 
+        "joy": 0.010168, 
+        "sadness": 0.137087, 
+        "fear": 0.007404, 
+        "disgust": 0.723304
+      }, 
+      "sentiment": {
+        "score": -0.75435, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.921498, 
+      "text": "Mr Meuthen", 
+      "emotion": {
+        "anger": 0.017764, 
+        "joy": 0.795708, 
+        "sadness": 0.075044, 
+        "fear": 0.033574, 
+        "disgust": 0.00861
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.916432, 
+      "text": "Mr Gauland", 
+      "emotion": {
+        "anger": 0.252602, 
+        "joy": 0.168101, 
+        "sadness": 0.168885, 
+        "fear": 0.102959, 
+        "disgust": 0.048838
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.897208, 
+      "text": "new executive board", 
+      "emotion": {
+        "anger": 0.113678, 
+        "joy": 0.491302, 
+        "sadness": 0.116245, 
+        "fear": 0.092162, 
+        "disgust": 0.112693
+      }, 
+      "sentiment": {
+        "score": -0.470429, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.896288, 
+      "text": "debate policy motions", 
+      "emotion": {
+        "anger": 0.113678, 
+        "joy": 0.491302, 
+        "sadness": 0.116245, 
+        "fear": 0.092162, 
+        "disgust": 0.112693
+      }, 
+      "sentiment": {
+        "score": -0.470429, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.820287, 
+      "text": "far-right Alternative", 
+      "emotion": {
+        "anger": 0.141171, 
+        "joy": 0.107841, 
+        "sadness": 0.611504, 
+        "fear": 0.051272, 
+        "disgust": 0.130854
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.819867, 
+      "text": "anti-fascist demonstrators", 
+      "emotion": {
+        "anger": 0.248876, 
+        "joy": 0.007508, 
+        "sadness": 0.675036, 
+        "fear": 0.149278, 
+        "disgust": 0.25181
+      }, 
+      "sentiment": {
+        "score": -0.603679, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.807399, 
+      "text": "AfD", 
+      "emotion": {
+        "anger": 0.123454, 
+        "joy": 0.047632, 
+        "sadness": 0.351701, 
+        "fear": 0.089526, 
+        "disgust": 0.31705
+      }, 
+      "sentiment": {
+        "score": -0.390582, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.801849, 
+      "text": "delayed conference", 
+      "emotion": {
+        "anger": 0.350658, 
+        "joy": 0.129622, 
+        "sadness": 0.528898, 
+        "fear": 0.058463, 
+        "disgust": 0.045259
+      }, 
+      "sentiment": {
+        "score": -0.380009, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.7967, 
+      "text": "Alexander Gauland", 
+      "emotion": {
+        "anger": 0.114307, 
+        "joy": 0.217163, 
+        "sadness": 0.109183, 
+        "fear": 0.185128, 
+        "disgust": 0.185059
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.796439, 
+      "text": "J\u00f6rg Meuthen", 
+      "emotion": {
+        "anger": 0.114307, 
+        "joy": 0.217163, 
+        "sadness": 0.109183, 
+        "fear": 0.185128, 
+        "disgust": 0.185059
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.789465, 
+      "text": "federal elections", 
+      "emotion": {
+        "anger": 0.178762, 
+        "joy": 0.085203, 
+        "sadness": 0.438657, 
+        "fear": 0.056732, 
+        "disgust": 0.131092
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.788489, 
+      "text": "parliamentary party", 
+      "emotion": {
+        "anger": 0.08115, 
+        "joy": 0.504371, 
+        "sadness": 0.044881, 
+        "fear": 0.105773, 
+        "disgust": 0.341196
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.787251, 
+      "text": "biggest force", 
+      "emotion": {
+        "anger": 0.366082, 
+        "joy": 0.021194, 
+        "sadness": 0.468772, 
+        "fear": 0.352043, 
+        "disgust": 0.096111
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.786666, 
+      "text": "rightward trajectory", 
+      "emotion": {
+        "anger": 0.014161, 
+        "joy": 0.401076, 
+        "sadness": 0.04385, 
+        "fear": 0.032543, 
+        "disgust": 0.049757
+      }, 
+      "sentiment": {
+        "score": -0.390582, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.785562, 
+      "text": "Angela Merkel", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.784791, 
+      "text": "Martin Schulz", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.784668, 
+      "text": "federal parliament", 
+      "emotion": {
+        "anger": 0.05171, 
+        "joy": 0.159589, 
+        "sadness": 0.399558, 
+        "fear": 0.05446, 
+        "disgust": 0.051226
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.784583, 
+      "text": "Georg Pazderski", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.782407, 
+      "text": "regional head", 
+      "emotion": {
+        "anger": 0.103162, 
+        "joy": 0.173157, 
+        "sadness": 0.15341, 
+        "fear": 0.171229, 
+        "disgust": 0.154362
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.782371, 
+      "text": "election campaign", 
+      "emotion": {
+        "anger": 0.193454, 
+        "joy": 0.022705, 
+        "sadness": 0.163164, 
+        "fear": 0.146323, 
+        "disgust": 0.679973
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.782105, 
+      "text": "social democrats", 
+      "emotion": {
+        "anger": 0.364305, 
+        "joy": 0.061838, 
+        "sadness": 0.22073, 
+        "fear": 0.052553, 
+        "disgust": 0.471008
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.774583, 
+      "text": "real chance", 
+      "emotion": {
+        "anger": 0.015525, 
+        "joy": 0.300806, 
+        "sadness": 0.363411, 
+        "fear": 0.281923, 
+        "disgust": 0.059137
+      }, 
+      "sentiment": {
+        "score": 0.443139, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.774308, 
+      "text": "water cannon", 
+      "emotion": {
+        "anger": 0.202203, 
+        "joy": 0.028659, 
+        "sadness": 0.120562, 
+        "fear": 0.232326, 
+        "disgust": 0.618172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.771263, 
+      "text": "Hanover police", 
+      "emotion": {
+        "anger": 0.202203, 
+        "joy": 0.028659, 
+        "sadness": 0.120562, 
+        "fear": 0.232326, 
+        "disgust": 0.618172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.770833, 
+      "text": "northern city", 
+      "emotion": {
+        "anger": 0.149569, 
+        "joy": 0.243928, 
+        "sadness": 0.092661, 
+        "fear": 0.071788, 
+        "disgust": 0.053801
+      }, 
+      "sentiment": {
+        "score": -0.428394, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.770356, 
+      "text": "pepper spray", 
+      "emotion": {
+        "anger": 0.053847, 
+        "joy": 0.209773, 
+        "sadness": 0.02873, 
+        "fear": 0.023666, 
+        "disgust": 0.056877
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.769834, 
+      "text": "coalition deal", 
+      "emotion": {
+        "anger": 0.364305, 
+        "joy": 0.061838, 
+        "sadness": 0.22073, 
+        "fear": 0.052553, 
+        "disgust": 0.471008
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.769423, 
+      "text": "city centre", 
+      "emotion": {
+        "anger": 0.23979, 
+        "joy": 0.175569, 
+        "sadness": 0.428995, 
+        "fear": 0.232623, 
+        "disgust": 0.155986
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.766335, 
+      "text": "pro-immigration rally", 
+      "emotion": {
+        "anger": 0.23979, 
+        "joy": 0.175569, 
+        "sadness": 0.428995, 
+        "fear": 0.232623, 
+        "disgust": 0.155986
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.765968, 
+      "text": "national success", 
+      "emotion": {
+        "anger": 0.009605, 
+        "joy": 0.835046, 
+        "sadness": 0.037748, 
+        "fear": 0.028774, 
+        "disgust": 0.008626
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.765045, 
+      "text": "ideological direction", 
+      "emotion": {
+        "anger": 0.113678, 
+        "joy": 0.491302, 
+        "sadness": 0.116245, 
+        "fear": 0.092162, 
+        "disgust": 0.112693
+      }, 
+      "sentiment": {
+        "score": -0.470429, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.764941, 
+      "text": "trade unions", 
+      "emotion": {
+        "anger": 0.23979, 
+        "joy": 0.175569, 
+        "sadness": 0.428995, 
+        "fear": 0.232623, 
+        "disgust": 0.155986
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.762503, 
+      "text": "coalition government", 
+      "emotion": {
+        "anger": 0.176225, 
+        "joy": 0.033238, 
+        "sadness": 0.620981, 
+        "fear": 0.116596, 
+        "disgust": 0.088426
+      }, 
+      "sentiment": {
+        "score": -0.805379, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.762053, 
+      "text": "anti-Islam policies", 
+      "emotion": {
+        "anger": 0.193454, 
+        "joy": 0.022705, 
+        "sadness": 0.163164, 
+        "fear": 0.146323, 
+        "disgust": 0.679973
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.760759, 
+      "text": "anti-euro force", 
+      "emotion": {
+        "anger": 0.171543, 
+        "joy": 0.095092, 
+        "sadness": 0.46545, 
+        "fear": 0.211438, 
+        "disgust": 0.3032
+      }, 
+      "sentiment": {
+        "score": 0.631502, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.75564, 
+      "text": "ongoing struggle", 
+      "emotion": {
+        "anger": 0.176225, 
+        "joy": 0.033238, 
+        "sadness": 0.620981, 
+        "fear": 0.116596, 
+        "disgust": 0.088426
+      }, 
+      "sentiment": {
+        "score": -0.805379, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.754642, 
+      "text": "sharp turn", 
+      "emotion": {
+        "anger": 0.082364, 
+        "joy": 0.370937, 
+        "sadness": 0.141394, 
+        "fear": 0.107748, 
+        "disgust": 0.035241
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.726361, 
+      "text": "Germany", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.443139, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.701173, 
+      "text": "protesters", 
+      "emotion": {
+        "anger": 0.170223, 
+        "joy": 0.12144, 
+        "sadness": 0.51376, 
+        "fear": 0.060277, 
+        "disgust": 0.123641
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.660246, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.273646, 
+        "joy": 0.023215, 
+        "sadness": 0.647271, 
+        "fear": 0.200277, 
+        "disgust": 0.196103
+      }, 
+      "sentiment": {
+        "score": -0.603679, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.656416, 
+      "text": "Saturday", 
+      "emotion": {
+        "anger": 0.056269, 
+        "joy": 0.328102, 
+        "sadness": 0.051039, 
+        "fear": 0.043167, 
+        "disgust": 0.045037
+      }, 
+      "sentiment": {
+        "score": -0.409488, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.652191, 
+      "text": "hardliners", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.650742, 
+      "text": "clashes", 
+      "emotion": {
+        "anger": 0.248876, 
+        "joy": 0.007508, 
+        "sadness": 0.675036, 
+        "fear": 0.149278, 
+        "disgust": 0.25181
+      }, 
+      "sentiment": {
+        "score": -0.603679, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.443139, 
+        "label": "positive"
+      }, 
+      "text": "Germany", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction", 
+          "Country"
+        ], 
+        "name": "Germany", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Germany"
+      }, 
+      "relevance": 0.754331, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.024364, 
+        "joy": 0.808935, 
+        "sadness": 0.102019, 
+        "fear": 0.027205, 
+        "disgust": 0.017798
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.215529, 
+        "label": "negative"
+      }, 
+      "text": "Mr Meuthen", 
+      "relevance": 0.697814, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.280108, 
+        "joy": 0.249185, 
+        "sadness": 0.171513, 
+        "fear": 0.188756, 
+        "disgust": 0.219106
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.372023, 
+        "label": "positive"
+      }, 
+      "text": "Alexander Gauland", 
+      "relevance": 0.660797, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.256503, 
+        "joy": 0.006487, 
+        "sadness": 0.570468, 
+        "fear": 0.158567, 
+        "disgust": 0.370047
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.603679, 
+        "label": "negative"
+      }, 
+      "text": "Hannover", 
+      "disambiguation": {
+        "subtype": [
+          "GermanUrbanDistrict", 
+          "PlaceWithNeighborhoods", 
+          "CompanyShareholder", 
+          "City"
+        ], 
+        "name": "Hanover", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Hanover"
+      }, 
+      "relevance": 0.484681, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Angela Merkel", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "AwardWinner", 
+          "Chancellor"
+        ], 
+        "name": "Angela Merkel", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Angela_Merkel"
+      }, 
+      "relevance": 0.394196, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.114307, 
+        "joy": 0.217163, 
+        "sadness": 0.109183, 
+        "fear": 0.185128, 
+        "disgust": 0.185059
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "J\u00f6rg Meuthen", 
+      "relevance": 0.390187, 
+      "type": "GeographicFeature"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.347896, 
+        "joy": 0.074829, 
+        "sadness": 0.339277, 
+        "fear": 0.227633, 
+        "disgust": 0.141117
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Frauke Petry", 
+      "relevance": 0.37228, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Martin Schulz", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "OfficeHolder"
+        ], 
+        "name": "Martin Schulz", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Martin_Schulz"
+      }, 
+      "relevance": 0.366882, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Georg Pazderski", 
+      "relevance": 0.361978, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.103162, 
+        "joy": 0.173157, 
+        "sadness": 0.15341, 
+        "fear": 0.171229, 
+        "disgust": 0.154362
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Berlin", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "OlympicBiddingCity", 
+          "OlympicHostCity", 
+          "PlaceWithNeighborhoods", 
+          "FilmScreeningVenue", 
+          "GermanState", 
+          "City"
+        ], 
+        "name": "Berlin", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Berlin"
+      }, 
+      "relevance": 0.344367, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.388448, 
+        "joy": 0.096321, 
+        "sadness": 0.081422, 
+        "fear": 0.245636, 
+        "disgust": 0.393819
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "officer", 
+      "relevance": 0.32078, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.113678, 
+        "joy": 0.491302, 
+        "sadness": 0.116245, 
+        "fear": 0.092162, 
+        "disgust": 0.112693
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.470429, 
+        "label": "negative"
+      }, 
+      "text": "executive", 
+      "relevance": 0.31589, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.132603, 
+        "joy": 0.186946, 
+        "sadness": 0.328807, 
+        "fear": 0.102094, 
+        "disgust": 0.055082
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.302169, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.302169, 
+      "text": "five years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.302169, 
+      "text": "12.6%", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.bbc.com/news/world-europe-42209421"
+}

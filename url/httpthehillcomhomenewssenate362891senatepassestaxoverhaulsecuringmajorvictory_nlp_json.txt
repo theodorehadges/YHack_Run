@@ -1,0 +1,1509 @@
+{
+  "usage": {
+    "text_characters": 12009, 
+    "features": 2, 
+    "text_units": 2
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.938296, 
+      "text": "GOP senators", 
+      "emotion": {
+        "anger": 0.506418, 
+        "joy": 0.059304, 
+        "sadness": 0.597407, 
+        "fear": 0.051186, 
+        "disgust": 0.614844
+      }, 
+      "sentiment": {
+        "score": -0.388978, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.82008, 
+      "text": "GOP tax push", 
+      "emotion": {
+        "anger": 0.461055, 
+        "joy": 0.14558, 
+        "sadness": 0.210242, 
+        "fear": 0.016167, 
+        "disgust": 0.421073
+      }, 
+      "sentiment": {
+        "score": -0.424795, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.434366, 
+      "text": "reform  Senate GOP", 
+      "emotion": {
+        "anger": 0.184261, 
+        "joy": 0.089804, 
+        "sadness": 0.148207, 
+        "fear": 0.24397, 
+        "disgust": 0.620575
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.417249, 
+      "text": "GOP leadership", 
+      "emotion": {
+        "anger": 0.035597, 
+        "joy": 0.03889, 
+        "sadness": 0.062372, 
+        "fear": 0.136004, 
+        "disgust": 0.080434
+      }, 
+      "sentiment": {
+        "score": -0.303468, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.412284, 
+      "text": "Harold Johnson GOP", 
+      "emotion": {
+        "anger": 0.27212, 
+        "joy": 0.118375, 
+        "sadness": 0.274929, 
+        "fear": 0.049009, 
+        "disgust": 0.275545
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.406635, 
+      "text": "McConnell Top GOP", 
+      "emotion": {
+        "anger": 0.264614, 
+        "joy": 0.058508, 
+        "sadness": 0.216925, 
+        "fear": 0.040118, 
+        "disgust": 0.488302
+      }, 
+      "sentiment": {
+        "score": -0.357132, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.404917, 
+      "text": "GOP Sens", 
+      "emotion": {
+        "anger": 0.142909, 
+        "joy": 0.032585, 
+        "sadness": 0.485039, 
+        "fear": 0.256662, 
+        "disgust": 0.169782
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.398049, 
+      "text": "Senate tax", 
+      "emotion": {
+        "anger": 0.264944, 
+        "joy": 0.122899, 
+        "sadness": 0.064357, 
+        "fear": 0.024136, 
+        "disgust": 0.621506
+      }, 
+      "sentiment": {
+        "score": 0.0333014, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.39737, 
+      "text": "middle class", 
+      "emotion": {
+        "anger": 0.163377, 
+        "joy": 0.107376, 
+        "sadness": 0.159215, 
+        "fear": 0.087691, 
+        "disgust": 0.497595
+      }, 
+      "sentiment": {
+        "score": -0.268773, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.393443, 
+      "text": "Paul Lankford GOP", 
+      "emotion": {
+        "anger": 0.250245, 
+        "joy": 0.125775, 
+        "sadness": 0.243443, 
+        "fear": 0.123979, 
+        "disgust": 0.402028
+      }, 
+      "sentiment": {
+        "score": -0.540477, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.378663, 
+      "text": "Ellis Schumer GOP", 
+      "emotion": {
+        "anger": 0.304109, 
+        "joy": 0.013951, 
+        "sadness": 0.588679, 
+        "fear": 0.137818, 
+        "disgust": 0.118221
+      }, 
+      "sentiment": {
+        "score": -0.557118, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.372155, 
+      "text": "Daines Top GOP", 
+      "emotion": {
+        "anger": 0.2645, 
+        "joy": 0.04178, 
+        "sadness": 0.22756, 
+        "fear": 0.034386, 
+        "disgust": 0.554987
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.360222, 
+      "text": "Angus King", 
+      "emotion": {
+        "anger": 0.461055, 
+        "joy": 0.14558, 
+        "sadness": 0.210242, 
+        "fear": 0.016167, 
+        "disgust": 0.421073
+      }, 
+      "sentiment": {
+        "score": -0.424795, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.355618, 
+      "text": "GOP\u2019s ObamaCare", 
+      "emotion": {
+        "anger": 0.420206, 
+        "joy": 0.144649, 
+        "sadness": 0.168892, 
+        "fear": 0.137463, 
+        "disgust": 0.361789
+      }, 
+      "sentiment": {
+        "score": -0.420696, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.353921, 
+      "text": "corporate tax rate", 
+      "emotion": {
+        "anger": 0.063117, 
+        "joy": 0.083056, 
+        "sadness": 0.267509, 
+        "fear": 0.056244, 
+        "disgust": 0.225992
+      }, 
+      "sentiment": {
+        "score": -0.886826, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.353875, 
+      "text": "growth GOP", 
+      "emotion": {
+        "anger": 0.172028, 
+        "joy": 0.035297, 
+        "sadness": 0.776365, 
+        "fear": 0.126433, 
+        "disgust": 0.091701
+      }, 
+      "sentiment": {
+        "score": -0.707195, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.352806, 
+      "text": "Senate tax reform", 
+      "emotion": {
+        "anger": 0.1502, 
+        "joy": 0.038414, 
+        "sadness": 0.087834, 
+        "fear": 0.039437, 
+        "disgust": 0.534143
+      }, 
+      "sentiment": {
+        "score": 0.591423, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.346812, 
+      "text": "Cruz Top GOP", 
+      "emotion": {
+        "anger": 0.584639, 
+        "joy": 0.011945, 
+        "sadness": 0.041016, 
+        "fear": 0.026187, 
+        "disgust": 0.599315
+      }, 
+      "sentiment": {
+        "score": -0.329506, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.341187, 
+      "text": "final passage vote", 
+      "emotion": {
+        "anger": 0.247532, 
+        "joy": 0.246962, 
+        "sadness": 0.117933, 
+        "fear": 0.02614, 
+        "disgust": 0.47392
+      }, 
+      "sentiment": {
+        "score": -0.455915, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.333312, 
+      "text": "GOP leaders", 
+      "emotion": {
+        "anger": 0.309058, 
+        "joy": 0.083906, 
+        "sadness": 0.123776, 
+        "fear": 0.107149, 
+        "disgust": 0.605598
+      }, 
+      "sentiment": {
+        "score": -0.381017, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.330461, 
+      "text": "automatic tax increases", 
+      "emotion": {
+        "anger": 0.037911, 
+        "joy": 0.099483, 
+        "sadness": 0.041709, 
+        "fear": 0.078622, 
+        "disgust": 0.04015
+      }, 
+      "sentiment": {
+        "score": -0.38956, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.326646, 
+      "text": "GOP eyes", 
+      "emotion": {
+        "anger": 0.287802, 
+        "joy": 0.013529, 
+        "sadness": 0.238197, 
+        "fear": 0.088106, 
+        "disgust": 0.694162
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.32548, 
+      "text": "tax \u2018reform", 
+      "emotion": {
+        "anger": 0.285397, 
+        "joy": 0.134359, 
+        "sadness": 0.196319, 
+        "fear": 0.045197, 
+        "disgust": 0.546938
+      }, 
+      "sentiment": {
+        "score": -0.48335, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.318577, 
+      "text": "child tax credit", 
+      "emotion": {
+        "anger": 0.069869, 
+        "joy": 0.070095, 
+        "sadness": 0.103751, 
+        "fear": 0.024042, 
+        "disgust": 0.114435
+      }, 
+      "sentiment": {
+        "score": -0.259378, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.316659, 
+      "text": "tax cuts", 
+      "emotion": {
+        "anger": 0.207142, 
+        "joy": 0.094368, 
+        "sadness": 0.148309, 
+        "fear": 0.032766, 
+        "disgust": 0.333755
+      }, 
+      "sentiment": {
+        "score": -0.85796, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.311852, 
+      "text": "tax bill Tax", 
+      "emotion": {
+        "anger": 0.063565, 
+        "joy": 0.170325, 
+        "sadness": 0.04605, 
+        "fear": 0.015413, 
+        "disgust": 0.523964
+      }, 
+      "sentiment": {
+        "score": -0.510965, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.299724, 
+      "text": "legislation", 
+      "emotion": {
+        "anger": 0.434158, 
+        "joy": 0.460812, 
+        "sadness": 0.458086, 
+        "fear": 0.135833, 
+        "disgust": 0.491214
+      }, 
+      "sentiment": {
+        "score": -0.133452, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.298066, 
+      "text": "economic growth", 
+      "emotion": {
+        "anger": 0.014296, 
+        "joy": 0.549522, 
+        "sadness": 0.17132, 
+        "fear": 0.01594, 
+        "disgust": 0.019177
+      }, 
+      "sentiment": {
+        "score": -0.607674, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.290542, 
+      "text": "larger tax deduction", 
+      "emotion": {
+        "anger": 0.040437, 
+        "joy": 0.111005, 
+        "sadness": 0.116716, 
+        "fear": 0.132739, 
+        "disgust": 0.042127
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.288122, 
+      "text": "tax plan", 
+      "emotion": {
+        "anger": 0.060547, 
+        "joy": 0.147605, 
+        "sadness": 0.113779, 
+        "fear": 0.076987, 
+        "disgust": 0.04734
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.278704, 
+      "text": "House tax plans", 
+      "emotion": {
+        "anger": 0.378271, 
+        "joy": 0.043058, 
+        "sadness": 0.094442, 
+        "fear": 0.038554, 
+        "disgust": 0.491737
+      }, 
+      "sentiment": {
+        "score": -0.442751, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.276474, 
+      "text": "alternative minimum tax", 
+      "emotion": {
+        "anger": 0.033534, 
+        "joy": 0.047794, 
+        "sadness": 0.069618, 
+        "fear": 0.019601, 
+        "disgust": 0.040254
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.276324, 
+      "text": "Susan Collins", 
+      "emotion": {
+        "anger": 0.383273, 
+        "joy": 0.128257, 
+        "sadness": 0.188293, 
+        "fear": 0.019329, 
+        "disgust": 0.527607
+      }, 
+      "sentiment": {
+        "score": -0.442425, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.275354, 
+      "text": "much-needed tax relief", 
+      "emotion": {
+        "anger": 0.052506, 
+        "joy": 0.028784, 
+        "sadness": 0.05423, 
+        "fear": 0.167338, 
+        "disgust": 0.150041
+      }, 
+      "sentiment": {
+        "score": -0.42906, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.267486, 
+      "text": "individual tax brackets", 
+      "emotion": {
+        "anger": 0.058396, 
+        "joy": 0.263996, 
+        "sadness": 0.080054, 
+        "fear": 0.120378, 
+        "disgust": 0.091481
+      }, 
+      "sentiment": {
+        "score": -0.254767, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.267217, 
+      "text": "international tax provisions", 
+      "emotion": {
+        "anger": 0.027265, 
+        "joy": 0.146796, 
+        "sadness": 0.085035, 
+        "fear": 0.021267, 
+        "disgust": 0.029743
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.264819, 
+      "text": "Senate legislation", 
+      "emotion": {
+        "anger": 0.185006, 
+        "joy": 0.066109, 
+        "sadness": 0.219112, 
+        "fear": 0.11675, 
+        "disgust": 0.233736
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.26227, 
+      "text": "tax legislation", 
+      "sentiment": {
+        "score": -0.677744, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.257853, 
+      "text": "tax code", 
+      "sentiment": {
+        "score": -0.515549, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.256439, 
+      "text": "Republicans", 
+      "emotion": {
+        "anger": 0.204438, 
+        "joy": 0.064141, 
+        "sadness": 0.503254, 
+        "fear": 0.047123, 
+        "disgust": 0.69451
+      }, 
+      "sentiment": {
+        "score": -0.434193, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.255889, 
+      "text": "Senate Minority Leader", 
+      "emotion": {
+        "anger": 0.189572, 
+        "joy": 0.14122, 
+        "sadness": 0.178473, 
+        "fear": 0.110181, 
+        "disgust": 0.361893
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.25436, 
+      "text": "Sen. Bob Corker", 
+      "emotion": {
+        "anger": 0.120109, 
+        "joy": 0.078889, 
+        "sadness": 0.156715, 
+        "fear": 0.015977, 
+        "disgust": 0.448848
+      }, 
+      "sentiment": {
+        "score": -0.473776, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.246176, 
+      "text": "Corker Susan Collins", 
+      "emotion": {
+        "anger": 0.20369, 
+        "joy": 0.083309, 
+        "sadness": 0.244256, 
+        "fear": 0.029091, 
+        "disgust": 0.592748
+      }, 
+      "sentiment": {
+        "score": -0.41519, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.245863, 
+      "text": "tax rates", 
+      "emotion": {
+        "anger": 0.053566, 
+        "joy": 0.06953, 
+        "sadness": 0.229455, 
+        "fear": 0.074895, 
+        "disgust": 0.222563
+      }, 
+      "sentiment": {
+        "score": -0.886826, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.243715, 
+      "text": "Senate floor", 
+      "emotion": {
+        "anger": 0.396424, 
+        "joy": 0.032357, 
+        "sadness": 0.236147, 
+        "fear": 0.079046, 
+        "disgust": 0.579975
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.237982, 
+      "text": "tax bill Overnight", 
+      "emotion": {
+        "anger": 0.201199, 
+        "joy": 0.097088, 
+        "sadness": 0.15029, 
+        "fear": 0.194433, 
+        "disgust": 0.646498
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.231019, 
+      "text": "tax bill Key", 
+      "emotion": {
+        "anger": 0.378271, 
+        "joy": 0.043058, 
+        "sadness": 0.094442, 
+        "fear": 0.038554, 
+        "disgust": 0.491737
+      }, 
+      "sentiment": {
+        "score": -0.442751, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.230168, 
+      "text": "Republican senators", 
+      "emotion": {
+        "anger": 0.162621, 
+        "joy": 0.427404, 
+        "sadness": 0.20778, 
+        "fear": 0.048954, 
+        "disgust": 0.303466
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.146919, 
+        "joy": 0.152407, 
+        "sadness": 0.264934, 
+        "fear": 0.212981, 
+        "disgust": 0.136232
+      }, 
+      "count": 23, 
+      "sentiment": {
+        "score": 0.458483, 
+        "label": "positive"
+      }, 
+      "text": "GOP", 
+      "relevance": 0.869845, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.212278, 
+        "joy": 0.108896, 
+        "sadness": 0.168179, 
+        "fear": 0.142829, 
+        "disgust": 0.649175
+      }, 
+      "count": 17, 
+      "sentiment": {
+        "score": -0.401568, 
+        "label": "negative"
+      }, 
+      "text": "Senate", 
+      "relevance": 0.556631, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.146919, 
+        "joy": 0.152407, 
+        "sadness": 0.264934, 
+        "fear": 0.212981, 
+        "disgust": 0.136232
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "GOP", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalParty"
+        ], 
+        "name": "Republican Party (United States)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+      }, 
+      "relevance": 0.411581, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.198488, 
+        "joy": 0.071283, 
+        "sadness": 0.505521, 
+        "fear": 0.046658, 
+        "disgust": 0.658212
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.434193, 
+        "label": "negative"
+      }, 
+      "text": "Republicans", 
+      "relevance": 0.398847, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.304109, 
+        "joy": 0.013951, 
+        "sadness": 0.588679, 
+        "fear": 0.137818, 
+        "disgust": 0.118221
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.557118, 
+        "label": "negative"
+      }, 
+      "text": "democrats", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Democrats in Norway", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Democrats_in_Norway"
+      }, 
+      "relevance": 0.296863, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.189572, 
+        "joy": 0.14122, 
+        "sadness": 0.178473, 
+        "fear": 0.110181, 
+        "disgust": 0.361893
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.295044, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.071751, 
+        "joy": 0.076922, 
+        "sadness": 0.298542, 
+        "fear": 0.181502, 
+        "disgust": 0.07044
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.427289, 
+        "label": "negative"
+      }, 
+      "text": "McConnell", 
+      "relevance": 0.286448, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.265022, 
+        "joy": 0.074773, 
+        "sadness": 0.235563, 
+        "fear": 0.037744, 
+        "disgust": 0.675407
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.424662, 
+        "label": "negative"
+      }, 
+      "text": "Angus King", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Governor"
+        ], 
+        "name": "Angus King", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Angus_King"
+      }, 
+      "relevance": 0.270879, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.408924, 
+        "joy": 0.06682, 
+        "sadness": 0.554018, 
+        "fear": 0.072991, 
+        "disgust": 0.182925
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.422469, 
+        "label": "negative"
+      }, 
+      "text": "Vice President Pence", 
+      "relevance": 0.26378, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.107525, 
+        "joy": 0.188787, 
+        "sadness": 0.182819, 
+        "fear": 0.051484, 
+        "disgust": 0.172927
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.241505, 
+        "label": "negative"
+      }, 
+      "text": "bill Cruz", 
+      "relevance": 0.261954, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.211356, 
+        "joy": 0.095928, 
+        "sadness": 0.202553, 
+        "fear": 0.063687, 
+        "disgust": 0.270223
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.564188, 
+        "label": "negative"
+      }, 
+      "text": "Harold Johnson GOP", 
+      "relevance": 0.252302, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.064753, 
+        "joy": 0.366834, 
+        "sadness": 0.205992, 
+        "fear": 0.046353, 
+        "disgust": 0.115769
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Corker", 
+      "relevance": 0.244877, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.09178, 
+        "joy": 0.151911, 
+        "sadness": 0.666047, 
+        "fear": 0.072811, 
+        "disgust": 0.046798
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.63032, 
+        "label": "negative"
+      }, 
+      "text": "Sen. James Lankford James Paul Lankford GOP", 
+      "relevance": 0.242865, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.053566, 
+        "joy": 0.06953, 
+        "sadness": 0.229455, 
+        "fear": 0.074895, 
+        "disgust": 0.222563
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.886826, 
+        "label": "negative"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.235346, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ellis Schumer GOP", 
+      "relevance": 0.224851, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.240245, 
+        "joy": 0.154637, 
+        "sadness": 0.226926, 
+        "fear": 0.105491, 
+        "disgust": 0.362284
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.545575, 
+        "label": "negative"
+      }, 
+      "text": "Sen. Susan Collins Susan Margaret Collins Susan Collins", 
+      "relevance": 0.219969, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.20369, 
+        "joy": 0.083309, 
+        "sadness": 0.244256, 
+        "fear": 0.029091, 
+        "disgust": 0.592748
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.41519, 
+        "label": "negative"
+      }, 
+      "text": "Phillips Corker Susan Collins", 
+      "relevance": 0.193909, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.084257, 
+        "joy": 0.240743, 
+        "sadness": 0.136711, 
+        "fear": 0.249013, 
+        "disgust": 0.183322
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sen. Bob Corker Robert", 
+      "relevance": 0.189373, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.187681, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.052506, 
+        "joy": 0.028784, 
+        "sadness": 0.05423, 
+        "fear": 0.167338, 
+        "disgust": 0.150041
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.42906, 
+        "label": "negative"
+      }, 
+      "text": "Finance Committee", 
+      "relevance": 0.186856, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.278566, 
+        "joy": 0.022347, 
+        "sadness": 0.039784, 
+        "fear": 0.038805, 
+        "disgust": 0.661158
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Mitchell McConnell", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Mitch McConnell", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Mitch_McConnell"
+      }, 
+      "relevance": 0.185874, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.116981, 
+        "joy": 0.136142, 
+        "sadness": 0.147474, 
+        "fear": 0.040179, 
+        "disgust": 0.194393
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.225005, 
+        "label": "positive"
+      }, 
+      "text": "Mitch McConnell Addison", 
+      "relevance": 0.180707, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jeff Flake Jeffrey", 
+      "relevance": 0.180136, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.08556, 
+        "joy": 0.130686, 
+        "sadness": 0.188392, 
+        "fear": 0.109007, 
+        "disgust": 0.207107
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Susan Collins", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "BoardMember", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Susan Collins", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Susan_Collins"
+      }, 
+      "relevance": 0.178472, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.618528, 
+        "joy": 0.039465, 
+        "sadness": 0.021329, 
+        "fear": 0.014835, 
+        "disgust": 0.559647
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sen. Mike Rounds Marion", 
+      "relevance": 0.176917, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.218139, 
+        "joy": 0.065469, 
+        "sadness": 0.187488, 
+        "fear": 0.109988, 
+        "disgust": 0.691507
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.454366, 
+        "label": "negative"
+      }, 
+      "text": "Johnson", 
+      "relevance": 0.173155, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.309571, 
+        "joy": 0.221439, 
+        "sadness": 0.12141, 
+        "fear": 0.224065, 
+        "disgust": 0.208904
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.357532, 
+        "label": "negative"
+      }, 
+      "text": "Arizona", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Arizona", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Arizona"
+      }, 
+      "relevance": 0.172639, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.103064, 
+        "joy": 0.176986, 
+        "sadness": 0.131484, 
+        "fear": 0.064929, 
+        "disgust": 0.058754
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Marco Rubio Marco Antonio Rubio", 
+      "relevance": 0.170568, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.060041, 
+        "joy": 0.300022, 
+        "sadness": 0.054085, 
+        "fear": 0.209528, 
+        "disgust": 0.12811
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.641976, 
+        "label": "negative"
+      }, 
+      "text": "senator", 
+      "relevance": 0.167328, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.151694, 
+        "joy": 0.575431, 
+        "sadness": 0.175924, 
+        "fear": 0.008324, 
+        "disgust": 0.174629
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Arctic National Wildlife Refuge", 
+      "relevance": 0.165731, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.330715, 
+        "joy": 0.024895, 
+        "sadness": 0.221929, 
+        "fear": 0.087059, 
+        "disgust": 0.660169
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.600134, 
+        "label": "negative"
+      }, 
+      "text": "Cruz", 
+      "relevance": 0.164723, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.27212, 
+        "joy": 0.118375, 
+        "sadness": 0.274929, 
+        "fear": 0.049009, 
+        "disgust": 0.275545
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.404885, 
+        "label": "negative"
+      }, 
+      "text": "Wis.", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Wisconsin", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Wisconsin"
+      }, 
+      "relevance": 0.158071, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.106609, 
+        "joy": 0.110744, 
+        "sadness": 0.156187, 
+        "fear": 0.056161, 
+        "disgust": 0.208916
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ron Johnson Ronald", 
+      "relevance": 0.156694, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.086421, 
+        "joy": 0.094863, 
+        "sadness": 0.481931, 
+        "fear": 0.322506, 
+        "disgust": 0.09333
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Marc Short", 
+      "relevance": 0.15575, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.109176, 
+        "joy": 0.20748, 
+        "sadness": 0.159365, 
+        "fear": 0.068075, 
+        "disgust": 0.07331
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.313207, 
+        "label": "negative"
+      }, 
+      "text": "Utah", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Utah", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Utah"
+      }, 
+      "relevance": 0.155362, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.584639, 
+        "joy": 0.011945, 
+        "sadness": 0.041016, 
+        "fear": 0.026187, 
+        "disgust": 0.599315
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.329506, 
+        "label": "negative"
+      }, 
+      "text": "Joint Committee on Taxation", 
+      "relevance": 0.155018, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.264614, 
+        "joy": 0.058508, 
+        "sadness": 0.216925, 
+        "fear": 0.040118, 
+        "disgust": 0.488302
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.357132, 
+        "label": "negative"
+      }, 
+      "text": "Steve Daines", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Steve Daines", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Steve_Daines"
+      }, 
+      "relevance": 0.15477, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.663182, 
+        "joy": 0.007666, 
+        "sadness": 0.290116, 
+        "fear": 0.094149, 
+        "disgust": 0.291861
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.546844, 
+        "label": "negative"
+      }, 
+      "text": "Fla.", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Florida", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Florida"
+      }, 
+      "relevance": 0.154757, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.033534, 
+        "joy": 0.047794, 
+        "sadness": 0.069618, 
+        "fear": 0.019601, 
+        "disgust": 0.040254
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "producer", 
+      "relevance": 0.154273, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.049127, 
+        "joy": 0.074809, 
+        "sadness": 0.075582, 
+        "fear": 0.040871, 
+        "disgust": 0.155309
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "White House", 
+      "relevance": 0.154028, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120109, 
+        "joy": 0.078889, 
+        "sadness": 0.156715, 
+        "fear": 0.015977, 
+        "disgust": 0.448848
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.473776, 
+        "label": "negative"
+      }, 
+      "text": "director of legislative affairs", 
+      "relevance": 0.153523, 
+      "type": "JobTitle"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://thehill.com/homenews/senate/362891-senate-passes-tax-overhaul-securing-major-victory"
+}

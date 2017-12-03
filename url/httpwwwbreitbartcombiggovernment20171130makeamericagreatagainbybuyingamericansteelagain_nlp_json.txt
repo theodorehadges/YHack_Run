@@ -1,0 +1,1077 @@
+{
+  "usage": {
+    "text_characters": 3683, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.98487, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.123635, 
+        "joy": 0.516329, 
+        "sadness": 0.2178, 
+        "fear": 0.024061, 
+        "disgust": 0.117985
+      }, 
+      "sentiment": {
+        "score": 0.609349, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.838994, 
+      "text": "United States", 
+      "emotion": {
+        "anger": 0.199106, 
+        "joy": 0.031969, 
+        "sadness": 0.763952, 
+        "fear": 0.034861, 
+        "disgust": 0.079443
+      }, 
+      "sentiment": {
+        "score": -0.122239, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.820484, 
+      "text": "steel", 
+      "emotion": {
+        "anger": 0.140121, 
+        "joy": 0.484301, 
+        "sadness": 0.226107, 
+        "fear": 0.075945, 
+        "disgust": 0.143832
+      }, 
+      "sentiment": {
+        "score": 0.158147, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.665165, 
+      "text": "Donald J. Trump", 
+      "emotion": {
+        "anger": 0.12355, 
+        "joy": 0.302562, 
+        "sadness": 0.236112, 
+        "fear": 0.035541, 
+        "disgust": 0.374056
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.664341, 
+      "text": "playing field", 
+      "emotion": {
+        "anger": 0.121427, 
+        "joy": 0.361193, 
+        "sadness": 0.302504, 
+        "fear": 0.026307, 
+        "disgust": 0.330948
+      }, 
+      "sentiment": {
+        "score": 0.278465, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.637792, 
+      "text": "American steel", 
+      "emotion": {
+        "anger": 0.104135, 
+        "joy": 0.495426, 
+        "sadness": 0.281667, 
+        "fear": 0.031853, 
+        "disgust": 0.116715
+      }, 
+      "sentiment": {
+        "score": 0.535273, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.62182, 
+      "text": "steel industry", 
+      "emotion": {
+        "anger": 0.092103, 
+        "joy": 0.341927, 
+        "sadness": 0.06211, 
+        "fear": 0.019229, 
+        "disgust": 0.034739
+      }, 
+      "sentiment": {
+        "score": 0.0441766, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.566218, 
+      "text": "thriving steel industry", 
+      "emotion": {
+        "anger": 0.062042, 
+        "joy": 0.582441, 
+        "sadness": 0.069503, 
+        "fear": 0.004838, 
+        "disgust": 0.008583
+      }, 
+      "sentiment": {
+        "score": 0.710845, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.555164, 
+      "text": "Majestic Steel USA", 
+      "emotion": {
+        "anger": 0.139662, 
+        "joy": 0.20938, 
+        "sadness": 0.140562, 
+        "fear": 0.060937, 
+        "disgust": 0.149328
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.551408, 
+      "text": "domestic steel industry", 
+      "emotion": {
+        "anger": 0.094705, 
+        "joy": 0.092367, 
+        "sadness": 0.08695, 
+        "fear": 0.107761, 
+        "disgust": 0.168861
+      }, 
+      "sentiment": {
+        "score": -0.666668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.542219, 
+      "text": "Ohio-based steel service", 
+      "emotion": {
+        "anger": 0.048946, 
+        "joy": 0.075635, 
+        "sadness": 0.237143, 
+        "fear": 0.030733, 
+        "disgust": 0.012553
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.525312, 
+      "text": "global steel landscape", 
+      "emotion": {
+        "anger": 0.13831, 
+        "joy": 0.363746, 
+        "sadness": 0.414036, 
+        "fear": 0.090745, 
+        "disgust": 0.108576
+      }, 
+      "sentiment": {
+        "score": 0.291478, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.500709, 
+      "text": "bad actors", 
+      "emotion": {
+        "anger": 0.095998, 
+        "joy": 0.031607, 
+        "sadness": 0.699823, 
+        "fear": 0.031665, 
+        "disgust": 0.101878
+      }, 
+      "sentiment": {
+        "score": -0.120087, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.494539, 
+      "text": "foreign governments", 
+      "emotion": {
+        "anger": 0.239166, 
+        "joy": 0.124207, 
+        "sadness": 0.26689, 
+        "fear": 0.274109, 
+        "disgust": 0.051067
+      }, 
+      "sentiment": {
+        "score": -0.45274, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.487913, 
+      "text": "rigged dumping ground", 
+      "emotion": {
+        "anger": 0.063196, 
+        "joy": 0.13206, 
+        "sadness": 0.161771, 
+        "fear": 0.06449, 
+        "disgust": 0.123489
+      }, 
+      "sentiment": {
+        "score": -0.744924, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.483945, 
+      "text": "domestic industry", 
+      "emotion": {
+        "anger": 0.076681, 
+        "joy": 0.029701, 
+        "sadness": 0.310785, 
+        "fear": 0.04, 
+        "disgust": 0.087437
+      }, 
+      "sentiment": {
+        "score": 0.49035, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.48265, 
+      "text": "trade war", 
+      "emotion": {
+        "anger": 0.222669, 
+        "joy": 0.105689, 
+        "sadness": 0.709305, 
+        "fear": 0.063179, 
+        "disgust": 0.109984
+      }, 
+      "sentiment": {
+        "score": -0.46958, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.482323, 
+      "text": "equal playing field", 
+      "emotion": {
+        "anger": 0.048657, 
+        "joy": 0.291761, 
+        "sadness": 0.44603, 
+        "fear": 0.052556, 
+        "disgust": 0.235801
+      }, 
+      "sentiment": {
+        "score": -0.379744, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.479989, 
+      "text": "international trade laws", 
+      "emotion": {
+        "anger": 0.153476, 
+        "joy": 0.233813, 
+        "sadness": 0.22968, 
+        "fear": 0.255595, 
+        "disgust": 0.060675
+      }, 
+      "sentiment": {
+        "score": -0.291416, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.47722, 
+      "text": "unfair trade practices", 
+      "emotion": {
+        "anger": 0.354686, 
+        "joy": 0.121919, 
+        "sadness": 0.472227, 
+        "fear": 0.027474, 
+        "disgust": 0.220977
+      }, 
+      "sentiment": {
+        "score": -0.797253, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.476347, 
+      "text": "increasingly difficult decision", 
+      "emotion": {
+        "anger": 0.165674, 
+        "joy": 0.175708, 
+        "sadness": 0.551119, 
+        "fear": 0.215366, 
+        "disgust": 0.050199
+      }, 
+      "sentiment": {
+        "score": -0.618641, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.470928, 
+      "text": "fair playing field", 
+      "emotion": {
+        "anger": 0.122805, 
+        "joy": 0.532762, 
+        "sadness": 0.258157, 
+        "fear": 0.042297, 
+        "disgust": 0.110582
+      }, 
+      "sentiment": {
+        "score": 0.658209, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.468113, 
+      "text": "Trump card", 
+      "emotion": {
+        "anger": 0.166243, 
+        "joy": 0.191229, 
+        "sadness": 0.622303, 
+        "fear": 0.039614, 
+        "disgust": 0.11848
+      }, 
+      "sentiment": {
+        "score": -0.324421, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.456302, 
+      "text": "foreign steel", 
+      "emotion": {
+        "anger": 0.308563, 
+        "joy": 0.035347, 
+        "sadness": 0.296627, 
+        "fear": 0.121051, 
+        "disgust": 0.322418
+      }, 
+      "sentiment": {
+        "score": -0.273397, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.41533, 
+      "text": "steel imports", 
+      "emotion": {
+        "anger": 0.21346, 
+        "joy": 0.083987, 
+        "sadness": 0.240506, 
+        "fear": 0.218772, 
+        "disgust": 0.056646
+      }, 
+      "sentiment": {
+        "score": -0.614065, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.396233, 
+      "text": "Mr. President", 
+      "emotion": {
+        "anger": 0.2408, 
+        "joy": 0.20432, 
+        "sadness": 0.095913, 
+        "fear": 0.042509, 
+        "disgust": 0.113387
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.394636, 
+      "text": "subsidized imports", 
+      "emotion": {
+        "anger": 0.047964, 
+        "joy": 0.035799, 
+        "sadness": 0.490392, 
+        "fear": 0.034082, 
+        "disgust": 0.05981
+      }, 
+      "sentiment": {
+        "score": 0.49035, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.393895, 
+      "text": "previous administrations", 
+      "emotion": {
+        "anger": 0.139546, 
+        "joy": 0.031852, 
+        "sadness": 0.637268, 
+        "fear": 0.165625, 
+        "disgust": 0.164097
+      }, 
+      "sentiment": {
+        "score": -0.476008, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.388733, 
+      "text": "unshakable\u00a0commitment", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.380794, 
+      "text": "trade challenges", 
+      "emotion": {
+        "anger": 0.139546, 
+        "joy": 0.031852, 
+        "sadness": 0.637268, 
+        "fear": 0.165625, 
+        "disgust": 0.164097
+      }, 
+      "sentiment": {
+        "score": -0.476008, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.378764, 
+      "text": "political parties", 
+      "emotion": {
+        "anger": 0.139546, 
+        "joy": 0.031852, 
+        "sadness": 0.637268, 
+        "fear": 0.165625, 
+        "disgust": 0.164097
+      }, 
+      "sentiment": {
+        "score": -0.476008, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.378165, 
+      "text": "adequate resolve", 
+      "emotion": {
+        "anger": 0.139546, 
+        "joy": 0.031852, 
+        "sadness": 0.637268, 
+        "fear": 0.165625, 
+        "disgust": 0.164097
+      }, 
+      "sentiment": {
+        "score": -0.476008, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.377707, 
+      "text": "foreign imports", 
+      "emotion": {
+        "anger": 0.103356, 
+        "joy": 0.080477, 
+        "sadness": 0.146932, 
+        "fear": 0.250243, 
+        "disgust": 0.196071
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.374242, 
+      "text": "Washington bureaucrats", 
+      "emotion": {
+        "anger": 0.173065, 
+        "joy": 0.279738, 
+        "sadness": 0.357745, 
+        "fear": 0.060819, 
+        "disgust": 0.084489
+      }, 
+      "sentiment": {
+        "score": 0.535273, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.371419, 
+      "text": "trade cases", 
+      "emotion": {
+        "anger": 0.220974, 
+        "joy": 0.027237, 
+        "sadness": 0.737102, 
+        "fear": 0.053816, 
+        "disgust": 0.195566
+      }, 
+      "sentiment": {
+        "score": -0.610437, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.368246, 
+      "text": "foreign counterparts", 
+      "emotion": {
+        "anger": 0.183308, 
+        "joy": 0.037482, 
+        "sadness": 0.055427, 
+        "fear": 0.076793, 
+        "disgust": 0.115812
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.365625, 
+      "text": "domestic market", 
+      "emotion": {
+        "anger": 0.104735, 
+        "joy": 0.128729, 
+        "sadness": 0.146801, 
+        "fear": 0.23915, 
+        "disgust": 0.10151
+      }, 
+      "sentiment": {
+        "score": -0.617214, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.364894, 
+      "text": "American steelworkers", 
+      "emotion": {
+        "anger": 0.047494, 
+        "joy": 0.484228, 
+        "sadness": 0.274058, 
+        "fear": 0.037124, 
+        "disgust": 0.1943
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.364876, 
+      "text": "industrial age", 
+      "emotion": {
+        "anger": 0.107146, 
+        "joy": 0.134604, 
+        "sadness": 0.421479, 
+        "fear": 0.1044, 
+        "disgust": 0.131589
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.363576, 
+      "text": "all-time highs", 
+      "emotion": {
+        "anger": 0.21346, 
+        "joy": 0.083987, 
+        "sadness": 0.240506, 
+        "fear": 0.218772, 
+        "disgust": 0.056646
+      }, 
+      "sentiment": {
+        "score": -0.614065, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.363467, 
+      "text": "great nation", 
+      "emotion": {
+        "anger": 0.062042, 
+        "joy": 0.582441, 
+        "sadness": 0.069503, 
+        "fear": 0.004838, 
+        "disgust": 0.008583
+      }, 
+      "sentiment": {
+        "score": 0.710845, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.360899, 
+      "text": "historic levels", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.356958, 
+      "text": "n\u2019t playing", 
+      "sentiment": {
+        "score": 0.530897, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.35508, 
+      "text": "government support", 
+      "emotion": {
+        "anger": 0.094705, 
+        "joy": 0.092367, 
+        "sadness": 0.08695, 
+        "fear": 0.107761, 
+        "disgust": 0.168861
+      }, 
+      "sentiment": {
+        "score": -0.666668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.354212, 
+      "text": "historical lack", 
+      "emotion": {
+        "anger": 0.094705, 
+        "joy": 0.092367, 
+        "sadness": 0.08695, 
+        "fear": 0.107761, 
+        "disgust": 0.168861
+      }, 
+      "sentiment": {
+        "score": -0.666668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.353893, 
+      "text": "unique perspective", 
+      "emotion": {
+        "anger": 0.13831, 
+        "joy": 0.363746, 
+        "sadness": 0.414036, 
+        "fear": 0.090745, 
+        "disgust": 0.108576
+      }, 
+      "sentiment": {
+        "score": 0.291478, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.353789, 
+      "text": "fifty-yard line", 
+      "emotion": {
+        "anger": 0.13831, 
+        "joy": 0.363746, 
+        "sadness": 0.414036, 
+        "fear": 0.090745, 
+        "disgust": 0.108576
+      }, 
+      "sentiment": {
+        "score": 0.291478, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.352904, 
+      "text": "largest buyers", 
+      "emotion": {
+        "anger": 0.048946, 
+        "joy": 0.075635, 
+        "sadness": 0.237143, 
+        "fear": 0.030733, 
+        "disgust": 0.012553
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.351023, 
+      "text": "immediate action", 
+      "emotion": {
+        "anger": 0.136109, 
+        "joy": 0.111228, 
+        "sadness": 0.221197, 
+        "fear": 0.03281, 
+        "disgust": 0.344695
+      }, 
+      "sentiment": {
+        "score": 0.666963, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.348692, 
+      "text": "American worker", 
+      "emotion": {
+        "anger": 0.184635, 
+        "joy": 0.014584, 
+        "sadness": 0.403978, 
+        "fear": 0.039071, 
+        "disgust": 0.463747
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.149273, 
+        "joy": 0.280245, 
+        "sadness": 0.236553, 
+        "fear": 0.054532, 
+        "disgust": 0.206961
+      }, 
+      "count": 10, 
+      "sentiment": {
+        "score": 0.483083, 
+        "label": "positive"
+      }, 
+      "text": "Donald J. Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.717213, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.199106, 
+        "joy": 0.031969, 
+        "sadness": 0.763952, 
+        "fear": 0.034861, 
+        "disgust": 0.079443
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.244942, 
+        "label": "negative"
+      }, 
+      "text": "United States", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.353791, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.015084, 
+        "joy": 0.680201, 
+        "sadness": 0.098685, 
+        "fear": 0.013064, 
+        "disgust": 0.013217
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.488432, 
+        "label": "positive"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.353041, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.160741, 
+        "joy": 0.401455, 
+        "sadness": 0.156399, 
+        "fear": 0.020739, 
+        "disgust": 0.295544
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.312642, 
+        "label": "positive"
+      }, 
+      "text": "President", 
+      "relevance": 0.310282, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.139662, 
+        "joy": 0.20938, 
+        "sadness": 0.140562, 
+        "fear": 0.060937, 
+        "disgust": 0.149328
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Majestic Steel USA", 
+      "relevance": 0.308709, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090829, 
+        "joy": 0.198238, 
+        "sadness": 0.17506, 
+        "fear": 0.069068, 
+        "disgust": 0.104088
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Majestic Steel", 
+      "relevance": 0.293978, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.139662, 
+        "joy": 0.20938, 
+        "sadness": 0.140562, 
+        "fear": 0.060937, 
+        "disgust": 0.149328
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president and CEO", 
+      "relevance": 0.260675, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.2408, 
+        "joy": 0.20432, 
+        "sadness": 0.095913, 
+        "fear": 0.042509, 
+        "disgust": 0.113387
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Mr. President", 
+      "relevance": 0.239457, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.184635, 
+        "joy": 0.014584, 
+        "sadness": 0.403978, 
+        "fear": 0.039071, 
+        "disgust": 0.463747
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "American worker", 
+      "relevance": 0.192228, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.173065, 
+        "joy": 0.279738, 
+        "sadness": 0.357745, 
+        "fear": 0.060819, 
+        "disgust": 0.084489
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.535273, 
+        "label": "positive"
+      }, 
+      "text": "Washington", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.16967, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ohio", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Ohio", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ohio"
+      }, 
+      "relevance": 0.168456, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090829, 
+        "joy": 0.198238, 
+        "sadness": 0.17506, 
+        "fear": 0.069068, 
+        "disgust": 0.104088
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Todd Leebow", 
+      "relevance": 0.165966, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090829, 
+        "joy": 0.198238, 
+        "sadness": 0.17506, 
+        "fear": 0.069068, 
+        "disgust": 0.104088
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Cleveland", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "PlaceWithNeighborhoods", 
+          "City"
+        ], 
+        "name": "Cleveland", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Cleveland"
+      }, 
+      "relevance": 0.163561, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090829, 
+        "joy": 0.198238, 
+        "sadness": 0.17506, 
+        "fear": 0.069068, 
+        "disgust": 0.104088
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CEO", 
+      "relevance": 0.16302, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.151955, 
+      "text": "100 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.151955, 
+      "text": "28 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.151955, 
+      "text": "95 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.151955, 
+      "text": "fifty-yard", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/11/30/make-america-great-again-by-buying-american-steel-again/"
+}

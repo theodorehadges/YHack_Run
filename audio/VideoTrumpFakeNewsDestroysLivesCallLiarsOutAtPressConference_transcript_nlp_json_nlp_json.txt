@@ -1,0 +1,251 @@
+{
+  "usage": {
+    "text_characters": 2963, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.939957, 
+      "text": "sentiment", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.930174, 
+      "text": "relevance", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.897149, 
+      "text": "disgust", 
+      "emotion": {
+        "anger": 1.0, 
+        "joy": 0.0, 
+        "sadness": 1.0, 
+        "fear": 1.0, 
+        "disgust": 1.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.882689, 
+      "text": "sadness", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 1.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.872272, 
+      "text": "emotion", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.866269, 
+      "text": "text", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.865805, 
+      "text": "anger", 
+      "emotion": {
+        "anger": 1.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.856324, 
+      "text": "score", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 1.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.854912, 
+      "text": "label", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.85134, 
+      "text": "fear", 
+      "emotion": {
+        "anger": 1.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 1.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.851148, 
+      "text": "joy", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 1.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.350813, 
+      "text": "media outlets", 
+      "emotion": {
+        "anger": 0.139547, 
+        "joy": 0.129211, 
+        "sadness": 0.134261, 
+        "fear": 0.059222, 
+        "disgust": 0.237073
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.346022, 
+      "text": "sad thing", 
+      "emotion": {
+        "anger": 0.040307, 
+        "joy": 0.006715, 
+        "sadness": 0.873773, 
+        "fear": 0.219215, 
+        "disgust": 0.081416
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.335455, 
+      "text": "honest  reporters", 
+      "emotion": {
+        "anger": 0.087162, 
+        "joy": 0.193558, 
+        "sadness": 0.199912, 
+        "fear": 0.089271, 
+        "disgust": 0.065411
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.315337, 
+      "text": "Sheik news", 
+      "emotion": {
+        "anger": 0.078975, 
+        "joy": 0.117265, 
+        "sadness": 0.5024, 
+        "fear": 0.212893, 
+        "disgust": 0.253711
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.315203, 
+      "text": "fake news", 
+      "emotion": {
+        "anger": 0.243395, 
+        "joy": 0.016424, 
+        "sadness": 0.614357, 
+        "fear": 0.104473, 
+        "disgust": 0.339522
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "entities": []
+}

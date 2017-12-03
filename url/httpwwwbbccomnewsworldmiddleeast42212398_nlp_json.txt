@@ -1,0 +1,1014 @@
+{
+  "usage": {
+    "text_characters": 2574, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.976283, 
+      "text": "Mr Saleh", 
+      "emotion": {
+        "anger": 0.454311, 
+        "joy": 0.284892, 
+        "sadness": 0.214721, 
+        "fear": 0.147889, 
+        "disgust": 0.058184
+      }, 
+      "sentiment": {
+        "score": -0.325328, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.809521, 
+      "text": "Ali Abdullah Saleh", 
+      "emotion": {
+        "anger": 0.268675, 
+        "joy": 0.168281, 
+        "sadness": 0.321834, 
+        "fear": 0.199791, 
+        "disgust": 0.232274
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.660495, 
+      "text": "Saudi-led coalition", 
+      "emotion": {
+        "anger": 0.268341, 
+        "joy": 0.029875, 
+        "sadness": 0.619319, 
+        "fear": 0.192985, 
+        "disgust": 0.214284
+      }, 
+      "sentiment": {
+        "score": -0.403918, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.659059, 
+      "text": "Abdrabbuh Mansour Hadi", 
+      "emotion": {
+        "anger": 0.315647, 
+        "joy": 0.097781, 
+        "sadness": 0.223943, 
+        "fear": 0.055593, 
+        "disgust": 0.233943
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.64752, 
+      "text": "broad national coalition", 
+      "emotion": {
+        "anger": 0.03866, 
+        "joy": 0.624271, 
+        "sadness": 0.186573, 
+        "fear": 0.116545, 
+        "disgust": 0.054132
+      }, 
+      "sentiment": {
+        "score": 0.338695, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.638771, 
+      "text": "Houthi rebels", 
+      "emotion": {
+        "anger": 0.423544, 
+        "joy": 0.022714, 
+        "sadness": 0.457732, 
+        "fear": 0.114436, 
+        "disgust": 0.213961
+      }, 
+      "sentiment": {
+        "score": -0.371722, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.636832, 
+      "text": "Mr Hadi", 
+      "emotion": {
+        "anger": 0.073728, 
+        "joy": 0.563949, 
+        "sadness": 0.040934, 
+        "fear": 0.014162, 
+        "disgust": 0.036695
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.630647, 
+      "text": "new page", 
+      "emotion": {
+        "anger": 0.17727, 
+        "joy": 0.221325, 
+        "sadness": 0.423834, 
+        "fear": 0.066404, 
+        "disgust": 0.285522
+      }, 
+      "sentiment": {
+        "score": 0.446471, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.623221, 
+      "text": "main mosque complex", 
+      "emotion": {
+        "anger": 0.436682, 
+        "joy": 0.013311, 
+        "sadness": 0.492402, 
+        "fear": 0.116429, 
+        "disgust": 0.211547
+      }, 
+      "sentiment": {
+        "score": -0.371722, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.620578, 
+      "text": "largest food security", 
+      "emotion": {
+        "anger": 0.039168, 
+        "joy": 0.460581, 
+        "sadness": 0.107082, 
+        "fear": 0.28263, 
+        "disgust": 0.071366
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.616718, 
+      "text": "key Houthi command", 
+      "emotion": {
+        "anger": 0.456643, 
+        "joy": 0.168271, 
+        "sadness": 0.116405, 
+        "fear": 0.242257, 
+        "disgust": 0.018848
+      }, 
+      "sentiment": {
+        "score": -0.433865, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.602676, 
+      "text": "coalition statement", 
+      "emotion": {
+        "anger": 0.185957, 
+        "joy": 0.050907, 
+        "sadness": 0.332696, 
+        "fear": 0.151263, 
+        "disgust": 0.262881
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.590725, 
+      "text": "Yemen", 
+      "emotion": {
+        "anger": 0.340265, 
+        "joy": 0.081081, 
+        "sadness": 0.533042, 
+        "fear": 0.183987, 
+        "disgust": 0.181297
+      }, 
+      "sentiment": {
+        "score": -0.403918, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.587317, 
+      "text": "coup militia", 
+      "emotion": {
+        "anger": 0.03866, 
+        "joy": 0.624271, 
+        "sadness": 0.186573, 
+        "fear": 0.116545, 
+        "disgust": 0.054132
+      }, 
+      "sentiment": {
+        "score": 0.338695, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.586445, 
+      "text": "Yemen conflict", 
+      "emotion": {
+        "anger": 0.200756, 
+        "joy": 0.011728, 
+        "sadness": 0.699869, 
+        "fear": 0.205771, 
+        "disgust": 0.171323
+      }, 
+      "sentiment": {
+        "score": -0.403918, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.584966, 
+      "text": "Hadi government", 
+      "emotion": {
+        "anger": 0.249275, 
+        "joy": 0.139675, 
+        "sadness": 0.383765, 
+        "fear": 0.241866, 
+        "disgust": 0.238345
+      }, 
+      "sentiment": {
+        "score": -0.627452, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.574941, 
+      "text": "Houthi fighters", 
+      "emotion": {
+        "anger": 0.34194, 
+        "joy": 0.059287, 
+        "sadness": 0.436549, 
+        "fear": 0.089626, 
+        "disgust": 0.077878
+      }, 
+      "sentiment": {
+        "score": -0.244981, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.573602, 
+      "text": "positive way", 
+      "emotion": {
+        "anger": 0.116034, 
+        "joy": 0.66856, 
+        "sadness": 0.108558, 
+        "fear": 0.080158, 
+        "disgust": 0.01562
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.572336, 
+      "text": "televised speech", 
+      "emotion": {
+        "anger": 0.303726, 
+        "joy": 0.260333, 
+        "sadness": 0.266752, 
+        "fear": 0.118045, 
+        "disgust": 0.164868
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571507, 
+      "text": "uneasy alliance", 
+      "emotion": {
+        "anger": 0.249275, 
+        "joy": 0.139675, 
+        "sadness": 0.383765, 
+        "fear": 0.241866, 
+        "disgust": 0.238345
+      }, 
+      "sentiment": {
+        "score": -0.627452, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.571427, 
+      "text": "internationally-recognised government", 
+      "emotion": {
+        "anger": 0.315647, 
+        "joy": 0.097781, 
+        "sadness": 0.223943, 
+        "fear": 0.055593, 
+        "disgust": 0.233943
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.570657, 
+      "text": "Aid groups", 
+      "emotion": {
+        "anger": 0.241467, 
+        "joy": 0.096077, 
+        "sadness": 0.459888, 
+        "fear": 0.202219, 
+        "disgust": 0.279023
+      }, 
+      "sentiment": {
+        "score": -0.636872, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.570529, 
+      "text": "cholera outbreak", 
+      "emotion": {
+        "anger": 0.237482, 
+        "joy": 0.037948, 
+        "sadness": 0.537704, 
+        "fear": 0.243062, 
+        "disgust": 0.198709
+      }, 
+      "sentiment": {
+        "score": -0.417388, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.570381, 
+      "text": "political sides", 
+      "emotion": {
+        "anger": 0.182305, 
+        "joy": 0.184026, 
+        "sadness": 0.532555, 
+        "fear": 0.030524, 
+        "disgust": 0.223383
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.569891, 
+      "text": "latest feud", 
+      "emotion": {
+        "anger": 0.436682, 
+        "joy": 0.013311, 
+        "sadness": 0.492402, 
+        "fear": 0.116429, 
+        "disgust": 0.211547
+      }, 
+      "sentiment": {
+        "score": -0.371722, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.568825, 
+      "text": "food aid", 
+      "emotion": {
+        "anger": 0.148201, 
+        "joy": 0.294074, 
+        "sadness": 0.301669, 
+        "fear": 0.115068, 
+        "disgust": 0.241448
+      }, 
+      "sentiment": {
+        "score": 0.446471, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.566112, 
+      "text": "southern suburb", 
+      "emotion": {
+        "anger": 0.476687, 
+        "joy": 0.086076, 
+        "sadness": 0.151367, 
+        "fear": 0.139063, 
+        "disgust": 0.142309
+      }, 
+      "sentiment": {
+        "score": -0.360408, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.566061, 
+      "text": "new era", 
+      "emotion": {
+        "anger": 0.03866, 
+        "joy": 0.624271, 
+        "sadness": 0.186573, 
+        "fear": 0.116545, 
+        "disgust": 0.054132
+      }, 
+      "sentiment": {
+        "score": 0.338695, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.564885, 
+      "text": "humanitarian aid", 
+      "emotion": {
+        "anger": 0.085247, 
+        "joy": 0.122658, 
+        "sadness": 0.602163, 
+        "fear": 0.203744, 
+        "disgust": 0.119287
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.561304, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.178154, 
+        "joy": 0.0266, 
+        "sadness": 0.669253, 
+        "fear": 0.250685, 
+        "disgust": 0.196028
+      }, 
+      "sentiment": {
+        "score": -0.486059, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.539011, 
+      "text": "Sanaa", 
+      "emotion": {
+        "anger": 0.049929, 
+        "joy": 0.329534, 
+        "sadness": 0.061894, 
+        "fear": 0.036638, 
+        "disgust": 0.103314
+      }, 
+      "sentiment": {
+        "score": -0.142537, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.536769, 
+      "text": "blockade", 
+      "emotion": {
+        "anger": 0.107591, 
+        "joy": 0.037055, 
+        "sadness": 0.541972, 
+        "fear": 0.436525, 
+        "disgust": 0.155064
+      }, 
+      "sentiment": {
+        "score": -0.459573, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.535856, 
+      "text": "Houthis", 
+      "emotion": {
+        "anger": 0.182688, 
+        "joy": 0.469449, 
+        "sadness": 0.162208, 
+        "fear": 0.155301, 
+        "disgust": 0.023618
+      }, 
+      "sentiment": {
+        "score": -0.271902, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.531623, 
+      "text": "aggression", 
+      "emotion": {
+        "anger": 0.462563, 
+        "joy": 0.041241, 
+        "sadness": 0.199763, 
+        "fear": 0.186562, 
+        "disgust": 0.346538
+      }, 
+      "sentiment": {
+        "score": -0.578802, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.52883, 
+      "text": "Iran", 
+      "emotion": {
+        "anger": 0.051058, 
+        "joy": 0.03949, 
+        "sadness": 0.308204, 
+        "fear": 0.06765, 
+        "disgust": 0.089168
+      }, 
+      "sentiment": {
+        "score": -0.37091, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.528197, 
+      "text": "forces", 
+      "emotion": {
+        "anger": 0.39902, 
+        "joy": 0.103363, 
+        "sadness": 0.42033, 
+        "fear": 0.132482, 
+        "disgust": 0.16693
+      }, 
+      "sentiment": {
+        "score": -0.244981, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.526402, 
+      "text": "President", 
+      "emotion": {
+        "anger": 0.387852, 
+        "joy": 0.123235, 
+        "sadness": 0.297111, 
+        "fear": 0.125367, 
+        "disgust": 0.298038
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.521907, 
+      "text": "militias", 
+      "emotion": {
+        "anger": 0.054042, 
+        "joy": 0.024463, 
+        "sadness": 0.342709, 
+        "fear": 0.032482, 
+        "disgust": 0.191183
+      }, 
+      "sentiment": {
+        "score": -0.415363, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.520937, 
+      "text": "reports", 
+      "emotion": {
+        "anger": 0.359787, 
+        "joy": 0.312672, 
+        "sadness": 0.080559, 
+        "fear": 0.15398, 
+        "disgust": 0.026445
+      }, 
+      "sentiment": {
+        "score": -0.449927, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.518697, 
+      "text": "Clashes", 
+      "emotion": {
+        "anger": 0.34194, 
+        "joy": 0.059287, 
+        "sadness": 0.436549, 
+        "fear": 0.089626, 
+        "disgust": 0.077878
+      }, 
+      "sentiment": {
+        "score": -0.244981, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.517838, 
+      "text": "gunfire", 
+      "emotion": {
+        "anger": 0.476687, 
+        "joy": 0.086076, 
+        "sadness": 0.151367, 
+        "fear": 0.139063, 
+        "disgust": 0.142309
+      }, 
+      "sentiment": {
+        "score": -0.360408, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.51671, 
+      "text": "fighting", 
+      "emotion": {
+        "anger": 0.302337, 
+        "joy": 0.134149, 
+        "sadness": 0.34975, 
+        "fear": 0.178892, 
+        "disgust": 0.354242
+      }, 
+      "sentiment": {
+        "score": -0.465989, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.514972, 
+      "text": "allies", 
+      "emotion": {
+        "anger": 0.317327, 
+        "joy": 0.137543, 
+        "sadness": 0.276553, 
+        "fear": 0.052348, 
+        "disgust": 0.257987
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.514589, 
+      "text": "spokesman", 
+      "emotion": {
+        "anger": 0.170767, 
+        "joy": 0.111883, 
+        "sadness": 0.571116, 
+        "fear": 0.148902, 
+        "disgust": 0.181797
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.514166, 
+      "text": "offer", 
+      "emotion": {
+        "anger": 0.268675, 
+        "joy": 0.168281, 
+        "sadness": 0.321834, 
+        "fear": 0.199791, 
+        "disgust": 0.232274
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.51401, 
+      "text": "lead", 
+      "emotion": {
+        "anger": 0.224202, 
+        "joy": 0.051575, 
+        "sadness": 0.240628, 
+        "fear": 0.165176, 
+        "disgust": 0.44278
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.513412, 
+      "text": "virtue", 
+      "emotion": {
+        "anger": 0.148201, 
+        "joy": 0.294074, 
+        "sadness": 0.301669, 
+        "fear": 0.115068, 
+        "disgust": 0.241448
+      }, 
+      "sentiment": {
+        "score": 0.446471, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.512994, 
+      "text": "explosions", 
+      "emotion": {
+        "anger": 0.476687, 
+        "joy": 0.086076, 
+        "sadness": 0.151367, 
+        "fear": 0.139063, 
+        "disgust": 0.142309
+      }, 
+      "sentiment": {
+        "score": -0.360408, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.512971, 
+      "text": "siege", 
+      "emotion": {
+        "anger": 0.079014, 
+        "joy": 0.281993, 
+        "sadness": 0.152703, 
+        "fear": 0.099624, 
+        "disgust": 0.125952
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.512896, 
+      "text": "deception", 
+      "emotion": {
+        "anger": 0.433497, 
+        "joy": 0.055037, 
+        "sadness": 0.161932, 
+        "fear": 0.091221, 
+        "disgust": 0.237862
+      }, 
+      "sentiment": {
+        "score": -0.683283, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.727731, 
+        "joy": 0.211163, 
+        "sadness": 0.196152, 
+        "fear": 0.696397, 
+        "disgust": 0.075727
+      }, 
+      "count": 14, 
+      "sentiment": {
+        "score": -0.340796, 
+        "label": "negative"
+      }, 
+      "text": "President Ali Abdullah Saleh", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President"
+        ], 
+        "name": "Ali Abdullah Saleh", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ali_Abdullah_Saleh"
+      }, 
+      "relevance": 0.873399, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.340265, 
+        "joy": 0.081081, 
+        "sadness": 0.533042, 
+        "fear": 0.183987, 
+        "disgust": 0.181297
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.403918, 
+        "label": "negative"
+      }, 
+      "text": "Yemen", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "Country"
+        ], 
+        "name": "Yemen", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Yemen"
+      }, 
+      "relevance": 0.254282, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.250013, 
+        "joy": 0.485358, 
+        "sadness": 0.128167, 
+        "fear": 0.036085, 
+        "disgust": 0.081145
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.239113, 
+        "label": "negative"
+      }, 
+      "text": "Abdrabbuh Mansour Hadi", 
+      "relevance": 0.184649, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.051058, 
+        "joy": 0.03949, 
+        "sadness": 0.308204, 
+        "fear": 0.06765, 
+        "disgust": 0.089168
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.37091, 
+        "label": "negative"
+      }, 
+      "text": "Iran", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ], 
+        "name": "Iran", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Iran"
+      }, 
+      "relevance": 0.146139, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.049929, 
+        "joy": 0.329534, 
+        "sadness": 0.061894, 
+        "fear": 0.036638, 
+        "disgust": 0.103314
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.0712687, 
+        "label": "negative"
+      }, 
+      "text": "Sanaa", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.139615, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.249275, 
+        "joy": 0.139675, 
+        "sadness": 0.383765, 
+        "fear": 0.241866, 
+        "disgust": 0.238345
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.627452, 
+        "label": "negative"
+      }, 
+      "text": "Hadi government", 
+      "relevance": 0.137004, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.423544, 
+        "joy": 0.022714, 
+        "sadness": 0.457732, 
+        "fear": 0.114436, 
+        "disgust": 0.213961
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.371722, 
+        "label": "negative"
+      }, 
+      "text": "Houthi", 
+      "relevance": 0.128199, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.237482, 
+        "joy": 0.037948, 
+        "sadness": 0.537704, 
+        "fear": 0.243062, 
+        "disgust": 0.198709
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.417388, 
+        "label": "negative"
+      }, 
+      "text": "cholera", 
+      "disambiguation": {
+        "subtype": [
+          "DiseaseOrMedicalCondition", 
+          "CauseOfDeath", 
+          "InfectiousDisease", 
+          "Disease"
+        ], 
+        "name": "Cholera", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Cholera"
+      }, 
+      "relevance": 0.108155, 
+      "type": "HealthCondition"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.135722, 
+        "joy": 0.177235, 
+        "sadness": 0.016436, 
+        "fear": 0.090753, 
+        "disgust": 0.14925
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.404562, 
+        "label": "positive"
+      }, 
+      "text": "UN", 
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization", 
+          "AwardWinner", 
+          "GovernmentalBody", 
+          "TouristAttraction"
+        ], 
+        "name": "United Nations", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      }, 
+      "relevance": 0.10618, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.315647, 
+        "joy": 0.097781, 
+        "sadness": 0.223943, 
+        "fear": 0.055593, 
+        "disgust": 0.233943
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President", 
+      "relevance": 0.10292, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.476687, 
+        "joy": 0.086076, 
+        "sadness": 0.151367, 
+        "fear": 0.139063, 
+        "disgust": 0.142309
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.360408, 
+        "label": "negative"
+      }, 
+      "text": "Hadda", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.0849279, 
+      "type": "Location"
+    }, 
+    {
+      "relevance": 0.0849279, 
+      "text": "three years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.bbc.com/news/world-middle-east-42212398"
+}

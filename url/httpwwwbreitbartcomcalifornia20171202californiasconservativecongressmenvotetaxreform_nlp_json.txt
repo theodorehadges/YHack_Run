@@ -1,0 +1,1279 @@
+{
+  "usage": {
+    "text_characters": 2730, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.99135, 
+      "text": "House tax reform", 
+      "emotion": {
+        "anger": 0.12238, 
+        "joy": 0.097812, 
+        "sadness": 0.067683, 
+        "fear": 0.042496, 
+        "disgust": 0.522168
+      }, 
+      "sentiment": {
+        "score": -0.377797, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.813134, 
+      "text": "percent benefit", 
+      "emotion": {
+        "anger": 0.007403, 
+        "joy": 0.18793, 
+        "sadness": 0.14187, 
+        "fear": 0.071726, 
+        "disgust": 0.051003
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.776897, 
+      "text": "local tax deduction", 
+      "emotion": {
+        "anger": 0.007403, 
+        "joy": 0.18793, 
+        "sadness": 0.14187, 
+        "fear": 0.071726, 
+        "disgust": 0.051003
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.75446, 
+      "text": "Rep. Darrell Issa", 
+      "emotion": {
+        "anger": 0.046723, 
+        "joy": 0.488698, 
+        "sadness": 0.353128, 
+        "fear": 0.077044, 
+        "disgust": 0.08159
+      }, 
+      "sentiment": {
+        "score": -0.206549, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.721098, 
+      "text": "Rep. Dana Rohrabacher", 
+      "emotion": {
+        "anger": 0.046626, 
+        "joy": 0.524072, 
+        "sadness": 0.322377, 
+        "fear": 0.071552, 
+        "disgust": 0.058988
+      }, 
+      "sentiment": {
+        "score": -0.503107, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.663353, 
+      "text": "Orange County district", 
+      "emotion": {
+        "anger": 0.128147, 
+        "joy": 0.528464, 
+        "sadness": 0.03613, 
+        "fear": 0.039697, 
+        "disgust": 0.069328
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.635834, 
+      "text": "Rep. Thomas McClintock", 
+      "emotion": {
+        "anger": 0.123601, 
+        "joy": 0.160704, 
+        "sadness": 0.494999, 
+        "fear": 0.110671, 
+        "disgust": 0.307693
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.609467, 
+      "text": "conservative voting records", 
+      "emotion": {
+        "anger": 0.123601, 
+        "joy": 0.160704, 
+        "sadness": 0.494999, 
+        "fear": 0.110671, 
+        "disgust": 0.307693
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.606338, 
+      "text": "Rep. Tom McClintock", 
+      "emotion": {
+        "anger": 0.219071, 
+        "joy": 0.179471, 
+        "sadness": 0.19635, 
+        "fear": 0.034308, 
+        "disgust": 0.316158
+      }, 
+      "sentiment": {
+        "score": -0.410648, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.605876, 
+      "text": "percent score", 
+      "emotion": {
+        "anger": 0.011873, 
+        "joy": 0.45945, 
+        "sadness": 0.434206, 
+        "fear": 0.118255, 
+        "disgust": 0.012492
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.594273, 
+      "text": "Times analysis", 
+      "emotion": {
+        "anger": 0.159879, 
+        "joy": 0.520468, 
+        "sadness": 0.033259, 
+        "fear": 0.035028, 
+        "disgust": 0.045853
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.589723, 
+      "text": "Sen. Barack Obama", 
+      "emotion": {
+        "anger": 0.232046, 
+        "joy": 0.038417, 
+        "sadness": 0.166634, 
+        "fear": 0.070324, 
+        "disgust": 0.72447
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.588307, 
+      "text": "conservative voting ratings", 
+      "emotion": {
+        "anger": 0.117259, 
+        "joy": 0.098213, 
+        "sadness": 0.238261, 
+        "fear": 0.270648, 
+        "disgust": 0.185941
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.587353, 
+      "text": "Congressional Liberty ratings", 
+      "emotion": {
+        "anger": 0.123601, 
+        "joy": 0.160704, 
+        "sadness": 0.494999, 
+        "fear": 0.110671, 
+        "disgust": 0.307693
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.583156, 
+      "text": "liberal Democrat sweep", 
+      "emotion": {
+        "anger": 0.27869, 
+        "joy": 0.03993, 
+        "sadness": 0.18954, 
+        "fear": 0.024632, 
+        "disgust": 0.700145
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.581642, 
+      "text": "conservative legislation efforts", 
+      "emotion": {
+        "anger": 0.281107, 
+        "joy": 0.005132, 
+        "sadness": 0.193151, 
+        "fear": 0.061834, 
+        "disgust": 0.705999
+      }, 
+      "sentiment": {
+        "score": -0.513902, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.577726, 
+      "text": "biggest tax cuts", 
+      "emotion": {
+        "anger": 0.215828, 
+        "joy": 0.147862, 
+        "sadness": 0.336262, 
+        "fear": 0.053415, 
+        "disgust": 0.259946
+      }, 
+      "sentiment": {
+        "score": -0.456464, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.575421, 
+      "text": "tax rate reductions", 
+      "emotion": {
+        "anger": 0.055033, 
+        "joy": 0.065863, 
+        "sadness": 0.078394, 
+        "fear": 0.05929, 
+        "disgust": 0.204297
+      }, 
+      "sentiment": {
+        "score": 0.497089, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.567649, 
+      "text": "Los Angeles Times", 
+      "emotion": {
+        "anger": 0.219071, 
+        "joy": 0.179471, 
+        "sadness": 0.19635, 
+        "fear": 0.034308, 
+        "disgust": 0.316158
+      }, 
+      "sentiment": {
+        "score": -0.410648, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.566597, 
+      "text": "public policy agenda", 
+      "emotion": {
+        "anger": 0.281107, 
+        "joy": 0.005132, 
+        "sadness": 0.193151, 
+        "fear": 0.061834, 
+        "disgust": 0.705999
+      }, 
+      "sentiment": {
+        "score": -0.513902, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.557301, 
+      "text": "Central Valley district", 
+      "emotion": {
+        "anger": 0.118297, 
+        "joy": 0.33014, 
+        "sadness": 0.049118, 
+        "fear": 0.061415, 
+        "disgust": 0.026193
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.547207, 
+      "text": "easy vote", 
+      "emotion": {
+        "anger": 0.088922, 
+        "joy": 0.500463, 
+        "sadness": 0.123268, 
+        "fear": 0.018574, 
+        "disgust": 0.291271
+      }, 
+      "sentiment": {
+        "score": -0.303572, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.540688, 
+      "text": "Rohrabacher\u2019s Orange", 
+      "emotion": {
+        "anger": 0.128147, 
+        "joy": 0.528464, 
+        "sadness": 0.03613, 
+        "fear": 0.039697, 
+        "disgust": 0.069328
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.524774, 
+      "text": "Conservative Reviews", 
+      "emotion": {
+        "anger": 0.071795, 
+        "joy": 0.10802, 
+        "sadness": 0.149336, 
+        "fear": 0.223697, 
+        "disgust": 0.329319
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.501921, 
+      "text": "liberal Democrats", 
+      "emotion": {
+        "anger": 0.281107, 
+        "joy": 0.005132, 
+        "sadness": 0.193151, 
+        "fear": 0.061834, 
+        "disgust": 0.705999
+      }, 
+      "sentiment": {
+        "score": -0.513902, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.501468, 
+      "text": "liberal member", 
+      "emotion": {
+        "anger": 0.232046, 
+        "joy": 0.038417, 
+        "sadness": 0.166634, 
+        "fear": 0.070324, 
+        "disgust": 0.72447
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.500737, 
+      "text": "Republican members", 
+      "emotion": {
+        "anger": 0.123601, 
+        "joy": 0.160704, 
+        "sadness": 0.494999, 
+        "fear": 0.110671, 
+        "disgust": 0.307693
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.499317, 
+      "text": "California members", 
+      "emotion": {
+        "anger": 0.273841, 
+        "joy": 0.040485, 
+        "sadness": 0.095796, 
+        "fear": 0.091011, 
+        "disgust": 0.628989
+      }, 
+      "sentiment": {
+        "score": -0.390885, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.494485, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.215828, 
+        "joy": 0.147862, 
+        "sadness": 0.336262, 
+        "fear": 0.053415, 
+        "disgust": 0.259946
+      }, 
+      "sentiment": {
+        "score": -0.456464, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.494132, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.244269, 
+        "joy": 0.067053, 
+        "sadness": 0.18382, 
+        "fear": 0.085668, 
+        "disgust": 0.619925
+      }, 
+      "sentiment": {
+        "score": -0.464238, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.493091, 
+      "text": "U.S. government", 
+      "emotion": {
+        "anger": 0.27869, 
+        "joy": 0.03993, 
+        "sadness": 0.18954, 
+        "fear": 0.024632, 
+        "disgust": 0.700145
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.492981, 
+      "text": "National Journal", 
+      "emotion": {
+        "anger": 0.232046, 
+        "joy": 0.038417, 
+        "sadness": 0.166634, 
+        "fear": 0.070324, 
+        "disgust": 0.72447
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.492096, 
+      "text": "President Reagan", 
+      "emotion": {
+        "anger": 0.215828, 
+        "joy": 0.147862, 
+        "sadness": 0.336262, 
+        "fear": 0.053415, 
+        "disgust": 0.259946
+      }, 
+      "sentiment": {
+        "score": -0.456464, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.491437, 
+      "text": "victory speech", 
+      "emotion": {
+        "anger": 0.27869, 
+        "joy": 0.03993, 
+        "sadness": 0.18954, 
+        "fear": 0.024632, 
+        "disgust": 0.700145
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.487069, 
+      "text": "business standpoint", 
+      "emotion": {
+        "anger": 0.101996, 
+        "joy": 0.584488, 
+        "sadness": 0.198641, 
+        "fear": 0.026728, 
+        "disgust": 0.114319
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.484389, 
+      "text": "significant number", 
+      "emotion": {
+        "anger": 0.083276, 
+        "joy": 0.041394, 
+        "sadness": 0.243827, 
+        "fear": 0.011037, 
+        "disgust": 0.054522
+      }, 
+      "sentiment": {
+        "score": -0.586907, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460139, 
+      "text": "deductions", 
+      "emotion": {
+        "anger": 0.007403, 
+        "joy": 0.18793, 
+        "sadness": 0.14187, 
+        "fear": 0.071726, 
+        "disgust": 0.051003
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.4585, 
+      "text": "taxes", 
+      "emotion": {
+        "anger": 0.059445, 
+        "joy": 0.040417, 
+        "sadness": 0.158841, 
+        "fear": 0.010123, 
+        "disgust": 0.067055
+      }, 
+      "sentiment": {
+        "score": -0.427281, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.453602, 
+      "text": "state", 
+      "emotion": {
+        "anger": 0.02039, 
+        "joy": 0.254069, 
+        "sadness": 0.259953, 
+        "fear": 0.066238, 
+        "disgust": 0.183758
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.443303, 
+      "text": "Republicans", 
+      "emotion": {
+        "anger": 0.190313, 
+        "joy": 0.087592, 
+        "sadness": 0.178152, 
+        "fear": 0.041023, 
+        "disgust": 0.679999
+      }, 
+      "sentiment": {
+        "score": -0.383517, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.441942, 
+      "text": "mortgages", 
+      "emotion": {
+        "anger": 0.007403, 
+        "joy": 0.18793, 
+        "sadness": 0.14187, 
+        "fear": 0.071726, 
+        "disgust": 0.051003
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.436067, 
+      "text": "constituents", 
+      "emotion": {
+        "anger": 0.096583, 
+        "joy": 0.113335, 
+        "sadness": 0.26548, 
+        "fear": 0.014629, 
+        "disgust": 0.035222
+      }, 
+      "sentiment": {
+        "score": -0.586907, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.417404, 
+      "text": "Californians", 
+      "emotion": {
+        "anger": 0.083276, 
+        "joy": 0.041394, 
+        "sadness": 0.243827, 
+        "fear": 0.011037, 
+        "disgust": 0.054522
+      }, 
+      "sentiment": {
+        "score": -0.586907, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.415857, 
+      "text": "pledge", 
+      "emotion": {
+        "anger": 0.041032, 
+        "joy": 0.121248, 
+        "sadness": 0.05047, 
+        "fear": 0.025709, 
+        "disgust": 0.247562
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.415459, 
+      "text": "Nov.", 
+      "emotion": {
+        "anger": 0.27869, 
+        "joy": 0.03993, 
+        "sadness": 0.18954, 
+        "fear": 0.024632, 
+        "disgust": 0.700145
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.415429, 
+      "text": "Change", 
+      "emotion": {
+        "anger": 0.05438, 
+        "joy": 0.126097, 
+        "sadness": 0.419717, 
+        "fear": 0.151785, 
+        "disgust": 0.182599
+      }, 
+      "sentiment": {
+        "score": 0.502448, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.415415, 
+      "text": "America", 
+      "emotion": {
+        "anger": 0.05438, 
+        "joy": 0.126097, 
+        "sadness": 0.419717, 
+        "fear": 0.151785, 
+        "disgust": 0.182599
+      }, 
+      "sentiment": {
+        "score": 0.502448, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.41528, 
+      "text": "power", 
+      "emotion": {
+        "anger": 0.104743, 
+        "joy": 0.143296, 
+        "sadness": 0.211031, 
+        "fear": 0.013713, 
+        "disgust": 0.590394
+      }, 
+      "sentiment": {
+        "score": -0.302796, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.415021, 
+      "text": "control", 
+      "emotion": {
+        "anger": 0.244269, 
+        "joy": 0.067053, 
+        "sadness": 0.18382, 
+        "fear": 0.085668, 
+        "disgust": 0.619925
+      }, 
+      "sentiment": {
+        "score": -0.464238, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.414165, 
+      "text": "ways", 
+      "emotion": {
+        "anger": 0.144687, 
+        "joy": 0.330656, 
+        "sadness": 0.311033, 
+        "fear": 0.130608, 
+        "disgust": 0.207598
+      }, 
+      "sentiment": {
+        "score": 0.438993, 
+        "label": "positive"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.098325, 
+        "joy": 0.118717, 
+        "sadness": 0.128542, 
+        "fear": 0.061358, 
+        "disgust": 0.162444
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.175517, 
+        "label": "negative"
+      }, 
+      "text": "Rep. Thomas McClintock", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Tom McClintock", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Tom_McClintock"
+      }, 
+      "relevance": 0.935868, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.071927, 
+        "joy": 0.432482, 
+        "sadness": 0.114382, 
+        "fear": 0.091262, 
+        "disgust": 0.113828
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.206549, 
+        "label": "negative"
+      }, 
+      "text": "Rep. Darrell Issa", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Darrell Issa", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Darrell_Issa"
+      }, 
+      "relevance": 0.794247, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.193716, 
+        "joy": 0.132383, 
+        "sadness": 0.22242, 
+        "fear": 0.111717, 
+        "disgust": 0.676756
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.427561, 
+        "label": "negative"
+      }, 
+      "text": "Congress", 
+      "disambiguation": {
+        "subtype": [
+          "Dedicator", 
+          "GovernmentalBody", 
+          "Legislature", 
+          "NaturalOrCulturalPreservationAgency"
+        ], 
+        "name": "United States Congress", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+      }, 
+      "relevance": 0.764465, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.066944, 
+        "joy": 0.448295, 
+        "sadness": 0.155329, 
+        "fear": 0.057608, 
+        "disgust": 0.075977
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.503107, 
+        "label": "negative"
+      }, 
+      "text": "Rep. Dana Rohrabacher", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Dana Rohrabacher", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Dana_Rohrabacher"
+      }, 
+      "relevance": 0.753235, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.313448, 
+        "joy": 0.073697, 
+        "sadness": 0.120746, 
+        "fear": 0.043695, 
+        "disgust": 0.597567
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.400766, 
+        "label": "negative"
+      }, 
+      "text": "House tax", 
+      "relevance": 0.721396, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.308445, 
+        "joy": 0.00826, 
+        "sadness": 0.171117, 
+        "fear": 0.064425, 
+        "disgust": 0.735313
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.0437202, 
+        "label": "negative"
+      }, 
+      "text": "Sen. Barack Obama", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardWinner", 
+          "Celebrity", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "TVActor"
+        ], 
+        "name": "Barack Obama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      }, 
+      "relevance": 0.675546, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.097137, 
+        "joy": 0.107366, 
+        "sadness": 0.062997, 
+        "fear": 0.03441, 
+        "disgust": 0.149248
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.373435, 
+        "label": "negative"
+      }, 
+      "text": "Los Angeles Times", 
+      "disambiguation": {
+        "subtype": [
+          "AwardPresentingOrganization", 
+          "AwardWinner", 
+          "Newspaper"
+        ], 
+        "name": "Los Angeles Times", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Los_Angeles_Times"
+      }, 
+      "relevance": 0.544944, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.273841, 
+        "joy": 0.040485, 
+        "sadness": 0.095796, 
+        "fear": 0.091011, 
+        "disgust": 0.628989
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.390885, 
+        "label": "negative"
+      }, 
+      "text": "California", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "Appellation", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "WineRegion", 
+          "StateOrCounty"
+        ], 
+        "name": "California", 
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      }, 
+      "relevance": 0.469854, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.263093, 
+        "joy": 0.047814, 
+        "sadness": 0.222706, 
+        "fear": 0.055859, 
+        "disgust": 0.667108
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.456464, 
+        "label": "negative"
+      }, 
+      "text": "president", 
+      "relevance": 0.461612, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.100747, 
+        "joy": 0.246631, 
+        "sadness": 0.058507, 
+        "fear": 0.042372, 
+        "disgust": 0.116234
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.354828, 
+        "label": "negative"
+      }, 
+      "text": "Orange County", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "PlaceWithNeighborhoods", 
+          "USCounty", 
+          "StateOrCounty"
+        ], 
+        "name": "Orange County, California", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Orange_County,_California"
+      }, 
+      "relevance": 0.43316, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.244269, 
+        "joy": 0.067053, 
+        "sadness": 0.18382, 
+        "fear": 0.085668, 
+        "disgust": 0.619925
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.464238, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "House", 
+          "TouristAttraction", 
+          "Building"
+        ], 
+        "name": "White House", 
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      }, 
+      "relevance": 0.421844, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.215828, 
+        "joy": 0.147862, 
+        "sadness": 0.336262, 
+        "fear": 0.053415, 
+        "disgust": 0.259946
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.456464, 
+        "label": "negative"
+      }, 
+      "text": "President Reagan", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "AwardWinner", 
+          "ChivalricOrderMember", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "USPresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Ronald Reagan", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+      }, 
+      "relevance": 0.387813, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.232046, 
+        "joy": 0.038417, 
+        "sadness": 0.166634, 
+        "fear": 0.070324, 
+        "disgust": 0.72447
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "National Journal", 
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ], 
+        "name": "National Journal", 
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Journal"
+      }, 
+      "relevance": 0.352216, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.27869, 
+        "joy": 0.03993, 
+        "sadness": 0.18954, 
+        "fear": 0.024632, 
+        "disgust": 0.700145
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "U.S. government", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Federal government of the United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_government_of_the_United_States"
+      }, 
+      "relevance": 0.340734, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.05438, 
+        "joy": 0.126097, 
+        "sadness": 0.419717, 
+        "fear": 0.151785, 
+        "disgust": 0.182599
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.502448, 
+        "label": "positive"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.311136, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.215828, 
+        "joy": 0.147862, 
+        "sadness": 0.336262, 
+        "fear": 0.053415, 
+        "disgust": 0.259946
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.456464, 
+        "label": "negative"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.303209, 
+      "type": "Person"
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "$500,000", 
+      "type": "Quantity", 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "42 percent", 
+      "type": "Quantity", 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "44 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "45 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "52 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "57 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "80 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "88 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "8 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "$10,000", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "8 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.303209, 
+      "text": "$5,000", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/california/2017/12/02/californias-conservative-congressmen-vote-tax-reform/"
+}

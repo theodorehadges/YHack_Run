@@ -1,0 +1,1101 @@
+{
+  "usage": {
+    "text_characters": 1817, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.901552, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.330814, 
+        "joy": 0.394734, 
+        "sadness": 0.198901, 
+        "fear": 0.070066, 
+        "disgust": 0.12943
+      }, 
+      "sentiment": {
+        "score": -0.497837, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.708717, 
+      "text": "Advisor Michael Flynn", 
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.671663, 
+      "text": "Breitbart News", 
+      "emotion": {
+        "anger": 0.099182, 
+        "joy": 0.167279, 
+        "sadness": 0.454107, 
+        "fear": 0.186437, 
+        "disgust": 0.135813
+      }, 
+      "sentiment": {
+        "score": 0.0527808, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.65942, 
+      "text": "Counsel Robert Mueller", 
+      "emotion": {
+        "anger": 0.127344, 
+        "joy": 0.386207, 
+        "sadness": 0.072661, 
+        "fear": 0.164012, 
+        "disgust": 0.041212
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.653297, 
+      "text": "President Donald Trump", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.652126, 
+      "text": "legal team", 
+      "emotion": {
+        "anger": 0.123931, 
+        "joy": 0.345862, 
+        "sadness": 0.150816, 
+        "fear": 0.013085, 
+        "disgust": 0.053672
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.646191, 
+      "text": "House legal team", 
+      "emotion": {
+        "anger": 0.16572, 
+        "joy": 0.110705, 
+        "sadness": 0.118142, 
+        "fear": 0.107781, 
+        "disgust": 0.134577
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.62999, 
+      "text": "New York Times", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.621529, 
+      "text": "White House lawyers", 
+      "emotion": {
+        "anger": 0.315899, 
+        "joy": 0.340932, 
+        "sadness": 0.247926, 
+        "fear": 0.030883, 
+        "disgust": 0.254073
+      }, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.617313, 
+      "text": "Joel B. Pollak", 
+      "emotion": {
+        "anger": 0.083133, 
+        "joy": 0.243919, 
+        "sadness": 0.227481, 
+        "fear": 0.134134, 
+        "disgust": 0.068064
+      }, 
+      "sentiment": {
+        "score": 0.734971, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.55606, 
+      "text": "Ty Cobb", 
+      "emotion": {
+        "anger": 0.042485, 
+        "joy": 0.486871, 
+        "sadness": 0.025434, 
+        "fear": 0.024923, 
+        "disgust": 0.021599
+      }, 
+      "sentiment": {
+        "score": 0.409173, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.549468, 
+      "text": "Friday afternoon", 
+      "emotion": {
+        "anger": 0.067398, 
+        "joy": 0.728641, 
+        "sadness": 0.068468, 
+        "fear": 0.117384, 
+        "disgust": 0.006288
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.542454, 
+      "text": "Politico", 
+      "emotion": {
+        "anger": 0.122676, 
+        "joy": 0.468478, 
+        "sadness": 0.187355, 
+        "fear": 0.207114, 
+        "disgust": 0.00296
+      }, 
+      "sentiment": {
+        "score": 0.362658, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.534478, 
+      "text": "Trump Won", 
+      "emotion": {
+        "anger": 0.032582, 
+        "joy": 0.750269, 
+        "sadness": 0.166967, 
+        "fear": 0.017735, 
+        "disgust": 0.018128
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.531039, 
+      "text": "Russia investigation", 
+      "emotion": {
+        "anger": 0.16572, 
+        "joy": 0.110705, 
+        "sadness": 0.118142, 
+        "fear": 0.107781, 
+        "disgust": 0.134577
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.526837, 
+      "text": "earlier predictions", 
+      "emotion": {
+        "anger": 0.040815, 
+        "joy": 0.273452, 
+        "sadness": 0.383562, 
+        "fear": 0.042674, 
+        "disgust": 0.021936
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.521816, 
+      "text": "Russia collusion", 
+      "emotion": {
+        "anger": 0.126735, 
+        "joy": 0.038775, 
+        "sadness": 0.248571, 
+        "fear": 0.090738, 
+        "disgust": 0.140028
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.520767, 
+      "text": "reasonable conclusion.", 
+      "sentiment": {
+        "score": 0.575765, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.518533, 
+      "text": "inner circle", 
+      "emotion": {
+        "anger": 0.315899, 
+        "joy": 0.340932, 
+        "sadness": 0.247926, 
+        "fear": 0.030883, 
+        "disgust": 0.254073
+      }, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.517279, 
+      "text": "minor charge", 
+      "emotion": {
+        "anger": 0.315899, 
+        "joy": 0.340932, 
+        "sadness": 0.247926, 
+        "fear": 0.030883, 
+        "disgust": 0.254073
+      }, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.511027, 
+      "text": "Senior Editor-at-Large", 
+      "emotion": {
+        "anger": 0.083133, 
+        "joy": 0.243919, 
+        "sadness": 0.227481, 
+        "fear": 0.134134, 
+        "disgust": 0.068064
+      }, 
+      "sentiment": {
+        "score": 0.734971, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.509541, 
+      "text": "news media", 
+      "emotion": {
+        "anger": 0.165758, 
+        "joy": 0.059753, 
+        "sadness": 0.39431, 
+        "fear": 0.086556, 
+        "disgust": 0.595886
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.454963, 
+      "text": "probe", 
+      "emotion": {
+        "anger": 0.065259, 
+        "joy": 0.409272, 
+        "sadness": 0.236042, 
+        "fear": 0.008487, 
+        "disgust": 0.02334
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.454324, 
+      "text": "Thanksgiving", 
+      "emotion": {
+        "anger": 0.065259, 
+        "joy": 0.409272, 
+        "sadness": 0.236042, 
+        "fear": 0.008487, 
+        "disgust": 0.02334
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.433919, 
+      "text": "Regnery", 
+      "emotion": {
+        "anger": 0.034324, 
+        "joy": 0.045028, 
+        "sadness": 0.076133, 
+        "fear": 0.026858, 
+        "disgust": 0.006249
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.427538, 
+      "text": "surprise", 
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.426461, 
+      "text": "surprises", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.508336, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.42614, 
+      "text": "co-author", 
+      "emotion": {
+        "anger": 0.032582, 
+        "joy": 0.750269, 
+        "sadness": 0.166967, 
+        "fear": 0.017735, 
+        "disgust": 0.018128
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.425927, 
+      "text": "termination", 
+      "emotion": {
+        "anger": 0.127344, 
+        "joy": 0.386207, 
+        "sadness": 0.072661, 
+        "fear": 0.164012, 
+        "disgust": 0.041212
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.42525, 
+      "text": "FBI", 
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.424801, 
+      "text": "Twitter", 
+      "emotion": {
+        "anger": 0.039766, 
+        "joy": 0.465327, 
+        "sadness": 0.184809, 
+        "fear": 0.06905, 
+        "disgust": 0.014948
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.422627, 
+      "text": "article", 
+      "emotion": {
+        "anger": 0.067398, 
+        "joy": 0.728641, 
+        "sadness": 0.068468, 
+        "fear": 0.117384, 
+        "disgust": 0.006288
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.422418, 
+      "text": "National", 
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.42241, 
+      "text": "Security", 
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.422399, 
+      "text": "agreement", 
+      "emotion": {
+        "anger": 0.077424, 
+        "joy": 0.40925, 
+        "sadness": 0.16648, 
+        "fear": 0.00675, 
+        "disgust": 0.032639
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.421799, 
+      "text": "reports", 
+      "emotion": {
+        "anger": 0.025805, 
+        "joy": 0.037553, 
+        "sadness": 0.449408, 
+        "fear": 0.271312, 
+        "disgust": 0.0055
+      }, 
+      "sentiment": {
+        "score": -0.306722, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.420789, 
+      "text": "information", 
+      "emotion": {
+        "anger": 0.077424, 
+        "joy": 0.40925, 
+        "sadness": 0.16648, 
+        "fear": 0.00675, 
+        "disgust": 0.032639
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.420673, 
+      "text": "emphasis", 
+      "emotion": {
+        "anger": 0.075321, 
+        "joy": 0.205092, 
+        "sadness": 0.040528, 
+        "fear": 0.069236, 
+        "disgust": 0.025759
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.42049, 
+      "text": "Special", 
+      "emotion": {
+        "anger": 0.127344, 
+        "joy": 0.386207, 
+        "sadness": 0.072661, 
+        "fear": 0.164012, 
+        "disgust": 0.041212
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419881, 
+      "text": "charges", 
+      "emotion": {
+        "anger": 0.126735, 
+        "joy": 0.038775, 
+        "sadness": 0.248571, 
+        "fear": 0.090738, 
+        "disgust": 0.140028
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419844, 
+      "text": "members", 
+      "emotion": {
+        "anger": 0.315899, 
+        "joy": 0.340932, 
+        "sadness": 0.247926, 
+        "fear": 0.030883, 
+        "disgust": 0.254073
+      }, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.419824, 
+      "text": "family", 
+      "emotion": {
+        "anger": 0.315899, 
+        "joy": 0.340932, 
+        "sadness": 0.247926, 
+        "fear": 0.030883, 
+        "disgust": 0.254073
+      }, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.419546, 
+      "text": "joelpollak", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419426, 
+      "text": "statement", 
+      "emotion": {
+        "anger": 0.08219, 
+        "joy": 0.196167, 
+        "sadness": 0.119758, 
+        "fear": 0.083795, 
+        "disgust": 0.111252
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419344, 
+      "text": "sense", 
+      "emotion": {
+        "anger": 0.127344, 
+        "joy": 0.386207, 
+        "sadness": 0.072661, 
+        "fear": 0.164012, 
+        "disgust": 0.041212
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419025, 
+      "text": "eople", 
+      "emotion": {
+        "anger": 0.116962, 
+        "joy": 0.223078, 
+        "sadness": 0.231427, 
+        "fear": 0.136738, 
+        "disgust": 0.091698
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.418941, 
+      "text": "source", 
+      "emotion": {
+        "anger": 0.155642, 
+        "joy": 0.156397, 
+        "sadness": 0.406422, 
+        "fear": 0.24275, 
+        "disgust": 0.006339
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.418801, 
+      "text": "Story", 
+      "emotion": {
+        "anger": 0.107534, 
+        "joy": 0.633141, 
+        "sadness": 0.093513, 
+        "fear": 0.014316, 
+        "disgust": 0.165328
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.316557, 
+        "joy": 0.297434, 
+        "sadness": 0.221457, 
+        "fear": 0.051521, 
+        "disgust": 0.351869
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.409817, 
+        "label": "negative"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.945145, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.122676, 
+        "joy": 0.468478, 
+        "sadness": 0.187355, 
+        "fear": 0.207114, 
+        "disgust": 0.00296
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.362658, 
+        "label": "positive"
+      }, 
+      "text": "Politico", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Politico", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Politico"
+      }, 
+      "relevance": 0.831016, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.135615, 
+        "joy": 0.37565, 
+        "sadness": 0.06774, 
+        "fear": 0.119319, 
+        "disgust": 0.13842
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Robert Mueller", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.723681, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.330814, 
+        "joy": 0.394734, 
+        "sadness": 0.198901, 
+        "fear": 0.070066, 
+        "disgust": 0.12943
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.550726, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "relevance": 0.704145, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.330814, 
+        "joy": 0.394734, 
+        "sadness": 0.198901, 
+        "fear": 0.070066, 
+        "disgust": 0.12943
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "relevance": 0.659782, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.068487, 
+        "joy": 0.639605, 
+        "sadness": 0.178903, 
+        "fear": 0.081747, 
+        "disgust": 0.05056
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": 0.734971, 
+        "label": "positive"
+      }, 
+      "text": "Joel B. Pollak", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Joel Pollak", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Joel_Pollak"
+      }, 
+      "relevance": 0.599542, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.074775, 
+        "joy": 0.319123, 
+        "sadness": 0.061117, 
+        "fear": 0.051377, 
+        "disgust": 0.078957
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.409173, 
+        "label": "positive"
+      }, 
+      "text": "Ty Cobb", 
+      "disambiguation": {
+        "subtype": [
+          "Athlete", 
+          "HallOfFameInductee", 
+          "MilitaryPerson", 
+          "FilmActor"
+        ], 
+        "name": "Ty Cobb", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ty_Cobb"
+      }, 
+      "relevance": 0.599224, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.099182, 
+        "joy": 0.167279, 
+        "sadness": 0.454107, 
+        "fear": 0.186437, 
+        "disgust": 0.135813
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0263904, 
+        "label": "positive"
+      }, 
+      "text": "Breitbart News", 
+      "relevance": 0.567405, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.52062, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.184759, 
+        "joy": 0.056414, 
+        "sadness": 0.15866, 
+        "fear": 0.091677, 
+        "disgust": 0.158417
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Russia", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.470345, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York Times", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Company", 
+          "AwardPresentingOrganization", 
+          "AwardWinner", 
+          "CompanyShareholder", 
+          "Newspaper"
+        ], 
+        "name": "The New York Times", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_York_Times"
+      }, 
+      "relevance": 0.412335, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.378392, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.034324, 
+        "joy": 0.045028, 
+        "sadness": 0.076133, 
+        "fear": 0.026858, 
+        "disgust": 0.006249
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Regnery", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.352854, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.039766, 
+        "joy": 0.465327, 
+        "sadness": 0.184809, 
+        "fear": 0.06905, 
+        "disgust": 0.014948
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Twitter", 
+      "disambiguation": {
+        "subtype": [
+          "Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Twitter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      }, 
+      "relevance": 0.348851, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }, 
+      "text": "Advisor", 
+      "relevance": 0.346644, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.192885, 
+        "joy": 0.070003, 
+        "sadness": 0.435066, 
+        "fear": 0.089125, 
+        "disgust": 0.50582
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.374688, 
+        "label": "negative"
+      }, 
+      "text": "National Security", 
+      "relevance": 0.33828, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.315899, 
+        "joy": 0.340932, 
+        "sadness": 0.247926, 
+        "fear": 0.030883, 
+        "disgust": 0.254073
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.444947, 
+        "label": "negative"
+      }, 
+      "text": "president", 
+      "relevance": 0.337146, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.127344, 
+        "joy": 0.386207, 
+        "sadness": 0.072661, 
+        "fear": 0.164012, 
+        "disgust": 0.041212
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Special Counsel", 
+      "relevance": 0.32371, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.32371, 
+      "text": "@joelpollak", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/01/michael-flynn-report-trump-white-house-caught-off-guard-flynn-plea-counsel-didnt-know/"
+}

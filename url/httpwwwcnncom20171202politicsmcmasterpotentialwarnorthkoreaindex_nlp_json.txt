@@ -1,0 +1,886 @@
+{
+  "usage": {
+    "text_characters": 1439, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.975739, 
+      "text": "adviser HR McMaster", 
+      "emotion": {
+        "anger": 0.121192, 
+        "joy": 0.438948, 
+        "sadness": 0.21374, 
+        "fear": 0.130214, 
+        "disgust": 0.203609
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.932252, 
+      "text": "North Korea", 
+      "emotion": {
+        "anger": 0.118013, 
+        "joy": 0.442852, 
+        "sadness": 0.208361, 
+        "fear": 0.121386, 
+        "disgust": 0.214055
+      }, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.786024, 
+      "text": "intercontinental ballistic missile", 
+      "emotion": {
+        "anger": 0.054466, 
+        "joy": 0.279392, 
+        "sadness": 0.417128, 
+        "fear": 0.13997, 
+        "disgust": 0.050092
+      }, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.777364, 
+      "text": "greatest immediate threat", 
+      "emotion": {
+        "anger": 0.020326, 
+        "joy": 0.109957, 
+        "sadness": 0.06223, 
+        "fear": 0.862883, 
+        "disgust": 0.02966
+      }, 
+      "sentiment": {
+        "score": -0.352091, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.722599, 
+      "text": "Reagan National Defense", 
+      "emotion": {
+        "anger": 0.081517, 
+        "joy": 0.077122, 
+        "sadness": 0.430175, 
+        "fear": 0.167085, 
+        "disgust": 0.348178
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.72131, 
+      "text": "President Donald Trump", 
+      "emotion": {
+        "anger": 0.261116, 
+        "joy": 0.1786, 
+        "sadness": 0.168434, 
+        "fear": 0.084986, 
+        "disgust": 0.148255
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.707952, 
+      "text": "greater economic sanctions", 
+      "emotion": {
+        "anger": 0.031661, 
+        "joy": 0.461126, 
+        "sadness": 0.037303, 
+        "fear": 0.085166, 
+        "disgust": 0.033658
+      }, 
+      "sentiment": {
+        "score": -0.314647, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.700766, 
+      "text": "leader Kim Jong", 
+      "emotion": {
+        "anger": 0.166539, 
+        "joy": 0.071385, 
+        "sadness": 0.066113, 
+        "fear": 0.047783, 
+        "disgust": 0.423102
+      }, 
+      "sentiment": {
+        "score": 0.437261, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.514574, 
+      "text": "communist nation", 
+      "emotion": {
+        "anger": 0.116875, 
+        "joy": 0.373427, 
+        "sadness": 0.236333, 
+        "fear": 0.076872, 
+        "disgust": 0.183835
+      }, 
+      "sentiment": {
+        "score": -0.562279, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.506016, 
+      "text": "United States", 
+      "emotion": {
+        "anger": 0.020326, 
+        "joy": 0.109957, 
+        "sadness": 0.06223, 
+        "fear": 0.862883, 
+        "disgust": 0.02966
+      }, 
+      "sentiment": {
+        "score": -0.352091, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.500702, 
+      "text": "missile launch", 
+      "emotion": {
+        "anger": 0.113853, 
+        "joy": 0.225046, 
+        "sadness": 0.278168, 
+        "fear": 0.375562, 
+        "disgust": 0.106888
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.497126, 
+      "text": "Simi Valley", 
+      "emotion": {
+        "anger": 0.081517, 
+        "joy": 0.077122, 
+        "sadness": 0.430175, 
+        "fear": 0.167085, 
+        "disgust": 0.348178
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.472862, 
+      "text": "complete denuclearization", 
+      "emotion": {
+        "anger": 0.261116, 
+        "joy": 0.1786, 
+        "sadness": 0.168434, 
+        "fear": 0.084986, 
+        "disgust": 0.148255
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.466849, 
+      "text": "Korean Peninsula", 
+      "emotion": {
+        "anger": 0.261116, 
+        "joy": 0.1786, 
+        "sadness": 0.168434, 
+        "fear": 0.084986, 
+        "disgust": 0.148255
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.465763, 
+      "text": "nonmilitary ways", 
+      "emotion": {
+        "anger": 0.293026, 
+        "joy": 0.053102, 
+        "sadness": 0.203452, 
+        "fear": 0.063651, 
+        "disgust": 0.025804
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.46554, 
+      "text": "armed conflict", 
+      "emotion": {
+        "anger": 0.098808, 
+        "joy": 0.018236, 
+        "sadness": 0.454688, 
+        "fear": 0.535482, 
+        "disgust": 0.106246
+      }, 
+      "sentiment": {
+        "score": -0.607067, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.459197, 
+      "text": "economic power", 
+      "emotion": {
+        "anger": 0.064776, 
+        "joy": 0.385972, 
+        "sadness": 0.044701, 
+        "fear": 0.208317, 
+        "disgust": 0.072631
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.451323, 
+      "text": "nuclear test", 
+      "emotion": {
+        "anger": 0.113853, 
+        "joy": 0.225046, 
+        "sadness": 0.278168, 
+        "fear": 0.375562, 
+        "disgust": 0.106888
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.369299, 
+      "text": "China", 
+      "emotion": {
+        "anger": 0.232641, 
+        "joy": 0.356181, 
+        "sadness": 0.108834, 
+        "fear": 0.074122, 
+        "disgust": 0.103847
+      }, 
+      "sentiment": {
+        "score": -0.384511, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.320005, 
+      "text": "race", 
+      "emotion": {
+        "anger": 0.161593, 
+        "joy": 0.313458, 
+        "sadness": 0.340649, 
+        "fear": 0.180967, 
+        "disgust": 0.076356
+      }, 
+      "sentiment": {
+        "score": -0.264703, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.293648, 
+      "text": "war", 
+      "emotion": {
+        "anger": 0.060821, 
+        "joy": 0.393406, 
+        "sadness": 0.347347, 
+        "fear": 0.09038, 
+        "disgust": 0.090132
+      }, 
+      "sentiment": {
+        "score": -0.433967, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.287003, 
+      "text": "problem", 
+      "emotion": {
+        "anger": 0.153956, 
+        "joy": 0.125878, 
+        "sadness": 0.316318, 
+        "fear": 0.50135, 
+        "disgust": 0.064824
+      }, 
+      "sentiment": {
+        "score": -0.456112, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.286739, 
+      "text": "Pyongyang", 
+      "emotion": {
+        "anger": 0.031661, 
+        "joy": 0.461126, 
+        "sadness": 0.037303, 
+        "fear": 0.085166, 
+        "disgust": 0.033658
+      }, 
+      "sentiment": {
+        "score": -0.314647, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.260391, 
+      "text": "anybody", 
+      "emotion": {
+        "anger": 0.334251, 
+        "joy": 0.152386, 
+        "sadness": 0.292216, 
+        "fear": 0.101581, 
+        "disgust": 0.105376
+      }, 
+      "sentiment": {
+        "score": -0.46834, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.257803, 
+      "text": "favor", 
+      "emotion": {
+        "anger": 0.334251, 
+        "joy": 0.152386, 
+        "sadness": 0.292216, 
+        "fear": 0.101581, 
+        "disgust": 0.105376
+      }, 
+      "sentiment": {
+        "score": -0.46834, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.254456, 
+      "text": "CNN", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.25207, 
+      "text": "Saturday", 
+      "emotion": {
+        "anger": 0.121192, 
+        "joy": 0.438948, 
+        "sadness": 0.21374, 
+        "fear": 0.130214, 
+        "disgust": 0.203609
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.250621, 
+      "text": "White", 
+      "emotion": {
+        "anger": 0.121192, 
+        "joy": 0.438948, 
+        "sadness": 0.21374, 
+        "fear": 0.130214, 
+        "disgust": 0.203609
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.250602, 
+      "text": "House", 
+      "emotion": {
+        "anger": 0.121192, 
+        "joy": 0.438948, 
+        "sadness": 0.21374, 
+        "fear": 0.130214, 
+        "disgust": 0.203609
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.250562, 
+      "text": "security", 
+      "emotion": {
+        "anger": 0.121192, 
+        "joy": 0.438948, 
+        "sadness": 0.21374, 
+        "fear": 0.130214, 
+        "disgust": 0.203609
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.250062, 
+      "text": "Beijing", 
+      "emotion": {
+        "anger": 0.061969, 
+        "joy": 0.192438, 
+        "sadness": 0.12149, 
+        "fear": 0.085383, 
+        "disgust": 0.095345
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.248744, 
+      "text": "chance", 
+      "emotion": {
+        "anger": 0.054466, 
+        "joy": 0.279392, 
+        "sadness": 0.417128, 
+        "fear": 0.13997, 
+        "disgust": 0.050092
+      }, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.246929, 
+      "text": "audience", 
+      "emotion": {
+        "anger": 0.081517, 
+        "joy": 0.077122, 
+        "sadness": 0.430175, 
+        "fear": 0.167085, 
+        "disgust": 0.348178
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.245973, 
+      "text": "Forum", 
+      "emotion": {
+        "anger": 0.081517, 
+        "joy": 0.077122, 
+        "sadness": 0.430175, 
+        "fear": 0.167085, 
+        "disgust": 0.348178
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.245879, 
+      "text": "California", 
+      "emotion": {
+        "anger": 0.054466, 
+        "joy": 0.279392, 
+        "sadness": 0.417128, 
+        "fear": 0.13997, 
+        "disgust": 0.050092
+      }, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.245578, 
+      "text": "Tuesday", 
+      "emotion": {
+        "anger": 0.054466, 
+        "joy": 0.279392, 
+        "sadness": 0.417128, 
+        "fear": 0.13997, 
+        "disgust": 0.050092
+      }, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.112416, 
+        "joy": 0.158403, 
+        "sadness": 0.575113, 
+        "fear": 0.111173, 
+        "disgust": 0.174135
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.224248, 
+        "label": "negative"
+      }, 
+      "text": "McMaster", 
+      "relevance": 0.909814, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.118013, 
+        "joy": 0.442852, 
+        "sadness": 0.208361, 
+        "fear": 0.121386, 
+        "disgust": 0.214055
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }, 
+      "text": "North Korea", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction", 
+          "Country"
+        ], 
+        "name": "North Korea", 
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Korea"
+      }, 
+      "relevance": 0.482602, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.291474, 
+        "joy": 0.324722, 
+        "sadness": 0.100201, 
+        "fear": 0.053944, 
+        "disgust": 0.136743
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.384511, 
+        "label": "negative"
+      }, 
+      "text": "China", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "Kingdom", 
+          "FilmScreeningVenue", 
+          "Country"
+        ], 
+        "name": "China", 
+        "dbpedia_resource": "http://dbpedia.org/resource/China"
+      }, 
+      "relevance": 0.377384, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.11559, 
+        "joy": 0.114368, 
+        "sadness": 0.065911, 
+        "fear": 0.038957, 
+        "disgust": 0.337532
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.431003, 
+        "label": "positive"
+      }, 
+      "text": "Kim Jong Un", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Kim Jong-un", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Kim_Jong-un"
+      }, 
+      "relevance": 0.25907, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.261116, 
+        "joy": 0.1786, 
+        "sadness": 0.168434, 
+        "fear": 0.084986, 
+        "disgust": 0.148255
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.227565, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Reagan National Defense", 
+      "relevance": 0.212575, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.261116, 
+        "joy": 0.1786, 
+        "sadness": 0.168434, 
+        "fear": 0.084986, 
+        "disgust": 0.148255
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Korean Peninsula", 
+      "relevance": 0.202203, 
+      "type": "GeographicFeature"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.081517, 
+        "joy": 0.077122, 
+        "sadness": 0.430175, 
+        "fear": 0.167085, 
+        "disgust": 0.348178
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Simi Valley", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.192689, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.031661, 
+        "joy": 0.461126, 
+        "sadness": 0.037303, 
+        "fear": 0.085166, 
+        "disgust": 0.033658
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.314647, 
+        "label": "negative"
+      }, 
+      "text": "Pyongyang", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "City"
+        ], 
+        "name": "Pyongyang", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Pyongyang"
+      }, 
+      "relevance": 0.189718, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.020326, 
+        "joy": 0.109957, 
+        "sadness": 0.06223, 
+        "fear": 0.862883, 
+        "disgust": 0.02966
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.352091, 
+        "label": "negative"
+      }, 
+      "text": "United States", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.184243, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CNN", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "RadioNetwork", 
+          "TVNetwork"
+        ], 
+        "name": "CNN", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      }, 
+      "relevance": 0.180378, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.054466, 
+        "joy": 0.279392, 
+        "sadness": 0.417128, 
+        "fear": 0.13997, 
+        "disgust": 0.050092
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.305656, 
+        "label": "negative"
+      }, 
+      "text": "California", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "Appellation", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "WineRegion", 
+          "StateOrCounty"
+        ], 
+        "name": "California", 
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      }, 
+      "relevance": 0.177852, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.061969, 
+        "joy": 0.192438, 
+        "sadness": 0.12149, 
+        "fear": 0.085383, 
+        "disgust": 0.095345
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Beijing", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ], 
+        "name": "Beijing", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Beijing"
+      }, 
+      "relevance": 0.173857, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.121192, 
+        "joy": 0.438948, 
+        "sadness": 0.21374, 
+        "fear": 0.130214, 
+        "disgust": 0.203609
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "White House", 
+      "relevance": 0.16985, 
+      "type": "Organization"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.cnn.com/2017/12/02/politics/mcmaster-potential-war-north-korea/index.html"
+}

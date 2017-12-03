@@ -1,0 +1,787 @@
+{
+  "usage": {
+    "text_characters": 1948, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.968628, 
+      "text": "Drug Administration sites", 
+      "emotion": {
+        "anger": 0.202184, 
+        "joy": 0.046442, 
+        "sadness": 0.396378, 
+        "fear": 0.382605, 
+        "disgust": 0.257172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.847684, 
+      "text": "proposed depopulation", 
+      "emotion": {
+        "anger": 0.167965, 
+        "joy": 0.235966, 
+        "sadness": 0.061809, 
+        "fear": 0.086043, 
+        "disgust": 0.094111
+      }, 
+      "sentiment": {
+        "score": -0.31721, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.802037, 
+      "text": "year-old granddaughter", 
+      "sentiment": {
+        "score": -0.59831, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.777444, 
+      "text": "tremendous strides", 
+      "emotion": {
+        "anger": 0.035367, 
+        "joy": 0.822043, 
+        "sadness": 0.087848, 
+        "fear": 0.057471, 
+        "disgust": 0.003445
+      }, 
+      "sentiment": {
+        "score": 0.738988, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.774831, 
+      "text": "huge amounts", 
+      "emotion": {
+        "anger": 0.156155, 
+        "joy": 0.283885, 
+        "sadness": 0.167336, 
+        "fear": 0.102297, 
+        "disgust": 0.287411
+      }, 
+      "sentiment": {
+        "score": -0.216836, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.773819, 
+      "text": "vaccines", 
+      "emotion": {
+        "anger": 0.234318, 
+        "joy": 0.018963, 
+        "sadness": 0.423096, 
+        "fear": 0.400226, 
+        "disgust": 0.288689
+      }, 
+      "sentiment": {
+        "score": -0.499649, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.773163, 
+      "text": "black statistics", 
+      "emotion": {
+        "anger": 0.118569, 
+        "joy": 0.100172, 
+        "sadness": 0.194152, 
+        "fear": 0.198731, 
+        "disgust": 0.12658
+      }, 
+      "sentiment": {
+        "score": 0.345903, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.768026, 
+      "text": "official Food", 
+      "emotion": {
+        "anger": 0.202184, 
+        "joy": 0.046442, 
+        "sadness": 0.396378, 
+        "fear": 0.382605, 
+        "disgust": 0.257172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.767398, 
+      "text": "pharmaceutical mafia", 
+      "emotion": {
+        "anger": 0.088659, 
+        "joy": 0.393299, 
+        "sadness": 0.287138, 
+        "fear": 0.185367, 
+        "disgust": 0.141057
+      }, 
+      "sentiment": {
+        "score": -0.754098, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.760943, 
+      "text": "single parent", 
+      "emotion": {
+        "anger": 0.088659, 
+        "joy": 0.393299, 
+        "sadness": 0.287138, 
+        "fear": 0.185367, 
+        "disgust": 0.141057
+      }, 
+      "sentiment": {
+        "score": -0.754098, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.733699, 
+      "text": "yo son", 
+      "emotion": {
+        "anger": 0.27361, 
+        "joy": 0.161222, 
+        "sadness": 0.202403, 
+        "fear": 0.086306, 
+        "disgust": 0.085741
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.732194, 
+      "text": "pretty self", 
+      "emotion": {
+        "anger": 0.038098, 
+        "joy": 0.587377, 
+        "sadness": 0.207144, 
+        "fear": 0.060145, 
+        "disgust": 0.171209
+      }, 
+      "sentiment": {
+        "score": 0.5878, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.727887, 
+      "text": "Diagnostic criteria", 
+      "emotion": {
+        "anger": 0.086019, 
+        "joy": 0.228532, 
+        "sadness": 0.285005, 
+        "fear": 0.123616, 
+        "disgust": 0.040026
+      }, 
+      "sentiment": {
+        "score": 0.547475, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.724632, 
+      "text": "high functioning", 
+      "emotion": {
+        "anger": 0.038098, 
+        "joy": 0.587377, 
+        "sadness": 0.207144, 
+        "fear": 0.060145, 
+        "disgust": 0.171209
+      }, 
+      "sentiment": {
+        "score": 0.5878, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.713963, 
+      "text": "speech therapies", 
+      "emotion": {
+        "anger": 0.035367, 
+        "joy": 0.822043, 
+        "sadness": 0.087848, 
+        "fear": 0.057471, 
+        "disgust": 0.003445
+      }, 
+      "sentiment": {
+        "score": 0.738988, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.705507, 
+      "text": "high function", 
+      "emotion": {
+        "anger": 0.135292, 
+        "joy": 0.354635, 
+        "sadness": 0.364202, 
+        "fear": 0.048696, 
+        "disgust": 0.117527
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.702597, 
+      "text": "close family", 
+      "emotion": {
+        "anger": 0.019927, 
+        "joy": 0.35428, 
+        "sadness": 0.579583, 
+        "fear": 0.088637, 
+        "disgust": 0.023977
+      }, 
+      "sentiment": {
+        "score": -0.694764, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.699122, 
+      "text": "eye contact", 
+      "emotion": {
+        "anger": 0.008714, 
+        "joy": 0.775071, 
+        "sadness": 0.032321, 
+        "fear": 0.041875, 
+        "disgust": 0.011732
+      }, 
+      "sentiment": {
+        "score": 0.559818, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.642137, 
+      "text": "autism", 
+      "emotion": {
+        "anger": 0.282345, 
+        "joy": 0.022283, 
+        "sadness": 0.46608, 
+        "fear": 0.263378, 
+        "disgust": 0.348119
+      }, 
+      "sentiment": {
+        "score": -0.502197, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.537699, 
+      "text": "child", 
+      "emotion": {
+        "anger": 0.108397, 
+        "joy": 0.235465, 
+        "sadness": 0.341495, 
+        "fear": 0.216362, 
+        "disgust": 0.280158
+      }, 
+      "sentiment": {
+        "score": -0.754098, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.537481, 
+      "text": "planet", 
+      "emotion": {
+        "anger": 0.123268, 
+        "joy": 0.406576, 
+        "sadness": 0.199682, 
+        "fear": 0.172189, 
+        "disgust": 0.137875
+      }, 
+      "sentiment": {
+        "score": -0.535654, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.47852, 
+      "text": "wks", 
+      "emotion": {
+        "anger": 0.080386, 
+        "joy": 0.048916, 
+        "sadness": 0.254325, 
+        "fear": 0.394051, 
+        "disgust": 0.130155
+      }, 
+      "sentiment": {
+        "score": -0.477886, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.478184, 
+      "text": "toxins", 
+      "emotion": {
+        "anger": 0.112048, 
+        "joy": 0.50863, 
+        "sadness": 0.074475, 
+        "fear": 0.068738, 
+        "disgust": 0.059845
+      }, 
+      "sentiment": {
+        "score": -0.685301, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.475894, 
+      "text": "vaccination", 
+      "emotion": {
+        "anger": 0.2855, 
+        "joy": 0.010529, 
+        "sadness": 0.573276, 
+        "fear": 0.137638, 
+        "disgust": 0.341094
+      }, 
+      "sentiment": {
+        "score": -0.589651, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.473983, 
+      "text": "patience", 
+      "emotion": {
+        "anger": 0.035367, 
+        "joy": 0.822043, 
+        "sadness": 0.087848, 
+        "fear": 0.057471, 
+        "disgust": 0.003445
+      }, 
+      "sentiment": {
+        "score": 0.738988, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.473107, 
+      "text": "pity", 
+      "emotion": {
+        "anger": 0.151285, 
+        "joy": 0.012368, 
+        "sadness": 0.754056, 
+        "fear": 0.099045, 
+        "disgust": 0.211562
+      }, 
+      "sentiment": {
+        "score": -0.452717, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.472176, 
+      "text": "cocktail", 
+      "emotion": {
+        "anger": 0.112048, 
+        "joy": 0.50863, 
+        "sadness": 0.074475, 
+        "fear": 0.068738, 
+        "disgust": 0.059845
+      }, 
+      "sentiment": {
+        "score": -0.685301, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.471802, 
+      "text": "Correlation", 
+      "emotion": {
+        "anger": 0.201532, 
+        "joy": 0.205143, 
+        "sadness": 0.287944, 
+        "fear": 0.127436, 
+        "disgust": 0.28704
+      }, 
+      "sentiment": {
+        "score": -0.447368, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.46818, 
+      "text": "combos", 
+      "emotion": {
+        "anger": 0.142842, 
+        "joy": 0.192123, 
+        "sadness": 0.202641, 
+        "fear": 0.115581, 
+        "disgust": 0.064487
+      }, 
+      "sentiment": {
+        "score": 0.217263, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.467078, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.2855, 
+        "joy": 0.010529, 
+        "sadness": 0.573276, 
+        "fear": 0.137638, 
+        "disgust": 0.341094
+      }, 
+      "sentiment": {
+        "score": -0.589651, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.467002, 
+      "text": "children", 
+      "emotion": {
+        "anger": 0.2855, 
+        "joy": 0.010529, 
+        "sadness": 0.573276, 
+        "fear": 0.137638, 
+        "disgust": 0.341094
+      }, 
+      "sentiment": {
+        "score": -0.589651, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.466676, 
+      "text": "sign", 
+      "emotion": {
+        "anger": 0.202184, 
+        "joy": 0.046442, 
+        "sadness": 0.396378, 
+        "fear": 0.382605, 
+        "disgust": 0.257172
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.466634, 
+      "text": "struggle", 
+      "emotion": {
+        "anger": 0.132755, 
+        "joy": 0.021974, 
+        "sadness": 0.828368, 
+        "fear": 0.198881, 
+        "disgust": 0.042438
+      }, 
+      "sentiment": {
+        "score": -0.643119, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.465997, 
+      "text": "life", 
+      "emotion": {
+        "anger": 0.088659, 
+        "joy": 0.393299, 
+        "sadness": 0.287138, 
+        "fear": 0.185367, 
+        "disgust": 0.141057
+      }, 
+      "sentiment": {
+        "score": -0.754098, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.465992, 
+      "text": "vaccine", 
+      "emotion": {
+        "anger": 0.05327, 
+        "joy": 0.03534, 
+        "sadness": 0.431952, 
+        "fear": 0.256579, 
+        "disgust": 0.096528
+      }, 
+      "sentiment": {
+        "score": -0.686863, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.465923, 
+      "text": "innoculations", 
+      "emotion": {
+        "anger": 0.03782, 
+        "joy": 0.593411, 
+        "sadness": 0.26175, 
+        "fear": 0.015427, 
+        "disgust": 0.063873
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.465597, 
+      "text": "money", 
+      "emotion": {
+        "anger": 0.156155, 
+        "joy": 0.283885, 
+        "sadness": 0.167336, 
+        "fear": 0.102297, 
+        "disgust": 0.287411
+      }, 
+      "sentiment": {
+        "score": -0.216836, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.465466, 
+      "text": "Asperger", 
+      "sentiment": {
+        "score": -0.406083, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.463584, 
+      "text": "milestones", 
+      "emotion": {
+        "anger": 0.080386, 
+        "joy": 0.048916, 
+        "sadness": 0.254325, 
+        "fear": 0.394051, 
+        "disgust": 0.130155
+      }, 
+      "sentiment": {
+        "score": -0.477886, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.46066, 
+      "text": "facts", 
+      "emotion": {
+        "anger": 0.201532, 
+        "joy": 0.205143, 
+        "sadness": 0.287944, 
+        "fear": 0.127436, 
+        "disgust": 0.28704
+      }, 
+      "sentiment": {
+        "score": -0.447368, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460565, 
+      "text": "cure", 
+      "emotion": {
+        "anger": 0.05327, 
+        "joy": 0.03534, 
+        "sadness": 0.431952, 
+        "fear": 0.256579, 
+        "disgust": 0.096528
+      }, 
+      "sentiment": {
+        "score": -0.686863, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460377, 
+      "text": "level", 
+      "emotion": {
+        "anger": 0.151285, 
+        "joy": 0.012368, 
+        "sadness": 0.754056, 
+        "fear": 0.099045, 
+        "disgust": 0.211562
+      }, 
+      "sentiment": {
+        "score": -0.452717, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.459405, 
+      "text": "love", 
+      "emotion": {
+        "anger": 0.035367, 
+        "joy": 0.822043, 
+        "sadness": 0.087848, 
+        "fear": 0.057471, 
+        "disgust": 0.003445
+      }, 
+      "sentiment": {
+        "score": 0.738988, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.459267, 
+      "text": "women", 
+      "emotion": {
+        "anger": 0.042521, 
+        "joy": 0.76397, 
+        "sadness": 0.135832, 
+        "fear": 0.04777, 
+        "disgust": 0.03771
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.459123, 
+      "text": "scientists", 
+      "emotion": {
+        "anger": 0.042521, 
+        "joy": 0.76397, 
+        "sadness": 0.135832, 
+        "fear": 0.04777, 
+        "disgust": 0.03771
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.457807, 
+      "text": "adult", 
+      "emotion": {
+        "anger": 0.19426, 
+        "joy": 0.177851, 
+        "sadness": 0.378888, 
+        "fear": 0.303148, 
+        "disgust": 0.164352
+      }, 
+      "sentiment": {
+        "score": -0.406083, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.202184, 
+        "joy": 0.046442, 
+        "sadness": 0.396378, 
+        "fear": 0.382605, 
+        "disgust": 0.257172
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Food and Drug Administration", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ], 
+        "name": "Food and Drug Administration", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Food_and_Drug_Administration"
+      }, 
+      "relevance": 0.901166, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.202184, 
+        "joy": 0.046442, 
+        "sadness": 0.396378, 
+        "fear": 0.382605, 
+        "disgust": 0.257172
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "official", 
+      "relevance": 0.687608, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Thankully", 
+      "relevance": 0.684886, 
+      "type": "Person"
+    }, 
+    {
+      "relevance": 0.684887, 
+      "text": "six years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.684887, 
+      "text": "18 month", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.684887, 
+      "text": "22 year", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.684887, 
+      "text": "2 wks", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://amindunchained.com/2017/11/10/now-its-official-fda-announced-that-vaccines-are-causing-autism/"
+}

@@ -1,0 +1,806 @@
+{
+  "usage": {
+    "text_characters": 2439, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.926568, 
+      "text": "written plea agreement", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.91878, 
+      "text": "joint defense agreement", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.837701, 
+      "text": "evidence share communications", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.734923, 
+      "text": "guilty plea", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.679216, 
+      "text": "president trump", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.673936, 
+      "text": "Michael Flynn", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.643284, 
+      "text": "trump campaign", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.642931, 
+      "text": "general Flynn", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.625843, 
+      "text": "enormous reduction", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.622419, 
+      "text": "pass way", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.613076, 
+      "text": "time period", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.611365, 
+      "text": "special prosecutor", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.610969, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.607583, 
+      "text": "real evidence", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.606244, 
+      "text": "general plan", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.602719, 
+      "text": "generals lawyers", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.599248, 
+      "text": "Russian government", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.595117, 
+      "text": "prosecutors lawyers", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419434, 
+      "text": "judge", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.412414, 
+      "text": "Monday", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.4111, 
+      "text": "morning", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.411044, 
+      "text": "deal", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.407551, 
+      "text": "case", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.407162, 
+      "text": "numbers", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.394441, 
+      "text": "Hippolyta", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.366364, 
+      "text": "jail", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.365303, 
+      "text": "fingers", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.364455, 
+      "text": "FBI", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.360206, 
+      "text": "news", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.359148, 
+      "text": "crimes", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.358016, 
+      "text": "result", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.357764, 
+      "text": "knowledge", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.357724, 
+      "text": "behavior", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.357644, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.356562, 
+      "text": "significance", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.356341, 
+      "text": "sense", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.355228, 
+      "text": "document", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.355135, 
+      "text": "pages", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.355011, 
+      "text": "interactions", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.354414, 
+      "text": "stuff", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.354138, 
+      "text": "length", 
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.33, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "Hippolyta", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.445604, 
+        "joy": 0.170423, 
+        "sadness": 0.369502, 
+        "fear": 0.078343, 
+        "disgust": 0.218026
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "trump", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.51845, 
+        "joy": 0.262016, 
+        "sadness": 0.204112, 
+        "fear": 0.030013, 
+        "disgust": 0.210372
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "Russian government", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Government of Russia", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Government_of_Russia"
+      }, 
+      "relevance": 0.33, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.50456, 
+        "joy": 0.230199, 
+        "sadness": 0.253758, 
+        "fear": 0.042394, 
+        "disgust": 0.21224
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "president", 
+      "relevance": 0.33, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "White House", 
+      "relevance": 0.33, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.410105, 
+        "joy": 0.162892, 
+        "sadness": 0.392897, 
+        "fear": 0.086679, 
+        "disgust": 0.237799
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.874457, 
+        "label": "positive"
+      }, 
+      "text": "prosecutor", 
+      "relevance": 0.33, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.33, 
+      "text": "six zero years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.33, 
+      "text": "twelve months", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.33, 
+      "text": "sixty years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ]
+}

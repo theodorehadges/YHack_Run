@@ -1,0 +1,1109 @@
+{
+  "usage": {
+    "text_characters": 3095, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.90826, 
+      "text": "ABC News", 
+      "emotion": {
+        "anger": 0.101716, 
+        "joy": 0.093905, 
+        "sadness": 0.662138, 
+        "fear": 0.103774, 
+        "disgust": 0.2316
+      }, 
+      "sentiment": {
+        "score": 0.178694, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.736595, 
+      "text": "Ross", 
+      "emotion": {
+        "anger": 0.075131, 
+        "joy": 0.527241, 
+        "sadness": 0.500618, 
+        "fear": 0.087401, 
+        "disgust": 0.123628
+      }, 
+      "sentiment": {
+        "score": -0.167065, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.688558, 
+      "text": "Brian Ross", 
+      "emotion": {
+        "anger": 0.07111, 
+        "joy": 0.251814, 
+        "sadness": 0.363932, 
+        "fear": 0.04331, 
+        "disgust": 0.295296
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.685194, 
+      "text": "reporter Brian Ross", 
+      "emotion": {
+        "anger": 0.109868, 
+        "joy": 0.194, 
+        "sadness": 0.360413, 
+        "fear": 0.087812, 
+        "disgust": 0.277525
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.658426, 
+      "text": "ABC News tweet", 
+      "emotion": {
+        "anger": 0.142279, 
+        "joy": 0.030635, 
+        "sadness": 0.602102, 
+        "fear": 0.129994, 
+        "disgust": 0.238202
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.64989, 
+      "text": "ABC special report", 
+      "emotion": {
+        "anger": 0.109943, 
+        "joy": 0.394263, 
+        "sadness": 0.076008, 
+        "fear": 0.059782, 
+        "disgust": 0.089168
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.633474, 
+      "text": "ABC News employees", 
+      "emotion": {
+        "anger": 0.079208, 
+        "joy": 0.057704, 
+        "sadness": 0.44321, 
+        "fear": 0.045197, 
+        "disgust": 0.213694
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.630541, 
+      "text": "ABC News employee", 
+      "emotion": {
+        "anger": 0.092482, 
+        "joy": 0.076384, 
+        "sadness": 0.440488, 
+        "fear": 0.054143, 
+        "disgust": 0.320007
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.627934, 
+      "text": "bombshell on-air report", 
+      "emotion": {
+        "anger": 0.109868, 
+        "joy": 0.194, 
+        "sadness": 0.360413, 
+        "fear": 0.087812, 
+        "disgust": 0.277525
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.614847, 
+      "text": "editorial standards process", 
+      "emotion": {
+        "anger": 0.038291, 
+        "joy": 0.259761, 
+        "sadness": 0.27425, 
+        "fear": 0.029854, 
+        "disgust": 0.182426
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.599292, 
+      "text": "News early Friday", 
+      "emotion": {
+        "anger": 0.085301, 
+        "joy": 0.213859, 
+        "sadness": 0.377779, 
+        "fear": 0.09821, 
+        "disgust": 0.061613
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.592973, 
+      "text": "World News", 
+      "emotion": {
+        "anger": 0.022437, 
+        "joy": 0.51858, 
+        "sadness": 0.333901, 
+        "fear": 0.114969, 
+        "disgust": 0.088067
+      }, 
+      "sentiment": {
+        "score": 0.310953, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.590899, 
+      "text": "single anonymous source", 
+      "emotion": {
+        "anger": 0.082403, 
+        "joy": 0.296995, 
+        "sadness": 0.285141, 
+        "fear": 0.132477, 
+        "disgust": 0.005298
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.542825, 
+      "text": "Michael Flynn", 
+      "emotion": {
+        "anger": 0.109868, 
+        "joy": 0.194, 
+        "sadness": 0.360413, 
+        "fear": 0.087812, 
+        "disgust": 0.277525
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.522237, 
+      "text": "high-profile mistake", 
+      "emotion": {
+        "anger": 0.094745, 
+        "joy": 0.093276, 
+        "sadness": 0.395024, 
+        "fear": 0.086753, 
+        "disgust": 0.035807
+      }, 
+      "sentiment": {
+        "score": -0.594757, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.522032, 
+      "text": "Donald Trump", 
+      "emotion": {
+        "anger": 0.109943, 
+        "joy": 0.394263, 
+        "sadness": 0.076008, 
+        "fear": 0.059782, 
+        "disgust": 0.089168
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.509673, 
+      "text": "core principles", 
+      "emotion": {
+        "anger": 0.132172, 
+        "joy": 0.474899, 
+        "sadness": 0.069519, 
+        "fear": 0.085803, 
+        "disgust": 0.080329
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.508407, 
+      "text": "Saturday night", 
+      "emotion": {
+        "anger": 0.040447, 
+        "joy": 0.641904, 
+        "sadness": 0.041188, 
+        "fear": 0.109174, 
+        "disgust": 0.089499
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.508038, 
+      "text": "incorrect report", 
+      "emotion": {
+        "anger": 0.220728, 
+        "joy": 0.074442, 
+        "sadness": 0.181906, 
+        "fear": 0.072278, 
+        "disgust": 0.104298
+      }, 
+      "sentiment": {
+        "score": -0.438356, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.507918, 
+      "text": "continued reporting", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.507869, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.168695, 
+        "joy": 0.265126, 
+        "sadness": 0.17706, 
+        "fear": 0.058373, 
+        "disgust": 0.094517
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.507782, 
+      "text": "internal embarrassment", 
+      "emotion": {
+        "anger": 0.076927, 
+        "joy": 0.320316, 
+        "sadness": 0.35697, 
+        "fear": 0.034105, 
+        "disgust": 0.370423
+      }, 
+      "sentiment": {
+        "score": -0.620748, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.507131, 
+      "text": "major embarrassment", 
+      "emotion": {
+        "anger": 0.198915, 
+        "joy": 0.033557, 
+        "sadness": 0.454869, 
+        "fear": 0.067728, 
+        "disgust": 0.460848
+      }, 
+      "sentiment": {
+        "score": -0.635697, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.507109, 
+      "text": "Friday morning", 
+      "emotion": {
+        "anger": 0.109943, 
+        "joy": 0.394263, 
+        "sadness": 0.076008, 
+        "fear": 0.059782, 
+        "disgust": 0.089168
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.506169, 
+      "text": "Saturday evening", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.504798, 
+      "text": "financial markets", 
+      "emotion": {
+        "anger": 0.220728, 
+        "joy": 0.074442, 
+        "sadness": 0.181906, 
+        "fear": 0.072278, 
+        "disgust": 0.104298
+      }, 
+      "sentiment": {
+        "score": -0.438356, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.502541, 
+      "text": "initial information", 
+      "emotion": {
+        "anger": 0.151352, 
+        "joy": 0.2504, 
+        "sadness": 0.078354, 
+        "fear": 0.052261, 
+        "disgust": 0.01105
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.502132, 
+      "text": "dramatic reaction", 
+      "emotion": {
+        "anger": 0.220728, 
+        "joy": 0.074442, 
+        "sadness": 0.181906, 
+        "fear": 0.072278, 
+        "disgust": 0.104298
+      }, 
+      "sentiment": {
+        "score": -0.438356, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.49927, 
+      "text": "initial reporting", 
+      "emotion": {
+        "anger": 0.298506, 
+        "joy": 0.108817, 
+        "sadness": 0.383493, 
+        "fear": 0.069301, 
+        "disgust": 0.406991
+      }, 
+      "sentiment": {
+        "score": -0.459849, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.498259, 
+      "text": "online story", 
+      "emotion": {
+        "anger": 0.298506, 
+        "joy": 0.108817, 
+        "sadness": 0.383493, 
+        "fear": 0.069301, 
+        "disgust": 0.406991
+      }, 
+      "sentiment": {
+        "score": -0.459849, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.496677, 
+      "text": "New York", 
+      "emotion": {
+        "anger": 0.054653, 
+        "joy": 0.228903, 
+        "sadness": 0.166741, 
+        "fear": 0.057987, 
+        "disgust": 0.050965
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.49586, 
+      "text": "language online", 
+      "emotion": {
+        "anger": 0.026018, 
+        "joy": 0.42334, 
+        "sadness": 0.150877, 
+        "fear": 0.125682, 
+        "disgust": 0.039431
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495578, 
+      "text": "Aurora shooter", 
+      "emotion": {
+        "anger": 0.029991, 
+        "joy": 0.611051, 
+        "sadness": 0.069393, 
+        "fear": 0.068819, 
+        "disgust": 0.068062
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.494567, 
+      "text": "networks needs", 
+      "emotion": {
+        "anger": 0.198916, 
+        "joy": 0.037837, 
+        "sadness": 0.640331, 
+        "fear": 0.089309, 
+        "disgust": 0.328497
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.494523, 
+      "text": "Tea Party", 
+      "emotion": {
+        "anger": 0.029991, 
+        "joy": 0.611051, 
+        "sadness": 0.069393, 
+        "fear": 0.068819, 
+        "disgust": 0.068062
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.493929, 
+      "text": "PM ET", 
+      "emotion": {
+        "anger": 0.091497, 
+        "joy": 0.099752, 
+        "sadness": 0.184514, 
+        "fear": 0.099848, 
+        "disgust": 0.039966
+      }, 
+      "sentiment": {
+        "score": 0.415598, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.461276, 
+      "text": "correction", 
+      "emotion": {
+        "anger": 0.062392, 
+        "joy": 0.177032, 
+        "sadness": 0.076841, 
+        "fear": 0.02953, 
+        "disgust": 0.085001
+      }, 
+      "sentiment": {
+        "score": 0.303497, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.452256, 
+      "text": "CNNMoney", 
+      "emotion": {
+        "anger": 0.078946, 
+        "joy": 0.352692, 
+        "sadness": 0.327424, 
+        "fear": 0.029861, 
+        "disgust": 0.363226
+      }, 
+      "sentiment": {
+        "score": -0.620748, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.44865, 
+      "text": "clarification", 
+      "emotion": {
+        "anger": 0.125595, 
+        "joy": 0.038324, 
+        "sadness": 0.098608, 
+        "fear": 0.047017, 
+        "disgust": 0.168943
+      }, 
+      "sentiment": {
+        "score": 0.376728, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.446532, 
+      "text": "Russians", 
+      "emotion": {
+        "anger": 0.080613, 
+        "joy": 0.06139, 
+        "sadness": 0.135999, 
+        "fear": 0.480776, 
+        "disgust": 0.076069
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.444163, 
+      "text": "error", 
+      "emotion": {
+        "anger": 0.151728, 
+        "joy": 0.005274, 
+        "sadness": 0.819256, 
+        "fear": 0.1142, 
+        "disgust": 0.165729
+      }, 
+      "sentiment": {
+        "score": -0.739739, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.4394, 
+      "text": "CNN", 
+      "emotion": {
+        "anger": 0.106185, 
+        "joy": 0.193483, 
+        "sadness": 0.356103, 
+        "fear": 0.09007, 
+        "disgust": 0.057161
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.438561, 
+      "text": "candidate", 
+      "emotion": {
+        "anger": 0.038558, 
+        "joy": 0.15757, 
+        "sadness": 0.239753, 
+        "fear": 0.161729, 
+        "disgust": 0.070667
+      }, 
+      "sentiment": {
+        "score": -0.0220739, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.437832, 
+      "text": "viewers", 
+      "emotion": {
+        "anger": 0.133024, 
+        "joy": 0.412817, 
+        "sadness": 0.058672, 
+        "fear": 0.044603, 
+        "disgust": 0.026989
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.436098, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.225786, 
+        "joy": 0.075047, 
+        "sadness": 0.51237, 
+        "fear": 0.093646, 
+        "disgust": 0.381073
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.434582, 
+      "text": "statement", 
+      "emotion": {
+        "anger": 0.117899, 
+        "joy": 0.248497, 
+        "sadness": 0.136962, 
+        "fear": 0.042622, 
+        "disgust": 0.12032
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.426262, 
+      "text": "president-elect", 
+      "emotion": {
+        "anger": 0.151352, 
+        "joy": 0.2504, 
+        "sadness": 0.078354, 
+        "fear": 0.052261, 
+        "disgust": 0.01105
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.425249, 
+      "text": "cringe", 
+      "emotion": {
+        "anger": 0.085422, 
+        "joy": 0.177648, 
+        "sadness": 0.159799, 
+        "fear": 0.288263, 
+        "disgust": 0.213518
+      }, 
+      "sentiment": {
+        "score": -0.573904, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.423768, 
+      "text": "blunder", 
+      "emotion": {
+        "anger": 0.076927, 
+        "joy": 0.320316, 
+        "sadness": 0.35697, 
+        "fear": 0.034105, 
+        "disgust": 0.370423
+      }, 
+      "sentiment": {
+        "score": -0.620748, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.422199, 
+      "text": "spokesperson", 
+      "emotion": {
+        "anger": 0.107326, 
+        "joy": 0.166711, 
+        "sadness": 0.168778, 
+        "fear": 0.066343, 
+        "disgust": 0.056911
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.078983, 
+        "joy": 0.527208, 
+        "sadness": 0.470892, 
+        "fear": 0.071331, 
+        "disgust": 0.127155
+      }, 
+      "count": 15, 
+      "sentiment": {
+        "score": 0.169938, 
+        "label": "positive"
+      }, 
+      "text": "Brian Ross", 
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ], 
+        "name": "Brian Ross (journalist)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Brian_Ross_(journalist)"
+      }, 
+      "relevance": 0.8252, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.103601, 
+        "joy": 0.417623, 
+        "sadness": 0.666913, 
+        "fear": 0.104333, 
+        "disgust": 0.226146
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": 0.158072, 
+        "label": "positive"
+      }, 
+      "text": "ABC News", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Broadcast", 
+          "Company", 
+          "FilmCompany", 
+          "TVNetwork", 
+          "TelevisionStation"
+        ], 
+        "name": "Australian Broadcasting Corporation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+      }, 
+      "relevance": 0.712214, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.237431, 
+        "joy": 0.262403, 
+        "sadness": 0.16049, 
+        "fear": 0.063585, 
+        "disgust": 0.147934
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "ABC", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TVNetwork", 
+          "AwardNominee", 
+          "AwardWinner"
+        ], 
+        "name": "American Broadcasting Company", 
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Broadcasting_Company"
+      }, 
+      "relevance": 0.324116, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.202178, 
+        "joy": 0.251169, 
+        "sadness": 0.265346, 
+        "fear": 0.127178, 
+        "disgust": 0.370825
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.459849, 
+        "label": "negative"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.317394, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.103601, 
+        "joy": 0.417623, 
+        "sadness": 0.666913, 
+        "fear": 0.104333, 
+        "disgust": 0.226146
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "ABC News", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "FilmCompany", 
+          "TVNetwork"
+        ], 
+        "name": "Australian Broadcasting Corporation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+      }, 
+      "relevance": 0.316448, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.237431, 
+        "joy": 0.262403, 
+        "sadness": 0.16049, 
+        "fear": 0.063585, 
+        "disgust": 0.147934
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "ABC", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Broadcast", 
+          "Company", 
+          "TVNetwork", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "TelevisionStation"
+        ], 
+        "name": "American Broadcasting Company", 
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Broadcasting_Company"
+      }, 
+      "relevance": 0.279525, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.130285, 
+        "joy": 0.420987, 
+        "sadness": 0.115569, 
+        "fear": 0.188579, 
+        "disgust": 0.126454
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.622767, 
+        "label": "positive"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.276762, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.106185, 
+        "joy": 0.193483, 
+        "sadness": 0.356103, 
+        "fear": 0.09007, 
+        "disgust": 0.057161
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CNN", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "RadioNetwork", 
+          "TVNetwork"
+        ], 
+        "name": "CNN", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      }, 
+      "relevance": 0.230862, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.078946, 
+        "joy": 0.352692, 
+        "sadness": 0.327424, 
+        "fear": 0.029861, 
+        "disgust": 0.363226
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.620748, 
+        "label": "negative"
+      }, 
+      "text": "CNNMoney", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "CNNMoney.com", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNNMoney.com"
+      }, 
+      "relevance": 0.215963, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.109868, 
+        "joy": 0.194, 
+        "sadness": 0.360413, 
+        "fear": 0.087812, 
+        "disgust": 0.277525
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "investigative reporter", 
+      "relevance": 0.189183, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.029991, 
+        "joy": 0.611051, 
+        "sadness": 0.069393, 
+        "fear": 0.068819, 
+        "disgust": 0.068062
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Tea Party", 
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup", 
+          "BroadcastArtist", 
+          "MusicalArtist"
+        ], 
+        "name": "The Tea Party", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Tea_Party"
+      }, 
+      "relevance": 0.174879, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.298506, 
+        "joy": 0.108817, 
+        "sadness": 0.383493, 
+        "fear": 0.069301, 
+        "disgust": 0.406991
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.459849, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "RadioStation"
+        ], 
+        "name": "FBi Radio", 
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio"
+      }, 
+      "relevance": 0.165818, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.084143, 
+        "joy": 0.217569, 
+        "sadness": 0.180623, 
+        "fear": 0.072046, 
+        "disgust": 0.162967
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.297115, 
+        "label": "positive"
+      }, 
+      "text": "president", 
+      "relevance": 0.163733, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.151352, 
+        "joy": 0.2504, 
+        "sadness": 0.078354, 
+        "fear": 0.052261, 
+        "disgust": 0.01105
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president-elect", 
+      "relevance": 0.163081, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.054653, 
+        "joy": 0.228903, 
+        "sadness": 0.166741, 
+        "fear": 0.057987, 
+        "disgust": 0.050965
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.157508, 
+      "type": "Location"
+    }, 
+    {
+      "relevance": 0.157508, 
+      "text": "four weeks", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://money.cnn.com/2017/12/02/media/abc-news-brian-ross/index.html"
+}

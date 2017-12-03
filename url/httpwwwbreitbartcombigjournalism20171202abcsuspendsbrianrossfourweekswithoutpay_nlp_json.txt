@@ -1,0 +1,432 @@
+{
+  "usage": {
+    "text_characters": 916, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.936417, 
+      "text": "Adviser Michael Flynn", 
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.915724, 
+      "text": "eventual National Security", 
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.877789, 
+      "text": "Brian Ross", 
+      "emotion": {
+        "anger": 0.063837, 
+        "joy": 0.140383, 
+        "sadness": 0.490673, 
+        "fear": 0.056231, 
+        "disgust": 0.19957
+      }, 
+      "sentiment": {
+        "score": -0.323075, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.823215, 
+      "text": "editorial standards process", 
+      "emotion": {
+        "anger": 0.052346, 
+        "joy": 0.13315, 
+        "sadness": 0.418507, 
+        "fear": 0.052251, 
+        "disgust": 0.207168
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.746538, 
+      "text": "Donald Trump", 
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.629981, 
+      "text": "continued reporting", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.621754, 
+      "text": "special report", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.617595, 
+      "text": "core principles", 
+      "emotion": {
+        "anger": 0.123427, 
+        "joy": 0.684513, 
+        "sadness": 0.04451, 
+        "fear": 0.08391, 
+        "disgust": 0.079741
+      }, 
+      "sentiment": {
+        "score": 0.929716, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.546187, 
+      "text": "candidate", 
+      "emotion": {
+        "anger": 0.061648, 
+        "joy": 0.045137, 
+        "sadness": 0.215746, 
+        "fear": 0.213993, 
+        "disgust": 0.198132
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.479791, 
+      "text": "Russians", 
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.474381, 
+      "text": "clarification", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.365183, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.467147, 
+      "text": "mistake", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.458816, 
+      "text": "error", 
+      "emotion": {
+        "anger": 0.128154, 
+        "joy": 0.010302, 
+        "sadness": 0.827696, 
+        "fear": 0.082167, 
+        "disgust": 0.187534
+      }, 
+      "sentiment": {
+        "score": -0.91628, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.451108, 
+      "text": "president", 
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.450095, 
+      "text": "result", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.446057, 
+      "text": "audience", 
+      "emotion": {
+        "anger": 0.123427, 
+        "joy": 0.684513, 
+        "sadness": 0.04451, 
+        "fear": 0.08391, 
+        "disgust": 0.079741
+      }, 
+      "sentiment": {
+        "score": 0.929716, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.445371, 
+      "text": "pay", 
+      "emotion": {
+        "anger": 0.101511, 
+        "joy": 0.171891, 
+        "sadness": 0.397196, 
+        "fear": 0.091828, 
+        "disgust": 0.14166
+      }, 
+      "sentiment": {
+        "score": -0.323075, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.439457, 
+      "text": "information", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.439218, 
+      "text": "air", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.439165, 
+      "text": "online", 
+      "emotion": {
+        "anger": 0.306495, 
+        "joy": 0.057204, 
+        "sadness": 0.534072, 
+        "fear": 0.101349, 
+        "disgust": 0.176132
+      }, 
+      "sentiment": {
+        "score": -0.823908, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.062791, 
+        "joy": 0.396969, 
+        "sadness": 0.338506, 
+        "fear": 0.071999, 
+        "disgust": 0.067689
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.323075, 
+        "label": "negative"
+      }, 
+      "text": "Brian Ross", 
+      "relevance": 0.982542, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.063461, 
+        "joy": 0.043707, 
+        "sadness": 0.219728, 
+        "fear": 0.196267, 
+        "disgust": 0.197212
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.700865, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.331881, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.161847, 
+        "joy": 0.224857, 
+        "sadness": 0.113122, 
+        "fear": 0.040555, 
+        "disgust": 0.161932
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president-elect", 
+      "relevance": 0.320625, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "National Security", 
+      "relevance": 0.285851, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.056482, 
+        "joy": 0.054704, 
+        "sadness": 0.202129, 
+        "fear": 0.246856, 
+        "disgust": 0.201998
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.26955, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.26955, 
+      "text": "four weeks", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-journalism/2017/12/02/abc-suspends-brian-ross-four-weeks-without-pay/"
+}

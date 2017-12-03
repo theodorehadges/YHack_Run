@@ -1,0 +1,1389 @@
+{
+  "usage": {
+    "text_characters": 4135, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.920272, 
+      "text": "College Football Playoff", 
+      "emotion": {
+        "anger": 0.044776, 
+        "joy": 0.613556, 
+        "sadness": 0.158906, 
+        "fear": 0.080965, 
+        "disgust": 0.146104
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.904835, 
+      "text": "Auburn", 
+      "emotion": {
+        "anger": 0.137404, 
+        "joy": 0.563847, 
+        "sadness": 0.214439, 
+        "fear": 0.179007, 
+        "disgust": 0.088819
+      }, 
+      "sentiment": {
+        "score": -0.179473, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.824559, 
+      "text": "Georgia", 
+      "emotion": {
+        "anger": 0.170114, 
+        "joy": 0.571821, 
+        "sadness": 0.208941, 
+        "fear": 0.139392, 
+        "disgust": 0.121911
+      }, 
+      "sentiment": {
+        "score": -0.145476, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.746445, 
+      "text": "Bellamy strip-sacked\u00a0Stidham", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.721328, 
+      "text": "six-yard touchdown pass", 
+      "emotion": {
+        "anger": 0.150502, 
+        "joy": 0.280181, 
+        "sadness": 0.110856, 
+        "fear": 0.115522, 
+        "disgust": 0.066714
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.714085, 
+      "text": "Auburn Tigers", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.707861, 
+      "text": "Georgia freshman quarterback", 
+      "emotion": {
+        "anger": 0.063799, 
+        "joy": 0.073004, 
+        "sadness": 0.24096, 
+        "fear": 0.03273, 
+        "disgust": 0.170407
+      }, 
+      "sentiment": {
+        "score": 0.29834, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.705904, 
+      "text": "SEC Championship Game", 
+      "emotion": {
+        "anger": 0.165747, 
+        "joy": 0.282334, 
+        "sadness": 0.270769, 
+        "fear": 0.201847, 
+        "disgust": 0.082717
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.6917, 
+      "text": "Iron Bowl", 
+      "emotion": {
+        "anger": 0.068634, 
+        "joy": 0.088497, 
+        "sadness": 0.648996, 
+        "fear": 0.167244, 
+        "disgust": 0.184585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.69032, 
+      "text": "64-yard touchdown run", 
+      "emotion": {
+        "anger": 0.293676, 
+        "joy": 0.067564, 
+        "sadness": 0.461301, 
+        "fear": 0.22979, 
+        "disgust": 0.204214
+      }, 
+      "sentiment": {
+        "score": -0.443816, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.683402, 
+      "text": "Georgia red zone", 
+      "emotion": {
+        "anger": 0.170953, 
+        "joy": 0.372727, 
+        "sadness": 0.146192, 
+        "fear": 0.34149, 
+        "disgust": 0.053533
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.678094, 
+      "text": "linebacker Roquan Smith", 
+      "emotion": {
+        "anger": 0.624746, 
+        "joy": 0.018623, 
+        "sadness": 0.192476, 
+        "fear": 0.186671, 
+        "disgust": 0.262427
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.672876, 
+      "text": "national title", 
+      "emotion": {
+        "anger": 0.116929, 
+        "joy": 0.251012, 
+        "sadness": 0.578446, 
+        "fear": 0.12414, 
+        "disgust": 0.083986
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.670298, 
+      "text": "Auburn junior", 
+      "emotion": {
+        "anger": 0.096521, 
+        "joy": 0.315966, 
+        "sadness": 0.369508, 
+        "fear": 0.151798, 
+        "disgust": 0.103386
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.667614, 
+      "text": "yards", 
+      "emotion": {
+        "anger": 0.140193, 
+        "joy": 0.225138, 
+        "sadness": 0.291009, 
+        "fear": 0.114264, 
+        "disgust": 0.111383
+      }, 
+      "sentiment": {
+        "score": 0.29834, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.665573, 
+      "text": "opening drive", 
+      "emotion": {
+        "anger": 0.184992, 
+        "joy": 0.254748, 
+        "sadness": 0.200144, 
+        "fear": 0.171351, 
+        "disgust": 0.120542
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.659845, 
+      "text": "field goal", 
+      "emotion": {
+        "anger": 0.202433, 
+        "joy": 0.466411, 
+        "sadness": 0.17495, 
+        "fear": 0.124703, 
+        "disgust": 0.127196
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.658692, 
+      "text": "Linebacker Lorenzo Carter", 
+      "sentiment": {
+        "score": -0.300926, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.657092, 
+      "text": "Auburn offense", 
+      "emotion": {
+        "anger": 0.156143, 
+        "joy": 0.210947, 
+        "sadness": 0.170186, 
+        "fear": 0.106085, 
+        "disgust": 0.118619
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.654285, 
+      "text": "Bulldogs", 
+      "emotion": {
+        "anger": 0.128186, 
+        "joy": 0.546755, 
+        "sadness": 0.186128, 
+        "fear": 0.120327, 
+        "disgust": 0.09961
+      }, 
+      "sentiment": {
+        "score": -0.0470272, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.645558, 
+      "text": "short field goal", 
+      "emotion": {
+        "anger": 0.099444, 
+        "joy": 0.393322, 
+        "sadness": 0.162165, 
+        "fear": 0.157965, 
+        "disgust": 0.102281
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.644457, 
+      "text": "Georgia Bulldogs", 
+      "emotion": {
+        "anger": 0.028523, 
+        "joy": 0.613745, 
+        "sadness": 0.171879, 
+        "fear": 0.12222, 
+        "disgust": 0.109639
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.641611, 
+      "text": "31-yard field goal", 
+      "emotion": {
+        "anger": 0.246188, 
+        "joy": 0.465197, 
+        "sadness": 0.18744, 
+        "fear": 0.080445, 
+        "disgust": 0.125943
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.639452, 
+      "text": "Jarrett Stidham", 
+      "emotion": {
+        "anger": 0.150502, 
+        "joy": 0.280181, 
+        "sadness": 0.110856, 
+        "fear": 0.115522, 
+        "disgust": 0.066714
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.598344, 
+      "text": "two-yard touchdown", 
+      "emotion": {
+        "anger": 0.186757, 
+        "joy": 0.336682, 
+        "sadness": 0.2465, 
+        "fear": 0.05634, 
+        "disgust": 0.057688
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.586455, 
+      "text": "17-yard touchdown", 
+      "emotion": {
+        "anger": 0.318637, 
+        "joy": 0.026451, 
+        "sadness": 0.502734, 
+        "fear": 0.09489, 
+        "disgust": 0.296466
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.570933, 
+      "text": "Jake Fromm", 
+      "emotion": {
+        "anger": 0.063799, 
+        "joy": 0.073004, 
+        "sadness": 0.24096, 
+        "fear": 0.03273, 
+        "disgust": 0.170407
+      }, 
+      "sentiment": {
+        "score": 0.29834, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.563411, 
+      "text": "CFP contention", 
+      "emotion": {
+        "anger": 0.332389, 
+        "joy": 0.060252, 
+        "sadness": 0.714674, 
+        "fear": 0.073334, 
+        "disgust": 0.031141
+      }, 
+      "sentiment": {
+        "score": -0.806241, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.560568, 
+      "text": "school history", 
+      "emotion": {
+        "anger": 0.028523, 
+        "joy": 0.613745, 
+        "sadness": 0.171879, 
+        "fear": 0.12222, 
+        "disgust": 0.109639
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.554114, 
+      "text": "Mercedes-Benz Stadium", 
+      "emotion": {
+        "anger": 0.165747, 
+        "joy": 0.282334, 
+        "sadness": 0.270769, 
+        "fear": 0.201847, 
+        "disgust": 0.082717
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.552596, 
+      "text": "turnover battle", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.546526, 
+      "text": "Kerryon Johnson", 
+      "emotion": {
+        "anger": 0.096521, 
+        "joy": 0.315966, 
+        "sadness": 0.369508, 
+        "fear": 0.151798, 
+        "disgust": 0.103386
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.544265, 
+      "text": "shoulder injury", 
+      "emotion": {
+        "anger": 0.0534, 
+        "joy": 0.03551, 
+        "sadness": 0.761803, 
+        "fear": 0.222962, 
+        "disgust": 0.104578
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.542814, 
+      "text": "sophomore signal-caller", 
+      "emotion": {
+        "anger": 0.04841, 
+        "joy": 0.27716, 
+        "sadness": 0.384279, 
+        "fear": 0.045313, 
+        "disgust": 0.054008
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.542469, 
+      "text": "defensive struggle", 
+      "emotion": {
+        "anger": 0.124804, 
+        "joy": 0.241306, 
+        "sadness": 0.487721, 
+        "fear": 0.059933, 
+        "disgust": 0.137856
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.542117, 
+      "text": "Nate Craig-Myers", 
+      "emotion": {
+        "anger": 0.150502, 
+        "joy": 0.280181, 
+        "sadness": 0.110856, 
+        "fear": 0.115522, 
+        "disgust": 0.066714
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541896, 
+      "text": "Isaac Nauta", 
+      "emotion": {
+        "anger": 0.186757, 
+        "joy": 0.336682, 
+        "sadness": 0.2465, 
+        "fear": 0.05634, 
+        "disgust": 0.057688
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541755, 
+      "text": "DaQuan Hawkins-Muckle", 
+      "emotion": {
+        "anger": 0.299047, 
+        "joy": 0.092495, 
+        "sadness": 0.349996, 
+        "fear": 0.329588, 
+        "disgust": 0.276014
+      }, 
+      "sentiment": {
+        "score": -0.496854, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.539913, 
+      "text": "video courtesy", 
+      "emotion": {
+        "anger": 0.081925, 
+        "joy": 0.439773, 
+        "sadness": 0.1214, 
+        "fear": 0.051273, 
+        "disgust": 0.182947
+      }, 
+      "sentiment": {
+        "score": 0.446162, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.538064, 
+      "text": "fantastic performance", 
+      "emotion": {
+        "anger": 0.024577, 
+        "joy": 0.729453, 
+        "sadness": 0.066634, 
+        "fear": 0.031811, 
+        "disgust": 0.083856
+      }, 
+      "sentiment": {
+        "score": -0.465208, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.537533, 
+      "text": "two-score lead", 
+      "emotion": {
+        "anger": 0.170953, 
+        "joy": 0.372727, 
+        "sadness": 0.146192, 
+        "fear": 0.34149, 
+        "disgust": 0.053533
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.5375, 
+      "text": "high point", 
+      "emotion": {
+        "anger": 0.156143, 
+        "joy": 0.210947, 
+        "sadness": 0.170186, 
+        "fear": 0.106085, 
+        "disgust": 0.118619
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.536175, 
+      "text": "CBS Sports", 
+      "emotion": {
+        "anger": 0.081925, 
+        "joy": 0.439773, 
+        "sadness": 0.1214, 
+        "fear": 0.051273, 
+        "disgust": 0.182947
+      }, 
+      "sentiment": {
+        "score": 0.446162, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.53497, 
+      "text": "locker room", 
+      "emotion": {
+        "anger": 0.099444, 
+        "joy": 0.393322, 
+        "sadness": 0.162165, 
+        "fear": 0.157965, 
+        "disgust": 0.102281
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.534659, 
+      "text": "Kevin Scarbinsky", 
+      "emotion": {
+        "anger": 0.113629, 
+        "joy": 0.084718, 
+        "sadness": 0.275484, 
+        "fear": 0.249748, 
+        "disgust": 0.060976
+      }, 
+      "sentiment": {
+        "score": -0.711511, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.53336, 
+      "text": "toughest conference", 
+      "emotion": {
+        "anger": 0.141534, 
+        "joy": 0.146649, 
+        "sadness": 0.647157, 
+        "fear": 0.184884, 
+        "disgust": 0.083076
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.532454, 
+      "text": "Matt Barrie", 
+      "emotion": {
+        "anger": 0.087571, 
+        "joy": 0.349892, 
+        "sadness": 0.224062, 
+        "fear": 0.063217, 
+        "disgust": 0.01137
+      }, 
+      "sentiment": {
+        "score": 0.436457, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.53154, 
+      "text": "Rick Karle", 
+      "emotion": {
+        "anger": 0.109988, 
+        "joy": 0.116064, 
+        "sadness": 0.060067, 
+        "fear": 0.098949, 
+        "disgust": 0.079078
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.531326, 
+      "text": "turning point", 
+      "emotion": {
+        "anger": 0.170953, 
+        "joy": 0.372727, 
+        "sadness": 0.146192, 
+        "fear": 0.34149, 
+        "disgust": 0.053533
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.530384, 
+      "text": "one-loss champion", 
+      "emotion": {
+        "anger": 0.141534, 
+        "joy": 0.146649, 
+        "sadness": 0.647157, 
+        "fear": 0.184884, 
+        "disgust": 0.083076
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.123287, 
+        "joy": 0.607009, 
+        "sadness": 0.194026, 
+        "fear": 0.162003, 
+        "disgust": 0.088933
+      }, 
+      "count": 11, 
+      "sentiment": {
+        "score": -0.379031, 
+        "label": "negative"
+      }, 
+      "text": "Auburn", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.841118, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.123362, 
+        "joy": 0.529609, 
+        "sadness": 0.540222, 
+        "fear": 0.132971, 
+        "disgust": 0.108496
+      }, 
+      "count": 10, 
+      "sentiment": {
+        "score": -0.152583, 
+        "label": "negative"
+      }, 
+      "text": "Georgia Bulldogs", 
+      "disambiguation": {
+        "subtype": [
+          "SchoolSportsTeam"
+        ], 
+        "name": "Georgia Bulldogs", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Georgia_Bulldogs"
+      }, 
+      "relevance": 0.833868, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.182986, 
+        "joy": 0.557174, 
+        "sadness": 0.212311, 
+        "fear": 0.140954, 
+        "disgust": 0.123027
+      }, 
+      "count": 11, 
+      "sentiment": {
+        "score": -0.0727378, 
+        "label": "negative"
+      }, 
+      "text": "Georgia", 
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      }, 
+      "relevance": 0.756022, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.361428, 
+        "joy": 0.215074, 
+        "sadness": 0.465789, 
+        "fear": 0.110656, 
+        "disgust": 0.040425
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.605211, 
+        "label": "negative"
+      }, 
+      "text": "Auburn Tigers", 
+      "relevance": 0.58194, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.064222, 
+        "joy": 0.690128, 
+        "sadness": 0.061339, 
+        "fear": 0.040932, 
+        "disgust": 0.089931
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.0143755, 
+        "label": "negative"
+      }, 
+      "text": "Jarrett Stidham", 
+      "relevance": 0.363239, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.260781, 
+        "joy": 0.097479, 
+        "sadness": 0.437078, 
+        "fear": 0.03596, 
+        "disgust": 0.186973
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.29834, 
+        "label": "positive"
+      }, 
+      "text": "Jake Fromm", 
+      "relevance": 0.335459, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.119552, 
+        "joy": 0.109837, 
+        "sadness": 0.65124, 
+        "fear": 0.133331, 
+        "disgust": 0.079469
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.506219, 
+        "label": "negative"
+      }, 
+      "text": "Kerryon Johnson", 
+      "relevance": 0.296899, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.071915, 
+        "joy": 0.442023, 
+        "sadness": 0.38593, 
+        "fear": 0.107894, 
+        "disgust": 0.093682
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "SEC", 
+      "disambiguation": {
+        "subtype": [
+          "BasketballConference", 
+          "SportsAssociation"
+        ], 
+        "name": "Southeastern Conference", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Southeastern_Conference"
+      }, 
+      "relevance": 0.271872, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.068634, 
+        "joy": 0.088497, 
+        "sadness": 0.648996, 
+        "fear": 0.167244, 
+        "disgust": 0.184585
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Iron Bowl", 
+      "relevance": 0.264886, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.097311, 
+        "joy": 0.16869, 
+        "sadness": 0.141564, 
+        "fear": 0.072762, 
+        "disgust": 0.101034
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "football", 
+      "relevance": 0.262614, 
+      "type": "Sport"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.146833, 
+        "label": "negative"
+      }, 
+      "text": "ESPN", 
+      "relevance": 0.244898, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.026016, 
+        "joy": 0.738537, 
+        "sadness": 0.054814, 
+        "fear": 0.025309, 
+        "disgust": 0.134744
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.465208, 
+        "label": "negative"
+      }, 
+      "text": "Alabama", 
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      }, 
+      "relevance": 0.243432, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Roquan Smith", 
+      "relevance": 0.224725, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.165747, 
+        "joy": 0.282334, 
+        "sadness": 0.270769, 
+        "fear": 0.201847, 
+        "disgust": 0.082717
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Mercedes-Benz Stadium", 
+      "relevance": 0.218187, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087571, 
+        "joy": 0.349892, 
+        "sadness": 0.224062, 
+        "fear": 0.063217, 
+        "disgust": 0.01137
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.436457, 
+        "label": "positive"
+      }, 
+      "text": "Matt Barrie", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Matt Barrie", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Matt_Barrie"
+      }, 
+      "relevance": 0.207622, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.448121, 
+        "joy": 0.281388, 
+        "sadness": 0.197695, 
+        "fear": 0.093637, 
+        "disgust": 0.224061
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Davin Bellamy", 
+      "relevance": 0.207333, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.165747, 
+        "joy": 0.282334, 
+        "sadness": 0.270769, 
+        "fear": 0.201847, 
+        "disgust": 0.082717
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Atlanta", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.20388, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.109988, 
+        "joy": 0.116064, 
+        "sadness": 0.060067, 
+        "fear": 0.098949, 
+        "disgust": 0.079078
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Terry Godwin", 
+      "relevance": 0.200511, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.081925, 
+        "joy": 0.439773, 
+        "sadness": 0.1214, 
+        "fear": 0.051273, 
+        "disgust": 0.182947
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.446162, 
+        "label": "positive"
+      }, 
+      "text": "CBS Sports", 
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner", 
+          "TVNetwork"
+        ], 
+        "name": "CBS Sports", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CBS_Sports"
+      }, 
+      "relevance": 0.199134, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.113629, 
+        "joy": 0.084718, 
+        "sadness": 0.275484, 
+        "fear": 0.249748, 
+        "disgust": 0.060976
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.711511, 
+        "label": "negative"
+      }, 
+      "text": "Peter Burns", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Peter Burns", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Peter_Burns"
+      }, 
+      "relevance": 0.19192, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.336778, 
+        "joy": 0.177315, 
+        "sadness": 0.187882, 
+        "fear": 0.114353, 
+        "disgust": 0.190414
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.300926, 
+        "label": "negative"
+      }, 
+      "text": "Rick Karle", 
+      "relevance": 0.19087, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.186757, 
+        "joy": 0.336682, 
+        "sadness": 0.2465, 
+        "fear": 0.05634, 
+        "disgust": 0.057688
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Kevin Scarbinsky", 
+      "relevance": 0.19034, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.336071, 
+        "joy": 0.030262, 
+        "sadness": 0.480762, 
+        "fear": 0.086258, 
+        "disgust": 0.310062
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Swift", 
+      "relevance": 0.187003, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.293676, 
+        "joy": 0.067564, 
+        "sadness": 0.461301, 
+        "fear": 0.22979, 
+        "disgust": 0.204214
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.443816, 
+        "label": "negative"
+      }, 
+      "text": "Clemson", 
+      "relevance": 0.181335, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.157746, 
+        "joy": 0.136149, 
+        "sadness": 0.452448, 
+        "fear": 0.296316, 
+        "disgust": 0.156409
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.730124, 
+        "label": "negative"
+      }, 
+      "text": "Lorenzo Carter", 
+      "relevance": 0.177142, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.109988, 
+        "joy": 0.116064, 
+        "sadness": 0.060067, 
+        "fear": 0.098949, 
+        "disgust": 0.079078
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "WBRC", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.176291, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.640087, 
+        "joy": 0.023402, 
+        "sadness": 0.158766, 
+        "fear": 0.212224, 
+        "disgust": 0.301749
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Isaac Nauta", 
+      "relevance": 0.173857, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.150502, 
+        "joy": 0.280181, 
+        "sadness": 0.110856, 
+        "fear": 0.115522, 
+        "disgust": 0.066714
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Nate Craig-Myers", 
+      "relevance": 0.173111, 
+      "type": "Person"
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "five minutes", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "145 yards", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "183 yards", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "238 yards", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "75 yards", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "83 yards", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "91 yards", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "six-yard", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "two-yard", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "17-yard", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "31-yard", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.173111, 
+      "text": "64-yard", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://bleacherreport.com/articles/2747287-georgia-runs-for-238-yards-dominates-auburn-to-win-2017-sec-championship?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial"
+}

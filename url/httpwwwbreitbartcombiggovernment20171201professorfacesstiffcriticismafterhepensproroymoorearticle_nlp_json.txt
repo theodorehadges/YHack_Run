@@ -1,0 +1,1031 @@
+{
+  "usage": {
+    "text_characters": 2768, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.940118, 
+      "text": "Roy Moore", 
+      "emotion": {
+        "anger": 0.160387, 
+        "joy": 0.242489, 
+        "sadness": 0.278843, 
+        "fear": 0.235699, 
+        "disgust": 0.097942
+      }, 
+      "sentiment": {
+        "score": -0.408636, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.806345, 
+      "text": "candidate Roy Moore", 
+      "emotion": {
+        "anger": 0.171364, 
+        "joy": 0.22872, 
+        "sadness": 0.291688, 
+        "fear": 0.239449, 
+        "disgust": 0.063655
+      }, 
+      "sentiment": {
+        "score": -0.235157, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.761882, 
+      "text": "Borland", 
+      "emotion": {
+        "anger": 0.48056, 
+        "joy": 0.029584, 
+        "sadness": 0.192281, 
+        "fear": 0.031789, 
+        "disgust": 0.571276
+      }, 
+      "sentiment": {
+        "score": 0.0516698, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.618047, 
+      "text": "Tully Borland", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.580565, 
+      "text": "Moore detractors", 
+      "emotion": {
+        "anger": 0.089332, 
+        "joy": 0.356541, 
+        "sadness": 0.186929, 
+        "fear": 0.088145, 
+        "disgust": 0.107921
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.579904, 
+      "text": "Ouachita Baptist University", 
+      "emotion": {
+        "anger": 0.077027, 
+        "joy": 0.206385, 
+        "sadness": 0.110958, 
+        "fear": 0.040508, 
+        "disgust": 0.072096
+      }, 
+      "sentiment": {
+        "score": -0.467897, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.576567, 
+      "text": "Borland\u2019s article", 
+      "emotion": {
+        "anger": 0.122967, 
+        "joy": 0.524228, 
+        "sadness": 0.13278, 
+        "fear": 0.157187, 
+        "disgust": 0.04884
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571229, 
+      "text": "Borland\u2019s detractors", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.182471, 
+        "sadness": 0.144548, 
+        "fear": 0.110073, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.444787, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.562789, 
+      "text": "social media", 
+      "emotion": {
+        "anger": 0.265965, 
+        "joy": 0.099203, 
+        "sadness": 0.074735, 
+        "fear": 0.037491, 
+        "disgust": 0.060691
+      }, 
+      "sentiment": {
+        "score": -0.1607, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.556064, 
+      "text": "embattled Alabama Republican", 
+      "emotion": {
+        "anger": 0.197828, 
+        "joy": 0.044343, 
+        "sadness": 0.193245, 
+        "fear": 0.006541, 
+        "disgust": 0.685068
+      }, 
+      "sentiment": {
+        "score": -0.628064, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.553949, 
+      "text": "Trump National Review", 
+      "emotion": {
+        "anger": 0.049726, 
+        "joy": 0.2753, 
+        "sadness": 0.109608, 
+        "fear": 0.049898, 
+        "disgust": 0.169325
+      }, 
+      "sentiment": {
+        "score": -0.303342, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.545323, 
+      "text": "Borland\u2019s description", 
+      "emotion": {
+        "anger": 0.107787, 
+        "joy": 0.183899, 
+        "sadness": 0.351755, 
+        "fear": 0.023936, 
+        "disgust": 0.169096
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.543391, 
+      "text": "male-female age gap", 
+      "emotion": {
+        "anger": 0.020391, 
+        "joy": 0.50654, 
+        "sadness": 0.368112, 
+        "fear": 0.037225, 
+        "disgust": 0.123933
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541924, 
+      "text": "Moore defenders", 
+      "emotion": {
+        "anger": 0.069548, 
+        "joy": 0.1362, 
+        "sadness": 0.208586, 
+        "fear": 0.090254, 
+        "disgust": 0.116313
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.541707, 
+      "text": "clearly illegal conduct", 
+      "emotion": {
+        "anger": 0.396996, 
+        "joy": 0.054637, 
+        "sadness": 0.325805, 
+        "fear": 0.051357, 
+        "disgust": 0.289818
+      }, 
+      "sentiment": {
+        "score": -0.500712, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.530215, 
+      "text": "Democratic Doug Jones", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.510574, 
+      "text": "columnist David French", 
+      "emotion": {
+        "anger": 0.049726, 
+        "joy": 0.2753, 
+        "sadness": 0.109608, 
+        "fear": 0.049898, 
+        "disgust": 0.169325
+      }, 
+      "sentiment": {
+        "score": -0.303342, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.505241, 
+      "text": "General social media", 
+      "emotion": {
+        "anger": 0.109074, 
+        "joy": 0.09567, 
+        "sadness": 0.131631, 
+        "fear": 0.040543, 
+        "disgust": 0.154219
+      }, 
+      "sentiment": {
+        "score": 0.464617, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.49707, 
+      "text": "large family", 
+      "emotion": {
+        "anger": 0.029907, 
+        "joy": 0.570559, 
+        "sadness": 0.15723, 
+        "fear": 0.024877, 
+        "disgust": 0.039221
+      }, 
+      "sentiment": {
+        "score": 0.420465, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.461966, 
+      "text": "Trump commentators", 
+      "emotion": {
+        "anger": 0.318738, 
+        "joy": 0.098212, 
+        "sadness": 0.058779, 
+        "fear": 0.05085, 
+        "disgust": 0.030396
+      }, 
+      "sentiment": {
+        "score": -0.625317, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.431581, 
+      "text": "14-year-old daughter", 
+      "emotion": {
+        "anger": 0.112862, 
+        "joy": 0.148701, 
+        "sadness": 0.398517, 
+        "fear": 0.111392, 
+        "disgust": 0.302007
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.416015, 
+      "text": "ringing endorsement", 
+      "emotion": {
+        "anger": 0.197828, 
+        "joy": 0.044343, 
+        "sadness": 0.193245, 
+        "fear": 0.006541, 
+        "disgust": 0.685068
+      }, 
+      "sentiment": {
+        "score": -0.628064, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.415536, 
+      "text": "pedophile apologist", 
+      "emotion": {
+        "anger": 0.436031, 
+        "joy": 0.043782, 
+        "sadness": 0.122359, 
+        "fear": 0.232906, 
+        "disgust": 0.322389
+      }, 
+      "sentiment": {
+        "score": -0.396861, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.410214, 
+      "text": "likely pedophile", 
+      "emotion": {
+        "anger": 0.455022, 
+        "joy": 0.011646, 
+        "sadness": 0.157625, 
+        "fear": 0.472678, 
+        "disgust": 0.13809
+      }, 
+      "sentiment": {
+        "score": -0.5888, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.402458, 
+      "text": "Trump stalwarts", 
+      "emotion": {
+        "anger": 0.124849, 
+        "joy": 0.042468, 
+        "sadness": 0.422825, 
+        "fear": 0.144207, 
+        "disgust": 0.186675
+      }, 
+      "sentiment": {
+        "score": -0.367859, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.396419, 
+      "text": "associate professor", 
+      "emotion": {
+        "anger": 0.077027, 
+        "joy": 0.206385, 
+        "sadness": 0.110958, 
+        "fear": 0.040508, 
+        "disgust": 0.072096
+      }, 
+      "sentiment": {
+        "score": -0.467897, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.390521, 
+      "text": "general endorsement", 
+      "emotion": {
+        "anger": 0.576294, 
+        "joy": 0.079971, 
+        "sadness": 0.06304, 
+        "fear": 0.030855, 
+        "disgust": 0.283497
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.384241, 
+      "text": "terrible candidate", 
+      "emotion": {
+        "anger": 0.222925, 
+        "joy": 0.002932, 
+        "sadness": 0.454961, 
+        "fear": 0.328073, 
+        "disgust": 0.323773
+      }, 
+      "sentiment": {
+        "score": -0.495084, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.380023, 
+      "text": "teenage women", 
+      "emotion": {
+        "anger": 0.098975, 
+        "joy": 0.153795, 
+        "sadness": 0.443893, 
+        "fear": 0.046615, 
+        "disgust": 0.431822
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.37874, 
+      "text": "general defense", 
+      "emotion": {
+        "anger": 0.098975, 
+        "joy": 0.153795, 
+        "sadness": 0.443893, 
+        "fear": 0.046615, 
+        "disgust": 0.431822
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.378479, 
+      "text": "swift backlash", 
+      "emotion": {
+        "anger": 0.089332, 
+        "joy": 0.356541, 
+        "sadness": 0.186929, 
+        "fear": 0.088145, 
+        "disgust": 0.107921
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.377569, 
+      "text": "older men", 
+      "emotion": {
+        "anger": 0.098975, 
+        "joy": 0.153795, 
+        "sadness": 0.443893, 
+        "fear": 0.046615, 
+        "disgust": 0.431822
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.377535, 
+      "text": "long history", 
+      "emotion": {
+        "anger": 0.032648, 
+        "joy": 0.503396, 
+        "sadness": 0.208881, 
+        "fear": 0.02798, 
+        "disgust": 0.067713
+      }, 
+      "sentiment": {
+        "score": 0.420465, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.376388, 
+      "text": "large families", 
+      "emotion": {
+        "anger": 0.020391, 
+        "joy": 0.50654, 
+        "sadness": 0.368112, 
+        "fear": 0.037225, 
+        "disgust": 0.123933
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.371443, 
+      "text": "embarrassing effort", 
+      "emotion": {
+        "anger": 0.271939, 
+        "joy": 0.179599, 
+        "sadness": 0.277399, 
+        "fear": 0.044767, 
+        "disgust": 0.400193
+      }, 
+      "sentiment": {
+        "score": -0.660796, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.365834, 
+      "text": "negative comments", 
+      "emotion": {
+        "anger": 0.436031, 
+        "joy": 0.043782, 
+        "sadness": 0.122359, 
+        "fear": 0.232906, 
+        "disgust": 0.322389
+      }, 
+      "sentiment": {
+        "score": -0.396861, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.365077, 
+      "text": "past caring", 
+      "emotion": {
+        "anger": 0.133553, 
+        "joy": 0.169516, 
+        "sadness": 0.568171, 
+        "fear": 0.080166, 
+        "disgust": 0.075436
+      }, 
+      "sentiment": {
+        "score": 0.76776, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.364405, 
+      "text": "French writes", 
+      "emotion": {
+        "anger": 0.12552, 
+        "joy": 0.369747, 
+        "sadness": 0.11115, 
+        "fear": 0.166382, 
+        "disgust": 0.078938
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.359176, 
+      "text": "bad faith", 
+      "emotion": {
+        "anger": 0.294369, 
+        "joy": 0.197504, 
+        "sadness": 0.48078, 
+        "fear": 0.078751, 
+        "disgust": 0.145915
+      }, 
+      "sentiment": {
+        "score": 0.589678, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.259681, 
+      "text": "piece", 
+      "emotion": {
+        "anger": 0.098456, 
+        "joy": 0.122893, 
+        "sadness": 0.223736, 
+        "fear": 0.046206, 
+        "disgust": 0.19728
+      }, 
+      "sentiment": {
+        "score": -0.560936, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.256502, 
+      "text": "response", 
+      "emotion": {
+        "anger": 0.123827, 
+        "joy": 0.120135, 
+        "sadness": 0.126082, 
+        "fear": 0.040406, 
+        "disgust": 0.155047
+      }, 
+      "sentiment": {
+        "score": 0.196497, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.25594, 
+      "text": "behavior", 
+      "emotion": {
+        "anger": 0.745038, 
+        "joy": 0.060274, 
+        "sadness": 0.067192, 
+        "fear": 0.034822, 
+        "disgust": 0.243705
+      }, 
+      "sentiment": {
+        "score": -0.470119, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.24229, 
+      "text": "accusation", 
+      "emotion": {
+        "anger": 0.133553, 
+        "joy": 0.169516, 
+        "sadness": 0.568171, 
+        "fear": 0.080166, 
+        "disgust": 0.075436
+      }, 
+      "sentiment": {
+        "score": 0.76776, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.242017, 
+      "text": "firestorm", 
+      "emotion": {
+        "anger": 0.318738, 
+        "joy": 0.098212, 
+        "sadness": 0.058779, 
+        "fear": 0.05085, 
+        "disgust": 0.030396
+      }, 
+      "sentiment": {
+        "score": -0.625317, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.241297, 
+      "text": "evils", 
+      "emotion": {
+        "anger": 0.406919, 
+        "joy": 0.079118, 
+        "sadness": 0.203441, 
+        "fear": 0.184429, 
+        "disgust": 0.450466
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.237406, 
+      "text": "accusations", 
+      "emotion": {
+        "anger": 0.091288, 
+        "joy": 0.051314, 
+        "sadness": 0.581733, 
+        "fear": 0.339476, 
+        "disgust": 0.154465
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.237277, 
+      "text": "starters", 
+      "emotion": {
+        "anger": 0.293332, 
+        "joy": 0.097857, 
+        "sadness": 0.293543, 
+        "fear": 0.286162, 
+        "disgust": 0.253811
+      }, 
+      "sentiment": {
+        "score": -0.6633, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.236919, 
+      "text": "stance", 
+      "emotion": {
+        "anger": 0.051288, 
+        "joy": 0.088257, 
+        "sadness": 0.310535, 
+        "fear": 0.040179, 
+        "disgust": 0.514863
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.236739, 
+      "text": "Federalist", 
+      "emotion": {
+        "anger": 0.122967, 
+        "joy": 0.524228, 
+        "sadness": 0.13278, 
+        "fear": 0.157187, 
+        "disgust": 0.04884
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.23621, 
+      "text": "grandmother", 
+      "emotion": {
+        "anger": 0.020391, 
+        "joy": 0.50654, 
+        "sadness": 0.368112, 
+        "fear": 0.037225, 
+        "disgust": 0.123933
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.512285, 
+        "joy": 0.147843, 
+        "sadness": 0.230369, 
+        "fear": 0.10476, 
+        "disgust": 0.464063
+      }, 
+      "count": 14, 
+      "sentiment": {
+        "score": -0.489648, 
+        "label": "negative"
+      }, 
+      "text": "Roy Moore", 
+      "relevance": 0.872827, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.662398, 
+        "joy": 0.094497, 
+        "sadness": 0.213223, 
+        "fear": 0.065639, 
+        "disgust": 0.253719
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.146483, 
+        "label": "negative"
+      }, 
+      "text": "Tully Borland", 
+      "relevance": 0.564417, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.444787, 
+        "label": "positive"
+      }, 
+      "text": "Borland", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Borland", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Borland"
+      }, 
+      "relevance": 0.432409, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.20749, 
+        "joy": 0.113651, 
+        "sadness": 0.317255, 
+        "fear": 0.070633, 
+        "disgust": 0.449737
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.43161, 
+        "label": "negative"
+      }, 
+      "text": "Alabama", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Alabama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Alabama"
+      }, 
+      "relevance": 0.21541, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.077027, 
+        "joy": 0.206385, 
+        "sadness": 0.110958, 
+        "fear": 0.040508, 
+        "disgust": 0.072096
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.467897, 
+        "label": "negative"
+      }, 
+      "text": "Ouachita Baptist University", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "CollegeUniversity", 
+          "University"
+        ], 
+        "name": "Ouachita Baptist University", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ouachita_Baptist_University"
+      }, 
+      "relevance": 0.181698, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.077027, 
+        "joy": 0.206385, 
+        "sadness": 0.110958, 
+        "fear": 0.040508, 
+        "disgust": 0.072096
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.467897, 
+        "label": "negative"
+      }, 
+      "text": "associate professor of philosophy", 
+      "relevance": 0.179288, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.171364, 
+        "joy": 0.22872, 
+        "sadness": 0.291688, 
+        "fear": 0.239449, 
+        "disgust": 0.063655
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.235157, 
+        "label": "negative"
+      }, 
+      "text": "Senate", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody", 
+          "Legislature"
+        ], 
+        "name": "United States Senate", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      }, 
+      "relevance": 0.172775, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.171364, 
+        "joy": 0.22872, 
+        "sadness": 0.291688, 
+        "fear": 0.239449, 
+        "disgust": 0.063655
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.235157, 
+        "label": "negative"
+      }, 
+      "text": "U.S.", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.166242, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.049726, 
+        "joy": 0.2753, 
+        "sadness": 0.109608, 
+        "fear": 0.049898, 
+        "disgust": 0.169325
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "National Review", 
+      "disambiguation": {
+        "subtype": [
+          "Magazine"
+        ], 
+        "name": "National Review", 
+        "dbpedia_resource": "http://dbpedia.org/resource/National_Review"
+      }, 
+      "relevance": 0.150545, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.108304, 
+        "joy": 0.396861, 
+        "sadness": 0.088742, 
+        "fear": 0.053025, 
+        "disgust": 0.150109
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.285731, 
+        "label": "negative"
+      }, 
+      "text": "David French", 
+      "relevance": 0.150176, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Doug Jones", 
+      "relevance": 0.147897, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.576294, 
+        "joy": 0.079971, 
+        "sadness": 0.06304, 
+        "fear": 0.030855, 
+        "disgust": 0.283497
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "professor", 
+      "relevance": 0.142676, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.142676, 
+      "text": "15 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.142676, 
+      "text": "14-year", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/01/professor-faces-stiff-criticism-after-he-pens-pro-roy-moore-article/"
+}

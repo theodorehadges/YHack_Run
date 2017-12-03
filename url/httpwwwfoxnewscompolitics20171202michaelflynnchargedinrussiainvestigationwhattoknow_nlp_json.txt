@@ -1,0 +1,1447 @@
+{
+  "usage": {
+    "text_characters": 3077, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.909477, 
+      "text": "Flynn", 
+      "emotion": {
+        "anger": 0.152461, 
+        "joy": 0.138345, 
+        "sadness": 0.202515, 
+        "fear": 0.150139, 
+        "disgust": 0.16585
+      }, 
+      "sentiment": {
+        "score": 0.082651, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.735377, 
+      "text": "Flynn Intel Group", 
+      "emotion": {
+        "anger": 0.111857, 
+        "joy": 0.282728, 
+        "sadness": 0.131228, 
+        "fear": 0.087163, 
+        "disgust": 0.087328
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.731853, 
+      "text": "Michael Flynn", 
+      "emotion": {
+        "anger": 0.095939, 
+        "joy": 0.113309, 
+        "sadness": 0.269212, 
+        "fear": 0.034979, 
+        "disgust": 0.331723
+      }, 
+      "sentiment": {
+        "score": 0.397685, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.663579, 
+      "text": "special counsel", 
+      "emotion": {
+        "anger": 0.194715, 
+        "joy": 0.084283, 
+        "sadness": 0.221097, 
+        "fear": 0.263609, 
+        "disgust": 0.413014
+      }, 
+      "sentiment": {
+        "score": 0.0936143, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.648367, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.105716, 
+        "joy": 0.337003, 
+        "sadness": 0.408885, 
+        "fear": 0.100606, 
+        "disgust": 0.165572
+      }, 
+      "sentiment": {
+        "score": -0.0678055, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.639521, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.179798, 
+        "joy": 0.247095, 
+        "sadness": 0.18701, 
+        "fear": 0.063144, 
+        "disgust": 0.10796
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.615699, 
+      "text": "Counsel Robert Mueller", 
+      "emotion": {
+        "anger": 0.234168, 
+        "joy": 0.040296, 
+        "sadness": 0.243003, 
+        "fear": 0.273905, 
+        "disgust": 0.438033
+      }, 
+      "sentiment": {
+        "score": -0.434429, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.563032, 
+      "text": "President Barack Obama", 
+      "emotion": {
+        "anger": 0.140581, 
+        "joy": 0.176022, 
+        "sadness": 0.219127, 
+        "fear": 0.092897, 
+        "disgust": 0.217088
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.559567, 
+      "text": "false statements", 
+      "emotion": {
+        "anger": 0.266323, 
+        "joy": 0.019074, 
+        "sadness": 0.279882, 
+        "fear": 0.275343, 
+        "disgust": 0.475355
+      }, 
+      "sentiment": {
+        "score": -0.428369, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.557319, 
+      "text": "House legal team", 
+      "emotion": {
+        "anger": 0.089546, 
+        "joy": 0.393611, 
+        "sadness": 0.321504, 
+        "fear": 0.12381, 
+        "disgust": 0.116281
+      }, 
+      "sentiment": {
+        "score": 0.469179, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.555607, 
+      "text": "Turkish President Recep", 
+      "emotion": {
+        "anger": 0.663575, 
+        "joy": 0.056319, 
+        "sadness": 0.082701, 
+        "fear": 0.024022, 
+        "disgust": 0.419745
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.555066, 
+      "text": "national security adviser", 
+      "emotion": {
+        "anger": 0.233786, 
+        "joy": 0.208523, 
+        "sadness": 0.316437, 
+        "fear": 0.13871, 
+        "disgust": 0.202897
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.546092, 
+      "text": "deputy attorney general", 
+      "emotion": {
+        "anger": 0.253235, 
+        "joy": 0.150515, 
+        "sadness": 0.254531, 
+        "fear": 0.089766, 
+        "disgust": 0.118214
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.542218, 
+      "text": "Trump\u2019s administration", 
+      "emotion": {
+        "anger": 0.082883, 
+        "joy": 0.117962, 
+        "sadness": 0.078582, 
+        "fear": 0.330707, 
+        "disgust": 0.304015
+      }, 
+      "sentiment": {
+        "score": 0.934531, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.541938, 
+      "text": "State Hillary Clinton", 
+      "sentiment": {
+        "score": -0.361369, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.523763, 
+      "text": "Turkish government", 
+      "emotion": {
+        "anger": 0.131664, 
+        "joy": 0.045983, 
+        "sadness": 0.196896, 
+        "fear": 0.273535, 
+        "disgust": 0.202341
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495799, 
+      "text": "Vice President", 
+      "emotion": {
+        "anger": 0.268634, 
+        "joy": 0.196018, 
+        "sadness": 0.290464, 
+        "fear": 0.139241, 
+        "disgust": 0.191834
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495071, 
+      "text": "Russian ambassador", 
+      "emotion": {
+        "anger": 0.290706, 
+        "joy": 0.013048, 
+        "sadness": 0.27607, 
+        "fear": 0.433958, 
+        "disgust": 0.362014
+      }, 
+      "sentiment": {
+        "score": -0.50893, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.493454, 
+      "text": "counsel\u2019s investigation", 
+      "emotion": {
+        "anger": 0.089546, 
+        "joy": 0.393611, 
+        "sadness": 0.321504, 
+        "fear": 0.12381, 
+        "disgust": 0.116281
+      }, 
+      "sentiment": {
+        "score": 0.469179, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.491344, 
+      "text": "court documents", 
+      "emotion": {
+        "anger": 0.163288, 
+        "joy": 0.213493, 
+        "sadness": 0.020187, 
+        "fear": 0.163729, 
+        "disgust": 0.078485
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.490547, 
+      "text": "Russia investigation", 
+      "emotion": {
+        "anger": 0.055154, 
+        "joy": 0.216826, 
+        "sadness": 0.249362, 
+        "fear": 0.036677, 
+        "disgust": 0.030359
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.490543, 
+      "text": "Russia\u2019s ambassador", 
+      "emotion": {
+        "anger": 0.268634, 
+        "joy": 0.196018, 
+        "sadness": 0.290464, 
+        "fear": 0.139241, 
+        "disgust": 0.191834
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.49045, 
+      "text": "extradition demands", 
+      "emotion": {
+        "anger": 0.141831, 
+        "joy": 0.153028, 
+        "sadness": 0.186574, 
+        "fear": 0.053817, 
+        "disgust": 0.14369
+      }, 
+      "sentiment": {
+        "score": -0.459891, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.488713, 
+      "text": "polarizing characters", 
+      "emotion": {
+        "anger": 0.082883, 
+        "joy": 0.117962, 
+        "sadness": 0.078582, 
+        "fear": 0.330707, 
+        "disgust": 0.304015
+      }, 
+      "sentiment": {
+        "score": 0.934531, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.4876, 
+      "text": "Turkish cleric", 
+      "emotion": {
+        "anger": 0.134828, 
+        "joy": 0.338684, 
+        "sadness": 0.177486, 
+        "fear": 0.04878, 
+        "disgust": 0.080393
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.485246, 
+      "text": "Mike Pence", 
+      "emotion": {
+        "anger": 0.268634, 
+        "joy": 0.196018, 
+        "sadness": 0.290464, 
+        "fear": 0.139241, 
+        "disgust": 0.191834
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.484882, 
+      "text": "Turkish businessman", 
+      "emotion": {
+        "anger": 0.063049, 
+        "joy": 0.132037, 
+        "sadness": 0.16016, 
+        "fear": 0.361773, 
+        "disgust": 0.074049
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.483848, 
+      "text": "Russian investigation", 
+      "emotion": {
+        "anger": 0.082883, 
+        "joy": 0.117962, 
+        "sadness": 0.078582, 
+        "fear": 0.330707, 
+        "disgust": 0.304015
+      }, 
+      "sentiment": {
+        "score": 0.934531, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.483656, 
+      "text": "botched coup", 
+      "emotion": {
+        "anger": 0.663575, 
+        "joy": 0.056319, 
+        "sadness": 0.082701, 
+        "fear": 0.024022, 
+        "disgust": 0.419745
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.48363, 
+      "text": "lobbying campaign", 
+      "emotion": {
+        "anger": 0.029661, 
+        "joy": 0.251613, 
+        "sadness": 0.169274, 
+        "fear": 0.128122, 
+        "disgust": 0.202566
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.483334, 
+      "text": "U.S.-based cleric", 
+      "emotion": {
+        "anger": 0.141788, 
+        "joy": 0.031032, 
+        "sadness": 0.129028, 
+        "fear": 0.423448, 
+        "disgust": 0.166197
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.482915, 
+      "text": "derogatory information", 
+      "emotion": {
+        "anger": 0.029661, 
+        "joy": 0.251613, 
+        "sadness": 0.169274, 
+        "fear": 0.128122, 
+        "disgust": 0.202566
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.481816, 
+      "text": "South Lawn", 
+      "emotion": {
+        "anger": 0.087773, 
+        "joy": 0.249059, 
+        "sadness": 0.38672, 
+        "fear": 0.117729, 
+        "disgust": 0.210824
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.481613, 
+      "text": "Sergey Kislyak", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.480267, 
+      "text": "Pentagon\u2019s inspector", 
+      "emotion": {
+        "anger": 0.160636, 
+        "joy": 0.167209, 
+        "sadness": 0.178072, 
+        "fear": 0.080022, 
+        "disgust": 0.120362
+      }, 
+      "sentiment": {
+        "score": -0.565168, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.480007, 
+      "text": "Sally Yates", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.181081, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.111266
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.479891, 
+      "text": "earlier statements", 
+      "emotion": {
+        "anger": 0.076526, 
+        "joy": 0.092197, 
+        "sadness": 0.394977, 
+        "fear": 0.022579, 
+        "disgust": 0.085524
+      }, 
+      "sentiment": {
+        "score": -0.389301, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.479586, 
+      "text": "Kaitlyn Schallhorn", 
+      "emotion": {
+        "anger": 0.108783, 
+        "joy": 0.173382, 
+        "sadness": 0.312425, 
+        "fear": 0.106697, 
+        "disgust": 0.223697
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.478459, 
+      "text": "multiple investigations", 
+      "emotion": {
+        "anger": 0.160636, 
+        "joy": 0.167209, 
+        "sadness": 0.178072, 
+        "fear": 0.080022, 
+        "disgust": 0.120362
+      }, 
+      "sentiment": {
+        "score": -0.565168, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.476302, 
+      "text": "Associated Press", 
+      "emotion": {
+        "anger": 0.11154, 
+        "joy": 0.07253, 
+        "sadness": 0.189844, 
+        "fear": 0.131073, 
+        "disgust": 0.047117
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.476242, 
+      "text": "research work", 
+      "emotion": {
+        "anger": 0.164146, 
+        "joy": 0.376206, 
+        "sadness": 0.387006, 
+        "fear": 0.12815, 
+        "disgust": 0.018817
+      }, 
+      "sentiment": {
+        "score": 0.387851, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.476165, 
+      "text": "congressional committees", 
+      "emotion": {
+        "anger": 0.160636, 
+        "joy": 0.167209, 
+        "sadness": 0.178072, 
+        "fear": 0.080022, 
+        "disgust": 0.120362
+      }, 
+      "sentiment": {
+        "score": -0.565168, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.475571, 
+      "text": "Fethullah Gulen", 
+      "emotion": {
+        "anger": 0.029661, 
+        "joy": 0.251613, 
+        "sadness": 0.169274, 
+        "fear": 0.128122, 
+        "disgust": 0.202566
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.474985, 
+      "text": "Fox News", 
+      "emotion": {
+        "anger": 0.108783, 
+        "joy": 0.173382, 
+        "sadness": 0.312425, 
+        "fear": 0.106697, 
+        "disgust": 0.223697
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.474415, 
+      "text": "Tayyip Erdogan", 
+      "emotion": {
+        "anger": 0.663575, 
+        "joy": 0.056319, 
+        "sadness": 0.082701, 
+        "fear": 0.024022, 
+        "disgust": 0.419745
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.474414, 
+      "text": "green-card holder", 
+      "emotion": {
+        "anger": 0.134828, 
+        "joy": 0.338684, 
+        "sadness": 0.177486, 
+        "fear": 0.04878, 
+        "disgust": 0.080393
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.472367, 
+      "text": "foreign agent", 
+      "emotion": {
+        "anger": 0.097508, 
+        "joy": 0.105571, 
+        "sadness": 0.297966, 
+        "fear": 0.081139, 
+        "disgust": 0.176758
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.470467, 
+      "text": "U.S. officials", 
+      "emotion": {
+        "anger": 0.141831, 
+        "joy": 0.153028, 
+        "sadness": 0.186574, 
+        "fear": 0.053817, 
+        "disgust": 0.14369
+      }, 
+      "sentiment": {
+        "score": -0.459891, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460796, 
+      "text": "collusion", 
+      "emotion": {
+        "anger": 0.193995, 
+        "joy": 0.26376, 
+        "sadness": 0.16576, 
+        "fear": 0.05924, 
+        "disgust": 0.094915
+      }, 
+      "sentiment": {
+        "score": -0.533811, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.45517, 
+      "text": "FBI", 
+      "emotion": {
+        "anger": 0.296045, 
+        "joy": 0.007656, 
+        "sadness": 0.257229, 
+        "fear": 0.374649, 
+        "disgust": 0.464733
+      }, 
+      "sentiment": {
+        "score": -0.455222, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.159478, 
+        "joy": 0.13023, 
+        "sadness": 0.215205, 
+        "fear": 0.189724, 
+        "disgust": 0.180881
+      }, 
+      "count": 19, 
+      "sentiment": {
+        "score": 0.134919, 
+        "label": "positive"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.88409, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.107188, 
+        "joy": 0.434252, 
+        "sadness": 0.163319, 
+        "fear": 0.085145, 
+        "disgust": 0.190442
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.586906, 
+        "label": "positive"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.297453, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.108403, 
+        "joy": 0.064606, 
+        "sadness": 0.336318, 
+        "fear": 0.147931, 
+        "disgust": 0.092925
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.361369, 
+        "label": "negative"
+      }, 
+      "text": "Flynn Intel Group, Inc.", 
+      "relevance": 0.280281, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.190038, 
+        "joy": 0.030455, 
+        "sadness": 0.144942, 
+        "fear": 0.520811, 
+        "disgust": 0.278708
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.397899, 
+        "label": "negative"
+      }, 
+      "text": "Robert Mueller", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.253721, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.157995, 
+        "joy": 0.288925, 
+        "sadness": 0.209236, 
+        "fear": 0.039806, 
+        "disgust": 0.12727
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.311698, 
+        "label": "negative"
+      }, 
+      "text": "Russia", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ], 
+        "name": "Russia", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Russia"
+      }, 
+      "relevance": 0.210823, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.296045, 
+        "joy": 0.007656, 
+        "sadness": 0.257229, 
+        "fear": 0.374649, 
+        "disgust": 0.464733
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.455222, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.180071, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.194715, 
+        "joy": 0.084283, 
+        "sadness": 0.221097, 
+        "fear": 0.263609, 
+        "disgust": 0.413014
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.207219, 
+        "label": "positive"
+      }, 
+      "text": "special counsel", 
+      "relevance": 0.177964, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.105716, 
+        "joy": 0.337003, 
+        "sadness": 0.408885, 
+        "fear": 0.100606, 
+        "disgust": 0.165572
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.536985, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "House", 
+          "TouristAttraction", 
+          "Building"
+        ], 
+        "name": "White House", 
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      }, 
+      "relevance": 0.165008, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.181687, 
+        "joy": 0.240224, 
+        "sadness": 0.206105, 
+        "fear": 0.07634, 
+        "disgust": 0.177065
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President", 
+      "relevance": 0.154442, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.153245, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.663575, 
+        "joy": 0.056319, 
+        "sadness": 0.082701, 
+        "fear": 0.024022, 
+        "disgust": 0.419745
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Recep Tayyip Erdogan", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Recep Tayyip Erdo\u011fan", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Recep_Tayyip_Erdo\u011fan"
+      }, 
+      "relevance": 0.150409, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.10191, 
+        "joy": 0.197249, 
+        "sadness": 0.245543, 
+        "fear": 0.101727, 
+        "disgust": 0.166304
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Reporter", 
+      "relevance": 0.150266, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.123153, 
+        "joy": 0.233893, 
+        "sadness": 0.232093, 
+        "fear": 0.047089, 
+        "disgust": 0.143659
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sergey Kislyak", 
+      "relevance": 0.139693, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.131664, 
+        "joy": 0.045983, 
+        "sadness": 0.196896, 
+        "fear": 0.273535, 
+        "disgust": 0.202341
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Turkish government", 
+      "relevance": 0.130199, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268634, 
+        "joy": 0.196018, 
+        "sadness": 0.290464, 
+        "fear": 0.139241, 
+        "disgust": 0.191834
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Vice President", 
+      "relevance": 0.129083, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.105716, 
+        "joy": 0.337003, 
+        "sadness": 0.408885, 
+        "fear": 0.100606, 
+        "disgust": 0.165572
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.469179, 
+        "label": "positive"
+      }, 
+      "text": "White House", 
+      "relevance": 0.1206, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.072892, 
+        "joy": 0.368493, 
+        "sadness": 0.273893, 
+        "fear": 0.083745, 
+        "disgust": 0.081954
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.439394, 
+        "label": "positive"
+      }, 
+      "text": "Kaitlyn Schallhorn", 
+      "relevance": 0.119005, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.51599, 
+        "joy": 0.075142, 
+        "sadness": 0.14285, 
+        "fear": 0.022883, 
+        "disgust": 0.495815
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.642689, 
+        "label": "negative"
+      }, 
+      "text": "Fethullah Gulen", 
+      "relevance": 0.116627, 
+      "type": "GeographicFeature"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.141831, 
+        "joy": 0.153028, 
+        "sadness": 0.186574, 
+        "fear": 0.053817, 
+        "disgust": 0.14369
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.459891, 
+        "label": "negative"
+      }, 
+      "text": "U.S.", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.116096, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268634, 
+        "joy": 0.196018, 
+        "sadness": 0.290464, 
+        "fear": 0.139241, 
+        "disgust": 0.191834
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Mike Pence", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson", 
+          "BroadcastArtist"
+        ], 
+        "name": "Mike Pence", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      }, 
+      "relevance": 0.114431, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.140581, 
+        "joy": 0.176022, 
+        "sadness": 0.219127, 
+        "fear": 0.092897, 
+        "disgust": 0.217088
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Barack Obama", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardWinner", 
+          "Celebrity", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "TVActor"
+        ], 
+        "name": "Barack Obama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      }, 
+      "relevance": 0.11406, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Hillary Clinton", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Appointee", 
+          "AwardWinner", 
+          "BoardMember", 
+          "Celebrity", 
+          "HallOfFameInductee", 
+          "OperaCharacter", 
+          "Senator", 
+          "U.S.Congressperson", 
+          "TVActor"
+        ], 
+        "name": "Hillary Rodham Clinton", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      }, 
+      "relevance": 0.111118, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.108783, 
+        "joy": 0.173382, 
+        "sadness": 0.312425, 
+        "fear": 0.106697, 
+        "disgust": 0.223697
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Fox News", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TelevisionStation"
+        ], 
+        "name": "Fox News Channel", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Fox_News_Channel"
+      }, 
+      "relevance": 0.110553, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.097508, 
+        "joy": 0.105571, 
+        "sadness": 0.297966, 
+        "fear": 0.081139, 
+        "disgust": 0.176758
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.361369, 
+        "label": "negative"
+      }, 
+      "text": "Department of Justice", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody", 
+          "GovernmentalJurisdiction"
+        ], 
+        "name": "United States Department of Justice", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Justice"
+      }, 
+      "relevance": 0.10847, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.134828, 
+        "joy": 0.338684, 
+        "sadness": 0.177486, 
+        "fear": 0.04878, 
+        "disgust": 0.080393
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Pennsylvania", 
+      "disambiguation": {
+        "subtype": [
+          "CityTown", 
+          "StateOrCounty"
+        ], 
+        "name": "Jones Township, Elk County, Pennsylvania", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Jones_Township,_Elk_County,_Pennsylvania"
+      }, 
+      "relevance": 0.104819, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.11154, 
+        "joy": 0.07253, 
+        "sadness": 0.189844, 
+        "fear": 0.131073, 
+        "disgust": 0.047117
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "The Associated Press", 
+      "disambiguation": {
+        "subtype": [
+          "AwardPresentingOrganization", 
+          "AwardWinner"
+        ], 
+        "name": "Associated Press", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Associated_Press"
+      }, 
+      "relevance": 0.104056, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.241764, 
+        "joy": 0.107781, 
+        "sadness": 0.191308, 
+        "fear": 0.096759, 
+        "disgust": 0.187558
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sally Yates", 
+      "relevance": 0.103883, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087773, 
+        "joy": 0.249059, 
+        "sadness": 0.38672, 
+        "fear": 0.117729, 
+        "disgust": 0.210824
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "South Lawn", 
+      "relevance": 0.103816, 
+      "type": "GeographicFeature"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.253235, 
+        "joy": 0.150515, 
+        "sadness": 0.254531, 
+        "fear": 0.089766, 
+        "disgust": 0.118214
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "deputy attorney general", 
+      "relevance": 0.102647, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Pentagon", 
+      "relevance": 0.10045, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.459891, 
+        "label": "negative"
+      }, 
+      "text": "Turkey", 
+      "disambiguation": {
+        "subtype": [
+          "Brand", 
+          "GovernmentalJurisdiction", 
+          "ProjectParticipant", 
+          "Country"
+        ], 
+        "name": "Turkey", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Turkey"
+      }, 
+      "relevance": 0.0887648, 
+      "type": "Location"
+    }, 
+    {
+      "relevance": 0.0887648, 
+      "text": "@K_Schallhorn", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0887648, 
+      "text": "$15 million", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0887648, 
+      "text": "$530,000", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.foxnews.com/politics/2017/12/02/michael-flynn-charged-in-russia-investigation-what-to-know.html"
+}

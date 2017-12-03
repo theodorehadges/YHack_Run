@@ -1,0 +1,866 @@
+{
+  "usage": {
+    "text_characters": 2167, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.938427, 
+      "text": "Counsel Robert Mueller", 
+      "emotion": {
+        "anger": 0.026642, 
+        "joy": 0.238498, 
+        "sadness": 0.087923, 
+        "fear": 0.204328, 
+        "disgust": 0.106742
+      }, 
+      "sentiment": {
+        "score": 0.332606, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.914027, 
+      "text": "Professor Alan Dershowitz", 
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.912017, 
+      "text": "Adviser Michael Flynn", 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.840272, 
+      "text": "Trump National Security", 
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.818812, 
+      "text": "Fox News Channel", 
+      "emotion": {
+        "anger": 0.08484, 
+        "joy": 0.392306, 
+        "sadness": 0.200718, 
+        "fear": 0.022142, 
+        "disgust": 0.232408
+      }, 
+      "sentiment": {
+        "score": -0.237166, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.727072, 
+      "text": "essentially political jaywalking", 
+      "emotion": {
+        "anger": 0.166536, 
+        "joy": 0.416384, 
+        "sadness": 0.311746, 
+        "fear": 0.024798, 
+        "disgust": 0.122145
+      }, 
+      "sentiment": {
+        "score": -0.234335, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.716904, 
+      "text": "primary witness", 
+      "emotion": {
+        "anger": 0.255842, 
+        "joy": 0.039721, 
+        "sadness": 0.48532, 
+        "fear": 0.18314, 
+        "disgust": 0.208049
+      }, 
+      "sentiment": {
+        "score": -0.224565, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.694114, 
+      "text": "useless witness", 
+      "emotion": {
+        "anger": 0.729736, 
+        "joy": 0.021143, 
+        "sadness": 0.245944, 
+        "fear": 0.185876, 
+        "disgust": 0.136183
+      }, 
+      "sentiment": {
+        "score": -0.460373, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.67143, 
+      "text": "Mueller\u2019s prosecution", 
+      "emotion": {
+        "anger": 0.088473, 
+        "joy": 0.179551, 
+        "sadness": 0.148831, 
+        "fear": 0.091248, 
+        "disgust": 0.074744
+      }, 
+      "sentiment": {
+        "score": -0.522501, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.647582, 
+      "text": "witness stand", 
+      "emotion": {
+        "anger": 0.119372, 
+        "joy": 0.096608, 
+        "sadness": 0.180744, 
+        "fear": 0.179146, 
+        "disgust": 0.456188
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.632622, 
+      "text": "Mueller office", 
+      "emotion": {
+        "anger": 0.027941, 
+        "joy": 0.741655, 
+        "sadness": 0.074984, 
+        "fear": 0.041001, 
+        "disgust": 0.041497
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.615813, 
+      "text": "prosecutor", 
+      "emotion": {
+        "anger": 0.266531, 
+        "joy": 0.17576, 
+        "sadness": 0.358239, 
+        "fear": 0.236407, 
+        "disgust": 0.147921
+      }, 
+      "sentiment": {
+        "score": -0.47303, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.613874, 
+      "text": "guilty plea", 
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.585542, 
+      "text": "terrible mistake", 
+      "emotion": {
+        "anger": 0.394917, 
+        "joy": 0.010088, 
+        "sadness": 0.572489, 
+        "fear": 0.223148, 
+        "disgust": 0.122006
+      }, 
+      "sentiment": {
+        "score": -0.908977, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.585323, 
+      "text": "Saturday\u2019s broadcast", 
+      "emotion": {
+        "anger": 0.08484, 
+        "joy": 0.392306, 
+        "sadness": 0.200718, 
+        "fear": 0.022142, 
+        "disgust": 0.232408
+      }, 
+      "sentiment": {
+        "score": -0.237166, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.564641, 
+      "text": "weakness", 
+      "emotion": {
+        "anger": 0.084656, 
+        "joy": 0.042167, 
+        "sadness": 0.708013, 
+        "fear": 0.195022, 
+        "disgust": 0.041696
+      }, 
+      "sentiment": {
+        "score": -0.54904, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.56028, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.312428, 
+        "joy": 0.151891, 
+        "sadness": 0.23914, 
+        "fear": 0.163373, 
+        "disgust": 0.290892
+      }, 
+      "sentiment": {
+        "score": -0.694519, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.554283, 
+      "text": "domino theory", 
+      "emotion": {
+        "anger": 0.035665, 
+        "joy": 0.240278, 
+        "sadness": 0.331726, 
+        "fear": 0.286676, 
+        "disgust": 0.03771
+      }, 
+      "sentiment": {
+        "score": 0.397712, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.542656, 
+      "text": "lowest-hanging fruit", 
+      "emotion": {
+        "anger": 0.124237, 
+        "joy": 0.070832, 
+        "sadness": 0.403956, 
+        "fear": 0.185003, 
+        "disgust": 0.468146
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.537877, 
+      "text": "proper forms", 
+      "emotion": {
+        "anger": 0.224093, 
+        "joy": 0.016902, 
+        "sadness": 0.755619, 
+        "fear": 0.073303, 
+        "disgust": 0.072054
+      }, 
+      "sentiment": {
+        "score": -0.719635, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.537474, 
+      "text": "better deal", 
+      "emotion": {
+        "anger": 0.113625, 
+        "joy": 0.301122, 
+        "sadness": 0.193939, 
+        "fear": 0.147918, 
+        "disgust": 0.039667
+      }, 
+      "sentiment": {
+        "score": -0.466628, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.534964, 
+      "text": "documentary evidence", 
+      "emotion": {
+        "anger": 0.129452, 
+        "joy": 0.114106, 
+        "sadness": 0.108031, 
+        "fear": 0.326, 
+        "disgust": 0.108484
+      }, 
+      "sentiment": {
+        "score": -0.331801, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.53007, 
+      "text": "defense lawyer", 
+      "emotion": {
+        "anger": 0.065395, 
+        "joy": 0.037655, 
+        "sadness": 0.491944, 
+        "fear": 0.105711, 
+        "disgust": 0.445488
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.441037, 
+      "text": "credibility", 
+      "emotion": {
+        "anger": 0.119372, 
+        "joy": 0.096608, 
+        "sadness": 0.180744, 
+        "fear": 0.179146, 
+        "disgust": 0.456188
+      }, 
+      "sentiment": {
+        "score": -0.575054, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.430871, 
+      "text": "somebody", 
+      "emotion": {
+        "anger": 0.160683, 
+        "joy": 0.302251, 
+        "sadness": 0.279438, 
+        "fear": 0.077733, 
+        "disgust": 0.14184
+      }, 
+      "sentiment": {
+        "score": 0.43795, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.403099, 
+      "text": "strength", 
+      "emotion": {
+        "anger": 0.007615, 
+        "joy": 0.547248, 
+        "sadness": 0.041308, 
+        "fear": 0.088661, 
+        "disgust": 0.003556
+      }, 
+      "sentiment": {
+        "score": -0.514455, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.381499, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.45625, 
+        "joy": 0.037598, 
+        "sadness": 0.267437, 
+        "fear": 0.122374, 
+        "disgust": 0.440064
+      }, 
+      "sentiment": {
+        "score": -0.645207, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.356321, 
+      "text": "anybody", 
+      "emotion": {
+        "anger": 0.394917, 
+        "joy": 0.010088, 
+        "sadness": 0.572489, 
+        "fear": 0.223148, 
+        "disgust": 0.122006
+      }, 
+      "sentiment": {
+        "score": -0.908977, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.347607, 
+      "text": "Friends", 
+      "emotion": {
+        "anger": 0.07988, 
+        "joy": 0.147003, 
+        "sadness": 0.157202, 
+        "fear": 0.061301, 
+        "disgust": 0.107073
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.347592, 
+      "text": "thing", 
+      "emotion": {
+        "anger": 0.255842, 
+        "joy": 0.039721, 
+        "sadness": 0.48532, 
+        "fear": 0.18314, 
+        "disgust": 0.208049
+      }, 
+      "sentiment": {
+        "score": -0.224565, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.347283, 
+      "text": "Special", 
+      "emotion": {
+        "anger": 0.026642, 
+        "joy": 0.238498, 
+        "sadness": 0.087923, 
+        "fear": 0.204328, 
+        "disgust": 0.106742
+      }, 
+      "sentiment": {
+        "score": 0.332606, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.347215, 
+      "text": "conspiracy", 
+      "emotion": {
+        "anger": 0.312428, 
+        "joy": 0.151891, 
+        "sadness": 0.23914, 
+        "fear": 0.163373, 
+        "disgust": 0.290892
+      }, 
+      "sentiment": {
+        "score": -0.694519, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.343667, 
+      "text": "Harvard", 
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.34346, 
+      "text": "FBI", 
+      "emotion": {
+        "anger": 0.44116, 
+        "joy": 0.012728, 
+        "sadness": 0.321409, 
+        "fear": 0.08068, 
+        "disgust": 0.465575
+      }, 
+      "sentiment": {
+        "score": -0.595895, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.343052, 
+      "text": "trouble", 
+      "emotion": {
+        "anger": 0.119372, 
+        "joy": 0.096608, 
+        "sadness": 0.180744, 
+        "fear": 0.179146, 
+        "disgust": 0.456188
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.34281, 
+      "text": "things", 
+      "emotion": {
+        "anger": 0.144097, 
+        "joy": 0.486339, 
+        "sadness": 0.233005, 
+        "fear": 0.038778, 
+        "disgust": 0.081638
+      }, 
+      "sentiment": {
+        "score": 0.450907, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.342389, 
+      "text": "witnesses", 
+      "emotion": {
+        "anger": 0.129452, 
+        "joy": 0.114106, 
+        "sadness": 0.108031, 
+        "fear": 0.326, 
+        "disgust": 0.108484
+      }, 
+      "sentiment": {
+        "score": -0.331801, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.341937, 
+      "text": "transition", 
+      "emotion": {
+        "anger": 0.144097, 
+        "joy": 0.486339, 
+        "sadness": 0.233005, 
+        "fear": 0.038778, 
+        "disgust": 0.081638
+      }, 
+      "sentiment": {
+        "score": 0.450907, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.341892, 
+      "text": "scheme", 
+      "emotion": {
+        "anger": 0.312428, 
+        "joy": 0.151891, 
+        "sadness": 0.23914, 
+        "fear": 0.163373, 
+        "disgust": 0.290892
+      }, 
+      "sentiment": {
+        "score": -0.694519, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.340348, 
+      "text": "end", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.34029, 
+      "text": "son", 
+      "emotion": {
+        "anger": 0.105539, 
+        "joy": 0.118523, 
+        "sadness": 0.264418, 
+        "fear": 0.01982, 
+        "disgust": 0.550794
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.338644, 
+      "text": "time", 
+      "emotion": {
+        "anger": 0.09289, 
+        "joy": 0.235806, 
+        "sadness": 0.342797, 
+        "fear": 0.163812, 
+        "disgust": 0.061188
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.186385, 
+        "joy": 0.116706, 
+        "sadness": 0.540465, 
+        "fear": 0.133551, 
+        "disgust": 0.442837
+      }, 
+      "count": 10, 
+      "sentiment": {
+        "score": -0.536316, 
+        "label": "negative"
+      }, 
+      "text": "Michael Flynn", 
+      "disambiguation": {
+        "subtype": [
+          "Academic", 
+          "Scientist"
+        ], 
+        "name": "Michael J. Flynn", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_J._Flynn"
+      }, 
+      "relevance": 0.91809, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.266531, 
+        "joy": 0.17576, 
+        "sadness": 0.358239, 
+        "fear": 0.236407, 
+        "disgust": 0.147921
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.47303, 
+        "label": "negative"
+      }, 
+      "text": "prosecutor", 
+      "relevance": 0.791428, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.020646, 
+        "joy": 0.602969, 
+        "sadness": 0.075036, 
+        "fear": 0.084295, 
+        "disgust": 0.068143
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.0949477, 
+        "label": "negative"
+      }, 
+      "text": "Robert Mueller", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.74227, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.327568, 
+        "joy": 0.117758, 
+        "sadness": 0.38136, 
+        "fear": 0.099177, 
+        "disgust": 0.253025
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.380857, 
+        "label": "negative"
+      }, 
+      "text": "Alan Dershowitz", 
+      "disambiguation": {
+        "subtype": [
+          "Academic", 
+          "Scientist", 
+          "FilmActor", 
+          "FilmWriter", 
+          "TVActor"
+        ], 
+        "name": "Alan Dershowitz", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Alan_Dershowitz"
+      }, 
+      "relevance": 0.700403, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.08484, 
+        "joy": 0.392306, 
+        "sadness": 0.200718, 
+        "fear": 0.022142, 
+        "disgust": 0.232408
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.237166, 
+        "label": "negative"
+      }, 
+      "text": "Fox News", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TelevisionStation"
+        ], 
+        "name": "Fox News Channel", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Fox_News_Channel"
+      }, 
+      "relevance": 0.417872, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.026642, 
+        "joy": 0.238498, 
+        "sadness": 0.087923, 
+        "fear": 0.204328, 
+        "disgust": 0.106742
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.332606, 
+        "label": "positive"
+      }, 
+      "text": "Special Counsel", 
+      "relevance": 0.344145, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }, 
+      "text": "Harvard", 
+      "relevance": 0.329085, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.44116, 
+        "joy": 0.012728, 
+        "sadness": 0.321409, 
+        "fear": 0.08068, 
+        "disgust": 0.465575
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.595895, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "RadioStation"
+        ], 
+        "name": "FBi Radio", 
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio"
+      }, 
+      "relevance": 0.325414, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }, 
+      "text": "National Security", 
+      "relevance": 0.325162, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.317841, 
+        "joy": 0.110018, 
+        "sadness": 0.348594, 
+        "fear": 0.108392, 
+        "disgust": 0.246855
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.461724, 
+        "label": "negative"
+      }, 
+      "text": "Professor", 
+      "relevance": 0.323563, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.312428, 
+        "joy": 0.151891, 
+        "sadness": 0.23914, 
+        "fear": 0.163373, 
+        "disgust": 0.290892
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.694519, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "relevance": 0.322033, 
+      "type": "Facility"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/video/2017/12/02/dershowitz-flynn-plea-is-a-show-of-weakness-for-mueller/"
+}

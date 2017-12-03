@@ -1,0 +1,1407 @@
+{
+  "usage": {
+    "text_characters": 2907, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.912543, 
+      "text": "vice presidential debate", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.854265, 
+      "text": "care governor Reagan", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.848387, 
+      "text": "president Richard Nixon", 
+      "emotion": {
+        "anger": 0.090933, 
+        "joy": 0.139258, 
+        "sadness": 0.614837, 
+        "fear": 0.077378, 
+        "disgust": 0.200967
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.824108, 
+      "text": "George Bush governor", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.816336, 
+      "text": "governor Jimmy Carter", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.803719, 
+      "text": "election democratic candidate", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.803095, 
+      "text": "president Gerald Ford", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.802674, 
+      "text": "F. Kennedy elicit", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.799254, 
+      "text": "indisputable truth debates", 
+      "emotion": {
+        "anger": 0.062055, 
+        "joy": 0.512646, 
+        "sadness": 0.149943, 
+        "fear": 0.104166, 
+        "disgust": 0.198204
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.795998, 
+      "text": "election stuff government", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.792213, 
+      "text": "Kennedy body language", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.789613, 
+      "text": "senator Dan Quayle", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.781679, 
+      "text": "George HW bush", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.77154, 
+      "text": "irrevocable death penalty", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.768465, 
+      "text": "George W. bush", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.753115, 
+      "text": "hot studio lights", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.742038, 
+      "text": "president Reagan", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.716841, 
+      "text": "debates Kennedy", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.705665, 
+      "text": "president Carter", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.698137, 
+      "text": "election emphasis", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.694268, 
+      "text": "presidential debates", 
+      "emotion": {
+        "anger": 0.055985, 
+        "joy": 0.52997, 
+        "sadness": 0.066458, 
+        "fear": 0.060757, 
+        "disgust": 0.248859
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.691383, 
+      "text": "screen Kennedy", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.685902, 
+      "text": "Ronald Reagan", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.682009, 
+      "text": "president Obama", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.679618, 
+      "text": "opponent senator", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.679104, 
+      "text": "governor Romney", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.677744, 
+      "text": "young senator", 
+      "emotion": {
+        "anger": 0.090933, 
+        "joy": 0.139258, 
+        "sadness": 0.614837, 
+        "fear": 0.077378, 
+        "disgust": 0.200967
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.673107, 
+      "text": "Nixon Flanders", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.671776, 
+      "text": "Michael Dukakis", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.669088, 
+      "text": "Kitty Dukakis", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.667259, 
+      "text": "major gaffes", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.659197, 
+      "text": "fierce debater", 
+      "emotion": {
+        "anger": 0.090933, 
+        "joy": 0.139258, 
+        "sadness": 0.614837, 
+        "fear": 0.077378, 
+        "disgust": 0.200967
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.654743, 
+      "text": "hardest thing", 
+      "emotion": {
+        "anger": 0.090933, 
+        "joy": 0.139258, 
+        "sadness": 0.614837, 
+        "fear": 0.077378, 
+        "disgust": 0.200967
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.643827, 
+      "text": "blistering response", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.642795, 
+      "text": "Al Gore", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.641679, 
+      "text": "underdog surprises", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.641275, 
+      "text": "Walter Mondale", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.640845, 
+      "text": "season debaters", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.64021, 
+      "text": "Soviet domination", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.639564, 
+      "text": "Eastern Europe", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.638956, 
+      "text": "central theme", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.638552, 
+      "text": "political career", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.637498, 
+      "text": "better shape", 
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.637234, 
+      "text": "Americans John", 
+      "emotion": {
+        "anger": 0.090933, 
+        "joy": 0.139258, 
+        "sadness": 0.614837, 
+        "fear": 0.077378, 
+        "disgust": 0.200967
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.636402, 
+      "text": "new era", 
+      "emotion": {
+        "anger": 0.062055, 
+        "joy": 0.512646, 
+        "sadness": 0.149943, 
+        "fear": 0.104166, 
+        "disgust": 0.198204
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.630888, 
+      "text": "political purposes", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.630148, 
+      "text": "voters seed", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.62796, 
+      "text": "poll numbers", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.627524, 
+      "text": "controversial question", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.538427, 
+      "text": "inexperience", 
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.478878, 
+        "label": "negative"
+      }, 
+      "text": "Michael Dukakis", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Governor", 
+          "MilitaryPerson", 
+          "TVPersonality"
+        ], 
+        "name": "Michael Dukakis", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Michael_Dukakis"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.244494, 
+        "joy": 0.19185, 
+        "sadness": 0.539344, 
+        "fear": 0.106393, 
+        "disgust": 0.619082
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.577834, 
+        "label": "negative"
+      }, 
+      "text": "bush", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.478878, 
+        "label": "negative"
+      }, 
+      "text": "Al Gore", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "AwardWinner", 
+          "BoardMember", 
+          "Celebrity", 
+          "CompanyAdvisor", 
+          "CompanyFounder", 
+          "FilmProducer", 
+          "MilitaryPerson", 
+          "OfficeHolder", 
+          "PoliticalAppointer", 
+          "TVPersonality", 
+          "U.S.Congressperson", 
+          "USVicePresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Al Gore", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Al_Gore"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.478878, 
+        "label": "negative"
+      }, 
+      "text": "John F. Kennedy", 
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter", 
+          "Politician", 
+          "President", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "Dedicatee", 
+          "MilitaryCommander", 
+          "MilitaryPerson", 
+          "OperaCharacter", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "FilmActor"
+        ], 
+        "name": "John F. Kennedy", 
+        "dbpedia_resource": "http://dbpedia.org/resource/John_F._Kennedy"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "governor Reagan", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "Georgia", 
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      }, 
+      "relevance": 0.33, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.267079, 
+        "joy": 0.163422, 
+        "sadness": 0.254464, 
+        "fear": 0.115682, 
+        "disgust": 0.660085
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "governor Romney", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.267079, 
+        "joy": 0.163422, 
+        "sadness": 0.254464, 
+        "fear": 0.115682, 
+        "disgust": 0.660085
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "Obama", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardWinner", 
+          "Celebrity", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "TVActor"
+        ], 
+        "name": "Barack Obama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "George W. bush", 
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter", 
+          "MusicalArtist", 
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "ChivalricOrderMember", 
+          "CompanyFounder", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "USPresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "George W. Bush", 
+        "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "George HW bush", 
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter", 
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "BoardMember", 
+          "ChivalricOrderMember", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "USVicePresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "George H. W. Bush", 
+        "dbpedia_resource": "http://dbpedia.org/resource/George_H._W._Bush"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "senator Dan Quayle", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "BoardMember", 
+          "MilitaryPerson", 
+          "OfficeHolder", 
+          "U.S.Congressperson", 
+          "USVicePresident", 
+          "TVActor"
+        ], 
+        "name": "Dan Quayle", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Dan_Quayle"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "Bernard", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.270539, 
+        "joy": 0.035956, 
+        "sadness": 0.292973, 
+        "fear": 0.128697, 
+        "disgust": 0.626724
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.650808, 
+        "label": "negative"
+      }, 
+      "text": "Kitty Dukakis", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Kitty Dukakis", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Kitty_Dukakis"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.267571, 
+        "joy": 0.272078, 
+        "sadness": 0.232756, 
+        "fear": 0.100712, 
+        "disgust": 0.591012
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.593498, 
+        "label": "negative"
+      }, 
+      "text": "Walter Mondale", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "MilitaryPerson", 
+          "OfficeHolder", 
+          "U.S.Congressperson", 
+          "USVicePresident"
+        ], 
+        "name": "Walter Mondale", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Walter_Mondale"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.478878, 
+        "label": "negative"
+      }, 
+      "text": "Medicare", 
+      "relevance": 0.33, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.245799, 
+        "joy": 0.323386, 
+        "sadness": 0.529263, 
+        "fear": 0.088439, 
+        "disgust": 0.53913
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.521861, 
+        "label": "negative"
+      }, 
+      "text": "Ronald Reagan", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "AwardWinner", 
+          "ChivalricOrderMember", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "USPresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Ronald Reagan", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.478878, 
+        "label": "negative"
+      }, 
+      "text": "Eastern Europe", 
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ]
+      }, 
+      "relevance": 0.33, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.232145, 
+        "joy": 0.223783, 
+        "sadness": 0.555764, 
+        "fear": 0.099039, 
+        "disgust": 0.586362
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.564843, 
+        "label": "negative"
+      }, 
+      "text": "Jimmy Carter", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "USPresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Jimmy Carter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Jimmy_Carter"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.268555, 
+        "joy": 0.48939, 
+        "sadness": 0.18934, 
+        "fear": 0.070773, 
+        "disgust": 0.117324
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.478878, 
+        "label": "negative"
+      }, 
+      "text": "Gerald Ford", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointee", 
+          "AwardWinner", 
+          "FootballPlayer", 
+          "MilitaryCommander", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "USVicePresident", 
+          "TVActor"
+        ], 
+        "name": "Gerald Ford", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Gerald_Ford"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.33, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.165619, 
+        "joy": 0.537822, 
+        "sadness": 0.220033, 
+        "fear": 0.028945, 
+        "disgust": 0.168589
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.562169, 
+        "label": "negative"
+      }, 
+      "text": "Nixon Flanders", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.223043, 
+        "joy": 0.157381, 
+        "sadness": 0.574129, 
+        "fear": 0.106106, 
+        "disgust": 0.620077
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.627311, 
+        "label": "negative"
+      }, 
+      "text": "Richard Nixon", 
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter", 
+          "MusicalArtist", 
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "MilitaryCommander", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "TVPersonality", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "USVicePresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Richard Nixon", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Richard_Nixon"
+      }, 
+      "relevance": 0.33, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090933, 
+        "joy": 0.139258, 
+        "sadness": 0.614837, 
+        "fear": 0.077378, 
+        "disgust": 0.200967
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.603814, 
+        "label": "negative"
+      }, 
+      "text": "vice president", 
+      "relevance": 0.33, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.223043, 
+        "joy": 0.157381, 
+        "sadness": 0.574129, 
+        "fear": 0.106106, 
+        "disgust": 0.620077
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.627311, 
+        "label": "negative"
+      }, 
+      "text": "Massachusetts", 
+      "disambiguation": {
+        "subtype": [
+          "StateOrCounty"
+        ]
+      }, 
+      "relevance": 0.33, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "senator", 
+      "relevance": 0.33, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.33, 
+      "text": "four years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ]
+}

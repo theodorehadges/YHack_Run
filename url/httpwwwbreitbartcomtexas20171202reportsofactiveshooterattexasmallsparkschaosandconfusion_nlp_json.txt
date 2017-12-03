@@ -1,0 +1,1268 @@
+{
+  "usage": {
+    "text_characters": 2831, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.913312, 
+      "text": "Memorial City Mall", 
+      "emotion": {
+        "anger": 0.055693, 
+        "joy": 0.418423, 
+        "sadness": 0.120759, 
+        "fear": 0.065826, 
+        "disgust": 0.166073
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.674578, 
+      "text": "Breitbart Texas", 
+      "emotion": {
+        "anger": 0.181501, 
+        "joy": 0.177484, 
+        "sadness": 0.323824, 
+        "fear": 0.019787, 
+        "disgust": 0.375667
+      }, 
+      "sentiment": {
+        "score": -0.208159, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.641186, 
+      "text": "possible active shooter", 
+      "emotion": {
+        "anger": 0.048523, 
+        "joy": 0.211026, 
+        "sadness": 0.133628, 
+        "fear": 0.070979, 
+        "disgust": 0.093928
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.616573, 
+      "text": "houston police", 
+      "emotion": {
+        "anger": 0.162836, 
+        "joy": 0.024382, 
+        "sadness": 0.299275, 
+        "fear": 0.356814, 
+        "disgust": 0.525766
+      }, 
+      "sentiment": {
+        "score": -0.642602, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.588669, 
+      "text": "Twitter user", 
+      "emotion": {
+        "anger": 0.06791, 
+        "joy": 0.445468, 
+        "sadness": 0.363335, 
+        "fear": 0.042061, 
+        "disgust": 0.113196
+      }, 
+      "sentiment": {
+        "score": -0.566593, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.509836, 
+      "text": "Breitbart Texas team", 
+      "emotion": {
+        "anger": 0.092852, 
+        "joy": 0.103516, 
+        "sadness": 0.131204, 
+        "fear": 0.033065, 
+        "disgust": 0.190014
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.501978, 
+      "text": "Saturday night", 
+      "emotion": {
+        "anger": 0.047901, 
+        "joy": 0.262984, 
+        "sadness": 0.129833, 
+        "fear": 0.113586, 
+        "disgust": 0.151553
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.497317, 
+      "text": "social media", 
+      "emotion": {
+        "anger": 0.047901, 
+        "joy": 0.262984, 
+        "sadness": 0.129833, 
+        "fear": 0.113586, 
+        "disgust": 0.151553
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495151, 
+      "text": "Houston news media", 
+      "emotion": {
+        "anger": 0.05218, 
+        "joy": 0.248804, 
+        "sadness": 0.170672, 
+        "fear": 0.073339, 
+        "disgust": 0.150659
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.492765, 
+      "text": "Twitter user David", 
+      "emotion": {
+        "anger": 0.065824, 
+        "joy": 0.167275, 
+        "sadness": 0.358357, 
+        "fear": 0.01818, 
+        "disgust": 0.016189
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.488118, 
+      "text": "holiday-packed Memorial City", 
+      "emotion": {
+        "anger": 0.05218, 
+        "joy": 0.248804, 
+        "sadness": 0.170672, 
+        "fear": 0.073339, 
+        "disgust": 0.150659
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.487848, 
+      "text": "social media messages", 
+      "emotion": {
+        "anger": 0.033172, 
+        "joy": 0.199359, 
+        "sadness": 0.146123, 
+        "fear": 0.236632, 
+        "disgust": 0.181104
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.480891, 
+      "text": "Houston Police Departement", 
+      "emotion": {
+        "anger": 0.189809, 
+        "joy": 0.065564, 
+        "sadness": 0.276255, 
+        "fear": 0.281315, 
+        "disgust": 0.265437
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.478957, 
+      "text": "Houston Police Chief", 
+      "emotion": {
+        "anger": 0.169682, 
+        "joy": 0.054611, 
+        "sadness": 0.260846, 
+        "fear": 0.434045, 
+        "disgust": 0.443411
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.476032, 
+      "text": "15-year-old Mikayla Howard", 
+      "emotion": {
+        "anger": 0.080003, 
+        "joy": 0.167069, 
+        "sadness": 0.349302, 
+        "fear": 0.040393, 
+        "disgust": 0.466214
+      }, 
+      "sentiment": {
+        "score": 0.493986, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.464094, 
+      "text": "Facebook user Jose", 
+      "emotion": {
+        "anger": 0.02571, 
+        "joy": 0.445395, 
+        "sadness": 0.239953, 
+        "fear": 0.029368, 
+        "disgust": 0.062535
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.456531, 
+      "text": "political news contributor", 
+      "emotion": {
+        "anger": 0.137423, 
+        "joy": 0.093682, 
+        "sadness": 0.46415, 
+        "fear": 0.048038, 
+        "disgust": 0.151052
+      }, 
+      "sentiment": {
+        "score": -0.702145, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.446731, 
+      "text": "shooting", 
+      "emotion": {
+        "anger": 0.441298, 
+        "joy": 0.12983, 
+        "sadness": 0.194129, 
+        "fear": 0.280294, 
+        "disgust": 0.239136
+      }, 
+      "sentiment": {
+        "score": -0.498709, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.410818, 
+      "text": "News reports", 
+      "emotion": {
+        "anger": 0.033172, 
+        "joy": 0.199359, 
+        "sadness": 0.146123, 
+        "fear": 0.236632, 
+        "disgust": 0.181104
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.402799, 
+      "text": "official reports", 
+      "emotion": {
+        "anger": 0.087813, 
+        "joy": 0.418825, 
+        "sadness": 0.360191, 
+        "fear": 0.064464, 
+        "disgust": 0.042906
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.400924, 
+      "text": "p.m. CST", 
+      "emotion": {
+        "anger": 0.094071, 
+        "joy": 0.163354, 
+        "sadness": 0.158132, 
+        "fear": 0.097915, 
+        "disgust": 0.074539
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.399044, 
+      "text": "frantic lady", 
+      "emotion": {
+        "anger": 0.217059, 
+        "joy": 0.32501, 
+        "sadness": 0.073992, 
+        "fear": 0.095, 
+        "disgust": 0.046684
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.399035, 
+      "text": "loud noises", 
+      "emotion": {
+        "anger": 0.502594, 
+        "joy": 0.035559, 
+        "sadness": 0.168885, 
+        "fear": 0.407157, 
+        "disgust": 0.26054
+      }, 
+      "sentiment": {
+        "score": -0.564503, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.398163, 
+      "text": "Art Acevedo", 
+      "emotion": {
+        "anger": 0.169682, 
+        "joy": 0.054611, 
+        "sadness": 0.260846, 
+        "fear": 0.434045, 
+        "disgust": 0.443411
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.39423, 
+      "text": "Houston Chronicle", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.392571, 
+      "text": "active scene", 
+      "emotion": {
+        "anger": 0.062274, 
+        "joy": 0.097771, 
+        "sadness": 0.163123, 
+        "fear": 0.081477, 
+        "disgust": 0.042192
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.39228, 
+      "text": "Lana Shadwick", 
+      "emotion": {
+        "anger": 0.196133, 
+        "joy": 0.305907, 
+        "sadness": 0.123858, 
+        "fear": 0.06852, 
+        "disgust": 0.110518
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.391571, 
+      "text": "emergency responders", 
+      "emotion": {
+        "anger": 0.044518, 
+        "joy": 0.059256, 
+        "sadness": 0.3717, 
+        "fear": 0.389833, 
+        "disgust": 0.429992
+      }, 
+      "sentiment": {
+        "score": -0.440052, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.390495, 
+      "text": "jewelry store", 
+      "emotion": {
+        "anger": 0.417353, 
+        "joy": 0.046176, 
+        "sadness": 0.222288, 
+        "fear": 0.025725, 
+        "disgust": 0.049584
+      }, 
+      "sentiment": {
+        "score": -0.367445, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.389701, 
+      "text": "Police officials", 
+      "emotion": {
+        "anger": 0.274672, 
+        "joy": 0.153846, 
+        "sadness": 0.031392, 
+        "fear": 0.253145, 
+        "disgust": 0.517604
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.389659, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.06342, 
+        "joy": 0.02103, 
+        "sadness": 0.212242, 
+        "fear": 0.782888, 
+        "disgust": 0.210257
+      }, 
+      "sentiment": {
+        "score": -0.502102, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.388024, 
+      "text": "local newspaper", 
+      "emotion": {
+        "anger": 0.274672, 
+        "joy": 0.153846, 
+        "sadness": 0.031392, 
+        "fear": 0.253145, 
+        "disgust": 0.517604
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.387721, 
+      "text": "Macy\u2019s store", 
+      "emotion": {
+        "anger": 0.097496, 
+        "joy": 0.052166, 
+        "sadness": 0.194456, 
+        "fear": 0.405973, 
+        "disgust": 0.083796
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.385508, 
+      "text": "Bob Price", 
+      "sentiment": {
+        "score": -0.702145, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.3831, 
+      "text": "new information", 
+      "emotion": {
+        "anger": 0.0133, 
+        "joy": 0.484624, 
+        "sadness": 0.04781, 
+        "fear": 0.052565, 
+        "disgust": 0.007971
+      }, 
+      "sentiment": {
+        "score": 0.729144, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.382198, 
+      "text": "associate editor", 
+      "emotion": {
+        "anger": 0.137423, 
+        "joy": 0.093682, 
+        "sadness": 0.46415, 
+        "fear": 0.048038, 
+        "disgust": 0.151052
+      }, 
+      "sentiment": {
+        "score": -0.702145, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.382067, 
+      "text": "legal analyst", 
+      "emotion": {
+        "anger": 0.196133, 
+        "joy": 0.305907, 
+        "sadness": 0.123858, 
+        "fear": 0.06852, 
+        "disgust": 0.110518
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.379763, 
+      "text": "associate judge", 
+      "emotion": {
+        "anger": 0.153406, 
+        "joy": 0.156156, 
+        "sadness": 0.114287, 
+        "fear": 0.019483, 
+        "disgust": 0.181222
+      }, 
+      "sentiment": {
+        "score": -0.589772, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.350913, 
+      "text": "time", 
+      "emotion": {
+        "anger": 0.133963, 
+        "joy": 0.105991, 
+        "sadness": 0.370258, 
+        "fear": 0.088079, 
+        "disgust": 0.531917
+      }, 
+      "sentiment": {
+        "score": 0.493986, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.349553, 
+      "text": "UPDATE", 
+      "emotion": {
+        "anger": 0.086328, 
+        "joy": 0.107208, 
+        "sadness": 0.196529, 
+        "fear": 0.030798, 
+        "disgust": 0.018938
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.346383, 
+      "text": "robbery", 
+      "emotion": {
+        "anger": 0.487834, 
+        "joy": 0.033696, 
+        "sadness": 0.287945, 
+        "fear": 0.051799, 
+        "disgust": 0.11613
+      }, 
+      "sentiment": {
+        "score": -0.531109, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.341741, 
+      "text": "smash", 
+      "emotion": {
+        "anger": 0.487834, 
+        "joy": 0.033696, 
+        "sadness": 0.287945, 
+        "fear": 0.051799, 
+        "disgust": 0.11613
+      }, 
+      "sentiment": {
+        "score": -0.531109, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.337239, 
+      "text": "incident", 
+      "emotion": {
+        "anger": 0.320448, 
+        "joy": 0.05369, 
+        "sadness": 0.414739, 
+        "fear": 0.050006, 
+        "disgust": 0.415882
+      }, 
+      "sentiment": {
+        "score": -0.694773, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.335895, 
+      "text": "gab", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.453203, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.334638, 
+      "text": "type", 
+      "emotion": {
+        "anger": 0.025189, 
+        "joy": 0.071393, 
+        "sadness": 0.080556, 
+        "fear": 0.560868, 
+        "disgust": 0.107249
+      }, 
+      "sentiment": {
+        "score": -0.823451, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.333021, 
+      "text": "fear", 
+      "emotion": {
+        "anger": 0.03621, 
+        "joy": 0.016513, 
+        "sadness": 0.043653, 
+        "fear": 0.948985, 
+        "disgust": 0.08239
+      }, 
+      "sentiment": {
+        "score": -0.757031, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.329778, 
+      "text": "video", 
+      "emotion": {
+        "anger": 0.030461, 
+        "joy": 0.476085, 
+        "sadness": 0.282078, 
+        "fear": 0.024634, 
+        "disgust": 0.106424
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.326704, 
+      "text": "photo", 
+      "emotion": {
+        "anger": 0.033938, 
+        "joy": 0.068083, 
+        "sadness": 0.070905, 
+        "fear": 0.766852, 
+        "disgust": 0.285693
+      }, 
+      "sentiment": {
+        "score": 0.0141666, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.320992, 
+      "text": "fatalities", 
+      "emotion": {
+        "anger": 0.139166, 
+        "joy": 0.369819, 
+        "sadness": 0.309415, 
+        "fear": 0.130483, 
+        "disgust": 0.071208
+      }, 
+      "sentiment": {
+        "score": -0.566593, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.319129, 
+      "text": "Velez", 
+      "emotion": {
+        "anger": 0.065824, 
+        "joy": 0.167275, 
+        "sadness": 0.358357, 
+        "fear": 0.01818, 
+        "disgust": 0.016189
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.051309, 
+        "joy": 0.219205, 
+        "sadness": 0.259492, 
+        "fear": 0.575236, 
+        "disgust": 0.48986
+      }, 
+      "count": 13, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "holiday-packed Memorial City Mall", 
+      "relevance": 0.918919, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.104232, 
+        "joy": 0.094434, 
+        "sadness": 0.215334, 
+        "fear": 0.218204, 
+        "disgust": 0.495469
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": -0.642602, 
+        "label": "negative"
+      }, 
+      "text": "HOUSTON", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ], 
+        "name": "Houston", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Houston"
+      }, 
+      "relevance": 0.307716, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.143244, 
+        "joy": 0.264864, 
+        "sadness": 0.190073, 
+        "fear": 0.061492, 
+        "disgust": 0.268531
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.645959, 
+        "label": "negative"
+      }, 
+      "text": "Texas", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "Texas", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Texas"
+      }, 
+      "relevance": 0.221411, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.06791, 
+        "joy": 0.445468, 
+        "sadness": 0.363335, 
+        "fear": 0.042061, 
+        "disgust": 0.113196
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.566593, 
+        "label": "negative"
+      }, 
+      "text": "Twitter", 
+      "disambiguation": {
+        "subtype": [
+          "Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Twitter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      }, 
+      "relevance": 0.218719, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.092852, 
+        "joy": 0.103516, 
+        "sadness": 0.131204, 
+        "fear": 0.033065, 
+        "disgust": 0.190014
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Breitbart Texas team", 
+      "relevance": 0.188707, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.080003, 
+        "joy": 0.167069, 
+        "sadness": 0.349302, 
+        "fear": 0.040393, 
+        "disgust": 0.466214
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.493986, 
+        "label": "positive"
+      }, 
+      "text": "Breitbart Texas", 
+      "relevance": 0.187497, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.210579, 
+        "joy": 0.196025, 
+        "sadness": 0.317782, 
+        "fear": 0.045281, 
+        "disgust": 0.154753
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.702145, 
+        "label": "negative"
+      }, 
+      "text": "Breitbart", 
+      "relevance": 0.179158, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.487834, 
+        "joy": 0.033696, 
+        "sadness": 0.287945, 
+        "fear": 0.051799, 
+        "disgust": 0.11613
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.531109, 
+        "label": "negative"
+      }, 
+      "text": "robbery", 
+      "relevance": 0.17742, 
+      "type": "Crime"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Houston Chronicle", 
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ], 
+        "name": "Houston Chronicle", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Houston_Chronicle"
+      }, 
+      "relevance": 0.177046, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.215969, 
+        "joy": 0.324721, 
+        "sadness": 0.109043, 
+        "fear": 0.022448, 
+        "disgust": 0.128707
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.0682846, 
+        "label": "negative"
+      }, 
+      "text": "Lana Shadwick", 
+      "relevance": 0.166194, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.02571, 
+        "joy": 0.445395, 
+        "sadness": 0.239953, 
+        "fear": 0.029368, 
+        "disgust": 0.062535
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Facebook", 
+      "disambiguation": {
+        "subtype": [
+          "  Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Facebook", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      }, 
+      "relevance": 0.153264, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.083246, 
+        "joy": 0.209857, 
+        "sadness": 0.139359, 
+        "fear": 0.032465, 
+        "disgust": 0.132298
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.184292, 
+        "label": "negative"
+      }, 
+      "text": "founding member", 
+      "relevance": 0.131357, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Macy", 
+      "disambiguation": {
+        "subtype": [
+          "Location"
+        ], 
+        "name": "Macy's", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Macy's"
+      }, 
+      "relevance": 0.129205, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.137423, 
+        "joy": 0.093682, 
+        "sadness": 0.46415, 
+        "fear": 0.048038, 
+        "disgust": 0.151052
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.702145, 
+        "label": "negative"
+      }, 
+      "text": "associate editor", 
+      "relevance": 0.126081, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.02571, 
+        "joy": 0.445395, 
+        "sadness": 0.239953, 
+        "fear": 0.029368, 
+        "disgust": 0.062535
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jose Fernandez", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Miami Marlins minor league players", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Miami_Marlins_minor_league_players"
+      }, 
+      "relevance": 0.125893, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.065824, 
+        "joy": 0.167275, 
+        "sadness": 0.358357, 
+        "fear": 0.01818, 
+        "disgust": 0.016189
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "David Velez", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "David V\u00e9lez", 
+        "dbpedia_resource": "http://dbpedia.org/resource/David_V\u00e9lez"
+      }, 
+      "relevance": 0.124419, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087813, 
+        "joy": 0.418825, 
+        "sadness": 0.360191, 
+        "fear": 0.064464, 
+        "disgust": 0.042906
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "official", 
+      "relevance": 0.11644, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.169682, 
+        "joy": 0.054611, 
+        "sadness": 0.260846, 
+        "fear": 0.434045, 
+        "disgust": 0.443411
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Art Acevedo", 
+      "relevance": 0.115619, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.507953, 
+        "label": "positive"
+      }, 
+      "text": "Editor", 
+      "relevance": 0.115462, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.080003, 
+        "joy": 0.167069, 
+        "sadness": 0.349302, 
+        "fear": 0.040393, 
+        "disgust": 0.466214
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.493986, 
+        "label": "positive"
+      }, 
+      "text": "Mikayla Howard", 
+      "relevance": 0.1094, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.153406, 
+        "joy": 0.156156, 
+        "sadness": 0.114287, 
+        "fear": 0.019483, 
+        "disgust": 0.181222
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.589772, 
+        "label": "negative"
+      }, 
+      "text": "prosecutor", 
+      "relevance": 0.101381, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.196133, 
+        "joy": 0.305907, 
+        "sadness": 0.123858, 
+        "fear": 0.06852, 
+        "disgust": 0.110518
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "writer", 
+      "relevance": 0.090167, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.196133, 
+        "joy": 0.305907, 
+        "sadness": 0.123858, 
+        "fear": 0.06852, 
+        "disgust": 0.110518
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "analyst", 
+      "relevance": 0.0877643, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "@DuckgonAnimates", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "@LanaShadwick2", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "@BobPriceBBTX", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "@lanashadwick", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "One hour", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "15-year", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.0877643, 
+      "text": "@NJJETS", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/texas/2017/12/02/reports-of-active-shooter-at-texas-mall-sparks-chaos-and-confusion/"
+}

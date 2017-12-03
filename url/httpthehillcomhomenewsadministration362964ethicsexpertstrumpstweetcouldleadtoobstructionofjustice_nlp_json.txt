@@ -1,0 +1,883 @@
+{
+  "usage": {
+    "text_characters": 1994, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.950519, 
+      "text": "Trump", 
+      "emotion": {
+        "anger": 0.175441, 
+        "joy": 0.12469, 
+        "sadness": 0.523264, 
+        "fear": 0.127455, 
+        "disgust": 0.239419
+      }, 
+      "sentiment": {
+        "score": -0.208533, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.759292, 
+      "text": "President Trump", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.74992, 
+      "text": "frequent Trump critic", 
+      "emotion": {
+        "anger": 0.094009, 
+        "joy": 0.184226, 
+        "sadness": 0.323007, 
+        "fear": 0.032151, 
+        "disgust": 0.084579
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.728435, 
+      "text": "adviser Michael Flynn", 
+      "emotion": {
+        "anger": 0.152875, 
+        "joy": 0.143335, 
+        "sadness": 0.524747, 
+        "fear": 0.100003, 
+        "disgust": 0.297052
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.449189, 
+      "text": "General Flynn", 
+      "emotion": {
+        "anger": 0.559193, 
+        "joy": 0.03043, 
+        "sadness": 0.220653, 
+        "fear": 0.051905, 
+        "disgust": 0.398581
+      }, 
+      "sentiment": {
+        "score": -0.818362, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.425168, 
+      "text": "President George W.", 
+      "emotion": {
+        "anger": 0.135761, 
+        "joy": 0.325019, 
+        "sadness": 0.197324, 
+        "fear": 0.115837, 
+        "disgust": 0.248839
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.39434, 
+      "text": "Rep. Ted Lieu", 
+      "emotion": {
+        "anger": 0.094009, 
+        "joy": 0.184226, 
+        "sadness": 0.323007, 
+        "fear": 0.032151, 
+        "disgust": 0.084579
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.386045, 
+      "text": "senior Obama adviser", 
+      "emotion": {
+        "anger": 0.056083, 
+        "joy": 0.20233, 
+        "sadness": 0.267346, 
+        "fear": 0.085442, 
+        "disgust": 0.07224
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.384857, 
+      "text": "Justice spokesman Matthew", 
+      "emotion": {
+        "anger": 0.10063, 
+        "joy": 0.078093, 
+        "sadness": 0.245992, 
+        "fear": 0.030416, 
+        "disgust": 0.054599
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.382717, 
+      "text": "tweet Saturday", 
+      "emotion": {
+        "anger": 0.110189, 
+        "joy": 0.096714, 
+        "sadness": 0.466766, 
+        "fear": 0.169801, 
+        "disgust": 0.40186
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.377871, 
+      "text": "Richard W. Painter", 
+      "emotion": {
+        "anger": 0.050797, 
+        "joy": 0.147681, 
+        "sadness": 0.222162, 
+        "fear": 0.04267, 
+        "disgust": 0.027928
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.360091, 
+      "text": "Ambassador Sergey Kislyak", 
+      "emotion": {
+        "anger": 0.259096, 
+        "joy": 0.041237, 
+        "sadness": 0.509455, 
+        "fear": 0.240904, 
+        "disgust": 0.286937
+      }, 
+      "sentiment": {
+        "score": -0.705799, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.350731, 
+      "text": "obstruction", 
+      "emotion": {
+        "anger": 0.208993, 
+        "joy": 0.126471, 
+        "sadness": 0.740565, 
+        "fear": 0.088211, 
+        "disgust": 0.527825
+      }, 
+      "sentiment": {
+        "score": -0.592146, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.320965, 
+      "text": "FBI agents", 
+      "emotion": {
+        "anger": 0.259096, 
+        "joy": 0.041237, 
+        "sadness": 0.509455, 
+        "fear": 0.240904, 
+        "disgust": 0.286937
+      }, 
+      "sentiment": {
+        "score": -0.705799, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.313008, 
+      "text": "FBI investigation", 
+      "emotion": {
+        "anger": 0.232843, 
+        "joy": 0.051082, 
+        "sadness": 0.357511, 
+        "fear": 0.148957, 
+        "disgust": 0.244706
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.250469, 
+      "text": "Walter Shaub", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.243495, 
+      "text": "Vice President", 
+      "emotion": {
+        "anger": 0.559193, 
+        "joy": 0.03043, 
+        "sadness": 0.220653, 
+        "fear": 0.051905, 
+        "disgust": 0.398581
+      }, 
+      "sentiment": {
+        "score": -0.818362, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.237101, 
+      "text": "justice conviction", 
+      "emotion": {
+        "anger": 0.123524, 
+        "joy": 0.23779, 
+        "sadness": 0.512897, 
+        "fear": 0.077553, 
+        "disgust": 0.137452
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.236696, 
+      "text": "political observers", 
+      "emotion": {
+        "anger": 0.152875, 
+        "joy": 0.143335, 
+        "sadness": 0.524747, 
+        "fear": 0.100003, 
+        "disgust": 0.297052
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.233803, 
+      "text": "Mueller\u2019s team", 
+      "emotion": {
+        "anger": 0.163151, 
+        "joy": 0.024627, 
+        "sadness": 0.396041, 
+        "fear": 0.035438, 
+        "disgust": 0.274647
+      }, 
+      "sentiment": {
+        "score": -0.675238, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.230313, 
+      "text": "ethics experts", 
+      "emotion": {
+        "anger": 0.152875, 
+        "joy": 0.143335, 
+        "sadness": 0.524747, 
+        "fear": 0.100003, 
+        "disgust": 0.297052
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.227132, 
+      "text": "Government Ethics", 
+      "emotion": {
+        "anger": 0.120322, 
+        "joy": 0.075091, 
+        "sadness": 0.205796, 
+        "fear": 0.11928, 
+        "disgust": 0.326239
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.22633, 
+      "text": "U.S. Office", 
+      "emotion": {
+        "anger": 0.120322, 
+        "joy": 0.075091, 
+        "sadness": 0.205796, 
+        "fear": 0.11928, 
+        "disgust": 0.326239
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.226099, 
+      "text": "Mueller investigation", 
+      "emotion": {
+        "anger": 0.042328, 
+        "joy": 0.510688, 
+        "sadness": 0.025751, 
+        "fear": 0.047171, 
+        "disgust": 0.050637
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.219099, 
+      "text": "Obama Department", 
+      "emotion": {
+        "anger": 0.10063, 
+        "joy": 0.078093, 
+        "sadness": 0.245992, 
+        "fear": 0.030416, 
+        "disgust": 0.054599
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.207936, 
+      "text": "Richard Painter", 
+      "emotion": {
+        "anger": 0.049875, 
+        "joy": 0.171972, 
+        "sadness": 0.203623, 
+        "fear": 0.036511, 
+        "disgust": 0.03153
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.206433, 
+      "text": "false statements", 
+      "emotion": {
+        "anger": 0.110189, 
+        "joy": 0.096714, 
+        "sadness": 0.466766, 
+        "fear": 0.169801, 
+        "disgust": 0.40186
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.206281, 
+      "text": "ethics lawyer", 
+      "emotion": {
+        "anger": 0.135761, 
+        "joy": 0.325019, 
+        "sadness": 0.197324, 
+        "fear": 0.115837, 
+        "disgust": 0.248839
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.203882, 
+      "text": "subsequent fallout", 
+      "emotion": {
+        "anger": 0.259096, 
+        "joy": 0.041237, 
+        "sadness": 0.509455, 
+        "fear": 0.240904, 
+        "disgust": 0.286937
+      }, 
+      "sentiment": {
+        "score": -0.705799, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.205094, 
+        "joy": 0.104991, 
+        "sadness": 0.544231, 
+        "fear": 0.154228, 
+        "disgust": 0.29076
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.870524, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.543192, 
+        "joy": 0.056616, 
+        "sadness": 0.590333, 
+        "fear": 0.089642, 
+        "disgust": 0.529377
+      }, 
+      "count": 12, 
+      "sentiment": {
+        "score": -0.63133, 
+        "label": "negative"
+      }, 
+      "text": "Michael Flynn", 
+      "relevance": 0.661745, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120322, 
+        "joy": 0.075091, 
+        "sadness": 0.205796, 
+        "fear": 0.11928, 
+        "disgust": 0.326239
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.456156, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.530791, 
+        "joy": 0.052635, 
+        "sadness": 0.58363, 
+        "fear": 0.111974, 
+        "disgust": 0.543646
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.728617, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.34383, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.100549, 
+        "joy": 0.211479, 
+        "sadness": 0.302291, 
+        "fear": 0.027269, 
+        "disgust": 0.089402
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Obama Department of Justice", 
+      "relevance": 0.256184, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.111615, 
+        "joy": 0.343356, 
+        "sadness": 0.311079, 
+        "fear": 0.067265, 
+        "disgust": 0.280225
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.675238, 
+        "label": "negative"
+      }, 
+      "text": "Mueller", 
+      "relevance": 0.221324, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.123524, 
+        "joy": 0.23779, 
+        "sadness": 0.512897, 
+        "fear": 0.077553, 
+        "disgust": 0.137452
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President George W. Bush", 
+      "disambiguation": {
+        "subtype": [
+          "FilmCharacter", 
+          "MusicalArtist", 
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "ChivalricOrderMember", 
+          "CompanyFounder", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "USPresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "George W. Bush", 
+        "dbpedia_resource": "http://dbpedia.org/resource/George_W._Bush"
+      }, 
+      "relevance": 0.210378, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.176714, 
+        "joy": 0.105554, 
+        "sadness": 0.566655, 
+        "fear": 0.099268, 
+        "disgust": 0.320084
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.326649, 
+        "label": "negative"
+      }, 
+      "text": "U.S. Office of Government Ethics", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "United States Office of Government Ethics", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Office_of_Government_Ethics"
+      }, 
+      "relevance": 0.208674, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0541, 
+        "joy": 0.167939, 
+        "sadness": 0.210586, 
+        "fear": 0.03866, 
+        "disgust": 0.032551
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Richard W. Painter", 
+      "relevance": 0.204722, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.152875, 
+        "joy": 0.143335, 
+        "sadness": 0.524747, 
+        "fear": 0.100003, 
+        "disgust": 0.297052
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.185366, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.559193, 
+        "joy": 0.03043, 
+        "sadness": 0.220653, 
+        "fear": 0.051905, 
+        "disgust": 0.398581
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.818362, 
+        "label": "negative"
+      }, 
+      "text": "Vice President", 
+      "relevance": 0.174917, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Walter Shaub", 
+      "relevance": 0.174848, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.385858, 
+        "joy": 0.021642, 
+        "sadness": 0.444125, 
+        "fear": 0.085177, 
+        "disgust": 0.308231
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.532664, 
+        "label": "negative"
+      }, 
+      "text": "Rep. Ted Lieu", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Ted Lieu", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ted_Lieu"
+      }, 
+      "relevance": 0.163683, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.309456, 
+        "joy": 0.082149, 
+        "sadness": 0.410379, 
+        "fear": 0.045529, 
+        "disgust": 0.285626
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.253163, 
+        "label": "positive"
+      }, 
+      "text": "Obama", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardWinner", 
+          "Celebrity", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "TVActor"
+        ], 
+        "name": "Barack Obama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      }, 
+      "relevance": 0.157973, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.056083, 
+        "joy": 0.20233, 
+        "sadness": 0.267346, 
+        "fear": 0.085442, 
+        "disgust": 0.07224
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ty Cobb", 
+      "disambiguation": {
+        "subtype": [
+          "Athlete", 
+          "HallOfFameInductee", 
+          "MilitaryPerson", 
+          "FilmActor"
+        ], 
+        "name": "Ty Cobb", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ty_Cobb"
+      }, 
+      "relevance": 0.153961, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Matthew Miller", 
+      "relevance": 0.151715, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.042328, 
+        "joy": 0.510688, 
+        "sadness": 0.025751, 
+        "fear": 0.047171, 
+        "disgust": 0.050637
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ambassador Sergey Kislyak", 
+      "relevance": 0.150435, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120322, 
+        "joy": 0.075091, 
+        "sadness": 0.205796, 
+        "fear": 0.11928, 
+        "disgust": 0.326239
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "director", 
+      "relevance": 0.139942, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090672, 
+        "joy": 0.230793, 
+        "sadness": 0.310196, 
+        "fear": 0.035217, 
+        "disgust": 0.122476
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.500534, 
+        "label": "positive"
+      }, 
+      "text": "Dan Pfeiffer", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Daniel Pfeiffer", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Daniel_Pfeiffer"
+      }, 
+      "relevance": 0.137154, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Comey", 
+      "relevance": 0.115769, 
+      "type": "Person"
+    }, 
+    {
+      "relevance": 0.115769, 
+      "text": "five years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.115769, 
+      "text": "one day", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.115769, 
+      "text": "@POTUS", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://thehill.com/homenews/administration/362964-ethics-experts-trumps-tweet-could-lead-to-obstruction-of-justice"
+}

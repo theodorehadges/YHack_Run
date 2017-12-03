@@ -1,0 +1,1697 @@
+{
+  "usage": {
+    "text_characters": 7586, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.968051, 
+      "text": "Justice Department", 
+      "emotion": {
+        "anger": 0.179297, 
+        "joy": 0.256679, 
+        "sadness": 0.53491, 
+        "fear": 0.060798, 
+        "disgust": 0.157294
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.914647, 
+      "text": "House Intelligence Committee", 
+      "emotion": {
+        "anger": 0.111603, 
+        "joy": 0.564183, 
+        "sadness": 0.082108, 
+        "fear": 0.041567, 
+        "disgust": 0.082532
+      }, 
+      "sentiment": {
+        "score": -0.216992, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.83094, 
+      "text": "FBI", 
+      "emotion": {
+        "anger": 0.449184, 
+        "joy": 0.07633, 
+        "sadness": 0.519758, 
+        "fear": 0.462031, 
+        "disgust": 0.442764
+      }, 
+      "sentiment": {
+        "score": -0.411458, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.827017, 
+      "text": "Fox News", 
+      "emotion": {
+        "anger": 0.155593, 
+        "joy": 0.628226, 
+        "sadness": 0.07289, 
+        "fear": 0.012849, 
+        "disgust": 0.075752
+      }, 
+      "sentiment": {
+        "score": -0.285664, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.815397, 
+      "text": "Chairman Devin Nunes", 
+      "emotion": {
+        "anger": 0.156614, 
+        "joy": 0.364951, 
+        "sadness": 0.119967, 
+        "fear": 0.164018, 
+        "disgust": 0.074788
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.788563, 
+      "text": "Strzok", 
+      "emotion": {
+        "anger": 0.131005, 
+        "joy": 0.580983, 
+        "sadness": 0.490534, 
+        "fear": 0.090663, 
+        "disgust": 0.100044
+      }, 
+      "sentiment": {
+        "score": -0.373738, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.784847, 
+      "text": "House investigators", 
+      "emotion": {
+        "anger": 0.332603, 
+        "joy": 0.281179, 
+        "sadness": 0.256156, 
+        "fear": 0.060918, 
+        "disgust": 0.150275
+      }, 
+      "sentiment": {
+        "score": -0.343919, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.725363, 
+      "text": "deputy FBI director", 
+      "emotion": {
+        "anger": 0.249038, 
+        "joy": 0.073699, 
+        "sadness": 0.196492, 
+        "fear": 0.100387, 
+        "disgust": 0.23108
+      }, 
+      "sentiment": {
+        "score": -0.352332, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.724212, 
+      "text": "Trump campaign associate", 
+      "emotion": {
+        "anger": 0.036643, 
+        "joy": 0.138879, 
+        "sadness": 0.394044, 
+        "fear": 0.262007, 
+        "disgust": 0.27116
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.722528, 
+      "text": "Intelligence Committee Chairman", 
+      "emotion": {
+        "anger": 0.156614, 
+        "joy": 0.364951, 
+        "sadness": 0.119967, 
+        "fear": 0.164018, 
+        "disgust": 0.074788
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.719806, 
+      "text": "Committee Chairman Devin", 
+      "emotion": {
+        "anger": 0.156614, 
+        "joy": 0.364951, 
+        "sadness": 0.119967, 
+        "fear": 0.164018, 
+        "disgust": 0.074788
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.719336, 
+      "text": "Justice Department officials", 
+      "emotion": {
+        "anger": 0.187045, 
+        "joy": 0.226243, 
+        "sadness": 0.236415, 
+        "fear": 0.022121, 
+        "disgust": 0.244985
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.697026, 
+      "text": "House intel panel", 
+      "emotion": {
+        "anger": 0.199503, 
+        "joy": 0.066129, 
+        "sadness": 0.612224, 
+        "fear": 0.226749, 
+        "disgust": 0.124703
+      }, 
+      "sentiment": {
+        "score": -0.76552, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.692288, 
+      "text": "FBI Deputy Director", 
+      "emotion": {
+        "anger": 0.379467, 
+        "joy": 0.020467, 
+        "sadness": 0.205211, 
+        "fear": 0.104807, 
+        "disgust": 0.51705
+      }, 
+      "sentiment": {
+        "score": -0.383979, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.680286, 
+      "text": "new FBI director", 
+      "emotion": {
+        "anger": 0.248906, 
+        "joy": 0.144773, 
+        "sadness": 0.42337, 
+        "fear": 0.063154, 
+        "disgust": 0.232149
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.653473, 
+      "text": "Nunes team", 
+      "emotion": {
+        "anger": 0.083493, 
+        "joy": 0.581206, 
+        "sadness": 0.115011, 
+        "fear": 0.036303, 
+        "disgust": 0.153884
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.652718, 
+      "text": "Strzok\u2019s texts", 
+      "emotion": {
+        "anger": 0.113743, 
+        "joy": 0.628373, 
+        "sadness": 0.125876, 
+        "fear": 0.049636, 
+        "disgust": 0.053642
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.626279, 
+      "text": "special counsel", 
+      "emotion": {
+        "anger": 0.072661, 
+        "joy": 0.097126, 
+        "sadness": 0.301895, 
+        "fear": 0.150237, 
+        "disgust": 0.211522
+      }, 
+      "sentiment": {
+        "score": 0.281686, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.622825, 
+      "text": "Intelligence Committee investigators", 
+      "emotion": {
+        "anger": 0.04362, 
+        "joy": 0.346056, 
+        "sadness": 0.110452, 
+        "fear": 0.097199, 
+        "disgust": 0.023974
+      }, 
+      "sentiment": {
+        "score": -0.216992, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.620823, 
+      "text": "senior Justice Department", 
+      "emotion": {
+        "anger": 0.081002, 
+        "joy": 0.277719, 
+        "sadness": 0.221357, 
+        "fear": 0.02153, 
+        "disgust": 0.18458
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.604528, 
+      "text": "House Judiciary Committee", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.604069, 
+      "text": "Peter Strzok", 
+      "emotion": {
+        "anger": 0.083907, 
+        "joy": 0.298826, 
+        "sadness": 0.161089, 
+        "fear": 0.022476, 
+        "disgust": 0.214977
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.599961, 
+      "text": "DOJ", 
+      "emotion": {
+        "anger": 0.47832, 
+        "joy": 0.06711, 
+        "sadness": 0.532509, 
+        "fear": 0.101276, 
+        "disgust": 0.197387
+      }, 
+      "sentiment": {
+        "score": -0.516556, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.598024, 
+      "text": "Robert S. Mueller", 
+      "emotion": {
+        "anger": 0.090188, 
+        "joy": 0.070258, 
+        "sadness": 0.345434, 
+        "fear": 0.110411, 
+        "disgust": 0.221658
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.595675, 
+      "text": "Clinton email investigation", 
+      "emotion": {
+        "anger": 0.081002, 
+        "joy": 0.277719, 
+        "sadness": 0.221357, 
+        "fear": 0.02153, 
+        "disgust": 0.18458
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.595652, 
+      "text": "Senate Intelligence Committee", 
+      "emotion": {
+        "anger": 0.24236, 
+        "joy": 0.085459, 
+        "sadness": 0.32078, 
+        "fear": 0.088928, 
+        "disgust": 0.17767
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.594638, 
+      "text": "Intelligence Committee staff", 
+      "emotion": {
+        "anger": 0.119153, 
+        "joy": 0.374468, 
+        "sadness": 0.159538, 
+        "fear": 0.086206, 
+        "disgust": 0.121577
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.593071, 
+      "text": "Director James Comey", 
+      "emotion": {
+        "anger": 0.155416, 
+        "joy": 0.279332, 
+        "sadness": 0.160343, 
+        "fear": 0.017828, 
+        "disgust": 0.183962
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.591738, 
+      "text": "Hillary Clinton", 
+      "emotion": {
+        "anger": 0.081002, 
+        "joy": 0.277719, 
+        "sadness": 0.221357, 
+        "fear": 0.02153, 
+        "disgust": 0.18458
+      }, 
+      "sentiment": {
+        "score": -0.34359, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.590017, 
+      "text": "Steele\u2019s FBI", 
+      "emotion": {
+        "anger": 0.08283, 
+        "joy": 0.134846, 
+        "sadness": 0.277705, 
+        "fear": 0.595569, 
+        "disgust": 0.13333
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.588225, 
+      "text": "FBI personnel", 
+      "emotion": {
+        "anger": 0.176898, 
+        "joy": 0.154108, 
+        "sadness": 0.347676, 
+        "fear": 0.068373, 
+        "disgust": 0.323784
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.587425, 
+      "text": "counterintelligence investigation", 
+      "emotion": {
+        "anger": 0.022015, 
+        "joy": 0.157837, 
+        "sadness": 0.425299, 
+        "fear": 0.305123, 
+        "disgust": 0.204034
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.58692, 
+      "text": "House Speaker Paul", 
+      "emotion": {
+        "anger": 0.119153, 
+        "joy": 0.374468, 
+        "sadness": 0.159538, 
+        "fear": 0.086206, 
+        "disgust": 0.121577
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.586711, 
+      "text": "FBI officer", 
+      "emotion": {
+        "anger": 0.379467, 
+        "joy": 0.020467, 
+        "sadness": 0.205211, 
+        "fear": 0.104807, 
+        "disgust": 0.51705
+      }, 
+      "sentiment": {
+        "score": -0.383979, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.583456, 
+      "text": "FBI official", 
+      "emotion": {
+        "anger": 0.144972, 
+        "joy": 0.017172, 
+        "sadness": 0.404603, 
+        "fear": 0.103274, 
+        "disgust": 0.32041
+      }, 
+      "sentiment": {
+        "score": -0.276196, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.582995, 
+      "text": "Justice Department official", 
+      "emotion": {
+        "anger": 0.157499, 
+        "joy": 0.406663, 
+        "sadness": 0.217695, 
+        "fear": 0.019455, 
+        "disgust": 0.242994
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.582532, 
+      "text": "Democratic National Committee", 
+      "emotion": {
+        "anger": 0.077383, 
+        "joy": 0.203402, 
+        "sadness": 0.158272, 
+        "fear": 0.128691, 
+        "disgust": 0.501765
+      }, 
+      "sentiment": {
+        "score": -0.25713, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.581272, 
+      "text": "Deputy Attorney General", 
+      "emotion": {
+        "anger": 0.255197, 
+        "joy": 0.105223, 
+        "sadness": 0.337749, 
+        "fear": 0.032752, 
+        "disgust": 0.083519
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.577619, 
+      "text": "anti-Trump texts", 
+      "emotion": {
+        "anger": 0.375576, 
+        "joy": 0.188253, 
+        "sadness": 0.395132, 
+        "fear": 0.047443, 
+        "disgust": 0.191885
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.575498, 
+      "text": "Director John Brennan", 
+      "emotion": {
+        "anger": 0.182858, 
+        "joy": 0.086596, 
+        "sadness": 0.183635, 
+        "fear": 0.109015, 
+        "disgust": 0.185032
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.575002, 
+      "text": "private email server", 
+      "emotion": {
+        "anger": 0.156717, 
+        "joy": 0.028289, 
+        "sadness": 0.251389, 
+        "fear": 0.184639, 
+        "disgust": 0.17409
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.572752, 
+      "text": "key figure", 
+      "emotion": {
+        "anger": 0.093523, 
+        "joy": 0.304604, 
+        "sadness": 0.356322, 
+        "fear": 0.180824, 
+        "disgust": 0.0124
+      }, 
+      "sentiment": {
+        "score": -0.339467, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.571619, 
+      "text": "foreign intelligence sources", 
+      "emotion": {
+        "anger": 0.095441, 
+        "joy": 0.126081, 
+        "sadness": 0.215768, 
+        "fear": 0.326292, 
+        "disgust": 0.009544
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571417, 
+      "text": "politically sensitive cases", 
+      "emotion": {
+        "anger": 0.043805, 
+        "joy": 0.041647, 
+        "sadness": 0.161014, 
+        "fear": 0.062293, 
+        "disgust": 0.09185
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.570687, 
+      "text": "intelligence community", 
+      "emotion": {
+        "anger": 0.069993, 
+        "joy": 0.773606, 
+        "sadness": 0.056133, 
+        "fear": 0.0153, 
+        "disgust": 0.04943
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.568412, 
+      "text": "largely unverified allegations", 
+      "emotion": {
+        "anger": 0.09887, 
+        "joy": 0.371672, 
+        "sadness": 0.174011, 
+        "fear": 0.186408, 
+        "disgust": 0.065769
+      }, 
+      "sentiment": {
+        "score": -0.299863, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.562245, 
+      "text": "Trump-Russia probe", 
+      "emotion": {
+        "anger": 0.20855, 
+        "joy": 0.12139, 
+        "sadness": 0.367571, 
+        "fear": 0.034811, 
+        "disgust": 0.09516
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.55912, 
+      "text": "General Jeff Sessions", 
+      "emotion": {
+        "anger": 0.255197, 
+        "joy": 0.105223, 
+        "sadness": 0.337749, 
+        "fear": 0.032752, 
+        "disgust": 0.083519
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.558545, 
+      "text": "opposition research firm", 
+      "emotion": {
+        "anger": 0.09887, 
+        "joy": 0.371672, 
+        "sadness": 0.174011, 
+        "fear": 0.186408, 
+        "disgust": 0.065769
+      }, 
+      "sentiment": {
+        "score": -0.299863, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.549299, 
+      "text": "senior DOJ", 
+      "emotion": {
+        "anger": 0.176898, 
+        "joy": 0.154108, 
+        "sadness": 0.347676, 
+        "fear": 0.068373, 
+        "disgust": 0.323784
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.458543, 
+        "joy": 0.069998, 
+        "sadness": 0.245827, 
+        "fear": 0.482053, 
+        "disgust": 0.466898
+      }, 
+      "count": 16, 
+      "sentiment": {
+        "score": -0.411458, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.919196, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.44659, 
+        "joy": 0.144612, 
+        "sadness": 0.50994, 
+        "fear": 0.07522, 
+        "disgust": 0.183792
+      }, 
+      "count": 15, 
+      "sentiment": {
+        "score": -0.516556, 
+        "label": "negative"
+      }, 
+      "text": "Justice Department", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody", 
+          "GovernmentalJurisdiction"
+        ], 
+        "name": "United States Department of Justice", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Justice"
+      }, 
+      "relevance": 0.712444, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.371888, 
+        "joy": 0.037994, 
+        "sadness": 0.194836, 
+        "fear": 0.096117, 
+        "disgust": 0.453941
+      }, 
+      "count": 11, 
+      "sentiment": {
+        "score": -0.0228629, 
+        "label": "negative"
+      }, 
+      "text": "Devin Nunes", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Devin Nunes", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Devin_Nunes"
+      }, 
+      "relevance": 0.685179, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.088048, 
+        "joy": 0.584022, 
+        "sadness": 0.190931, 
+        "fear": 0.094776, 
+        "disgust": 0.098842
+      }, 
+      "count": 11, 
+      "sentiment": {
+        "score": -0.435458, 
+        "label": "negative"
+      }, 
+      "text": "Peter Strzok", 
+      "relevance": 0.583386, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.17439, 
+        "joy": 0.205626, 
+        "sadness": 0.533055, 
+        "fear": 0.091876, 
+        "disgust": 0.097795
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.342878, 
+        "label": "negative"
+      }, 
+      "text": "Strzok", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.462929, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.026455, 
+        "joy": 0.10846, 
+        "sadness": 0.435278, 
+        "fear": 0.300893, 
+        "disgust": 0.19669
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "House Intelligence Committee", 
+      "relevance": 0.402396, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.116672, 
+        "joy": 0.586253, 
+        "sadness": 0.110921, 
+        "fear": 0.008402, 
+        "disgust": 0.212096
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.30036, 
+        "label": "negative"
+      }, 
+      "text": "Hillary Clinton", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Appointee", 
+          "AwardWinner", 
+          "BoardMember", 
+          "Celebrity", 
+          "HallOfFameInductee", 
+          "OperaCharacter", 
+          "Senator", 
+          "U.S.Congressperson", 
+          "TVActor"
+        ], 
+        "name": "Hillary Rodham Clinton", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      }, 
+      "relevance": 0.391633, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.243953, 
+        "joy": 0.088392, 
+        "sadness": 0.669104, 
+        "fear": 0.089777, 
+        "disgust": 0.119117
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.76552, 
+        "label": "negative"
+      }, 
+      "text": "General Rod Rosenstein", 
+      "relevance": 0.360638, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.118518, 
+        "joy": 0.153185, 
+        "sadness": 0.261292, 
+        "fear": 0.085429, 
+        "disgust": 0.130879
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Robert S. Mueller III", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.342994, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.155593, 
+        "joy": 0.628226, 
+        "sadness": 0.07289, 
+        "fear": 0.012849, 
+        "disgust": 0.075752
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.285664, 
+        "label": "negative"
+      }, 
+      "text": "Fox News", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TelevisionStation"
+        ], 
+        "name": "Fox News Channel", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Fox_News_Channel"
+      }, 
+      "relevance": 0.277946, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Deputy Director", 
+      "relevance": 0.271273, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.205897, 
+        "joy": 0.126824, 
+        "sadness": 0.21801, 
+        "fear": 0.076965, 
+        "disgust": 0.197774
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.352332, 
+        "label": "negative"
+      }, 
+      "text": "director", 
+      "relevance": 0.270137, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.033996, 
+        "joy": 0.231626, 
+        "sadness": 0.353892, 
+        "fear": 0.306483, 
+        "disgust": 0.198127
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.299863, 
+        "label": "negative"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.264666, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090188, 
+        "joy": 0.070258, 
+        "sadness": 0.345434, 
+        "fear": 0.110411, 
+        "disgust": 0.221658
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "deputy director", 
+      "relevance": 0.263803, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.246353, 
+        "joy": 0.099511, 
+        "sadness": 0.447591, 
+        "fear": 0.163902, 
+        "disgust": 0.311371
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.276196, 
+        "label": "negative"
+      }, 
+      "text": "House Judiciary Committee", 
+      "relevance": 0.259217, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.159792, 
+        "joy": 0.210732, 
+        "sadness": 0.41568, 
+        "fear": 0.068234, 
+        "disgust": 0.134981
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "special counsel", 
+      "relevance": 0.246553, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Senate Intelligence Committee", 
+      "relevance": 0.246507, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.077383, 
+        "joy": 0.203402, 
+        "sadness": 0.158272, 
+        "fear": 0.128691, 
+        "disgust": 0.501765
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.25713, 
+        "label": "negative"
+      }, 
+      "text": "Democratic National Committee", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Democratic National Committee", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Democratic_National_Committee"
+      }, 
+      "relevance": 0.245507, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.155593, 
+        "joy": 0.628226, 
+        "sadness": 0.07289, 
+        "fear": 0.012849, 
+        "disgust": 0.075752
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Fox News", 
+      "relevance": 0.245234, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.081002, 
+        "joy": 0.277719, 
+        "sadness": 0.221357, 
+        "fear": 0.02153, 
+        "disgust": 0.18458
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "OIG", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ], 
+        "name": "Office of the Inspector General", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Office_of_the_Inspector_General"
+      }, 
+      "relevance": 0.238973, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.33137, 
+        "joy": 0.04122, 
+        "sadness": 0.205279, 
+        "fear": 0.140745, 
+        "disgust": 0.212864
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.348371, 
+        "label": "negative"
+      }, 
+      "text": "Congress", 
+      "disambiguation": {
+        "subtype": [
+          "Dedicator", 
+          "GovernmentalBody", 
+          "Legislature", 
+          "NaturalOrCulturalPreservationAgency"
+        ], 
+        "name": "United States Congress", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+      }, 
+      "relevance": 0.237062, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.291487, 
+        "joy": 0.165488, 
+        "sadness": 0.271425, 
+        "fear": 0.021872, 
+        "disgust": 0.088756
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "House", 
+      "relevance": 0.235439, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "intel", 
+      "disambiguation": {
+        "subtype": [
+          "OperatingSystemDeveloper", 
+          "ProcessorManufacturer", 
+          "SoftwareDeveloper"
+        ], 
+        "name": "Intel", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Intel"
+      }, 
+      "relevance": 0.224727, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Speaker Ryan", 
+      "relevance": 0.223925, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.423404, 
+        "joy": 0.028109, 
+        "sadness": 0.179595, 
+        "fear": 0.088432, 
+        "disgust": 0.522228
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.383979, 
+        "label": "negative"
+      }, 
+      "text": "official", 
+      "relevance": 0.223561, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.156614, 
+        "joy": 0.364951, 
+        "sadness": 0.119967, 
+        "fear": 0.164018, 
+        "disgust": 0.074788
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Chairman", 
+      "relevance": 0.223518, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.155416, 
+        "joy": 0.279332, 
+        "sadness": 0.160343, 
+        "fear": 0.017828, 
+        "disgust": 0.183962
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "James Comey", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "James Comey", 
+        "dbpedia_resource": "http://dbpedia.org/resource/James_Comey"
+      }, 
+      "relevance": 0.222267, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.072661, 
+        "joy": 0.097126, 
+        "sadness": 0.301895, 
+        "fear": 0.150237, 
+        "disgust": 0.211522
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.281686, 
+        "label": "positive"
+      }, 
+      "text": "Office of Inspector General", 
+      "relevance": 0.211706, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.248278, 
+        "joy": 0.427665, 
+        "sadness": 0.144484, 
+        "fear": 0.274878, 
+        "disgust": 0.021123
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Peter Carr", 
+      "relevance": 0.202588, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.123372, 
+        "joy": 0.012665, 
+        "sadness": 0.142003, 
+        "fear": 0.098156, 
+        "disgust": 0.101994
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CIA", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Central Intelligence Agency", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Central_Intelligence_Agency"
+      }, 
+      "relevance": 0.197594, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.24236, 
+        "joy": 0.085459, 
+        "sadness": 0.32078, 
+        "fear": 0.088928, 
+        "disgust": 0.17767
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Christopher Wray", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Christopher Wray", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Christopher_Wray"
+      }, 
+      "relevance": 0.193454, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.09887, 
+        "joy": 0.371672, 
+        "sadness": 0.174011, 
+        "fear": 0.186408, 
+        "disgust": 0.065769
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.299863, 
+        "label": "negative"
+      }, 
+      "text": "Fusion GPS", 
+      "relevance": 0.191849, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120176, 
+        "joy": 0.21536, 
+        "sadness": 0.542037, 
+        "fear": 0.500559, 
+        "disgust": 0.124459
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Special Counsel\u2019s Office", 
+      "relevance": 0.189546, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.216152, 
+        "joy": 0.220575, 
+        "sadness": 0.428503, 
+        "fear": 0.115679, 
+        "disgust": 0.164288
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.76552, 
+        "label": "negative"
+      }, 
+      "text": "U.S.", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.188122, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.10062, 
+        "joy": 0.143149, 
+        "sadness": 0.50493, 
+        "fear": 0.030058, 
+        "disgust": 0.13771
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "investigator", 
+      "relevance": 0.186436, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.104945, 
+        "joy": 0.138542, 
+        "sadness": 0.312109, 
+        "fear": 0.175429, 
+        "disgust": 0.1402
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "FISA", 
+      "relevance": 0.183648, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.379467, 
+        "joy": 0.020467, 
+        "sadness": 0.205211, 
+        "fear": 0.104807, 
+        "disgust": 0.51705
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.383979, 
+        "label": "negative"
+      }, 
+      "text": "Christopher Steele", 
+      "relevance": 0.182888, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.182858, 
+        "joy": 0.086596, 
+        "sadness": 0.183635, 
+        "fear": 0.109015, 
+        "disgust": 0.185032
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "John Brennan", 
+      "relevance": 0.181021, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.111603, 
+        "joy": 0.564183, 
+        "sadness": 0.082108, 
+        "fear": 0.041567, 
+        "disgust": 0.082532
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.216992, 
+        "label": "negative"
+      }, 
+      "text": "Attorney", 
+      "relevance": 0.180635, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.306608, 
+        "joy": 0.204632, 
+        "sadness": 0.461681, 
+        "fear": 0.030117, 
+        "disgust": 0.053733
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.484509, 
+        "label": "negative"
+      }, 
+      "text": "Andrew] McCabe", 
+      "relevance": 0.178426, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.100622, 
+        "joy": 0.086923, 
+        "sadness": 0.334882, 
+        "fear": 0.148867, 
+        "disgust": 0.226328
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Rep. Adam Schiff", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson", 
+          "FilmMusicContributor"
+        ], 
+        "name": "Adam Schiff", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Adam_Schiff"
+      }, 
+      "relevance": 0.176669, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.119153, 
+        "joy": 0.374468, 
+        "sadness": 0.159538, 
+        "fear": 0.086206, 
+        "disgust": 0.121577
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Andrew McCabe", 
+      "relevance": 0.175319, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.185604, 
+        "joy": 0.523838, 
+        "sadness": 0.486414, 
+        "fear": 0.092207, 
+        "disgust": 0.167012
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.431506, 
+        "label": "negative"
+      }, 
+      "text": "New York Times", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Company", 
+          "AwardPresentingOrganization", 
+          "AwardWinner", 
+          "CompanyShareholder", 
+          "Newspaper"
+        ], 
+        "name": "The New York Times", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_York_Times"
+      }, 
+      "relevance": 0.171348, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Senate", 
+      "relevance": 0.167457, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Washington Post", 
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ], 
+        "name": "The Washington Post", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+      }, 
+      "relevance": 0.16545, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.379467, 
+        "joy": 0.020467, 
+        "sadness": 0.205211, 
+        "fear": 0.104807, 
+        "disgust": 0.51705
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.383979, 
+        "label": "negative"
+      }, 
+      "text": "officer", 
+      "relevance": 0.161268, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.161268, 
+      "text": "one hand", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.foxnews.com/politics/2017/12/03/ex-mueller-team-members-role-in-clinton-email-probe-under-review.html"
+}

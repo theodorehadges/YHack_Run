@@ -1,0 +1,1742 @@
+{
+  "usage": {
+    "text_characters": 5867, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.957382, 
+      "text": "Flynn", 
+      "emotion": {
+        "anger": 0.5001, 
+        "joy": 0.123031, 
+        "sadness": 0.262361, 
+        "fear": 0.164958, 
+        "disgust": 0.224005
+      }, 
+      "sentiment": {
+        "score": -0.215177, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.842354, 
+      "text": "Trump", 
+      "emotion": {
+        "anger": 0.452496, 
+        "joy": 0.18859, 
+        "sadness": 0.472571, 
+        "fear": 0.096882, 
+        "disgust": 0.204795
+      }, 
+      "sentiment": {
+        "score": -0.211161, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.833755, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.466453, 
+        "joy": 0.194622, 
+        "sadness": 0.242836, 
+        "fear": 0.185967, 
+        "disgust": 0.217285
+      }, 
+      "sentiment": {
+        "score": -0.151786, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.734865, 
+      "text": "special counsel", 
+      "emotion": {
+        "anger": 0.108405, 
+        "joy": 0.252724, 
+        "sadness": 0.176354, 
+        "fear": 0.281831, 
+        "disgust": 0.353161
+      }, 
+      "sentiment": {
+        "score": 0.961375, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.706473, 
+      "text": "White House Flynn", 
+      "emotion": {
+        "anger": 0.525509, 
+        "joy": 0.016335, 
+        "sadness": 0.268437, 
+        "fear": 0.263602, 
+        "disgust": 0.302706
+      }, 
+      "sentiment": {
+        "score": -0.499355, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.695015, 
+      "text": "Michael Flynn", 
+      "emotion": {
+        "anger": 0.291073, 
+        "joy": 0.014432, 
+        "sadness": 0.308763, 
+        "fear": 0.092624, 
+        "disgust": 0.606683
+      }, 
+      "sentiment": {
+        "score": -0.385974, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.669358, 
+      "text": "Comey", 
+      "emotion": {
+        "anger": 0.48397, 
+        "joy": 0.432801, 
+        "sadness": 0.239974, 
+        "fear": 0.105992, 
+        "disgust": 0.212598
+      }, 
+      "sentiment": {
+        "score": -0.540899, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.667019, 
+      "text": "General Flynn", 
+      "emotion": {
+        "anger": 0.559193, 
+        "joy": 0.03043, 
+        "sadness": 0.220653, 
+        "fear": 0.051905, 
+        "disgust": 0.398581
+      }, 
+      "sentiment": {
+        "score": -0.553028, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.629743, 
+      "text": "Mr. Flynn", 
+      "emotion": {
+        "anger": 0.407987, 
+        "joy": 0.099755, 
+        "sadness": 0.23829, 
+        "fear": 0.072828, 
+        "disgust": 0.359273
+      }, 
+      "sentiment": {
+        "score": -0.850136, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.62346, 
+      "text": "Director James Comey", 
+      "emotion": {
+        "anger": 0.537142, 
+        "joy": 0.05567, 
+        "sadness": 0.162522, 
+        "fear": 0.057878, 
+        "disgust": 0.328796
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.619739, 
+      "text": "national security adviser", 
+      "emotion": {
+        "anger": 0.183173, 
+        "joy": 0.105526, 
+        "sadness": 0.265432, 
+        "fear": 0.266574, 
+        "disgust": 0.361999
+      }, 
+      "sentiment": {
+        "score": -0.368309, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.619557, 
+      "text": "Gen. Flynn", 
+      "emotion": {
+        "anger": 0.046922, 
+        "joy": 0.497498, 
+        "sadness": 0.094426, 
+        "fear": 0.239692, 
+        "disgust": 0.124067
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.617964, 
+      "text": "FBI", 
+      "emotion": {
+        "anger": 0.56142, 
+        "joy": 0.036577, 
+        "sadness": 0.285856, 
+        "fear": 0.144091, 
+        "disgust": 0.53167
+      }, 
+      "sentiment": {
+        "score": -0.645451, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.589519, 
+      "text": "then-FBI Director Comey", 
+      "emotion": {
+        "anger": 0.45527, 
+        "joy": 0.149197, 
+        "sadness": 0.189728, 
+        "fear": 0.029837, 
+        "disgust": 0.370978
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.582773, 
+      "text": "Vice President", 
+      "emotion": {
+        "anger": 0.440119, 
+        "joy": 0.152156, 
+        "sadness": 0.215018, 
+        "fear": 0.059317, 
+        "disgust": 0.295237
+      }, 
+      "sentiment": {
+        "score": -0.0598472, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.58257, 
+      "text": "guilty plea", 
+      "emotion": {
+        "anger": 0.279944, 
+        "joy": 0.190919, 
+        "sadness": 0.26259, 
+        "fear": 0.104801, 
+        "disgust": 0.403991
+      }, 
+      "sentiment": {
+        "score": -0.672265, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.570827, 
+      "text": "Trump Administration", 
+      "emotion": {
+        "anger": 0.066825, 
+        "joy": 0.248737, 
+        "sadness": 0.345506, 
+        "fear": 0.181814, 
+        "disgust": 0.242636
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.55401, 
+      "text": "FBI investigation", 
+      "emotion": {
+        "anger": 0.358638, 
+        "joy": 0.027468, 
+        "sadness": 0.46292, 
+        "fear": 0.174633, 
+        "disgust": 0.185278
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.549102, 
+      "text": "counsel Robert Mueller", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.547398, 
+      "text": "Friday guilty plea", 
+      "emotion": {
+        "anger": 0.153496, 
+        "joy": 0.396429, 
+        "sadness": 0.219921, 
+        "fear": 0.069682, 
+        "disgust": 0.25774
+      }, 
+      "sentiment": {
+        "score": -0.562067, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.539072, 
+      "text": "Attorney General", 
+      "emotion": {
+        "anger": 0.331779, 
+        "joy": 0.234764, 
+        "sadness": 0.221859, 
+        "fear": 0.116027, 
+        "disgust": 0.132617
+      }, 
+      "sentiment": {
+        "score": -0.508977, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.535532, 
+      "text": "House special counsel", 
+      "emotion": {
+        "anger": 0.112632, 
+        "joy": 0.350816, 
+        "sadness": 0.124075, 
+        "fear": 0.164899, 
+        "disgust": 0.240804
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.526224, 
+      "text": "United States", 
+      "emotion": {
+        "anger": 0.098431, 
+        "joy": 0.069168, 
+        "sadness": 0.253118, 
+        "fear": 0.33313, 
+        "disgust": 0.420603
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.525687, 
+      "text": "White House Counsel", 
+      "emotion": {
+        "anger": 0.15116, 
+        "joy": 0.31283, 
+        "sadness": 0.143107, 
+        "fear": 0.089806, 
+        "disgust": 0.101348
+      }, 
+      "sentiment": {
+        "score": 0.400821, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.524724, 
+      "text": "President Barack Obama", 
+      "emotion": {
+        "anger": 0.1161, 
+        "joy": 0.227255, 
+        "sadness": 0.291344, 
+        "fear": 0.085861, 
+        "disgust": 0.127635
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.524525, 
+      "text": "President Don McGahn", 
+      "emotion": {
+        "anger": 0.525509, 
+        "joy": 0.016335, 
+        "sadness": 0.268437, 
+        "fear": 0.263602, 
+        "disgust": 0.302706
+      }, 
+      "sentiment": {
+        "score": -0.499355, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.523542, 
+      "text": "Ty Cobb", 
+      "emotion": {
+        "anger": 0.042328, 
+        "joy": 0.510688, 
+        "sadness": 0.025751, 
+        "fear": 0.047171, 
+        "disgust": 0.050637
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.518399, 
+      "text": "United States Sergey", 
+      "emotion": {
+        "anger": 0.084916, 
+        "joy": 0.064856, 
+        "sadness": 0.271369, 
+        "fear": 0.405915, 
+        "disgust": 0.325925
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.513732, 
+      "text": "Mike Pence", 
+      "emotion": {
+        "anger": 0.269853, 
+        "joy": 0.258078, 
+        "sadness": 0.191361, 
+        "fear": 0.076512, 
+        "disgust": 0.187121
+      }, 
+      "sentiment": {
+        "score": 0.0325127, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.512686, 
+      "text": "White House officials", 
+      "emotion": {
+        "anger": 0.149736, 
+        "joy": 0.060375, 
+        "sadness": 0.290389, 
+        "fear": 0.290097, 
+        "disgust": 0.368149
+      }, 
+      "sentiment": {
+        "score": -0.64949, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.512125, 
+      "text": "General Sally Yates", 
+      "emotion": {
+        "anger": 0.214809, 
+        "joy": 0.151252, 
+        "sadness": 0.29495, 
+        "fear": 0.22885, 
+        "disgust": 0.150499
+      }, 
+      "sentiment": {
+        "score": -0.508977, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.511894, 
+      "text": "Rep. Ted Lieu", 
+      "emotion": {
+        "anger": 0.120829, 
+        "joy": 0.346206, 
+        "sadness": 0.293831, 
+        "fear": 0.045492, 
+        "disgust": 0.13974
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.51004, 
+      "text": "United States Office", 
+      "emotion": {
+        "anger": 0.10767, 
+        "joy": 0.088515, 
+        "sadness": 0.203541, 
+        "fear": 0.106088, 
+        "disgust": 0.337793
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.506737, 
+      "text": "FBI view", 
+      "emotion": {
+        "anger": 0.151646, 
+        "joy": 0.079748, 
+        "sadness": 0.057192, 
+        "fear": 0.030686, 
+        "disgust": 0.265586
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.505422, 
+      "text": "Russia investigation", 
+      "emotion": {
+        "anger": 0.065595, 
+        "joy": 0.397997, 
+        "sadness": 0.154194, 
+        "fear": 0.154477, 
+        "disgust": 0.230457
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.502979, 
+      "text": "Obama administration official", 
+      "emotion": {
+        "anger": 0.108967, 
+        "joy": 0.267294, 
+        "sadness": 0.208369, 
+        "fear": 0.088388, 
+        "disgust": 0.236986
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.502806, 
+      "text": "National Security Advisor", 
+      "emotion": {
+        "anger": 0.066825, 
+        "joy": 0.248737, 
+        "sadness": 0.345506, 
+        "fear": 0.181814, 
+        "disgust": 0.242636
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.500462, 
+      "text": "Attorney General Jeff", 
+      "emotion": {
+        "anger": 0.327789, 
+        "joy": 0.222008, 
+        "sadness": 0.233389, 
+        "fear": 0.0827, 
+        "disgust": 0.114855
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.499896, 
+      "text": "Deputy Attorney General", 
+      "emotion": {
+        "anger": 0.327789, 
+        "joy": 0.222008, 
+        "sadness": 0.233389, 
+        "fear": 0.0827, 
+        "disgust": 0.114855
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.498019, 
+      "text": "Senate judiciary subcommittee", 
+      "emotion": {
+        "anger": 0.163018, 
+        "joy": 0.025848, 
+        "sadness": 0.330206, 
+        "fear": 0.097188, 
+        "disgust": 0.110139
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.496709, 
+      "text": "relevant legal rules", 
+      "emotion": {
+        "anger": 0.323636, 
+        "joy": 0.110936, 
+        "sadness": 0.393331, 
+        "fear": 0.089592, 
+        "disgust": 0.129048
+      }, 
+      "sentiment": {
+        "score": -0.670158, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.496612, 
+      "text": "private email server", 
+      "emotion": {
+        "anger": 0.112415, 
+        "joy": 0.044546, 
+        "sadness": 0.345535, 
+        "fear": 0.093132, 
+        "disgust": 0.160515
+      }, 
+      "sentiment": {
+        "score": -0.244997, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.496596, 
+      "text": "false statements", 
+      "emotion": {
+        "anger": 0.149736, 
+        "joy": 0.060375, 
+        "sadness": 0.290389, 
+        "fear": 0.290097, 
+        "disgust": 0.368149
+      }, 
+      "sentiment": {
+        "score": -0.64949, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.496404, 
+      "text": "senior career official", 
+      "emotion": {
+        "anger": 0.141636, 
+        "joy": 0.603276, 
+        "sadness": 0.191498, 
+        "fear": 0.032858, 
+        "disgust": 0.017934
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495798, 
+      "text": "Texas Law School", 
+      "emotion": {
+        "anger": 0.227303, 
+        "joy": 0.162569, 
+        "sadness": 0.184091, 
+        "fear": 0.192802, 
+        "disgust": 0.145998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495226, 
+      "text": "CNN legal contributor", 
+      "emotion": {
+        "anger": 0.227303, 
+        "joy": 0.162569, 
+        "sadness": 0.184091, 
+        "fear": 0.192802, 
+        "disgust": 0.145998
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.493207, 
+      "text": "2016 presidential election", 
+      "emotion": {
+        "anger": 0.098212, 
+        "joy": 0.138112, 
+        "sadness": 0.225278, 
+        "fear": 0.104681, 
+        "disgust": 0.129598
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.470399, 
+      "text": "Mueller investigation", 
+      "emotion": {
+        "anger": 0.042328, 
+        "joy": 0.510688, 
+        "sadness": 0.025751, 
+        "fear": 0.047171, 
+        "disgust": 0.050637
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.465483, 
+      "text": "Walter Shaub", 
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.464654, 
+      "text": "Russian Ambassador", 
+      "emotion": {
+        "anger": 0.084916, 
+        "joy": 0.064856, 
+        "sadness": 0.271369, 
+        "fear": 0.405915, 
+        "disgust": 0.325925
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.520973, 
+        "joy": 0.111128, 
+        "sadness": 0.265402, 
+        "fear": 0.162245, 
+        "disgust": 0.238525
+      }, 
+      "count": 28, 
+      "sentiment": {
+        "score": -0.548983, 
+        "label": "negative"
+      }, 
+      "text": "General Flynn", 
+      "relevance": 0.898464, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.457052, 
+        "joy": 0.183963, 
+        "sadness": 0.471224, 
+        "fear": 0.090349, 
+        "disgust": 0.201884
+      }, 
+      "count": 15, 
+      "sentiment": {
+        "score": 0.168311, 
+        "label": "positive"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.612815, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.227303, 
+        "joy": 0.162569, 
+        "sadness": 0.184091, 
+        "fear": 0.192802, 
+        "disgust": 0.145998
+      }, 
+      "count": 12, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Director Comey", 
+      "relevance": 0.452043, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.569797, 
+        "joy": 0.036249, 
+        "sadness": 0.269285, 
+        "fear": 0.147496, 
+        "disgust": 0.54438
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.645451, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.335719, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.457052, 
+        "joy": 0.183963, 
+        "sadness": 0.471224, 
+        "fear": 0.090349, 
+        "disgust": 0.201884
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.244727, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.569797, 
+        "joy": 0.036249, 
+        "sadness": 0.269285, 
+        "fear": 0.147496, 
+        "disgust": 0.54438
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "RadioStation"
+        ], 
+        "name": "FBi Radio", 
+        "dbpedia_resource": "http://dbpedia.org/resource/FBi_Radio"
+      }, 
+      "relevance": 0.242399, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090988, 
+        "joy": 0.514389, 
+        "sadness": 0.288992, 
+        "fear": 0.075243, 
+        "disgust": 0.087599
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "White House", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "House", 
+          "TouristAttraction", 
+          "Building"
+        ], 
+        "name": "White House", 
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      }, 
+      "relevance": 0.230563, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.653866, 
+        "joy": 0.044875, 
+        "sadness": 0.162977, 
+        "fear": 0.087564, 
+        "disgust": 0.362295
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.584757, 
+        "label": "negative"
+      }, 
+      "text": "President", 
+      "relevance": 0.220704, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.440119, 
+        "joy": 0.152156, 
+        "sadness": 0.215018, 
+        "fear": 0.059317, 
+        "disgust": 0.295237
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.173505, 
+        "label": "negative"
+      }, 
+      "text": "Vice President", 
+      "relevance": 0.209356, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.365781, 
+        "joy": 0.126901, 
+        "sadness": 0.231366, 
+        "fear": 0.168212, 
+        "disgust": 0.411306
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.504166, 
+        "label": "negative"
+      }, 
+      "text": "Trump Administration", 
+      "relevance": 0.204276, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090988, 
+        "joy": 0.514389, 
+        "sadness": 0.288992, 
+        "fear": 0.075243, 
+        "disgust": 0.087599
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "White House", 
+      "relevance": 0.188055, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.108967, 
+        "joy": 0.267294, 
+        "sadness": 0.208369, 
+        "fear": 0.088388, 
+        "disgust": 0.236986
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sally Yates", 
+      "relevance": 0.185245, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.062436, 
+        "joy": 0.557127, 
+        "sadness": 0.043378, 
+        "fear": 0.088593, 
+        "disgust": 0.150232
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.668757, 
+        "label": "negative"
+      }, 
+      "text": "special counsel", 
+      "relevance": 0.185122, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.139909, 
+        "joy": 0.564791, 
+        "sadness": 0.21642, 
+        "fear": 0.035774, 
+        "disgust": 0.046338
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Special Counsel", 
+      "relevance": 0.181467, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.025052, 
+        "joy": 0.553463, 
+        "sadness": 0.06247, 
+        "fear": 0.093156, 
+        "disgust": 0.100175
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Robert Mueller", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.179371, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095939, 
+        "joy": 0.113309, 
+        "sadness": 0.269212, 
+        "fear": 0.034979, 
+        "disgust": 0.331723
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ty Cobb", 
+      "disambiguation": {
+        "subtype": [
+          "Athlete", 
+          "HallOfFameInductee", 
+          "MilitaryPerson", 
+          "FilmActor"
+        ], 
+        "name": "Ty Cobb", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ty_Cobb"
+      }, 
+      "relevance": 0.178062, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.055001, 
+        "joy": 0.253957, 
+        "sadness": 0.154523, 
+        "fear": 0.082032, 
+        "disgust": 0.038706
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Russia", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.151272, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.086318, 
+        "joy": 0.255524, 
+        "sadness": 0.044454, 
+        "fear": 0.088268, 
+        "disgust": 0.02313
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Walter Shaub", 
+      "relevance": 0.149964, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.1161, 
+        "joy": 0.227255, 
+        "sadness": 0.291344, 
+        "fear": 0.085861, 
+        "disgust": 0.127635
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Barack Obama", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardWinner", 
+          "Celebrity", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "TVActor"
+        ], 
+        "name": "Barack Obama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      }, 
+      "relevance": 0.149569, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.091485, 
+        "joy": 0.400299, 
+        "sadness": 0.137815, 
+        "fear": 0.199594, 
+        "disgust": 0.13096
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.961375, 
+        "label": "positive"
+      }, 
+      "text": "Mike Pence", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "U.S.Congressperson", 
+          "BroadcastArtist"
+        ], 
+        "name": "Mike Pence", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Mike_Pence"
+      }, 
+      "relevance": 0.14619, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.184997, 
+        "joy": 0.038253, 
+        "sadness": 0.393533, 
+        "fear": 0.365612, 
+        "disgust": 0.281352
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sergey Kislyak", 
+      "relevance": 0.14113, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.470669, 
+        "joy": 0.457775, 
+        "sadness": 0.208991, 
+        "fear": 0.103919, 
+        "disgust": 0.183596
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.540899, 
+        "label": "negative"
+      }, 
+      "text": "United States", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.140223, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.255738, 
+        "joy": 0.111192, 
+        "sadness": 0.215759, 
+        "fear": 0.113153, 
+        "disgust": 0.114088
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Congress", 
+      "disambiguation": {
+        "subtype": [
+          "Dedicator", 
+          "GovernmentalBody", 
+          "Legislature", 
+          "NaturalOrCulturalPreservationAgency"
+        ], 
+        "name": "United States Congress", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+      }, 
+      "relevance": 0.13652, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.108294, 
+        "joy": 0.128184, 
+        "sadness": 0.200843, 
+        "fear": 0.353831, 
+        "disgust": 0.413449
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "attorney", 
+      "relevance": 0.135749, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095939, 
+        "joy": 0.113309, 
+        "sadness": 0.269212, 
+        "fear": 0.034979, 
+        "disgust": 0.331723
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.31198, 
+        "label": "positive"
+      }, 
+      "text": "CNN", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "RadioNetwork", 
+          "TVNetwork"
+        ], 
+        "name": "CNN", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      }, 
+      "relevance": 0.134122, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.126806, 
+        "joy": 0.031749, 
+        "sadness": 0.342938, 
+        "fear": 0.35073, 
+        "disgust": 0.298797
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "United States Office of Government Ethics", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "United States Office of Government Ethics", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Office_of_Government_Ethics"
+      }, 
+      "relevance": 0.127717, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Rep. Ted Lieu", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Ted Lieu", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ted_Lieu"
+      }, 
+      "relevance": 0.125265, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.10767, 
+        "joy": 0.088515, 
+        "sadness": 0.203541, 
+        "fear": 0.106088, 
+        "disgust": 0.337793
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "California", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "Appellation", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "WineRegion", 
+          "StateOrCounty"
+        ], 
+        "name": "California", 
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      }, 
+      "relevance": 0.124647, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.114563, 
+        "joy": 0.362672, 
+        "sadness": 0.270182, 
+        "fear": 0.045854, 
+        "disgust": 0.159884
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.397229, 
+        "label": "positive"
+      }, 
+      "text": "senior adviser", 
+      "relevance": 0.124273, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.066825, 
+        "joy": 0.248737, 
+        "sadness": 0.345506, 
+        "fear": 0.181814, 
+        "disgust": 0.242636
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "official", 
+      "relevance": 0.122534, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.098212, 
+        "joy": 0.138112, 
+        "sadness": 0.225278, 
+        "fear": 0.104681, 
+        "disgust": 0.129598
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Steve Vladeck", 
+      "relevance": 0.11818, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "acting Attorney General", 
+      "relevance": 0.114625, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.15116, 
+        "joy": 0.31283, 
+        "sadness": 0.143107, 
+        "fear": 0.089806, 
+        "disgust": 0.101348
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.400821, 
+        "label": "positive"
+      }, 
+      "text": "Justice Department", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody", 
+          "GovernmentalJurisdiction"
+        ], 
+        "name": "United States Department of Justice", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Justice"
+      }, 
+      "relevance": 0.114188, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.093213, 
+        "joy": 0.232995, 
+        "sadness": 0.314057, 
+        "fear": 0.089923, 
+        "disgust": 0.137574
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Twitter", 
+      "disambiguation": {
+        "subtype": [
+          "Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Twitter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      }, 
+      "relevance": 0.112014, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.292425, 
+        "joy": 0.158994, 
+        "sadness": 0.56315, 
+        "fear": 0.034809, 
+        "disgust": 0.11006
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.288086, 
+        "label": "negative"
+      }, 
+      "text": "Obama administration", 
+      "relevance": 0.108248, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.414183, 
+        "joy": 0.075796, 
+        "sadness": 0.170116, 
+        "fear": 0.061465, 
+        "disgust": 0.394222
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "director", 
+      "relevance": 0.107852, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.327789, 
+        "joy": 0.222008, 
+        "sadness": 0.233389, 
+        "fear": 0.0827, 
+        "disgust": 0.114855
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Hillary Clinton", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Appointee", 
+          "AwardWinner", 
+          "BoardMember", 
+          "Celebrity", 
+          "HallOfFameInductee", 
+          "OperaCharacter", 
+          "Senator", 
+          "U.S.Congressperson", 
+          "TVActor"
+        ], 
+        "name": "Hillary Rodham Clinton", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      }, 
+      "relevance": 0.107473, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.435252, 
+        "joy": 0.022048, 
+        "sadness": 0.272244, 
+        "fear": 0.099566, 
+        "disgust": 0.286916
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "National Security Advisor", 
+      "relevance": 0.107388, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.525509, 
+        "joy": 0.016335, 
+        "sadness": 0.268437, 
+        "fear": 0.263602, 
+        "disgust": 0.302706
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.499355, 
+        "label": "negative"
+      }, 
+      "text": "Don McGahn", 
+      "relevance": 0.105287, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.214809, 
+        "joy": 0.151252, 
+        "sadness": 0.29495, 
+        "fear": 0.22885, 
+        "disgust": 0.150499
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.508977, 
+        "label": "negative"
+      }, 
+      "text": "Senate", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody", 
+          "Legislature"
+        ], 
+        "name": "United States Senate", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      }, 
+      "relevance": 0.105088, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.393617, 
+        "joy": 0.276699, 
+        "sadness": 0.126226, 
+        "fear": 0.037608, 
+        "disgust": 0.230835
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "John Dowd", 
+      "relevance": 0.103712, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.523851, 
+        "joy": 0.101728, 
+        "sadness": 0.274424, 
+        "fear": 0.148129, 
+        "disgust": 0.180091
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.325392, 
+        "label": "negative"
+      }, 
+      "text": "University of Texas Law School", 
+      "disambiguation": {
+        "subtype": [
+          "CollegeUniversity"
+        ], 
+        "name": "University of Texas School of Law", 
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Texas_School_of_Law"
+      }, 
+      "relevance": 0.102343, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.3395, 
+        "joy": 0.22446, 
+        "sadness": 0.223992, 
+        "fear": 0.100489, 
+        "disgust": 0.239472
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.124334, 
+        "label": "negative"
+      }, 
+      "text": "General Rod Rosenstein", 
+      "relevance": 0.100793, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.065595, 
+        "joy": 0.397997, 
+        "sadness": 0.154194, 
+        "fear": 0.154477, 
+        "disgust": 0.230457
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Donald McGahn", 
+      "relevance": 0.0994372, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.269853, 
+        "joy": 0.258078, 
+        "sadness": 0.191361, 
+        "fear": 0.076512, 
+        "disgust": 0.187121
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0162563, 
+        "label": "positive"
+      }, 
+      "text": "Oval Office", 
+      "relevance": 0.0993094, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.1161, 
+        "joy": 0.227255, 
+        "sadness": 0.291344, 
+        "fear": 0.085861, 
+        "disgust": 0.127635
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Dan Pfeiffer\u200f", 
+      "relevance": 0.0948414, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090122, 
+        "joy": 0.192361, 
+        "sadness": 0.067117, 
+        "fear": 0.044341, 
+        "disgust": 0.079777
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "professor", 
+      "relevance": 0.0904294, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.0904294, 
+      "text": "@realDonaldTrump", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.cnn.com/2017/12/02/politics/trump-tweet-flynn-firing-fbi-reaction/index.html"
+}

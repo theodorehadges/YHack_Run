@@ -1,0 +1,1795 @@
+{
+  "usage": {
+    "text_characters": 13012, 
+    "features": 2, 
+    "text_units": 2
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.909315, 
+      "text": "Trump", 
+      "emotion": {
+        "anger": 0.53121, 
+        "joy": 0.477798, 
+        "sadness": 0.592552, 
+        "fear": 0.513302, 
+        "disgust": 0.207316
+      }, 
+      "sentiment": {
+        "score": 0.0555968, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.874169, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.106548, 
+        "joy": 0.308913, 
+        "sadness": 0.357455, 
+        "fear": 0.034861, 
+        "disgust": 0.108407
+      }, 
+      "sentiment": {
+        "score": 0.461166, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.773242, 
+      "text": "Donald Trump", 
+      "emotion": {
+        "anger": 0.133007, 
+        "joy": 0.140184, 
+        "sadness": 0.382391, 
+        "fear": 0.050871, 
+        "disgust": 0.329894
+      }, 
+      "sentiment": {
+        "score": 0.56958, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.749766, 
+      "text": "Trump\u2019s tweets", 
+      "emotion": {
+        "anger": 0.15563, 
+        "joy": 0.259815, 
+        "sadness": 0.333898, 
+        "fear": 0.066651, 
+        "disgust": 0.32624
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.743576, 
+      "text": "Trump\u2019s critics", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.729746, 
+      "text": "people Trump", 
+      "emotion": {
+        "anger": 0.086594, 
+        "joy": 0.102254, 
+        "sadness": 0.287073, 
+        "fear": 0.022282, 
+        "disgust": 0.434527
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.726954, 
+      "text": "Prime Minister Theresa", 
+      "emotion": {
+        "anger": 0.123349, 
+        "joy": 0.138887, 
+        "sadness": 0.31129, 
+        "fear": 0.219495, 
+        "disgust": 0.070583
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.721703, 
+      "text": "Trump\u2019s mission", 
+      "emotion": {
+        "anger": 0.048723, 
+        "joy": 0.183005, 
+        "sadness": 0.107745, 
+        "fear": 0.134485, 
+        "disgust": 0.379866
+      }, 
+      "sentiment": {
+        "score": -0.47524, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.713773, 
+      "text": "No. Trump", 
+      "emotion": {
+        "anger": 0.682883, 
+        "joy": 0.054407, 
+        "sadness": 0.23996, 
+        "fear": 0.079525, 
+        "disgust": 0.225475
+      }, 
+      "sentiment": {
+        "score": -0.709181, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.707563, 
+      "text": "Trump\u2019s trap", 
+      "emotion": {
+        "anger": 0.182951, 
+        "joy": 0.003682, 
+        "sadness": 0.744175, 
+        "fear": 0.094459, 
+        "disgust": 0.28149
+      }, 
+      "sentiment": {
+        "score": -0.739345, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.658605, 
+      "text": "ordinary people", 
+      "emotion": {
+        "anger": 0.235349, 
+        "joy": 0.31135, 
+        "sadness": 0.217218, 
+        "fear": 0.115553, 
+        "disgust": 0.210137
+      }, 
+      "sentiment": {
+        "score": -0.466915, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.656716, 
+      "text": "political class", 
+      "emotion": {
+        "anger": 0.40698, 
+        "joy": 0.05131, 
+        "sadness": 0.303945, 
+        "fear": 0.096372, 
+        "disgust": 0.402117
+      }, 
+      "sentiment": {
+        "score": -0.541217, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.633267, 
+      "text": "Sadiq Khan", 
+      "emotion": {
+        "anger": 0.104839, 
+        "joy": 0.223585, 
+        "sadness": 0.136791, 
+        "fear": 0.114225, 
+        "disgust": 0.075022
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.630219, 
+      "text": "London Sadiq Khan", 
+      "emotion": {
+        "anger": 0.091833, 
+        "joy": 0.211063, 
+        "sadness": 0.144482, 
+        "fear": 0.110243, 
+        "disgust": 0.070313
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.629807, 
+      "text": "white Dutch boy", 
+      "emotion": {
+        "anger": 0.05996, 
+        "joy": 0.319298, 
+        "sadness": 0.152264, 
+        "fear": 0.022383, 
+        "disgust": 0.512266
+      }, 
+      "sentiment": {
+        "score": -0.385532, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.627033, 
+      "text": "anti-immigration\u00a0political party", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.624629, 
+      "text": "essentially ordinary people", 
+      "emotion": {
+        "anger": 0.263696, 
+        "joy": 0.396402, 
+        "sadness": 0.087351, 
+        "fear": 0.116221, 
+        "disgust": 0.054377
+      }, 
+      "sentiment": {
+        "score": -0.466915, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.623747, 
+      "text": "Islamist mob", 
+      "emotion": {
+        "anger": 0.213965, 
+        "joy": 0.034603, 
+        "sadness": 0.618828, 
+        "fear": 0.100154, 
+        "disgust": 0.344516
+      }, 
+      "sentiment": {
+        "score": -0.547163, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.616563, 
+      "text": "warsaw speech", 
+      "emotion": {
+        "anger": 0.158791, 
+        "joy": 0.688953, 
+        "sadness": 0.073402, 
+        "fear": 0.024997, 
+        "disgust": 0.08641
+      }, 
+      "sentiment": {
+        "score": 0.464965, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.616469, 
+      "text": "Jo Cox", 
+      "emotion": {
+        "anger": 0.159996, 
+        "joy": 0.015043, 
+        "sadness": 0.288075, 
+        "fear": 0.146188, 
+        "disgust": 0.626188
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.616277, 
+      "text": "faux-Conservative political class", 
+      "emotion": {
+        "anger": 0.203639, 
+        "joy": 0.139399, 
+        "sadness": 0.403471, 
+        "fear": 0.16718, 
+        "disgust": 0.329067
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.616216, 
+      "text": "Virgin Mary", 
+      "emotion": {
+        "anger": 0.643695, 
+        "joy": 0.049644, 
+        "sadness": 0.222122, 
+        "fear": 0.048444, 
+        "disgust": 0.275467
+      }, 
+      "sentiment": {
+        "score": -0.547666, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.615214, 
+      "text": "mentally ill man", 
+      "emotion": {
+        "anger": 0.159996, 
+        "joy": 0.015043, 
+        "sadness": 0.288075, 
+        "fear": 0.146188, 
+        "disgust": 0.626188
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.614577, 
+      "text": "planned working visit", 
+      "emotion": {
+        "anger": 0.12796, 
+        "joy": 0.211306, 
+        "sadness": 0.187919, 
+        "fear": 0.093045, 
+        "disgust": 0.081715
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.61364, 
+      "text": "Angela Merkel", 
+      "emotion": {
+        "anger": 0.085572, 
+        "joy": 0.321496, 
+        "sadness": 0.199871, 
+        "fear": 0.084276, 
+        "disgust": 0.074455
+      }, 
+      "sentiment": {
+        "score": -0.323971, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.611922, 
+      "text": "generally hostile media", 
+      "emotion": {
+        "anger": 0.263696, 
+        "joy": 0.396402, 
+        "sadness": 0.087351, 
+        "fear": 0.116221, 
+        "disgust": 0.054377
+      }, 
+      "sentiment": {
+        "score": -0.466915, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.611141, 
+      "text": "gay dating site", 
+      "emotion": {
+        "anger": 0.198698, 
+        "joy": 0.461857, 
+        "sadness": 0.169382, 
+        "fear": 0.080346, 
+        "disgust": 0.159847
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.610321, 
+      "text": "brilliant Warsaw speech", 
+      "emotion": {
+        "anger": 0.076855, 
+        "joy": 0.76982, 
+        "sadness": 0.055514, 
+        "fear": 0.034102, 
+        "disgust": 0.051581
+      }, 
+      "sentiment": {
+        "score": 0.464965, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.609484, 
+      "text": "Jo Cox MP", 
+      "emotion": {
+        "anger": 0.159996, 
+        "joy": 0.015043, 
+        "sadness": 0.288075, 
+        "fear": 0.146188, 
+        "disgust": 0.626188
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.609469, 
+      "text": "Ronald Reagan", 
+      "emotion": {
+        "anger": 0.205653, 
+        "joy": 0.212457, 
+        "sadness": 0.269672, 
+        "fear": 0.07402, 
+        "disgust": 0.208548
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.608745, 
+      "text": "usual leftist cliches", 
+      "emotion": {
+        "anger": 0.199035, 
+        "joy": 0.135268, 
+        "sadness": 0.195019, 
+        "fear": 0.16184, 
+        "disgust": 0.118997
+      }, 
+      "sentiment": {
+        "score": -0.783145, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.608696, 
+      "text": "cover ups", 
+      "emotion": {
+        "anger": 0.183636, 
+        "joy": 0.154116, 
+        "sadness": 0.222486, 
+        "fear": 0.13523, 
+        "disgust": 0.371608
+      }, 
+      "sentiment": {
+        "score": -0.207669, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.608367, 
+      "text": "politically correct nonsense", 
+      "emotion": {
+        "anger": 0.263696, 
+        "joy": 0.396402, 
+        "sadness": 0.087351, 
+        "fear": 0.116221, 
+        "disgust": 0.054377
+      }, 
+      "sentiment": {
+        "score": -0.466915, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.60795, 
+      "text": "new book SJWs", 
+      "emotion": {
+        "anger": 0.050375, 
+        "joy": 0.66987, 
+        "sadness": 0.149102, 
+        "fear": 0.052621, 
+        "disgust": 0.025167
+      }, 
+      "sentiment": {
+        "score": 0.625875, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.607542, 
+      "text": "cherish inspiring works", 
+      "emotion": {
+        "anger": 0.071187, 
+        "joy": 0.737161, 
+        "sadness": 0.06385, 
+        "fear": 0.100568, 
+        "disgust": 0.019542
+      }, 
+      "sentiment": {
+        "score": 0.956465, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.607101, 
+      "text": "New York Times", 
+      "emotion": {
+        "anger": 0.071169, 
+        "joy": 0.546262, 
+        "sadness": 0.197201, 
+        "fear": 0.018048, 
+        "disgust": 0.034584
+      }, 
+      "sentiment": {
+        "score": 0.528462, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.605932, 
+      "text": "politically correct politics/media", 
+      "emotion": {
+        "anger": 0.117743, 
+        "joy": 0.157925, 
+        "sadness": 0.379319, 
+        "fear": 0.078884, 
+        "disgust": 0.449084
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.604424, 
+      "text": "extremely lonely position", 
+      "emotion": {
+        "anger": 0.120774, 
+        "joy": 0.025759, 
+        "sadness": 0.757754, 
+        "fear": 0.023504, 
+        "disgust": 0.161342
+      }, 
+      "sentiment": {
+        "score": -0.604047, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.6038, 
+      "text": "politically correct cover", 
+      "emotion": {
+        "anger": 0.056875, 
+        "joy": 0.313918, 
+        "sadness": 0.285086, 
+        "fear": 0.106926, 
+        "disgust": 0.120916
+      }, 
+      "sentiment": {
+        "score": -0.207669, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.602206, 
+      "text": "mass cover ups", 
+      "emotion": {
+        "anger": 0.293193, 
+        "joy": 0.068238, 
+        "sadness": 0.12097, 
+        "fear": 0.104629, 
+        "disgust": 0.432325
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.601687, 
+      "text": "black Al Qaeda", 
+      "emotion": {
+        "anger": 0.156112, 
+        "joy": 0.16173, 
+        "sadness": 0.183504, 
+        "fear": 0.322346, 
+        "disgust": 0.343601
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.600849, 
+      "text": "bully activist groups", 
+      "emotion": {
+        "anger": 0.182951, 
+        "joy": 0.003682, 
+        "sadness": 0.744175, 
+        "fear": 0.094459, 
+        "disgust": 0.28149
+      }, 
+      "sentiment": {
+        "score": -0.739345, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.600078, 
+      "text": "Sheikh\u00a0Omar Raghba", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.599989, 
+      "text": "inner city schools", 
+      "emotion": {
+        "anger": 0.199184, 
+        "joy": 0.459857, 
+        "sadness": 0.137558, 
+        "fear": 0.080125, 
+        "disgust": 0.276148
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.598945, 
+      "text": "Britain", 
+      "emotion": {
+        "anger": 0.165698, 
+        "joy": 0.283877, 
+        "sadness": 0.476004, 
+        "fear": 0.098237, 
+        "disgust": 0.140122
+      }, 
+      "sentiment": {
+        "score": -0.0579695, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.596663, 
+      "text": "separate Sharia courts", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.59664, 
+      "text": "President\u2019s behavior", 
+      "emotion": {
+        "anger": 0.276632, 
+        "joy": 0.180838, 
+        "sadness": 0.267224, 
+        "fear": 0.122937, 
+        "disgust": 0.325825
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.594807, 
+      "text": "Virgin Mary statue", 
+      "emotion": {
+        "anger": 0.503603, 
+        "joy": 0.127486, 
+        "sadness": 0.225185, 
+        "fear": 0.038062, 
+        "disgust": 0.161197
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.573821, 
+      "text": "media\u00a0establishment", 
+      "sentiment": {
+        "score": 0.593301, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.570154, 
+      "text": "insipid Theresa", 
+      "emotion": {
+        "anger": 0.045729, 
+        "joy": 0.246256, 
+        "sadness": 0.199339, 
+        "fear": 0.110452, 
+        "disgust": 0.055616
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.530232, 
+        "joy": 0.490857, 
+        "sadness": 0.596294, 
+        "fear": 0.513355, 
+        "disgust": 0.170305
+      }, 
+      "count": 16, 
+      "sentiment": {
+        "score": 0.134313, 
+        "label": "positive"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.830826, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.500289, 
+        "joy": 0.020654, 
+        "sadness": 0.223409, 
+        "fear": 0.119892, 
+        "disgust": 0.487739
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": -0.253436, 
+        "label": "negative"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.444002, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.532868, 
+        "joy": 0.461684, 
+        "sadness": 0.228496, 
+        "fear": 0.068709, 
+        "disgust": 0.484376
+      }, 
+      "count": 9, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.424178, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.051117, 
+        "joy": 0.267733, 
+        "sadness": 0.214251, 
+        "fear": 0.123191, 
+        "disgust": 0.066897
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Prime Minister Theresa May", 
+      "relevance": 0.292842, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.392415, 
+        "joy": 0.315121, 
+        "sadness": 0.056356, 
+        "fear": 0.077797, 
+        "disgust": 0.271909
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.0455809, 
+        "label": "negative"
+      }, 
+      "text": "Britain First", 
+      "relevance": 0.287713, 
+      "type": "Movie"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.070051, 
+        "joy": 0.345399, 
+        "sadness": 0.35168, 
+        "fear": 0.104136, 
+        "disgust": 0.051159
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.0123886, 
+        "label": "negative"
+      }, 
+      "text": "Britain", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.270119, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.042205, 
+        "joy": 0.12697, 
+        "sadness": 0.272264, 
+        "fear": 0.118644, 
+        "disgust": 0.578593
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Europe", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ], 
+        "name": "Europe", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Europe"
+      }, 
+      "relevance": 0.238626, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.203639, 
+        "joy": 0.139399, 
+        "sadness": 0.403471, 
+        "fear": 0.16718, 
+        "disgust": 0.329067
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.357864, 
+        "label": "negative"
+      }, 
+      "text": "Theresa May", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Theresa May", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Theresa_May"
+      }, 
+      "relevance": 0.237541, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.171971, 
+        "joy": 0.005992, 
+        "sadness": 0.527715, 
+        "fear": 0.423744, 
+        "disgust": 0.253704
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.0393121, 
+        "label": "negative"
+      }, 
+      "text": "U.S.", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.237363, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.248606, 
+        "joy": 0.188882, 
+        "sadness": 0.311728, 
+        "fear": 0.091219, 
+        "disgust": 0.331833
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.320083, 
+        "label": "positive"
+      }, 
+      "text": "BBC", 
+      "disambiguation": {
+        "subtype": [
+          "MusicalAlbum", 
+          "Broadcast", 
+          "PeriodicalPublisher", 
+          "ProductionCompany", 
+          "TVNetwork", 
+          "AwardNominee", 
+          "AwardWinner", 
+          "FilmDirector", 
+          "FilmProducer", 
+          "MusicalArtist", 
+          "TVProducer"
+        ], 
+        "name": "BBC", 
+        "dbpedia_resource": "http://dbpedia.org/resource/BBC"
+      }, 
+      "relevance": 0.227545, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.085572, 
+        "joy": 0.321496, 
+        "sadness": 0.199871, 
+        "fear": 0.084276, 
+        "disgust": 0.074455
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.323971, 
+        "label": "negative"
+      }, 
+      "text": "Angela Merkel", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "AwardWinner", 
+          "Chancellor"
+        ], 
+        "name": "Angela Merkel", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Angela_Merkel"
+      }, 
+      "relevance": 0.218574, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.212672, 
+        "joy": 0.119082, 
+        "sadness": 0.33094, 
+        "fear": 0.140048, 
+        "disgust": 0.213701
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.755666, 
+        "label": "positive"
+      }, 
+      "text": "Twitter", 
+      "disambiguation": {
+        "subtype": [
+          "Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Twitter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      }, 
+      "relevance": 0.214017, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.104839, 
+        "joy": 0.223585, 
+        "sadness": 0.136791, 
+        "fear": 0.114225, 
+        "disgust": 0.075022
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sadiq Khan", 
+      "relevance": 0.213918, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.159996, 
+        "joy": 0.015043, 
+        "sadness": 0.288075, 
+        "fear": 0.146188, 
+        "disgust": 0.626188
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jo Cox", 
+      "relevance": 0.211647, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.143372, 
+        "joy": 0.205426, 
+        "sadness": 0.18573, 
+        "fear": 0.093616, 
+        "disgust": 0.486917
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "London", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "OlympicHostCity", 
+          "PlaceWithNeighborhoods", 
+          "City"
+        ], 
+        "name": "London", 
+        "dbpedia_resource": "http://dbpedia.org/resource/London"
+      }, 
+      "relevance": 0.210416, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.205653, 
+        "joy": 0.212457, 
+        "sadness": 0.269672, 
+        "fear": 0.07402, 
+        "disgust": 0.208548
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Ronald Reagan", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "AwardWinner", 
+          "ChivalricOrderMember", 
+          "MilitaryPerson", 
+          "PoliticalAppointer", 
+          "USPresident", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Ronald Reagan", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Reagan"
+      }, 
+      "relevance": 0.200529, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.600565, 
+        "joy": 0.034722, 
+        "sadness": 0.215249, 
+        "fear": 0.091468, 
+        "disgust": 0.33371
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.547666, 
+        "label": "negative"
+      }, 
+      "text": "Virgin Mary", 
+      "relevance": 0.189983, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.12796, 
+        "joy": 0.211306, 
+        "sadness": 0.187919, 
+        "fear": 0.093045, 
+        "disgust": 0.081715
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "United Kingdom", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "AdministrativeDivision", 
+          "Country", 
+          "GovernmentalJurisdiction", 
+          "Kingdom", 
+          "MeteorologicalService"
+        ], 
+        "name": "United Kingdom", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      }, 
+      "relevance": 0.189943, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.351495, 
+        "joy": 0.004385, 
+        "sadness": 0.235813, 
+        "fear": 0.093264, 
+        "disgust": 0.672502
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.514202, 
+        "label": "negative"
+      }, 
+      "text": "rape", 
+      "relevance": 0.188072, 
+      "type": "Crime"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.076855, 
+        "joy": 0.76982, 
+        "sadness": 0.055514, 
+        "fear": 0.034102, 
+        "disgust": 0.051581
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.464965, 
+        "label": "positive"
+      }, 
+      "text": "Warsaw", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ], 
+        "name": "Warsaw, Illinois", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Warsaw,_Illinois"
+      }, 
+      "relevance": 0.181689, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.074735, 
+        "joy": 0.227654, 
+        "sadness": 0.414526, 
+        "fear": 0.040236, 
+        "disgust": 0.113291
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.593301, 
+        "label": "positive"
+      }, 
+      "text": "Prime Minister", 
+      "relevance": 0.180578, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.157144, 
+        "joy": 0.077907, 
+        "sadness": 0.153844, 
+        "fear": 0.744218, 
+        "disgust": 0.075567
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.728113, 
+        "label": "negative"
+      }, 
+      "text": "Westminster Bridge", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "Bridge"
+        ], 
+        "name": "Westminster Bridge", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Westminster_Bridge"
+      }, 
+      "relevance": 0.171506, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.073045, 
+        "joy": 0.226102, 
+        "sadness": 0.149678, 
+        "fear": 0.068278, 
+        "disgust": 0.064253
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Archbishop of Canterbury", 
+      "relevance": 0.171478, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.146305, 
+        "joy": 0.155145, 
+        "sadness": 0.092221, 
+        "fear": 0.096167, 
+        "disgust": 0.497062
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Brexit", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.168541, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.047706, 
+        "joy": 0.430717, 
+        "sadness": 0.142451, 
+        "fear": 0.171435, 
+        "disgust": 0.032772
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sweden", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.1685, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.341846, 
+        "joy": 0.036043, 
+        "sadness": 0.287386, 
+        "fear": 0.258524, 
+        "disgust": 0.429478
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.727248, 
+        "label": "negative"
+      }, 
+      "text": "Syria", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ], 
+        "name": "Syria", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Syria"
+      }, 
+      "relevance": 0.16717, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.026971, 
+        "joy": 0.098584, 
+        "sadness": 0.148948, 
+        "fear": 0.027064, 
+        "disgust": 0.296125
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Chris Bryant", 
+      "relevance": 0.167099, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.071169, 
+        "joy": 0.546262, 
+        "sadness": 0.197201, 
+        "fear": 0.018048, 
+        "disgust": 0.034584
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.528462, 
+        "label": "positive"
+      }, 
+      "text": "Guardian", 
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup", 
+          "MusicalArtist"
+        ], 
+        "name": "Guardian (band)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Guardian_(band)"
+      }, 
+      "relevance": 0.166281, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.755666, 
+        "label": "positive"
+      }, 
+      "text": "EU", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "Country", 
+          "GovernmentalJurisdiction", 
+          "MembershipOrganization", 
+          "AwardWinner"
+        ], 
+        "name": "European Union", 
+        "dbpedia_resource": "http://dbpedia.org/resource/European_Union"
+      }, 
+      "relevance": 0.166138, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.071169, 
+        "joy": 0.546262, 
+        "sadness": 0.197201, 
+        "fear": 0.018048, 
+        "disgust": 0.034584
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.528462, 
+        "label": "positive"
+      }, 
+      "text": "New York Times", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Company", 
+          "AwardPresentingOrganization", 
+          "AwardWinner", 
+          "CompanyShareholder", 
+          "Newspaper"
+        ], 
+        "name": "The New York Times", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_New_York_Times"
+      }, 
+      "relevance": 0.165561, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.2974, 
+        "joy": 0.009509, 
+        "sadness": 0.486675, 
+        "fear": 0.132921, 
+        "disgust": 0.44133
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.580584, 
+        "label": "negative"
+      }, 
+      "text": "ISIS", 
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup", 
+          "MusicalArtist", 
+          "MusicalGroupMember"
+        ], 
+        "name": "Isis (band)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Isis_(band)"
+      }, 
+      "relevance": 0.165557, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095939, 
+        "joy": 0.113309, 
+        "sadness": 0.269212, 
+        "fear": 0.034979, 
+        "disgust": 0.331723
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Katie Hopkins", 
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ], 
+        "name": "Katie Hopkins", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Katie_Hopkins"
+      }, 
+      "relevance": 0.164407, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.151644, 
+        "joy": 0.18516, 
+        "sadness": 0.199878, 
+        "fear": 0.031565, 
+        "disgust": 0.216171
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Brendan Cox", 
+      "relevance": 0.162075, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.090723, 
+        "joy": 0.185315, 
+        "sadness": 0.144548, 
+        "fear": 0.087573, 
+        "disgust": 0.077654
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jayda Fransen", 
+      "relevance": 0.161135, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.336727, 
+        "joy": 0.319281, 
+        "sadness": 0.14979, 
+        "fear": 0.088998, 
+        "disgust": 0.195859
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Middle East", 
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ], 
+        "name": "Middle East", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+      }, 
+      "relevance": 0.159501, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sheikh\u00a0Omar Raghba", 
+      "relevance": 0.154236, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sheikh Omar", 
+      "relevance": 0.153165, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Alexandria", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ], 
+        "name": "Alexandria, New York", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Alexandria,_New_York"
+      }, 
+      "relevance": 0.151935, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.047134, 
+        "joy": 0.424801, 
+        "sadness": 0.14334, 
+        "fear": 0.177794, 
+        "disgust": 0.031035
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Greece", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction", 
+          "WineRegion", 
+          "Country"
+        ], 
+        "name": "Greece", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Greece"
+      }, 
+      "relevance": 0.150456, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.124714, 
+        "joy": 0.323768, 
+        "sadness": 0.309812, 
+        "fear": 0.076138, 
+        "disgust": 0.11242
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.648129, 
+        "label": "negative"
+      }, 
+      "text": "Daniel Johnson", 
+      "disambiguation": {
+        "subtype": [
+          "VisualArtist"
+        ], 
+        "name": "Daniel Lorenz Johnson", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Daniel_Lorenz_Johnson"
+      }, 
+      "relevance": 0.148345, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Hamada Badr", 
+      "relevance": 0.147336, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "commander", 
+      "relevance": 0.145978, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.056875, 
+        "joy": 0.313918, 
+        "sadness": 0.285086, 
+        "fear": 0.106926, 
+        "disgust": 0.120916
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.207669, 
+        "label": "negative"
+      }, 
+      "text": "representative", 
+      "relevance": 0.145266, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.094872, 
+        "joy": 0.16093, 
+        "sadness": 0.187232, 
+        "fear": 0.067662, 
+        "disgust": 0.137212
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Nigel Farage", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Nigel Farage", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Nigel_Farage"
+      }, 
+      "relevance": 0.143885, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.091797, 
+        "joy": 0.191139, 
+        "sadness": 0.141719, 
+        "fear": 0.08519, 
+        "disgust": 0.078108
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jacob Rees-Mogg", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Jacob Rees-Mogg", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Jacob_Rees-Mogg"
+      }, 
+      "relevance": 0.143286, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.066426, 
+        "joy": 0.164894, 
+        "sadness": 0.190198, 
+        "fear": 0.092925, 
+        "disgust": 0.135122
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Spain", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "Kingdom", 
+          "Country"
+        ], 
+        "name": "Spain", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Spain"
+      }, 
+      "relevance": 0.142943, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.047134, 
+        "joy": 0.424801, 
+        "sadness": 0.14334, 
+        "fear": 0.177794, 
+        "disgust": 0.031035
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "France", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmDirector", 
+          "Country"
+        ], 
+        "name": "France", 
+        "dbpedia_resource": "http://dbpedia.org/resource/France"
+      }, 
+      "relevance": 0.1428, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.097957, 
+        "joy": 0.17024, 
+        "sadness": 0.188806, 
+        "fear": 0.055965, 
+        "disgust": 0.148953
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "David Pryce-Jones", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "David Pryce-Jones", 
+        "dbpedia_resource": "http://dbpedia.org/resource/David_Pryce-Jones"
+      }, 
+      "relevance": 0.142293, 
+      "type": "Person"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/01/delingpole-donald-trump-trolls-londonistan-like-boss/"
+}

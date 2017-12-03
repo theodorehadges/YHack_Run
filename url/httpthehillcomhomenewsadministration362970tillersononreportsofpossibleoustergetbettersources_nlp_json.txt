@@ -1,0 +1,1124 @@
+{
+  "usage": {
+    "text_characters": 2250, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.918143, 
+      "text": "State Department", 
+      "emotion": {
+        "anger": 0.254781, 
+        "joy": 0.248817, 
+        "sadness": 0.154045, 
+        "fear": 0.285248, 
+        "disgust": 0.259896
+      }, 
+      "sentiment": {
+        "score": -0.348024, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.736474, 
+      "text": "Trump", 
+      "emotion": {
+        "anger": 0.151799, 
+        "joy": 0.149704, 
+        "sadness": 0.52833, 
+        "fear": 0.166642, 
+        "disgust": 0.130294
+      }, 
+      "sentiment": {
+        "score": -0.574931, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.684869, 
+      "text": "House plan leaks", 
+      "emotion": {
+        "anger": 0.21229, 
+        "joy": 0.066565, 
+        "sadness": 0.425203, 
+        "fear": 0.399659, 
+        "disgust": 0.19124
+      }, 
+      "sentiment": {
+        "score": -0.679881, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.663364, 
+      "text": "White House plan", 
+      "emotion": {
+        "anger": 0.21229, 
+        "joy": 0.066565, 
+        "sadness": 0.425203, 
+        "fear": 0.399659, 
+        "disgust": 0.19124
+      }, 
+      "sentiment": {
+        "score": -0.679881, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.612006, 
+      "text": "Tillerson", 
+      "emotion": {
+        "anger": 0.131308, 
+        "joy": 0.467645, 
+        "sadness": 0.476008, 
+        "fear": 0.139567, 
+        "disgust": 0.105695
+      }, 
+      "sentiment": {
+        "score": -0.406319, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.574573, 
+      "text": "Trump administration", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571371, 
+      "text": "Wayne Tillerson Tillerson", 
+      "emotion": {
+        "anger": 0.100768, 
+        "joy": 0.117816, 
+        "sadness": 0.170819, 
+        "fear": 0.095526, 
+        "disgust": 0.099437
+      }, 
+      "sentiment": {
+        "score": -0.201349, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.571038, 
+      "text": "Richard Pompeo Tillerson", 
+      "emotion": {
+        "anger": 0.051933, 
+        "joy": 0.176327, 
+        "sadness": 0.108791, 
+        "fear": 0.098713, 
+        "disgust": 0.016397
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.568092, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.230382, 
+        "joy": 0.110459, 
+        "sadness": 0.44638, 
+        "fear": 0.098223, 
+        "disgust": 0.203975
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.566324, 
+      "text": "State Rex Tillerson", 
+      "emotion": {
+        "anger": 0.100768, 
+        "joy": 0.117816, 
+        "sadness": 0.170819, 
+        "fear": 0.095526, 
+        "disgust": 0.099437
+      }, 
+      "sentiment": {
+        "score": -0.201349, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.542401, 
+      "text": "Director Mike Pompeo", 
+      "emotion": {
+        "anger": 0.234732, 
+        "joy": 0.135119, 
+        "sadness": 0.28934, 
+        "fear": 0.171857, 
+        "disgust": 0.16443
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.525207, 
+      "text": "Iran hawk", 
+      "emotion": {
+        "anger": 0.265155, 
+        "joy": 0.183532, 
+        "sadness": 0.273187, 
+        "fear": 0.316047, 
+        "disgust": 0.171553
+      }, 
+      "sentiment": {
+        "score": -0.759211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.507984, 
+      "text": "Tom Cotton Tillerson", 
+      "emotion": {
+        "anger": 0.231906, 
+        "joy": 0.069533, 
+        "sadness": 0.278769, 
+        "fear": 0.076459, 
+        "disgust": 0.188071
+      }, 
+      "sentiment": {
+        "score": -0.401735, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.506674, 
+      "text": "North Korea Tillerson", 
+      "emotion": {
+        "anger": 0.11896, 
+        "joy": 0.037594, 
+        "sadness": 0.531289, 
+        "fear": 0.366423, 
+        "disgust": 0.170991
+      }, 
+      "sentiment": {
+        "score": -0.600552, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.499947, 
+      "text": "Multiple news reports", 
+      "emotion": {
+        "anger": 0.234732, 
+        "joy": 0.135119, 
+        "sadness": 0.28934, 
+        "fear": 0.171857, 
+        "disgust": 0.16443
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.496873, 
+      "text": "real problem", 
+      "emotion": {
+        "anger": 0.15261, 
+        "joy": 0.033008, 
+        "sadness": 0.552037, 
+        "fear": 0.282947, 
+        "disgust": 0.179097
+      }, 
+      "sentiment": {
+        "score": -0.482792, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.481392, 
+      "text": "Sen. Tom Cotton", 
+      "emotion": {
+        "anger": 0.231906, 
+        "joy": 0.069533, 
+        "sadness": 0.278769, 
+        "fear": 0.076459, 
+        "disgust": 0.188071
+      }, 
+      "sentiment": {
+        "score": -0.401735, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.477985, 
+      "text": "Iran nuclear deal", 
+      "emotion": {
+        "anger": 0.212163, 
+        "joy": 0.091654, 
+        "sadness": 0.024738, 
+        "fear": 0.404441, 
+        "disgust": 0.015775
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.470884, 
+      "text": "key foreign policy", 
+      "emotion": {
+        "anger": 0.231762, 
+        "joy": 0.058839, 
+        "sadness": 0.448052, 
+        "fear": 0.050883, 
+        "disgust": 0.039254
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.470227, 
+      "text": "Paris climate accord", 
+      "emotion": {
+        "anger": 0.212163, 
+        "joy": 0.091654, 
+        "sadness": 0.024738, 
+        "fear": 0.404441, 
+        "disgust": 0.015775
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.464155, 
+      "text": "State Tillerson", 
+      "emotion": {
+        "anger": 0.206638, 
+        "joy": 0.1022, 
+        "sadness": 0.35354, 
+        "fear": 0.421225, 
+        "disgust": 0.172171
+      }, 
+      "sentiment": {
+        "score": -0.759211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.417401, 
+      "text": "secretary", 
+      "emotion": {
+        "anger": 0.227545, 
+        "joy": 0.253555, 
+        "sadness": 0.25803, 
+        "fear": 0.252446, 
+        "disgust": 0.18117
+      }, 
+      "sentiment": {
+        "score": -0.759211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.414659, 
+      "text": "GOP congressman", 
+      "emotion": {
+        "anger": 0.230382, 
+        "joy": 0.110459, 
+        "sadness": 0.44638, 
+        "fear": 0.098223, 
+        "disgust": 0.203975
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.413366, 
+      "text": "better sources", 
+      "emotion": {
+        "anger": 0.136155, 
+        "joy": 0.166152, 
+        "sadness": 0.368608, 
+        "fear": 0.359372, 
+        "disgust": 0.025083
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.404236, 
+      "text": "media reports", 
+      "sentiment": {
+        "score": -0.558751, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.399964, 
+      "text": "military action", 
+      "emotion": {
+        "anger": 0.11896, 
+        "joy": 0.037594, 
+        "sadness": 0.531289, 
+        "fear": 0.366423, 
+        "disgust": 0.170991
+      }, 
+      "sentiment": {
+        "score": -0.600552, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.396412, 
+      "text": "fake news", 
+      "emotion": {
+        "anger": 0.243395, 
+        "joy": 0.016424, 
+        "sadness": 0.614357, 
+        "fear": 0.104473, 
+        "disgust": 0.339522
+      }, 
+      "sentiment": {
+        "score": -0.745606, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.39457, 
+      "text": "administration officials", 
+      "emotion": {
+        "anger": 0.175698, 
+        "joy": 0.107212, 
+        "sadness": 0.24072, 
+        "fear": 0.153854, 
+        "disgust": 0.139214
+      }, 
+      "sentiment": {
+        "score": -0.487989, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.366718, 
+      "text": "ouster", 
+      "emotion": {
+        "anger": 0.151763, 
+        "joy": 0.070843, 
+        "sadness": 0.333652, 
+        "fear": 0.11026, 
+        "disgust": 0.130624
+      }, 
+      "sentiment": {
+        "score": -0.28319, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.336268, 
+      "text": "Meet", 
+      "emotion": {
+        "anger": 0.265155, 
+        "joy": 0.183532, 
+        "sadness": 0.273187, 
+        "fear": 0.316047, 
+        "disgust": 0.171553
+      }, 
+      "sentiment": {
+        "score": -0.759211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.335731, 
+      "text": "pressure", 
+      "emotion": {
+        "anger": 0.21229, 
+        "joy": 0.066565, 
+        "sadness": 0.425203, 
+        "fear": 0.399659, 
+        "disgust": 0.19124
+      }, 
+      "sentiment": {
+        "score": -0.679881, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.335493, 
+      "text": "Friday", 
+      "emotion": {
+        "anger": 0.025658, 
+        "joy": 0.334491, 
+        "sadness": 0.102969, 
+        "fear": 0.116776, 
+        "disgust": 0.063549
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.332565, 
+      "text": "time", 
+      "emotion": {
+        "anger": 0.144564, 
+        "joy": 0.059506, 
+        "sadness": 0.538225, 
+        "fear": 0.322471, 
+        "disgust": 0.130444
+      }, 
+      "sentiment": {
+        "score": -0.560265, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.32591, 
+      "text": "Pyongyang", 
+      "emotion": {
+        "anger": 0.065973, 
+        "joy": 0.080042, 
+        "sadness": 0.374388, 
+        "fear": 0.054198, 
+        "disgust": 0.051527
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.322426, 
+      "text": "Reuters", 
+      "emotion": {
+        "anger": 0.045958, 
+        "joy": 0.332972, 
+        "sadness": 0.074034, 
+        "fear": 0.112204, 
+        "disgust": 0.171938
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.321934, 
+      "text": "tweet", 
+      "emotion": {
+        "anger": 0.0487, 
+        "joy": 0.499817, 
+        "sadness": 0.128776, 
+        "fear": 0.10842, 
+        "disgust": 0.074898
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.321079, 
+      "text": "diplomat", 
+      "emotion": {
+        "anger": 0.234732, 
+        "joy": 0.135119, 
+        "sadness": 0.28934, 
+        "fear": 0.171857, 
+        "disgust": 0.16443
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.318781, 
+      "text": "People", 
+      "emotion": {
+        "anger": 0.136155, 
+        "joy": 0.166152, 
+        "sadness": 0.368608, 
+        "fear": 0.359372, 
+        "disgust": 0.025083
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.318718, 
+      "text": "interview", 
+      "emotion": {
+        "anger": 0.045958, 
+        "joy": 0.332972, 
+        "sadness": 0.074034, 
+        "fear": 0.112204, 
+        "disgust": 0.171938
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.318598, 
+      "text": "Twitter", 
+      "emotion": {
+        "anger": 0.187296, 
+        "joy": 0.226336, 
+        "sadness": 0.283616, 
+        "fear": 0.094315, 
+        "disgust": 0.066913
+      }, 
+      "sentiment": {
+        "score": -0.519979, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.317957, 
+      "text": "speculation", 
+      "emotion": {
+        "anger": 0.043559, 
+        "joy": 0.584493, 
+        "sadness": 0.291336, 
+        "fear": 0.033376, 
+        "disgust": 0.082452
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.317866, 
+      "text": "stewardship", 
+      "emotion": {
+        "anger": 0.427468, 
+        "joy": 0.035981, 
+        "sadness": 0.088779, 
+        "fear": 0.097779, 
+        "disgust": 0.296827
+      }, 
+      "sentiment": {
+        "score": 0.226907, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.317559, 
+      "text": "agency", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.317041, 
+      "text": "Saturday", 
+      "emotion": {
+        "anger": 0.206638, 
+        "joy": 0.1022, 
+        "sadness": 0.35354, 
+        "fear": 0.421225, 
+        "disgust": 0.172171
+      }, 
+      "sentiment": {
+        "score": -0.759211, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.316472, 
+      "text": "R-Ark.", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.316236, 
+      "text": "plans", 
+      "emotion": {
+        "anger": 0.043559, 
+        "joy": 0.584493, 
+        "sadness": 0.291336, 
+        "fear": 0.033376, 
+        "disgust": 0.082452
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.316227, 
+      "text": "place", 
+      "emotion": {
+        "anger": 0.043559, 
+        "joy": 0.584493, 
+        "sadness": 0.291336, 
+        "fear": 0.033376, 
+        "disgust": 0.082452
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.315966, 
+      "text": "future", 
+      "emotion": {
+        "anger": 0.0487, 
+        "joy": 0.499817, 
+        "sadness": 0.128776, 
+        "fear": 0.10842, 
+        "disgust": 0.074898
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.315854, 
+      "text": "confidence", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.230382, 
+        "joy": 0.110459, 
+        "sadness": 0.44638, 
+        "fear": 0.098223, 
+        "disgust": 0.203975
+      }, 
+      "count": 9, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.886027, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 16, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sen. Tom Cotton Tom Cotton Tillerson", 
+      "relevance": 0.852514, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.254781, 
+        "joy": 0.248817, 
+        "sadness": 0.154045, 
+        "fear": 0.285248, 
+        "disgust": 0.259896
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.374472, 
+        "label": "negative"
+      }, 
+      "text": "State Department", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody", 
+          "AppointedRole"
+        ], 
+        "name": "United States Department of State", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_State"
+      }, 
+      "relevance": 0.554522, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.148131, 
+        "joy": 0.156388, 
+        "sadness": 0.268362, 
+        "fear": 0.233869, 
+        "disgust": 0.131497
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.48028, 
+        "label": "negative"
+      }, 
+      "text": "Wayne Tillerson Tillerson", 
+      "relevance": 0.296084, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.21229, 
+        "joy": 0.066565, 
+        "sadness": 0.425203, 
+        "fear": 0.399659, 
+        "disgust": 0.19124
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.679881, 
+        "label": "negative"
+      }, 
+      "text": "Mike Pompeo Michael", 
+      "relevance": 0.28265, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.065973, 
+        "joy": 0.080042, 
+        "sadness": 0.374388, 
+        "fear": 0.054198, 
+        "disgust": 0.051527
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Rex Tillerson", 
+      "disambiguation": {
+        "subtype": [
+          "BoardMember"
+        ], 
+        "name": "Rex Tillerson", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Rex_Tillerson"
+      }, 
+      "relevance": 0.271308, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.100768, 
+        "joy": 0.117816, 
+        "sadness": 0.170819, 
+        "fear": 0.095526, 
+        "disgust": 0.099437
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.201349, 
+        "label": "negative"
+      }, 
+      "text": "Iran", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.260752, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.24178, 
+        "joy": 0.148099, 
+        "sadness": 0.258387, 
+        "fear": 0.138929, 
+        "disgust": 0.175623
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.201349, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "relevance": 0.234778, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.173932, 
+        "joy": 0.130779, 
+        "sadness": 0.51727, 
+        "fear": 0.152135, 
+        "disgust": 0.146146
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.574931, 
+        "label": "negative"
+      }, 
+      "text": "CIA", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Central Intelligence Agency", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Central_Intelligence_Agency"
+      }, 
+      "relevance": 0.211018, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.163155, 
+        "joy": 0.089824, 
+        "sadness": 0.549797, 
+        "fear": 0.175952, 
+        "disgust": 0.154312
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.471745, 
+        "label": "negative"
+      }, 
+      "text": "North Korea", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalJurisdiction", 
+          "Country"
+        ], 
+        "name": "North Korea", 
+        "dbpedia_resource": "http://dbpedia.org/resource/North_Korea"
+      }, 
+      "relevance": 0.200001, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.301479, 
+        "joy": 0.110839, 
+        "sadness": 0.278557, 
+        "fear": 0.143104, 
+        "disgust": 0.190438
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.401735, 
+        "label": "negative"
+      }, 
+      "text": "secretary", 
+      "relevance": 0.192326, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.24178, 
+        "joy": 0.148099, 
+        "sadness": 0.258387, 
+        "fear": 0.138929, 
+        "disgust": 0.175623
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "White House", 
+      "relevance": 0.182796, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.045958, 
+        "joy": 0.332972, 
+        "sadness": 0.074034, 
+        "fear": 0.112204, 
+        "disgust": 0.171938
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Reuters", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Reuters", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Reuters"
+      }, 
+      "relevance": 0.179196, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.187296, 
+        "joy": 0.226336, 
+        "sadness": 0.283616, 
+        "fear": 0.094315, 
+        "disgust": 0.066913
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.519979, 
+        "label": "negative"
+      }, 
+      "text": "U.S.", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.164608, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.144564, 
+        "joy": 0.059506, 
+        "sadness": 0.538225, 
+        "fear": 0.322471, 
+        "disgust": 0.130444
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.560265, 
+        "label": "negative"
+      }, 
+      "text": "Pyongyang", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "City"
+        ], 
+        "name": "Pyongyang", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Pyongyang"
+      }, 
+      "relevance": 0.162634, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.130848, 
+        "joy": 0.166016, 
+        "sadness": 0.354162, 
+        "fear": 0.124045, 
+        "disgust": 0.147839
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Twitter", 
+      "disambiguation": {
+        "subtype": [
+          "Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Twitter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      }, 
+      "relevance": 0.152932, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "congressman", 
+      "relevance": 0.142648, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.234732, 
+        "joy": 0.135119, 
+        "sadness": 0.28934, 
+        "fear": 0.171857, 
+        "disgust": 0.16443
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "GOP", 
+      "relevance": 0.142548, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.332702, 
+        "joy": 0.168491, 
+        "sadness": 0.153555, 
+        "fear": 0.445046, 
+        "disgust": 0.102094
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.759211, 
+        "label": "negative"
+      }, 
+      "text": "Director", 
+      "relevance": 0.13399, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.40545, 
+        "joy": 0.070901, 
+        "sadness": 0.325626, 
+        "fear": 0.257255, 
+        "disgust": 0.056025
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Paris", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.121307, 
+      "type": "Location"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://thehill.com/homenews/administration/362970-tillerson-on-reports-of-possible-ouster-get-better-sources"
+}

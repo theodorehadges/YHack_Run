@@ -1,0 +1,1160 @@
+{
+  "usage": {
+    "text_characters": 2232, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.947564, 
+      "text": "Russia Witch Hunt", 
+      "emotion": {
+        "anger": 0.10668, 
+        "joy": 0.084917, 
+        "sadness": 0.217813, 
+        "fear": 0.067687, 
+        "disgust": 0.388642
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.868882, 
+      "text": "President Donald Trump", 
+      "emotion": {
+        "anger": 0.189323, 
+        "joy": 0.040134, 
+        "sadness": 0.650199, 
+        "fear": 0.119083, 
+        "disgust": 0.243389
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.835065, 
+      "text": "ABC News", 
+      "emotion": {
+        "anger": 0.164648, 
+        "joy": 0.054057, 
+        "sadness": 0.688312, 
+        "fear": 0.07478, 
+        "disgust": 0.234755
+      }, 
+      "sentiment": {
+        "score": -0.567753, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.743555, 
+      "text": "Mike Flynn", 
+      "emotion": {
+        "anger": 0.170613, 
+        "joy": 0.208484, 
+        "sadness": 0.285392, 
+        "fear": 0.086411, 
+        "disgust": 0.198856
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.66247, 
+      "text": "Crooked Hillary Clinton", 
+      "emotion": {
+        "anger": 0.097123, 
+        "joy": 0.171692, 
+        "sadness": 0.185031, 
+        "fear": 0.064682, 
+        "disgust": 0.139281
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.652691, 
+      "text": "dishonest report", 
+      "emotion": {
+        "anger": 0.096674, 
+        "joy": 0.135741, 
+        "sadness": 0.5611, 
+        "fear": 0.056829, 
+        "disgust": 0.200854
+      }, 
+      "sentiment": {
+        "score": -0.567753, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.638651, 
+      "text": "State Hillary Clinton", 
+      "emotion": {
+        "anger": 0.170613, 
+        "joy": 0.208484, 
+        "sadness": 0.285392, 
+        "fear": 0.086411, 
+        "disgust": 0.198856
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.622587, 
+      "text": "totally Crooked Hillary", 
+      "emotion": {
+        "anger": 0.257778, 
+        "joy": 0.239959, 
+        "sadness": 0.207302, 
+        "fear": 0.139042, 
+        "disgust": 0.245081
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.620619, 
+      "text": "Brian Ross", 
+      "emotion": {
+        "anger": 0.096674, 
+        "joy": 0.135741, 
+        "sadness": 0.5611, 
+        "fear": 0.056829, 
+        "disgust": 0.200854
+      }, 
+      "sentiment": {
+        "score": -0.567753, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.614714, 
+      "text": "famous FBI holiday", 
+      "emotion": {
+        "anger": 0.231571, 
+        "joy": 0.141487, 
+        "sadness": 0.578633, 
+        "fear": 0.027472, 
+        "disgust": 0.106367
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.604527, 
+      "text": "criticial reporting error", 
+      "emotion": {
+        "anger": 0.189323, 
+        "joy": 0.040134, 
+        "sadness": 0.650199, 
+        "fear": 0.119083, 
+        "disgust": 0.243389
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571772, 
+      "text": "National Security Adviser", 
+      "emotion": {
+        "anger": 0.042455, 
+        "joy": 0.109202, 
+        "sadness": 0.255756, 
+        "fear": 0.362388, 
+        "disgust": 0.13575
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.5417, 
+      "text": "Attorney General Jeff", 
+      "emotion": {
+        "anger": 0.319361, 
+        "joy": 0.0529, 
+        "sadness": 0.230848, 
+        "fear": 0.031173, 
+        "disgust": 0.027655
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.531937, 
+      "text": "Prosecutor Robert Mueller", 
+      "sentiment": {
+        "score": 0.369836, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.52818, 
+      "text": "United States Congress", 
+      "emotion": {
+        "anger": 0.148188, 
+        "joy": 0.096956, 
+        "sadness": 0.223399, 
+        "fear": 0.025034, 
+        "disgust": 0.242981
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.527415, 
+      "text": "Flynn\u2019s decision", 
+      "emotion": {
+        "anger": 0.165221, 
+        "joy": 0.135038, 
+        "sadness": 0.433884, 
+        "fear": 0.208263, 
+        "disgust": 0.244814
+      }, 
+      "sentiment": {
+        "score": 0.369836, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.527328, 
+      "text": "New York City", 
+      "emotion": {
+        "anger": 0.067682, 
+        "joy": 0.566583, 
+        "sadness": 0.041083, 
+        "fear": 0.021077, 
+        "disgust": 0.088702
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.510512, 
+      "text": "General Flynn", 
+      "emotion": {
+        "anger": 0.653963, 
+        "joy": 0.013482, 
+        "sadness": 0.29258, 
+        "fear": 0.056273, 
+        "disgust": 0.314752
+      }, 
+      "sentiment": {
+        "score": -0.654689, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.459643, 
+      "text": "FBI investigations", 
+      "emotion": {
+        "anger": 0.170613, 
+        "joy": 0.208484, 
+        "sadness": 0.285392, 
+        "fear": 0.086411, 
+        "disgust": 0.198856
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.442283, 
+      "text": "Russia investigation", 
+      "emotion": {
+        "anger": 0.189323, 
+        "joy": 0.040134, 
+        "sadness": 0.650199, 
+        "fear": 0.119083, 
+        "disgust": 0.243389
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.438071, 
+      "text": "ABC executives", 
+      "emotion": {
+        "anger": 0.10456, 
+        "joy": 0.12115, 
+        "sadness": 0.215483, 
+        "fear": 0.082344, 
+        "disgust": 0.096782
+      }, 
+      "sentiment": {
+        "score": -0.276139, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.414571, 
+      "text": "investigative reporters", 
+      "emotion": {
+        "anger": 0.189323, 
+        "joy": 0.040134, 
+        "sadness": 0.650199, 
+        "fear": 0.119083, 
+        "disgust": 0.243389
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.411074, 
+      "text": "Saturday night", 
+      "emotion": {
+        "anger": 0.016679, 
+        "joy": 0.622093, 
+        "sadness": 0.060172, 
+        "fear": 0.042662, 
+        "disgust": 0.130329
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.399001, 
+      "text": "false report", 
+      "emotion": {
+        "anger": 0.148345, 
+        "joy": 0.01598, 
+        "sadness": 0.373963, 
+        "fear": 0.290863, 
+        "disgust": 0.10525
+      }, 
+      "sentiment": {
+        "score": -0.489994, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.393032, 
+      "text": "double standard", 
+      "emotion": {
+        "anger": 0.090208, 
+        "joy": 0.085974, 
+        "sadness": 0.269657, 
+        "fear": 0.040043, 
+        "disgust": 0.102473
+      }, 
+      "sentiment": {
+        "score": -0.472072, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.390004, 
+      "text": "holiday \u2018interrogation", 
+      "emotion": {
+        "anger": 0.231571, 
+        "joy": 0.141487, 
+        "sadness": 0.578633, 
+        "fear": 0.027472, 
+        "disgust": 0.106367
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.389975, 
+      "text": "Saturday morning", 
+      "emotion": {
+        "anger": 0.074554, 
+        "joy": 0.76962, 
+        "sadness": 0.124763, 
+        "fear": 0.014435, 
+        "disgust": 0.033262
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.387869, 
+      "text": "Vice President", 
+      "emotion": {
+        "anger": 0.559193, 
+        "joy": 0.03043, 
+        "sadness": 0.220653, 
+        "fear": 0.051905, 
+        "disgust": 0.398581
+      }, 
+      "sentiment": {
+        "score": -0.654689, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.375481, 
+      "text": "Russian investigation", 
+      "emotion": {
+        "anger": 0.059575, 
+        "joy": 0.32045, 
+        "sadness": 0.060075, 
+        "fear": 0.238242, 
+        "disgust": 0.078794
+      }, 
+      "sentiment": {
+        "score": 0.369836, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.285178, 
+      "text": "Twitter", 
+      "emotion": {
+        "anger": 0.039002, 
+        "joy": 0.78946, 
+        "sadness": 0.089632, 
+        "fear": 0.019907, 
+        "disgust": 0.061474
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.265358, 
+      "text": "Networks", 
+      "emotion": {
+        "anger": 0.06476, 
+        "joy": 0.495883, 
+        "sadness": 0.155848, 
+        "fear": 0.052739, 
+        "disgust": 0.073796
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.263323, 
+      "text": "lies", 
+      "emotion": {
+        "anger": 0.593649, 
+        "joy": 0.010695, 
+        "sadness": 0.408885, 
+        "fear": 0.064372, 
+        "disgust": 0.275193
+      }, 
+      "sentiment": {
+        "score": -0.718873, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.244952, 
+      "text": "swearing", 
+      "emotion": {
+        "anger": 0.08686, 
+        "joy": 0.174219, 
+        "sadness": 0.151545, 
+        "fear": 0.093654, 
+        "disgust": 0.072945
+      }, 
+      "sentiment": {
+        "score": -0.513679, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.243811, 
+      "text": "Russians", 
+      "emotion": {
+        "anger": 0.042455, 
+        "joy": 0.109202, 
+        "sadness": 0.255756, 
+        "fear": 0.362388, 
+        "disgust": 0.13575
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.24358, 
+      "text": "Rigged", 
+      "emotion": {
+        "anger": 0.079789, 
+        "joy": 0.22713, 
+        "sadness": 0.195485, 
+        "fear": 0.093277, 
+        "disgust": 0.041999
+      }, 
+      "sentiment": {
+        "score": -0.704247, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.2424, 
+      "text": "subpoena", 
+      "emotion": {
+        "anger": 0.148188, 
+        "joy": 0.096956, 
+        "sadness": 0.223399, 
+        "fear": 0.025034, 
+        "disgust": 0.242981
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.240172, 
+      "text": "frustration", 
+      "emotion": {
+        "anger": 0.319361, 
+        "joy": 0.0529, 
+        "sadness": 0.230848, 
+        "fear": 0.031173, 
+        "disgust": 0.027655
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.237684, 
+      "text": "shame", 
+      "emotion": {
+        "anger": 0.191201, 
+        "joy": 0.009403, 
+        "sadness": 0.397862, 
+        "fear": 0.065786, 
+        "disgust": 0.539399
+      }, 
+      "sentiment": {
+        "score": -0.364676, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.236853, 
+      "text": "suggestion", 
+      "emotion": {
+        "anger": 0.124037, 
+        "joy": 0.134199, 
+        "sadness": 0.117118, 
+        "fear": 0.170475, 
+        "disgust": 0.092918
+      }, 
+      "sentiment": {
+        "score": -0.547349, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.233889, 
+      "text": "papers", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.233073, 
+      "text": "candidate", 
+      "emotion": {
+        "anger": 0.148345, 
+        "joy": 0.01598, 
+        "sadness": 0.373963, 
+        "fear": 0.290863, 
+        "disgust": 0.10525
+      }, 
+      "sentiment": {
+        "score": -0.489994, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.2325, 
+      "text": "Secretary", 
+      "emotion": {
+        "anger": 0.170613, 
+        "joy": 0.208484, 
+        "sadness": 0.285392, 
+        "fear": 0.086411, 
+        "disgust": 0.198856
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.23189, 
+      "text": "\u2018papers", 
+      "emotion": {
+        "anger": 0.083671, 
+        "joy": 0.448794, 
+        "sadness": 0.134089, 
+        "fear": 0.081708, 
+        "disgust": 0.093274
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.231142, 
+      "text": "followers", 
+      "emotion": {
+        "anger": 0.074554, 
+        "joy": 0.76962, 
+        "sadness": 0.124763, 
+        "fear": 0.014435, 
+        "disgust": 0.033262
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.231061, 
+      "text": "life", 
+      "emotion": {
+        "anger": 0.641208, 
+        "joy": 0.010102, 
+        "sadness": 0.392012, 
+        "fear": 0.076649, 
+        "disgust": 0.216037
+      }, 
+      "sentiment": {
+        "score": -0.573792, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.231018, 
+      "text": "behalf", 
+      "emotion": {
+        "anger": 0.042455, 
+        "joy": 0.109202, 
+        "sadness": 0.255756, 
+        "fear": 0.362388, 
+        "disgust": 0.13575
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.230858, 
+      "text": "recording", 
+      "emotion": {
+        "anger": 0.08686, 
+        "joy": 0.174219, 
+        "sadness": 0.151545, 
+        "fear": 0.093654, 
+        "disgust": 0.072945
+      }, 
+      "sentiment": {
+        "score": -0.513679, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.230822, 
+      "text": "times\u2026and", 
+      "emotion": {
+        "anger": 0.385103, 
+        "joy": 0.031497, 
+        "sadness": 0.504159, 
+        "fear": 0.100553, 
+        "disgust": 0.213338
+      }, 
+      "sentiment": {
+        "score": -0.515536, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.230138, 
+      "text": "Sessions", 
+      "emotion": {
+        "anger": 0.319361, 
+        "joy": 0.0529, 
+        "sadness": 0.230848, 
+        "fear": 0.031173, 
+        "disgust": 0.027655
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.143538, 
+        "joy": 0.522677, 
+        "sadness": 0.554613, 
+        "fear": 0.121159, 
+        "disgust": 0.163228
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": 0.375711, 
+        "label": "positive"
+      }, 
+      "text": "President Donald Trump", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner", 
+          "Celebrity", 
+          "CompanyFounder", 
+          "TVPersonality", 
+          "TVProducer", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Donald Trump", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Donald_Trump"
+      }, 
+      "relevance": 0.898997, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.067682, 
+        "joy": 0.566583, 
+        "sadness": 0.041083, 
+        "fear": 0.021077, 
+        "disgust": 0.088702
+      }, 
+      "count": 9, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "General Flynn", 
+      "relevance": 0.628866, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.068802, 
+        "joy": 0.06775, 
+        "sadness": 0.545474, 
+        "fear": 0.065301, 
+        "disgust": 0.18847
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.567753, 
+        "label": "negative"
+      }, 
+      "text": "Russia", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.501917, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.172442, 
+        "joy": 0.130972, 
+        "sadness": 0.45845, 
+        "fear": 0.093527, 
+        "disgust": 0.148246
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.531443, 
+        "label": "negative"
+      }, 
+      "text": "Hillary Clinton", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Appointee", 
+          "AwardWinner", 
+          "BoardMember", 
+          "Celebrity", 
+          "HallOfFameInductee", 
+          "OperaCharacter", 
+          "Senator", 
+          "U.S.Congressperson", 
+          "TVActor"
+        ], 
+        "name": "Hillary Rodham Clinton", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Hillary_Rodham_Clinton"
+      }, 
+      "relevance": 0.423469, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.164648, 
+        "joy": 0.054057, 
+        "sadness": 0.688312, 
+        "fear": 0.07478, 
+        "disgust": 0.234755
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.567753, 
+        "label": "negative"
+      }, 
+      "text": "ABC News", 
+      "disambiguation": {
+        "subtype": [
+          "Organization", 
+          "Broadcast", 
+          "Company", 
+          "FilmCompany", 
+          "TVNetwork", 
+          "TelevisionStation"
+        ], 
+        "name": "Australian Broadcasting Corporation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+      }, 
+      "relevance": 0.34024, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.62823, 
+        "joy": 0.090349, 
+        "sadness": 0.600117, 
+        "fear": 0.05776, 
+        "disgust": 0.207041
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.614241, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.333726, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.112639, 
+        "joy": 0.136219, 
+        "sadness": 0.504086, 
+        "fear": 0.055219, 
+        "disgust": 0.181163
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.470548, 
+        "label": "negative"
+      }, 
+      "text": "Brian Ross", 
+      "disambiguation": {
+        "subtype": [
+          "TVPersonality"
+        ], 
+        "name": "Brian Ross (journalist)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Brian_Ross_(journalist)"
+      }, 
+      "relevance": 0.32073, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.039002, 
+        "joy": 0.78946, 
+        "sadness": 0.089632, 
+        "fear": 0.019907, 
+        "disgust": 0.061474
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Twitter", 
+      "disambiguation": {
+        "subtype": [
+          "Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Twitter", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Twitter"
+      }, 
+      "relevance": 0.215493, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.559193, 
+        "joy": 0.03043, 
+        "sadness": 0.220653, 
+        "fear": 0.051905, 
+        "disgust": 0.398581
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.654689, 
+        "label": "negative"
+      }, 
+      "text": "ABC", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TVNetwork", 
+          "AwardNominee", 
+          "AwardWinner"
+        ], 
+        "name": "American Broadcasting Company", 
+        "dbpedia_resource": "http://dbpedia.org/resource/American_Broadcasting_Company"
+      }, 
+      "relevance": 0.198517, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.602387, 
+        "joy": 0.589486, 
+        "sadness": 0.250864, 
+        "fear": 0.076933, 
+        "disgust": 0.242603
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.453701, 
+        "label": "negative"
+      }, 
+      "text": "Vice President", 
+      "relevance": 0.164109, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.148188, 
+        "joy": 0.096956, 
+        "sadness": 0.223399, 
+        "fear": 0.025034, 
+        "disgust": 0.242981
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.16243, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.042455, 
+        "joy": 0.109202, 
+        "sadness": 0.255756, 
+        "fear": 0.362388, 
+        "disgust": 0.13575
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "National Security Adviser", 
+      "relevance": 0.158212, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "United States Congress", 
+      "disambiguation": {
+        "subtype": [
+          "Dedicator", 
+          "GovernmentalBody", 
+          "Legislature", 
+          "NaturalOrCulturalPreservationAgency"
+        ], 
+        "name": "United States Congress", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Congress"
+      }, 
+      "relevance": 0.156683, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.059575, 
+        "joy": 0.32045, 
+        "sadness": 0.060075, 
+        "fear": 0.238242, 
+        "disgust": 0.078794
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.369836, 
+        "label": "positive"
+      }, 
+      "text": "Robert Mueller", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.154349, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.067682, 
+        "joy": 0.566583, 
+        "sadness": 0.041083, 
+        "fear": 0.021077, 
+        "disgust": 0.088702
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York City", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "GovernmentalJurisdiction", 
+          "PlaceWithNeighborhoods", 
+          "WineRegion", 
+          "FilmScreeningVenue", 
+          "City"
+        ], 
+        "name": "New York City", 
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_City"
+      }, 
+      "relevance": 0.148284, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.170613, 
+        "joy": 0.208484, 
+        "sadness": 0.285392, 
+        "fear": 0.086411, 
+        "disgust": 0.198856
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Attorney", 
+      "relevance": 0.133848, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.319361, 
+        "joy": 0.0529, 
+        "sadness": 0.230848, 
+        "fear": 0.031173, 
+        "disgust": 0.027655
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Prosecutor", 
+      "relevance": 0.132441, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.132441, 
+      "text": "four weeks", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.132441, 
+      "text": "@ABC", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/02/donald-trump-blasts-abc-fake-news-questions-fbi-treatment-of-mike-flynn-vs-hillary-clinton/"
+}

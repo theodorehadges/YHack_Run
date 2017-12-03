@@ -1,0 +1,936 @@
+{
+  "usage": {
+    "text_characters": 1404, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.972375, 
+      "text": "special counsel", 
+      "emotion": {
+        "anger": 0.048075, 
+        "joy": 0.112149, 
+        "sadness": 0.105462, 
+        "fear": 0.439838, 
+        "disgust": 0.256268
+      }, 
+      "sentiment": {
+        "score": -0.364944, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.925515, 
+      "text": "Counsel Robert Mueller", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.835991, 
+      "text": "Trump campaign", 
+      "emotion": {
+        "anger": 0.07149, 
+        "joy": 0.138495, 
+        "sadness": 0.092284, 
+        "fear": 0.386696, 
+        "disgust": 0.405051
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.803495, 
+      "text": "Trump campaign officials", 
+      "emotion": {
+        "anger": 0.110253, 
+        "joy": 0.26057, 
+        "sadness": 0.183798, 
+        "fear": 0.139182, 
+        "disgust": 0.335038
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.796558, 
+      "text": "Trump transition official", 
+      "emotion": {
+        "anger": 0.110253, 
+        "joy": 0.26057, 
+        "sadness": 0.183798, 
+        "fear": 0.139182, 
+        "disgust": 0.335038
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.763363, 
+      "text": "Senate Judiciary Committee", 
+      "emotion": {
+        "anger": 0.354617, 
+        "joy": 0.070726, 
+        "sadness": 0.131786, 
+        "fear": 0.06924, 
+        "disgust": 0.157405
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.750572, 
+      "text": "adviser George Papadopoulos", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.742837, 
+      "text": "Senate intelligence committee", 
+      "emotion": {
+        "anger": 0.179811, 
+        "joy": 0.073905, 
+        "sadness": 0.205487, 
+        "fear": 0.115571, 
+        "disgust": 0.214397
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.728493, 
+      "text": "Security Adviser Ret", 
+      "emotion": {
+        "anger": 0.126433, 
+        "joy": 0.088742, 
+        "sadness": 0.356602, 
+        "fear": 0.152366, 
+        "disgust": 0.286442
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.712516, 
+      "text": "congressional committee investigations", 
+      "emotion": {
+        "anger": 0.354617, 
+        "joy": 0.070726, 
+        "sadness": 0.131786, 
+        "fear": 0.06924, 
+        "disgust": 0.157405
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.697284, 
+      "text": "House intelligence committee", 
+      "emotion": {
+        "anger": 0.142809, 
+        "joy": 0.279231, 
+        "sadness": 0.158604, 
+        "fear": 0.255367, 
+        "disgust": 0.069646
+      }, 
+      "sentiment": {
+        "score": -0.29434, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.697087, 
+      "text": "travel,and office supplies", 
+      "emotion": {
+        "anger": 0.046651, 
+        "joy": 0.269424, 
+        "sadness": 0.033598, 
+        "fear": 0.069671, 
+        "disgust": 0.025121
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.673094, 
+      "text": "Gen. Michael Flynn", 
+      "emotion": {
+        "anger": 0.439394, 
+        "joy": 0.048754, 
+        "sadness": 0.376919, 
+        "fear": 0.10418, 
+        "disgust": 0.261649
+      }, 
+      "sentiment": {
+        "score": -0.495863, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.662687, 
+      "text": "partner Rick Gates", 
+      "emotion": {
+        "anger": 0.069909, 
+        "joy": 0.079864, 
+        "sadness": 0.25334, 
+        "fear": 0.018381, 
+        "disgust": 0.139129
+      }, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.608946, 
+      "text": "FBI agents", 
+      "emotion": {
+        "anger": 0.198741, 
+        "joy": 0.060455, 
+        "sadness": 0.226974, 
+        "fear": 0.113155, 
+        "disgust": 0.216517
+      }, 
+      "sentiment": {
+        "score": -0.218104, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.55763, 
+      "text": "taxpayer costs", 
+      "emotion": {
+        "anger": 0.354617, 
+        "joy": 0.070726, 
+        "sadness": 0.131786, 
+        "fear": 0.06924, 
+        "disgust": 0.157405
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.552158, 
+      "text": "Russian interference", 
+      "emotion": {
+        "anger": 0.053835, 
+        "joy": 0.086415, 
+        "sadness": 0.085659, 
+        "fear": 0.453054, 
+        "disgust": 0.325699
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.535046, 
+      "text": "plea bargain", 
+      "emotion": {
+        "anger": 0.053742, 
+        "joy": 0.212962, 
+        "sadness": 0.170549, 
+        "fear": 0.176596, 
+        "disgust": 0.09068
+      }, 
+      "sentiment": {
+        "score": -0.364944, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.530724, 
+      "text": "tax-related crimes", 
+      "emotion": {
+        "anger": 0.069909, 
+        "joy": 0.079864, 
+        "sadness": 0.25334, 
+        "fear": 0.018381, 
+        "disgust": 0.139129
+      }, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.519327, 
+      "text": "News\u2019s Pierre", 
+      "emotion": {
+        "anger": 0.052673, 
+        "joy": 0.265536, 
+        "sadness": 0.147176, 
+        "fear": 0.085896, 
+        "disgust": 0.175675
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.517818, 
+      "text": "support staff", 
+      "emotion": {
+        "anger": 0.106963, 
+        "joy": 0.061632, 
+        "sadness": 0.185197, 
+        "fear": 0.027169, 
+        "disgust": 0.276818
+      }, 
+      "sentiment": {
+        "score": 0.381074, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.510496, 
+      "text": "Justice Department", 
+      "emotion": {
+        "anger": 0.316818, 
+        "joy": 0.071358, 
+        "sadness": 0.390956, 
+        "fear": 0.059145, 
+        "disgust": 0.064095
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.496958, 
+      "text": "Paul Manafort", 
+      "emotion": {
+        "anger": 0.069909, 
+        "joy": 0.079864, 
+        "sadness": 0.25334, 
+        "fear": 0.018381, 
+        "disgust": 0.139129
+      }, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.46257, 
+      "text": "collusion", 
+      "emotion": {
+        "anger": 0.089989, 
+        "joy": 0.0601, 
+        "sadness": 0.127585, 
+        "fear": 0.397016, 
+        "disgust": 0.374661
+      }, 
+      "sentiment": {
+        "score": -0.699202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.36286, 
+      "text": "indictments", 
+      "emotion": {
+        "anger": 0.110253, 
+        "joy": 0.26057, 
+        "sadness": 0.183798, 
+        "fear": 0.139182, 
+        "disgust": 0.335038
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.361584, 
+      "text": "taxpayers", 
+      "emotion": {
+        "anger": 0.053835, 
+        "joy": 0.086415, 
+        "sadness": 0.085659, 
+        "fear": 0.453054, 
+        "disgust": 0.325699
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.346523, 
+      "text": "expenses", 
+      "emotion": {
+        "anger": 0.495775, 
+        "joy": 0.111284, 
+        "sadness": 0.130031, 
+        "fear": 0.086539, 
+        "disgust": 0.13374
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.343709, 
+      "text": "election", 
+      "emotion": {
+        "anger": 0.053835, 
+        "joy": 0.086415, 
+        "sadness": 0.085659, 
+        "fear": 0.453054, 
+        "disgust": 0.325699
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.340181, 
+      "text": "dozens", 
+      "emotion": {
+        "anger": 0.198741, 
+        "joy": 0.060455, 
+        "sadness": 0.226974, 
+        "fear": 0.113155, 
+        "disgust": 0.216517
+      }, 
+      "sentiment": {
+        "score": -0.218104, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.338456, 
+      "text": "conspiracy", 
+      "emotion": {
+        "anger": 0.293849, 
+        "joy": 0.04265, 
+        "sadness": 0.350393, 
+        "fear": 0.061602, 
+        "disgust": 0.168443
+      }, 
+      "sentiment": {
+        "score": -0.699202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.337408, 
+      "text": "charges", 
+      "emotion": {
+        "anger": 0.293849, 
+        "joy": 0.04265, 
+        "sadness": 0.350393, 
+        "fear": 0.061602, 
+        "disgust": 0.168443
+      }, 
+      "sentiment": {
+        "score": -0.699202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.336123, 
+      "text": "report", 
+      "emotion": {
+        "anger": 0.05359, 
+        "joy": 0.168701, 
+        "sadness": 0.008991, 
+        "fear": 0.062041, 
+        "disgust": 0.034156
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.333713, 
+      "text": "money", 
+      "emotion": {
+        "anger": 0.298497, 
+        "joy": 0.039973, 
+        "sadness": 0.23664, 
+        "fear": 0.053345, 
+        "disgust": 0.178823
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.333595, 
+      "text": "attorneys", 
+      "emotion": {
+        "anger": 0.298497, 
+        "joy": 0.039973, 
+        "sadness": 0.23664, 
+        "fear": 0.053345, 
+        "disgust": 0.178823
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.333299, 
+      "text": "Thomas", 
+      "emotion": {
+        "anger": 0.052673, 
+        "joy": 0.265536, 
+        "sadness": 0.147176, 
+        "fear": 0.085896, 
+        "disgust": 0.175675
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.332999, 
+      "text": "ABC", 
+      "emotion": {
+        "anger": 0.052673, 
+        "joy": 0.265536, 
+        "sadness": 0.147176, 
+        "fear": 0.085896, 
+        "disgust": 0.175675
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.332867, 
+      "text": "breakdown", 
+      "emotion": {
+        "anger": 0.316818, 
+        "joy": 0.071358, 
+        "sadness": 0.390956, 
+        "fear": 0.059145, 
+        "disgust": 0.064095
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.331049, 
+      "text": "Friday", 
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.048075, 
+        "joy": 0.112149, 
+        "sadness": 0.105462, 
+        "fear": 0.439838, 
+        "disgust": 0.256268
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.364944, 
+        "label": "negative"
+      }, 
+      "text": "special counsel", 
+      "relevance": 0.886336, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.159256, 
+        "joy": 0.045805, 
+        "sadness": 0.264437, 
+        "fear": 0.078745, 
+        "disgust": 0.258877
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }, 
+      "text": "Robert Mueller", 
+      "disambiguation": {
+        "subtype": [
+          "MilitaryPerson", 
+          "OfficeHolder"
+        ], 
+        "name": "Robert Mueller", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Robert_Mueller"
+      }, 
+      "relevance": 0.718185, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.279858, 
+        "joy": 0.018491, 
+        "sadness": 0.359749, 
+        "fear": 0.105935, 
+        "disgust": 0.458346
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.356984, 
+        "label": "negative"
+      }, 
+      "text": "FBI", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody"
+        ], 
+        "name": "Federal Bureau of Investigation", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+      }, 
+      "relevance": 0.657956, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.354617, 
+        "joy": 0.070726, 
+        "sadness": 0.131786, 
+        "fear": 0.06924, 
+        "disgust": 0.157405
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Senate Judiciary Committee", 
+      "relevance": 0.532448, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.142809, 
+        "joy": 0.279231, 
+        "sadness": 0.158604, 
+        "fear": 0.255367, 
+        "disgust": 0.069646
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.29434, 
+        "label": "negative"
+      }, 
+      "text": "House intelligence committee", 
+      "relevance": 0.467872, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.110253, 
+        "joy": 0.26057, 
+        "sadness": 0.183798, 
+        "fear": 0.139182, 
+        "disgust": 0.335038
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.446911, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.224517, 
+        "joy": 0.196925, 
+        "sadness": 0.221019, 
+        "fear": 0.1037, 
+        "disgust": 0.229794
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.468273, 
+        "label": "negative"
+      }, 
+      "text": "Lt. Gen. Michael Flynn", 
+      "relevance": 0.408593, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.158146, 
+        "joy": 0.024545, 
+        "sadness": 0.354174, 
+        "fear": 0.040565, 
+        "disgust": 0.466697
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }, 
+      "text": "Rick Gates", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Rick Gates", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Rick_Gates"
+      }, 
+      "relevance": 0.372637, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.052673, 
+        "joy": 0.265536, 
+        "sadness": 0.147176, 
+        "fear": 0.085896, 
+        "disgust": 0.175675
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Pierre Thomas", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Pierre Thomas", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Pierre_Thomas"
+      }, 
+      "relevance": 0.345945, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.352792, 
+        "joy": 0.065649, 
+        "sadness": 0.141878, 
+        "fear": 0.073704, 
+        "disgust": 0.181821
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Senate", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody", 
+          "Legislature"
+        ], 
+        "name": "United States Senate", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Senate"
+      }, 
+      "relevance": 0.333355, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "ABC News", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "TVNetwork", 
+          "TVProducer", 
+          "TelevisionStation"
+        ], 
+        "name": "ABC News", 
+        "dbpedia_resource": "http://dbpedia.org/resource/ABC_News"
+      }, 
+      "relevance": 0.325798, 
+      "type": "Broadcaster"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.316818, 
+        "joy": 0.071358, 
+        "sadness": 0.390956, 
+        "fear": 0.059145, 
+        "disgust": 0.064095
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Justice Department", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody", 
+          "GovernmentalJurisdiction"
+        ], 
+        "name": "United States Department of Justice", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_Justice"
+      }, 
+      "relevance": 0.323831, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.222296, 
+        "joy": 0.015886, 
+        "sadness": 0.330363, 
+        "fear": 0.090898, 
+        "disgust": 0.548726
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.498831, 
+        "label": "negative"
+      }, 
+      "text": "George Papadopoulos", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "MilitaryPerson"
+        ], 
+        "name": "Georgios Papadopoulos", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Georgios_Papadopoulos"
+      }, 
+      "relevance": 0.307451, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.126433, 
+        "joy": 0.088742, 
+        "sadness": 0.356602, 
+        "fear": 0.152366, 
+        "disgust": 0.286442
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "National Security", 
+      "relevance": 0.275577, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.069909, 
+        "joy": 0.079864, 
+        "sadness": 0.25334, 
+        "fear": 0.018381, 
+        "disgust": 0.139129
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }, 
+      "text": "Paul Manafort", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Paul J. Manafort", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_J._Manafort"
+      }, 
+      "relevance": 0.274772, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.069909, 
+        "joy": 0.079864, 
+        "sadness": 0.25334, 
+        "fear": 0.018381, 
+        "disgust": 0.139129
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.457212, 
+        "label": "negative"
+      }, 
+      "text": "partner", 
+      "relevance": 0.257736, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.110253, 
+        "joy": 0.26057, 
+        "sadness": 0.183798, 
+        "fear": 0.139182, 
+        "disgust": 0.335038
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "official", 
+      "relevance": 0.246503, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.246503, 
+      "text": "$5 million", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/02/report-special-counsel-on-russian-interference-has-cost-u-s-taxpayers-5-million/"
+}

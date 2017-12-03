@@ -1,0 +1,1092 @@
+{
+  "usage": {
+    "text_characters": 3204, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.941549, 
+      "text": "Voyager", 
+      "emotion": {
+        "anger": 0.077948, 
+        "joy": 0.633514, 
+        "sadness": 0.14286, 
+        "fear": 0.078394, 
+        "disgust": 0.076798
+      }, 
+      "sentiment": {
+        "score": -0.0640517, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.747363, 
+      "text": "thrusters", 
+      "emotion": {
+        "anger": 0.072958, 
+        "joy": 0.621108, 
+        "sadness": 0.132629, 
+        "fear": 0.057843, 
+        "disgust": 0.056825
+      }, 
+      "sentiment": {
+        "score": -0.0105659, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.731284, 
+      "text": "twin spacecrafts Voyager", 
+      "emotion": {
+        "anger": 0.0155, 
+        "joy": 0.457111, 
+        "sadness": 0.288095, 
+        "fear": 0.08176, 
+        "disgust": 0.031265
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.728979, 
+      "text": "Jet Propulsion Laboratory", 
+      "emotion": {
+        "anger": 0.044328, 
+        "joy": 0.790817, 
+        "sadness": 0.019958, 
+        "fear": 0.013694, 
+        "disgust": 0.074659
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.707803, 
+      "text": "attitude control thrusters", 
+      "emotion": {
+        "anger": 0.226542, 
+        "joy": 0.380614, 
+        "sadness": 0.107217, 
+        "fear": 0.039961, 
+        "disgust": 0.136726
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.693907, 
+      "text": "40-year-old Voyager", 
+      "emotion": {
+        "anger": 0.069882, 
+        "joy": 0.391346, 
+        "sadness": 0.303891, 
+        "fear": 0.130409, 
+        "disgust": 0.179622
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.661772, 
+      "text": "Voyager team", 
+      "emotion": {
+        "anger": 0.019868, 
+        "joy": 0.739439, 
+        "sadness": 0.023576, 
+        "fear": 0.022222, 
+        "disgust": 0.046494
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.643966, 
+      "text": "Voyager missions", 
+      "emotion": {
+        "anger": 0.15615, 
+        "joy": 0.372521, 
+        "sadness": 0.091946, 
+        "fear": 0.081763, 
+        "disgust": 0.059055
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.623564, 
+      "text": "1.7 light years of an obscure star in", 
+      "emotion": {
+        "anger": 0.018019, 
+        "joy": 0.594136, 
+        "sadness": 0.098497, 
+        "fear": 0.079211, 
+        "disgust": 0.126529
+      }, 
+      "sentiment": {
+        "score": -0.265945, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.614131, 
+      "text": "NASA", 
+      "emotion": {
+        "anger": 0.116198, 
+        "joy": 0.212752, 
+        "sadness": 0.470072, 
+        "fear": 0.122987, 
+        "disgust": 0.066972
+      }, 
+      "sentiment": {
+        "score": -0.573507, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.598489, 
+      "text": "well-rested thrusters", 
+      "emotion": {
+        "anger": 0.028794, 
+        "joy": 0.617829, 
+        "sadness": 0.033162, 
+        "fear": 0.040045, 
+        "disgust": 0.087293
+      }, 
+      "sentiment": {
+        "score": 0.549405, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.59488, 
+      "text": "trajectory correction maneuver", 
+      "emotion": {
+        "anger": 0.060295, 
+        "joy": 0.253502, 
+        "sadness": 0.143307, 
+        "fear": 0.091932, 
+        "disgust": 0.072575
+      }, 
+      "sentiment": {
+        "score": -0.359578, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.58836, 
+      "text": "primary thrusters", 
+      "emotion": {
+        "anger": 0.080647, 
+        "joy": 0.180529, 
+        "sadness": 0.148831, 
+        "fear": 0.091248, 
+        "disgust": 0.074744
+      }, 
+      "sentiment": {
+        "score": -0.489361, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.584151, 
+      "text": "TCM thrusters", 
+      "emotion": {
+        "anger": 0.009292, 
+        "joy": 0.689418, 
+        "sadness": 0.040556, 
+        "fear": 0.094257, 
+        "disgust": 0.038207
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.563516, 
+      "text": "icy moon Miranda", 
+      "emotion": {
+        "anger": 0.014662, 
+        "joy": 0.420173, 
+        "sadness": 0.069577, 
+        "fear": 0.074699, 
+        "disgust": 0.080533
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.562859, 
+      "text": "constellation Ursa Minor", 
+      "emotion": {
+        "anger": 0.018019, 
+        "joy": 0.594136, 
+        "sadness": 0.098497, 
+        "fear": 0.079211, 
+        "disgust": 0.126529
+      }, 
+      "sentiment": {
+        "score": -0.265945, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.55707, 
+      "text": "interstellar space", 
+      "emotion": {
+        "anger": 0.040651, 
+        "joy": 0.414393, 
+        "sadness": 0.149087, 
+        "fear": 0.06607, 
+        "disgust": 0.061301
+      }, 
+      "sentiment": {
+        "score": 0.353534, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.546712, 
+      "text": "NASA scientists", 
+      "emotion": {
+        "anger": 0.069882, 
+        "joy": 0.391346, 
+        "sadness": 0.303891, 
+        "fear": 0.130409, 
+        "disgust": 0.179622
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.506976, 
+      "text": "space agency", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.496648, 
+      "text": "propulsion engineer", 
+      "emotion": {
+        "anger": 0.037002, 
+        "joy": 0.768351, 
+        "sadness": 0.027391, 
+        "fear": 0.027332, 
+        "disgust": 0.08585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.496049, 
+      "text": "human-made object", 
+      "emotion": {
+        "anger": 0.125346, 
+        "joy": 0.488933, 
+        "sadness": 0.270391, 
+        "fear": 0.050398, 
+        "disgust": 0.099884
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.495616, 
+      "text": "thruster test", 
+      "emotion": {
+        "anger": 0.019868, 
+        "joy": 0.739439, 
+        "sadness": 0.023576, 
+        "fear": 0.022222, 
+        "disgust": 0.046494
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.492651, 
+      "text": "Suzanne Dodd", 
+      "emotion": {
+        "anger": 0.174079, 
+        "joy": 0.133437, 
+        "sadness": 0.544268, 
+        "fear": 0.131842, 
+        "disgust": 0.190605
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.490658, 
+      "text": "project manager", 
+      "emotion": {
+        "anger": 0.050387, 
+        "joy": 0.7484, 
+        "sadness": 0.030385, 
+        "fear": 0.01639, 
+        "disgust": 0.054094
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.490637, 
+      "text": "icy-cold geysers", 
+      "emotion": {
+        "anger": 0.033001, 
+        "joy": 0.138227, 
+        "sadness": 0.112967, 
+        "fear": 0.079669, 
+        "disgust": 0.087902
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.489663, 
+      "text": "moon Io", 
+      "emotion": {
+        "anger": 0.030073, 
+        "joy": 0.366655, 
+        "sadness": 0.178417, 
+        "fear": 0.043808, 
+        "disgust": 0.055642
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.488918, 
+      "text": "moon Triton", 
+      "emotion": {
+        "anger": 0.033001, 
+        "joy": 0.138227, 
+        "sadness": 0.112967, 
+        "fear": 0.079669, 
+        "disgust": 0.087902
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.48874, 
+      "text": "Todd Barber", 
+      "emotion": {
+        "anger": 0.278209, 
+        "joy": 0.075993, 
+        "sadness": 0.277723, 
+        "fear": 0.380466, 
+        "disgust": 0.231443
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.488639, 
+      "text": "Earth-like atmosphere", 
+      "emotion": {
+        "anger": 0.124142, 
+        "joy": 0.440439, 
+        "sadness": 0.227301, 
+        "fear": 0.028891, 
+        "disgust": 0.038093
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.488268, 
+      "text": "moon Europa", 
+      "emotion": {
+        "anger": 0.004623, 
+        "joy": 0.509042, 
+        "sadness": 0.071089, 
+        "fear": 0.090887, 
+        "disgust": 0.065802
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.488128, 
+      "text": "Little Dipper", 
+      "emotion": {
+        "anger": 0.318785, 
+        "joy": 0.142125, 
+        "sadness": 0.36545, 
+        "fear": 0.223974, 
+        "disgust": 0.116129
+      }, 
+      "sentiment": {
+        "score": -0.29821, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.48793, 
+      "text": "largest moon", 
+      "emotion": {
+        "anger": 0.036664, 
+        "joy": 0.241647, 
+        "sadness": 0.063309, 
+        "fear": 0.137618, 
+        "disgust": 0.054779
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.487546, 
+      "text": "outer space", 
+      "emotion": {
+        "anger": 0.244716, 
+        "joy": 0.204051, 
+        "sadness": 0.069141, 
+        "fear": 0.026748, 
+        "disgust": 0.08303
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.487011, 
+      "text": "active volcanoes", 
+      "emotion": {
+        "anger": 0.15615, 
+        "joy": 0.372521, 
+        "sadness": 0.091946, 
+        "fear": 0.081763, 
+        "disgust": 0.059055
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.486917, 
+      "text": "subsurface ocean", 
+      "emotion": {
+        "anger": 0.004623, 
+        "joy": 0.509042, 
+        "sadness": 0.071089, 
+        "fear": 0.090887, 
+        "disgust": 0.065802
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.486102, 
+      "text": "Earth-based instruments", 
+      "emotion": {
+        "anger": 0.029687, 
+        "joy": 0.618839, 
+        "sadness": 0.059089, 
+        "fear": 0.028548, 
+        "disgust": 0.019399
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.484976, 
+      "text": "new moons", 
+      "emotion": {
+        "anger": 0.029687, 
+        "joy": 0.618839, 
+        "sadness": 0.059089, 
+        "fear": 0.028548, 
+        "disgust": 0.019399
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.484437, 
+      "text": "Cassini mission", 
+      "emotion": {
+        "anger": 0.100663, 
+        "joy": 0.302545, 
+        "sadness": 0.126708, 
+        "fear": 0.042923, 
+        "disgust": 0.070421
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.483987, 
+      "text": "small star", 
+      "emotion": {
+        "anger": 0.035049, 
+        "joy": 0.667966, 
+        "sadness": 0.14253, 
+        "fear": 0.041989, 
+        "disgust": 0.028628
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.483832, 
+      "text": "Little Bear", 
+      "emotion": {
+        "anger": 0.318785, 
+        "joy": 0.142125, 
+        "sadness": 0.36545, 
+        "fear": 0.223974, 
+        "disgust": 0.116129
+      }, 
+      "sentiment": {
+        "score": -0.29821, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.48338, 
+      "text": "Andrea Diaz", 
+      "emotion": {
+        "anger": 0.06521, 
+        "joy": 0.077385, 
+        "sadness": 0.229021, 
+        "fear": 0.084764, 
+        "disgust": 0.038759
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.482273, 
+      "text": "Galileo mission", 
+      "emotion": {
+        "anger": 0.100663, 
+        "joy": 0.302545, 
+        "sadness": 0.126708, 
+        "fear": 0.042923, 
+        "disgust": 0.070421
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.451667, 
+      "text": "Jupiter", 
+      "emotion": {
+        "anger": 0.100663, 
+        "joy": 0.302545, 
+        "sadness": 0.126708, 
+        "fear": 0.042923, 
+        "disgust": 0.070421
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.450288, 
+      "text": "Saturn", 
+      "emotion": {
+        "anger": 0.044114, 
+        "joy": 0.625857, 
+        "sadness": 0.060867, 
+        "fear": 0.018069, 
+        "disgust": 0.024693
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.446335, 
+      "text": "time", 
+      "emotion": {
+        "anger": 0.024708, 
+        "joy": 0.770286, 
+        "sadness": 0.019128, 
+        "fear": 0.011174, 
+        "disgust": 0.04787
+      }, 
+      "sentiment": {
+        "score": 0.549405, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.437006, 
+      "text": "mood", 
+      "emotion": {
+        "anger": 0.223587, 
+        "joy": 0.31831, 
+        "sadness": 0.3425, 
+        "fear": 0.116472, 
+        "disgust": 0.009181
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.434651, 
+      "text": "plan", 
+      "emotion": {
+        "anger": 0.154986, 
+        "joy": 0.515085, 
+        "sadness": 0.060418, 
+        "fear": 0.069452, 
+        "disgust": 0.021166
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.422782, 
+      "text": "incredulity", 
+      "emotion": {
+        "anger": 0.028794, 
+        "joy": 0.617829, 
+        "sadness": 0.033162, 
+        "fear": 0.040045, 
+        "disgust": 0.087293
+      }, 
+      "sentiment": {
+        "score": 0.549405, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.42088, 
+      "text": "jubilation", 
+      "emotion": {
+        "anger": 0.252776, 
+        "joy": 0.164305, 
+        "sadness": 0.510824, 
+        "fear": 0.111783, 
+        "disgust": 0.0383
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.419137, 
+      "text": "lags", 
+      "emotion": {
+        "anger": 0.171373, 
+        "joy": 0.142712, 
+        "sadness": 0.190183, 
+        "fear": 0.14807, 
+        "disgust": 0.165819
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.045531, 
+        "joy": 0.781799, 
+        "sadness": 0.029026, 
+        "fear": 0.013628, 
+        "disgust": 0.067763
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.265945, 
+        "label": "negative"
+      }, 
+      "text": "Voyager", 
+      "relevance": 0.903131, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.116198, 
+        "joy": 0.212752, 
+        "sadness": 0.470072, 
+        "fear": 0.122987, 
+        "disgust": 0.066972
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.573507, 
+        "label": "negative"
+      }, 
+      "text": "NASA", 
+      "disambiguation": {
+        "subtype": [
+          "Company", 
+          "GovernmentAgency", 
+          "AirportOperator", 
+          "AwardPresentingOrganization", 
+          "SoftwareDeveloper", 
+          "SpaceAgency", 
+          "SpacecraftManufacturer"
+        ], 
+        "name": "NASA", 
+        "dbpedia_resource": "http://dbpedia.org/resource/NASA"
+      }, 
+      "relevance": 0.814265, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.044328, 
+        "joy": 0.790817, 
+        "sadness": 0.019958, 
+        "fear": 0.013694, 
+        "disgust": 0.074659
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jet Propulsion Laboratory", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "Facility"
+        ], 
+        "name": "Jet Propulsion Laboratory", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Jet_Propulsion_Laboratory"
+      }, 
+      "relevance": 0.328504, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.318785, 
+        "joy": 0.142125, 
+        "sadness": 0.36545, 
+        "fear": 0.223974, 
+        "disgust": 0.116129
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.29821, 
+        "label": "negative"
+      }, 
+      "text": "Little Dipper", 
+      "relevance": 0.223788, 
+      "type": "GeographicFeature"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "CNN", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "AwardWinner", 
+          "RadioNetwork", 
+          "TVNetwork"
+        ], 
+        "name": "CNN", 
+        "dbpedia_resource": "http://dbpedia.org/resource/CNN"
+      }, 
+      "relevance": 0.215891, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.037002, 
+        "joy": 0.768351, 
+        "sadness": 0.027391, 
+        "fear": 0.027332, 
+        "disgust": 0.08585
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Pasadena", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "City"
+        ], 
+        "name": "Pasadena, California", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Pasadena,_California"
+      }, 
+      "relevance": 0.211057, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.174079, 
+        "joy": 0.133437, 
+        "sadness": 0.544268, 
+        "fear": 0.131842, 
+        "disgust": 0.190605
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Suzanne Dodd", 
+      "relevance": 0.210574, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.278209, 
+        "joy": 0.075993, 
+        "sadness": 0.277723, 
+        "fear": 0.380466, 
+        "disgust": 0.231443
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Todd Barber", 
+      "relevance": 0.204794, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.06521, 
+        "joy": 0.077385, 
+        "sadness": 0.229021, 
+        "fear": 0.084764, 
+        "disgust": 0.038759
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Andrea Diaz", 
+      "relevance": 0.202822, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "California", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "Appellation", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "WineRegion", 
+          "StateOrCounty"
+        ], 
+        "name": "California", 
+        "dbpedia_resource": "http://dbpedia.org/resource/California"
+      }, 
+      "relevance": 0.201916, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.037002, 
+        "joy": 0.768351, 
+        "sadness": 0.027391, 
+        "fear": 0.027332, 
+        "disgust": 0.08585
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "engineer", 
+      "relevance": 0.184141, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.050387, 
+        "joy": 0.7484, 
+        "sadness": 0.030385, 
+        "fear": 0.01639, 
+        "disgust": 0.054094
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "project manager", 
+      "relevance": 0.183696, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "1.7 light years", 
+      "type": "Quantity", 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "37 years", 
+      "type": "Quantity", 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "40,000 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "three years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "35 minutes", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "19 hours", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "16 days", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.183696, 
+      "text": "40-year", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.cnn.com/2017/12/01/us/voyager-1-thrusters-fired-first-time-since-1980/index.html"
+}

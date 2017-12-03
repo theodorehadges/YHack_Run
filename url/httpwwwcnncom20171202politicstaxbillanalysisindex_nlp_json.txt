@@ -1,0 +1,1246 @@
+{
+  "usage": {
+    "text_characters": 6261, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.985501, 
+      "text": "Republicans", 
+      "emotion": {
+        "anger": 0.172589, 
+        "joy": 0.46197, 
+        "sadness": 0.471427, 
+        "fear": 0.043042, 
+        "disgust": 0.66078
+      }, 
+      "sentiment": {
+        "score": -0.59364, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.794525, 
+      "text": "tax plan", 
+      "emotion": {
+        "anger": 0.129671, 
+        "joy": 0.043266, 
+        "sadness": 0.228883, 
+        "fear": 0.069244, 
+        "disgust": 0.346428
+      }, 
+      "sentiment": {
+        "score": -0.607768, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.670261, 
+      "text": "South Carolina Republican", 
+      "emotion": {
+        "anger": 0.120983, 
+        "joy": 0.165954, 
+        "sadness": 0.424242, 
+        "fear": 0.048696, 
+        "disgust": 0.397166
+      }, 
+      "sentiment": {
+        "score": -0.324739, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.660444, 
+      "text": "republican party", 
+      "emotion": {
+        "anger": 0.1282, 
+        "joy": 0.161368, 
+        "sadness": 0.32387, 
+        "fear": 0.007168, 
+        "disgust": 0.579511
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.655136, 
+      "text": "Republican House member", 
+      "emotion": {
+        "anger": 0.202023, 
+        "joy": 0.014025, 
+        "sadness": 0.371832, 
+        "fear": 0.096155, 
+        "disgust": 0.564347
+      }, 
+      "sentiment": {
+        "score": -0.636668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.64564, 
+      "text": "single Republican senator", 
+      "emotion": {
+        "anger": 0.366391, 
+        "joy": 0.086107, 
+        "sadness": 0.125673, 
+        "fear": 0.043265, 
+        "disgust": 0.553329
+      }, 
+      "sentiment": {
+        "score": -0.428627, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.64525, 
+      "text": "GOP tax plan", 
+      "emotion": {
+        "anger": 0.132384, 
+        "joy": 0.016648, 
+        "sadness": 0.135387, 
+        "fear": 0.051383, 
+        "disgust": 0.472355
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.632854, 
+      "text": "massive tax cut", 
+      "emotion": {
+        "anger": 0.202023, 
+        "joy": 0.014025, 
+        "sadness": 0.371832, 
+        "fear": 0.096155, 
+        "disgust": 0.564347
+      }, 
+      "sentiment": {
+        "score": -0.636668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.625296, 
+      "text": "Republican strategist worth", 
+      "emotion": {
+        "anger": 0.120045, 
+        "joy": 0.125908, 
+        "sadness": 0.152044, 
+        "fear": 0.047925, 
+        "disgust": 0.244884
+      }, 
+      "sentiment": {
+        "score": -0.792274, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.622807, 
+      "text": "Fox News Radio", 
+      "emotion": {
+        "anger": 0.120983, 
+        "joy": 0.165954, 
+        "sadness": 0.424242, 
+        "fear": 0.048696, 
+        "disgust": 0.397166
+      }, 
+      "sentiment": {
+        "score": -0.324739, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.621857, 
+      "text": "irritable party base", 
+      "emotion": {
+        "anger": 0.100538, 
+        "joy": 0.044261, 
+        "sadness": 0.366943, 
+        "fear": 0.392807, 
+        "disgust": 0.369292
+      }, 
+      "sentiment": {
+        "score": -0.770108, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.619052, 
+      "text": "Sen. Lindsey Graham", 
+      "emotion": {
+        "anger": 0.120983, 
+        "joy": 0.165954, 
+        "sadness": 0.424242, 
+        "fear": 0.048696, 
+        "disgust": 0.397166
+      }, 
+      "sentiment": {
+        "score": -0.324739, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.617689, 
+      "text": "Affordable Care Act", 
+      "emotion": {
+        "anger": 0.262304, 
+        "joy": 0.067432, 
+        "sadness": 0.706814, 
+        "fear": 0.155715, 
+        "disgust": 0.056111
+      }, 
+      "sentiment": {
+        "score": -0.704386, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.605019, 
+      "text": "tax legislation", 
+      "emotion": {
+        "anger": 0.070071, 
+        "joy": 0.042577, 
+        "sadness": 0.098304, 
+        "fear": 0.025372, 
+        "disgust": 0.474142
+      }, 
+      "sentiment": {
+        "score": -0.494203, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.604624, 
+      "text": "Supreme Court Justice", 
+      "emotion": {
+        "anger": 0.199436, 
+        "joy": 0.092399, 
+        "sadness": 0.337721, 
+        "fear": 0.111342, 
+        "disgust": 0.248979
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.594503, 
+      "text": "Congressional Budget Office", 
+      "emotion": {
+        "anger": 0.054048, 
+        "joy": 0.167654, 
+        "sadness": 0.010282, 
+        "fear": 0.126704, 
+        "disgust": 0.085708
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.593767, 
+      "text": "dicey political proposition", 
+      "emotion": {
+        "anger": 0.253491, 
+        "joy": 0.038123, 
+        "sadness": 0.532979, 
+        "fear": 0.041075, 
+        "disgust": 0.235012
+      }, 
+      "sentiment": {
+        "score": -0.639993, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.591605, 
+      "text": "previously unforeseen levels", 
+      "emotion": {
+        "anger": 0.04897, 
+        "joy": 0.202313, 
+        "sadness": 0.330844, 
+        "fear": 0.103606, 
+        "disgust": 0.228826
+      }, 
+      "sentiment": {
+        "score": -0.756665, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.590067, 
+      "text": "now-Speaker Paul Ryan", 
+      "emotion": {
+        "anger": 0.371611, 
+        "joy": 0.049224, 
+        "sadness": 0.307965, 
+        "fear": 0.260697, 
+        "disgust": 0.207244
+      }, 
+      "sentiment": {
+        "score": -0.54945, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.59002, 
+      "text": "automatic budget cuts", 
+      "emotion": {
+        "anger": 0.303441, 
+        "joy": 0.062465, 
+        "sadness": 0.189722, 
+        "fear": 0.152968, 
+        "disgust": 0.154825
+      }, 
+      "sentiment": {
+        "score": -0.372838, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.587634, 
+      "text": "Obama White House", 
+      "emotion": {
+        "anger": 0.502242, 
+        "joy": 0.061772, 
+        "sadness": 0.380065, 
+        "fear": 0.046736, 
+        "disgust": 0.182104
+      }, 
+      "sentiment": {
+        "score": -0.498004, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.586729, 
+      "text": "gross domestic product", 
+      "emotion": {
+        "anger": 0.120661, 
+        "joy": 0.021645, 
+        "sadness": 0.069696, 
+        "fear": 0.067812, 
+        "disgust": 0.49727
+      }, 
+      "sentiment": {
+        "score": -0.494203, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.585279, 
+      "text": "Quinnipiac University poll", 
+      "emotion": {
+        "anger": 0.104722, 
+        "joy": 0.10328, 
+        "sadness": 0.250812, 
+        "fear": 0.315025, 
+        "disgust": 0.122771
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.583256, 
+      "text": "deficit", 
+      "emotion": {
+        "anger": 0.164346, 
+        "joy": 0.106066, 
+        "sadness": 0.501465, 
+        "fear": 0.117962, 
+        "disgust": 0.496471
+      }, 
+      "sentiment": {
+        "score": -0.692752, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.581785, 
+      "text": "political philosopher Janis", 
+      "emotion": {
+        "anger": 0.234779, 
+        "joy": 0.071996, 
+        "sadness": 0.314087, 
+        "fear": 0.01031, 
+        "disgust": 0.587694
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.575654, 
+      "text": "huge Democratic losses", 
+      "emotion": {
+        "anger": 0.08187, 
+        "joy": 0.237477, 
+        "sadness": 0.57308, 
+        "fear": 0.232353, 
+        "disgust": 0.027844
+      }, 
+      "sentiment": {
+        "score": -0.605174, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.569833, 
+      "text": "conservative agenda items", 
+      "emotion": {
+        "anger": 0.187477, 
+        "joy": 0.017071, 
+        "sadness": 0.549357, 
+        "fear": 0.082747, 
+        "disgust": 0.233827
+      }, 
+      "sentiment": {
+        "score": -0.638176, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.553904, 
+      "text": "tax increase", 
+      "emotion": {
+        "anger": 0.102142, 
+        "joy": 0.127136, 
+        "sadness": 0.326068, 
+        "fear": 0.059573, 
+        "disgust": 0.393886
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.537498, 
+      "text": "GOP base", 
+      "emotion": {
+        "anger": 0.202023, 
+        "joy": 0.014025, 
+        "sadness": 0.371832, 
+        "fear": 0.096155, 
+        "disgust": 0.564347
+      }, 
+      "sentiment": {
+        "score": -0.636668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.537182, 
+      "text": "tax cuts", 
+      "emotion": {
+        "anger": 0.04897, 
+        "joy": 0.202313, 
+        "sadness": 0.330844, 
+        "fear": 0.103606, 
+        "disgust": 0.228826
+      }, 
+      "sentiment": {
+        "score": -0.756665, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.529236, 
+      "text": "Senate", 
+      "emotion": {
+        "anger": 0.272681, 
+        "joy": 0.018878, 
+        "sadness": 0.694019, 
+        "fear": 0.107015, 
+        "disgust": 0.221559
+      }, 
+      "sentiment": {
+        "score": -0.568739, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.527552, 
+      "text": "political pressure", 
+      "emotion": {
+        "anger": 0.101991, 
+        "joy": 0.045043, 
+        "sadness": 0.623166, 
+        "fear": 0.318135, 
+        "disgust": 0.063311
+      }, 
+      "sentiment": {
+        "score": -0.637891, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.526022, 
+      "text": "Congressional Democrats", 
+      "emotion": {
+        "anger": 0.502242, 
+        "joy": 0.061772, 
+        "sadness": 0.380065, 
+        "fear": 0.046736, 
+        "disgust": 0.182104
+      }, 
+      "sentiment": {
+        "score": -0.498004, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.523398, 
+      "text": "big corporations", 
+      "emotion": {
+        "anger": 0.102142, 
+        "joy": 0.127136, 
+        "sadness": 0.326068, 
+        "fear": 0.059573, 
+        "disgust": 0.393886
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.518891, 
+      "text": "Democratic senators", 
+      "emotion": {
+        "anger": 0.20325, 
+        "joy": 0.189151, 
+        "sadness": 0.523089, 
+        "fear": 0.053081, 
+        "disgust": 0.154269
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.517765, 
+      "text": "activated base", 
+      "emotion": {
+        "anger": 0.014765, 
+        "joy": 0.127622, 
+        "sadness": 0.091281, 
+        "fear": 0.125362, 
+        "disgust": 0.039184
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.515541, 
+      "text": "twin debacles", 
+      "emotion": {
+        "anger": 0.262304, 
+        "joy": 0.067432, 
+        "sadness": 0.706814, 
+        "fear": 0.155715, 
+        "disgust": 0.056111
+      }, 
+      "sentiment": {
+        "score": -0.704386, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.514028, 
+      "text": "good job", 
+      "emotion": {
+        "anger": 0.008011, 
+        "joy": 0.803322, 
+        "sadness": 0.041958, 
+        "fear": 0.039949, 
+        "disgust": 0.036423
+      }, 
+      "sentiment": {
+        "score": -0.228728, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.513021, 
+      "text": "track record", 
+      "emotion": {
+        "anger": 0.307273, 
+        "joy": 0.367153, 
+        "sadness": 0.038178, 
+        "fear": 0.05941, 
+        "disgust": 0.032234
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.51289, 
+      "text": "core principles", 
+      "emotion": {
+        "anger": 0.112764, 
+        "joy": 0.177007, 
+        "sadness": 0.125944, 
+        "fear": 0.088781, 
+        "disgust": 0.356602
+      }, 
+      "sentiment": {
+        "score": -0.523484, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.51264, 
+      "text": "conference committee", 
+      "emotion": {
+        "anger": 0.354938, 
+        "joy": 0.029065, 
+        "sadness": 0.383547, 
+        "fear": 0.059076, 
+        "disgust": 0.440277
+      }, 
+      "sentiment": {
+        "score": -0.576009, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.511479, 
+      "text": "broad-scale losses", 
+      "emotion": {
+        "anger": 0.057454, 
+        "joy": 0.015504, 
+        "sadness": 0.641062, 
+        "fear": 0.301262, 
+        "disgust": 0.173287
+      }, 
+      "sentiment": {
+        "score": -0.555772, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.510075, 
+      "text": "death blow", 
+      "emotion": {
+        "anger": 0.242301, 
+        "joy": 0.003402, 
+        "sadness": 0.544228, 
+        "fear": 0.06713, 
+        "disgust": 0.489713
+      }, 
+      "sentiment": {
+        "score": -0.572612, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.50879, 
+      "text": "huge gamble", 
+      "emotion": {
+        "anger": 0.158791, 
+        "joy": 0.031678, 
+        "sadness": 0.427278, 
+        "fear": 0.147473, 
+        "disgust": 0.548811
+      }, 
+      "sentiment": {
+        "score": -0.824316, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.508599, 
+      "text": "Neil Gorsuch", 
+      "emotion": {
+        "anger": 0.199436, 
+        "joy": 0.092399, 
+        "sadness": 0.337721, 
+        "fear": 0.111342, 
+        "disgust": 0.248979
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.505979, 
+      "text": "conservative priorities", 
+      "emotion": {
+        "anger": 0.089946, 
+        "joy": 0.097217, 
+        "sadness": 0.143969, 
+        "fear": 0.172513, 
+        "disgust": 0.225375
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.505968, 
+      "text": "risky gamble", 
+      "emotion": {
+        "anger": 0.120045, 
+        "joy": 0.125908, 
+        "sadness": 0.152044, 
+        "fear": 0.047925, 
+        "disgust": 0.244884
+      }, 
+      "sentiment": {
+        "score": -0.792274, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.505424, 
+      "text": "government spending", 
+      "emotion": {
+        "anger": 0.185154, 
+        "joy": 0.05544, 
+        "sadness": 0.333221, 
+        "fear": 0.098611, 
+        "disgust": 0.140724
+      }, 
+      "sentiment": {
+        "score": -0.453691, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.505164, 
+      "text": "Joint Committee", 
+      "emotion": {
+        "anger": 0.366737, 
+        "joy": 0.030945, 
+        "sadness": 0.350454, 
+        "fear": 0.277623, 
+        "disgust": 0.100394
+      }, 
+      "sentiment": {
+        "score": -0.347925, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.505087, 
+      "text": "GDP growth", 
+      "emotion": {
+        "anger": 0.025721, 
+        "joy": 0.26851, 
+        "sadness": 0.279829, 
+        "fear": 0.171919, 
+        "disgust": 0.056462
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.152435, 
+        "joy": 0.01342, 
+        "sadness": 0.364419, 
+        "fear": 0.095667, 
+        "disgust": 0.675419
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.703388, 
+        "label": "negative"
+      }, 
+      "text": "Republican Party", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalParty"
+        ], 
+        "name": "Republican Party (United States)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+      }, 
+      "relevance": 0.958794, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.272681, 
+        "joy": 0.018878, 
+        "sadness": 0.694019, 
+        "fear": 0.107015, 
+        "disgust": 0.221559
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.568739, 
+        "label": "negative"
+      }, 
+      "text": "Senate", 
+      "relevance": 0.71452, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120983, 
+        "joy": 0.165954, 
+        "sadness": 0.424242, 
+        "fear": 0.048696, 
+        "disgust": 0.397166
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.274353, 
+        "label": "negative"
+      }, 
+      "text": "Sen. Lindsey Graham", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "MilitaryPerson", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Lindsey Graham", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Lindsey_Graham"
+      }, 
+      "relevance": 0.506189, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.262307, 
+        "joy": 0.107572, 
+        "sadness": 0.450437, 
+        "fear": 0.058215, 
+        "disgust": 0.225889
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.0809677, 
+        "label": "negative"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.469647, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.122, 
+        "joy": 0.005732, 
+        "sadness": 0.493355, 
+        "fear": 0.185403, 
+        "disgust": 0.483032
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.59622, 
+        "label": "negative"
+      }, 
+      "text": "Congress", 
+      "relevance": 0.459568, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.316503, 
+        "joy": 0.018967, 
+        "sadness": 0.224179, 
+        "fear": 0.070073, 
+        "disgust": 0.643876
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.532648, 
+        "label": "negative"
+      }, 
+      "text": "senator", 
+      "relevance": 0.425767, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.262307, 
+        "joy": 0.107572, 
+        "sadness": 0.450437, 
+        "fear": 0.058215, 
+        "disgust": 0.225889
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump", 
+      "relevance": 0.413017, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.054048, 
+        "joy": 0.167654, 
+        "sadness": 0.010282, 
+        "fear": 0.126704, 
+        "disgust": 0.085708
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Congressional Budget Office", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency"
+        ], 
+        "name": "Congressional Budget Office", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Congressional_Budget_Office"
+      }, 
+      "relevance": 0.37604, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120983, 
+        "joy": 0.165954, 
+        "sadness": 0.424242, 
+        "fear": 0.048696, 
+        "disgust": 0.397166
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.324739, 
+        "label": "negative"
+      }, 
+      "text": "South Carolina", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "USState", 
+          "StateOrCounty"
+        ], 
+        "name": "South Carolina", 
+        "dbpedia_resource": "http://dbpedia.org/resource/South_Carolina"
+      }, 
+      "relevance": 0.364527, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.202023, 
+        "joy": 0.014025, 
+        "sadness": 0.371832, 
+        "fear": 0.096155, 
+        "disgust": 0.564347
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.636668, 
+        "label": "negative"
+      }, 
+      "text": "Republican House", 
+      "relevance": 0.351007, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.199436, 
+        "joy": 0.092399, 
+        "sadness": 0.337721, 
+        "fear": 0.111342, 
+        "disgust": 0.248979
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Supreme Court", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody"
+        ], 
+        "name": "Supreme Court of the United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Supreme_Court_of_the_United_States"
+      }, 
+      "relevance": 0.350447, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.234779, 
+        "joy": 0.071996, 
+        "sadness": 0.314087, 
+        "fear": 0.01031, 
+        "disgust": 0.587694
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Janis Joplin", 
+      "disambiguation": {
+        "subtype": [
+          "MusicalArtist", 
+          "BroadcastArtist", 
+          "HallOfFameInductee", 
+          "MusicalGroupMember", 
+          "FilmActor", 
+          "TVActor"
+        ], 
+        "name": "Janis Joplin", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Janis_Joplin"
+      }, 
+      "relevance": 0.348877, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.104722, 
+        "joy": 0.10328, 
+        "sadness": 0.250812, 
+        "fear": 0.315025, 
+        "disgust": 0.122771
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Quinnipiac University", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "CollegeUniversity", 
+          "University"
+        ], 
+        "name": "Quinnipiac University", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Quinnipiac_University"
+      }, 
+      "relevance": 0.344209, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.199436, 
+        "joy": 0.092399, 
+        "sadness": 0.337721, 
+        "fear": 0.111342, 
+        "disgust": 0.248979
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Neil Gorsuch", 
+      "disambiguation": {
+        "subtype": [
+          "Judge"
+        ], 
+        "name": "Neil Gorsuch", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Neil_Gorsuch"
+      }, 
+      "relevance": 0.343556, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.366737, 
+        "joy": 0.030945, 
+        "sadness": 0.350454, 
+        "fear": 0.277623, 
+        "disgust": 0.100394
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.347925, 
+        "label": "negative"
+      }, 
+      "text": "Joint Committee on Taxation", 
+      "relevance": 0.33759, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.502242, 
+        "joy": 0.061772, 
+        "sadness": 0.380065, 
+        "fear": 0.046736, 
+        "disgust": 0.182104
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.498004, 
+        "label": "negative"
+      }, 
+      "text": "Obama White House", 
+      "relevance": 0.322286, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.371611, 
+        "joy": 0.049224, 
+        "sadness": 0.307965, 
+        "fear": 0.260697, 
+        "disgust": 0.207244
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.54945, 
+        "label": "negative"
+      }, 
+      "text": "Paul Ryan", 
+      "relevance": 0.310935, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.120661, 
+        "joy": 0.021645, 
+        "sadness": 0.069696, 
+        "fear": 0.067812, 
+        "disgust": 0.49727
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.494203, 
+        "label": "negative"
+      }, 
+      "text": "JCT", 
+      "relevance": 0.285972, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.502242, 
+        "joy": 0.061772, 
+        "sadness": 0.380065, 
+        "fear": 0.046736, 
+        "disgust": 0.182104
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.498004, 
+        "label": "negative"
+      }, 
+      "text": "ACA", 
+      "relevance": 0.266969, 
+      "type": "Organization"
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "$1.4 trillion", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "$1 trillion", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "10 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "36 hours", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "16%", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "25%", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "52%", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "5%", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266969, 
+      "text": "8%", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.cnn.com/2017/12/02/politics/tax-bill-analysis/index.html"
+}

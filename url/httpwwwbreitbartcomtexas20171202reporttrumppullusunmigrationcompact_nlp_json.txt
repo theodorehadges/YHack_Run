@@ -1,0 +1,807 @@
+{
+  "usage": {
+    "text_characters": 1817, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.985595, 
+      "text": "New York Declaration", 
+      "emotion": {
+        "anger": 0.059959, 
+        "joy": 0.308791, 
+        "sadness": 0.18613, 
+        "fear": 0.249986, 
+        "disgust": 0.11255
+      }, 
+      "sentiment": {
+        "score": -0.551939, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.851621, 
+      "text": "United Nations", 
+      "emotion": {
+        "anger": 0.235567, 
+        "joy": 0.190464, 
+        "sadness": 0.41862, 
+        "fear": 0.041028, 
+        "disgust": 0.278024
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.693503, 
+      "text": "non-binding political declaration", 
+      "emotion": {
+        "anger": 0.065304, 
+        "joy": 0.21351, 
+        "sadness": 0.272322, 
+        "fear": 0.115505, 
+        "disgust": 0.133743
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.687893, 
+      "text": "Trump Administration", 
+      "emotion": {
+        "anger": 0.196908, 
+        "joy": 0.241485, 
+        "sadness": 0.412085, 
+        "fear": 0.055059, 
+        "disgust": 0.291928
+      }, 
+      "sentiment": {
+        "score": -0.495776, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.674409, 
+      "text": "United Nations pact", 
+      "emotion": {
+        "anger": 0.196908, 
+        "joy": 0.241485, 
+        "sadness": 0.412085, 
+        "fear": 0.055059, 
+        "disgust": 0.291928
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.614498, 
+      "text": "U.S. officials", 
+      "emotion": {
+        "anger": 0.157954, 
+        "joy": 0.139785, 
+        "sadness": 0.230042, 
+        "fear": 0.207086, 
+        "disgust": 0.199017
+      }, 
+      "sentiment": {
+        "score": -0.22291, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.603755, 
+      "text": "Ambassador Nikki Haley", 
+      "emotion": {
+        "anger": 0.101595, 
+        "joy": 0.113973, 
+        "sadness": 0.336949, 
+        "fear": 0.04458, 
+        "disgust": 0.121374
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.575817, 
+      "text": "State Department officials", 
+      "emotion": {
+        "anger": 0.142269, 
+        "joy": 0.231612, 
+        "sadness": 0.177578, 
+        "fear": 0.083942, 
+        "disgust": 0.269736
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.547445, 
+      "text": "United States", 
+      "emotion": {
+        "anger": 0.093922, 
+        "joy": 0.228578, 
+        "sadness": 0.249539, 
+        "fear": 0.029832, 
+        "disgust": 0.067078
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.543477, 
+      "text": "Paris Climate Agreement", 
+      "emotion": {
+        "anger": 0.192949, 
+        "joy": 0.243026, 
+        "sadness": 0.19547, 
+        "fear": 0.150338, 
+        "disgust": 0.041714
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.439448, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.192949, 
+        "joy": 0.243026, 
+        "sadness": 0.19547, 
+        "fear": 0.150338, 
+        "disgust": 0.041714
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.431371, 
+      "text": "non-binding resolution", 
+      "emotion": {
+        "anger": 0.065304, 
+        "joy": 0.21351, 
+        "sadness": 0.272322, 
+        "fear": 0.115505, 
+        "disgust": 0.133743
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.420618, 
+      "text": "refugee situations", 
+      "emotion": {
+        "anger": 0.196908, 
+        "joy": 0.241485, 
+        "sadness": 0.412085, 
+        "fear": 0.055059, 
+        "disgust": 0.291928
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.390359, 
+      "text": "U.S. mission", 
+      "emotion": {
+        "anger": 0.136285, 
+        "joy": 0.103732, 
+        "sadness": 0.125249, 
+        "fear": 0.125928, 
+        "disgust": 0.020805
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.380226, 
+      "text": "refugee policies", 
+      "emotion": {
+        "anger": 0.126795, 
+        "joy": 0.170377, 
+        "sadness": 0.272369, 
+        "fear": 0.071076, 
+        "disgust": 0.253339
+      }, 
+      "sentiment": {
+        "score": -0.495776, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.373013, 
+      "text": "American pullout", 
+      "emotion": {
+        "anger": 0.070859, 
+        "joy": 0.047886, 
+        "sadness": 0.439966, 
+        "fear": 0.142013, 
+        "disgust": 0.326259
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.372929, 
+      "text": "Breitbart News", 
+      "emotion": {
+        "anger": 0.091182, 
+        "joy": 0.165646, 
+        "sadness": 0.33026, 
+        "fear": 0.153634, 
+        "disgust": 0.195222
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.363872, 
+      "text": "numerous provisions", 
+      "emotion": {
+        "anger": 0.126795, 
+        "joy": 0.170377, 
+        "sadness": 0.272369, 
+        "fear": 0.071076, 
+        "disgust": 0.253339
+      }, 
+      "sentiment": {
+        "score": -0.495776, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.361245, 
+      "text": "U.S. immigration", 
+      "emotion": {
+        "anger": 0.126795, 
+        "joy": 0.170377, 
+        "sadness": 0.272369, 
+        "fear": 0.071076, 
+        "disgust": 0.253339
+      }, 
+      "sentiment": {
+        "score": -0.495776, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.352766, 
+      "text": "American policies", 
+      "emotion": {
+        "anger": 0.063421, 
+        "joy": 0.023601, 
+        "sadness": 0.187494, 
+        "fear": 0.03043, 
+        "disgust": 0.364052
+      }, 
+      "sentiment": {
+        "score": 0.274957, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.350131, 
+      "text": "Global Compact", 
+      "emotion": {
+        "anger": 0.166286, 
+        "joy": 0.12371, 
+        "sadness": 0.296641, 
+        "fear": 0.04566, 
+        "disgust": 0.161932
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.345301, 
+      "text": "Paris Agreement", 
+      "emotion": {
+        "anger": 0.027328, 
+        "joy": 0.287286, 
+        "sadness": 0.148429, 
+        "fear": 0.038632, 
+        "disgust": 0.017839
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.345251, 
+      "text": "immigration principles", 
+      "emotion": {
+        "anger": 0.126795, 
+        "joy": 0.170377, 
+        "sadness": 0.272369, 
+        "fear": 0.071076, 
+        "disgust": 0.253339
+      }, 
+      "sentiment": {
+        "score": -0.495776, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.336865, 
+      "text": "America First policies", 
+      "emotion": {
+        "anger": 0.074699, 
+        "joy": 0.133901, 
+        "sadness": 0.47833, 
+        "fear": 0.021333, 
+        "disgust": 0.229153
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.336339, 
+      "text": "U.N. accord", 
+      "emotion": {
+        "anger": 0.05781, 
+        "joy": 0.594768, 
+        "sadness": 0.030426, 
+        "fear": 0.06679, 
+        "disgust": 0.035811
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.335042, 
+      "text": "Adam Shaw", 
+      "emotion": {
+        "anger": 0.113208, 
+        "joy": 0.052572, 
+        "sadness": 0.148482, 
+        "fear": 0.066703, 
+        "disgust": 0.117634
+      }, 
+      "sentiment": {
+        "score": 0.390242, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.330051, 
+      "text": "written statement", 
+      "emotion": {
+        "anger": 0.142269, 
+        "joy": 0.231612, 
+        "sadness": 0.177578, 
+        "fear": 0.083942, 
+        "disgust": 0.269736
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.328782, 
+      "text": "global approach", 
+      "emotion": {
+        "anger": 0.031163, 
+        "joy": 0.225198, 
+        "sadness": 0.192569, 
+        "fear": 0.258319, 
+        "disgust": 0.048396
+      }, 
+      "sentiment": {
+        "score": -0.551939, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.323368, 
+      "text": "new administration", 
+      "emotion": {
+        "anger": 0.05781, 
+        "joy": 0.594768, 
+        "sadness": 0.030426, 
+        "fear": 0.06679, 
+        "disgust": 0.035811
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.24276, 
+      "text": "AFP", 
+      "emotion": {
+        "anger": 0.146828, 
+        "joy": 0.052781, 
+        "sadness": 0.167264, 
+        "fear": 0.156272, 
+        "disgust": 0.175011
+      }, 
+      "sentiment": {
+        "score": -0.22291, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.207678, 
+      "text": "announcement", 
+      "emotion": {
+        "anger": 0.073286, 
+        "joy": 0.05655, 
+        "sadness": 0.095959, 
+        "fear": 0.152296, 
+        "disgust": 0.03062
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.13071, 
+        "joy": 0.181587, 
+        "sadness": 0.244921, 
+        "fear": 0.10912, 
+        "disgust": 0.136007
+      }, 
+      "count": 11, 
+      "sentiment": {
+        "score": -0.423542, 
+        "label": "negative"
+      }, 
+      "text": "United States", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.850647, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.196908, 
+        "joy": 0.241485, 
+        "sadness": 0.412085, 
+        "fear": 0.055059, 
+        "disgust": 0.291928
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.495776, 
+        "label": "negative"
+      }, 
+      "text": "Trump Administration", 
+      "relevance": 0.540575, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.059959, 
+        "joy": 0.308791, 
+        "sadness": 0.18613, 
+        "fear": 0.249986, 
+        "disgust": 0.11255
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.551939, 
+        "label": "negative"
+      }, 
+      "text": "New York Declaration", 
+      "relevance": 0.475977, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.107102, 
+        "joy": 0.116742, 
+        "sadness": 0.375223, 
+        "fear": 0.068927, 
+        "disgust": 0.135753
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Nikki Haley", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Nikki Haley", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Nikki_Haley"
+      }, 
+      "relevance": 0.425831, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.235567, 
+        "joy": 0.190464, 
+        "sadness": 0.41862, 
+        "fear": 0.041028, 
+        "disgust": 0.278024
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "United Nations", 
+      "disambiguation": {
+        "subtype": [
+          "MembershipOrganization", 
+          "AwardWinner", 
+          "GovernmentalBody", 
+          "TouristAttraction"
+        ], 
+        "name": "United Nations", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations"
+      }, 
+      "relevance": 0.425483, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.192949, 
+        "joy": 0.243026, 
+        "sadness": 0.19547, 
+        "fear": 0.150338, 
+        "disgust": 0.041714
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.422054, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.146828, 
+        "joy": 0.052781, 
+        "sadness": 0.167264, 
+        "fear": 0.156272, 
+        "disgust": 0.175011
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.22291, 
+        "label": "negative"
+      }, 
+      "text": "AFP", 
+      "relevance": 0.37684, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.053089, 
+        "joy": 0.047667, 
+        "sadness": 0.097795, 
+        "fear": 0.168402, 
+        "disgust": 0.049686
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "president", 
+      "relevance": 0.367605, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.166286, 
+        "joy": 0.12371, 
+        "sadness": 0.296641, 
+        "fear": 0.04566, 
+        "disgust": 0.161932
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "United\u00a0Nations", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "United Nations (band)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Nations_(band)"
+      }, 
+      "relevance": 0.326636, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087327, 
+        "joy": 0.32263, 
+        "sadness": 0.172924, 
+        "fear": 0.077667, 
+        "disgust": 0.021209
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Paris", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.275789, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.038221, 
+        "joy": 0.178547, 
+        "sadness": 0.148719, 
+        "fear": 0.035469, 
+        "disgust": 0.030537
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.390242, 
+        "label": "positive"
+      }, 
+      "text": "Adam Shaw", 
+      "relevance": 0.254846, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.166286, 
+        "joy": 0.12371, 
+        "sadness": 0.296641, 
+        "fear": 0.04566, 
+        "disgust": 0.161932
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Secretary-General", 
+      "relevance": 0.254464, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.135895, 
+        "joy": 0.506945, 
+        "sadness": 0.076845, 
+        "fear": 0.107375, 
+        "disgust": 0.03208
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "U.N.", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "U.N. (group)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/U.N._(group)"
+      }, 
+      "relevance": 0.253157, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.091182, 
+        "joy": 0.165646, 
+        "sadness": 0.33026, 
+        "fear": 0.153634, 
+        "disgust": 0.195222
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Breitbart", 
+      "relevance": 0.243279, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.142269, 
+        "joy": 0.231612, 
+        "sadness": 0.177578, 
+        "fear": 0.083942, 
+        "disgust": 0.269736
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "State Department", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentAgency", 
+          "GovernmentalBody", 
+          "AppointedRole"
+        ], 
+        "name": "United States Department of State", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States_Department_of_State"
+      }, 
+      "relevance": 0.23909, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.074699, 
+        "joy": 0.133901, 
+        "sadness": 0.47833, 
+        "fear": 0.021333, 
+        "disgust": 0.229153
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.228674, 
+      "type": "Location"
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/texas/2017/12/02/report-trump-pull-u-s-u-n-migration-compact/"
+}

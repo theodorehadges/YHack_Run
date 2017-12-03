@@ -1,0 +1,1322 @@
+{
+  "usage": {
+    "text_characters": 4617, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.980525, 
+      "text": "Mr Milburn", 
+      "emotion": {
+        "anger": 0.21922, 
+        "joy": 0.136857, 
+        "sadness": 0.484253, 
+        "fear": 0.100718, 
+        "disgust": 0.113608
+      }, 
+      "sentiment": {
+        "score": -0.364279, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.840708, 
+      "text": "social mobility", 
+      "emotion": {
+        "anger": 0.485188, 
+        "joy": 0.208934, 
+        "sadness": 0.534068, 
+        "fear": 0.173246, 
+        "disgust": 0.151945
+      }, 
+      "sentiment": {
+        "score": -0.467385, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.629657, 
+      "text": "minister Alan Milburn", 
+      "emotion": {
+        "anger": 0.031564, 
+        "joy": 0.072893, 
+        "sadness": 0.473597, 
+        "fear": 0.09904, 
+        "disgust": 0.473813
+      }, 
+      "sentiment": {
+        "score": 0.601184, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.613338, 
+      "text": "Social Mobility Commission", 
+      "emotion": {
+        "anger": 0.606076, 
+        "joy": 0.046565, 
+        "sadness": 0.168735, 
+        "fear": 0.146793, 
+        "disgust": 0.307727
+      }, 
+      "sentiment": {
+        "score": -0.542831, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.612507, 
+      "text": "new chairperson", 
+      "emotion": {
+        "anger": 0.09159, 
+        "joy": 0.257295, 
+        "sadness": 0.109262, 
+        "fear": 0.045758, 
+        "disgust": 0.029525
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.57684, 
+      "text": "Social Mobility Foundation", 
+      "emotion": {
+        "anger": 0.082455, 
+        "joy": 0.345411, 
+        "sadness": 0.083114, 
+        "fear": 0.069744, 
+        "disgust": 0.24282
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.567837, 
+      "text": "social mobility challenge", 
+      "emotion": {
+        "anger": 0.079446, 
+        "joy": 0.04071, 
+        "sadness": 0.680996, 
+        "fear": 0.267192, 
+        "disgust": 0.089578
+      }, 
+      "sentiment": {
+        "score": -0.716879, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.542187, 
+      "text": "minister Baroness Shephard", 
+      "emotion": {
+        "anger": 0.185189, 
+        "joy": 0.285582, 
+        "sadness": 0.447973, 
+        "fear": 0.027875, 
+        "disgust": 0.204971
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.530737, 
+      "text": "resignation letter", 
+      "emotion": {
+        "anger": 0.055101, 
+        "joy": 0.132968, 
+        "sadness": 0.208014, 
+        "fear": 0.363728, 
+        "disgust": 0.029674
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.525722, 
+      "text": "education secretary", 
+      "emotion": {
+        "anger": 0.073005, 
+        "joy": 0.164299, 
+        "sadness": 0.228349, 
+        "fear": 0.106574, 
+        "disgust": 0.350414
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.524099, 
+      "text": "Tory education secretary", 
+      "emotion": {
+        "anger": 0.134177, 
+        "joy": 0.113522, 
+        "sadness": 0.319407, 
+        "fear": 0.094499, 
+        "disgust": 0.43492
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.518628, 
+      "text": "key commission roles", 
+      "emotion": {
+        "anger": 0.149914, 
+        "joy": 0.051989, 
+        "sadness": 0.669015, 
+        "fear": 0.150135, 
+        "disgust": 0.044336
+      }, 
+      "sentiment": {
+        "score": -0.637259, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.518183, 
+      "text": "open application process", 
+      "emotion": {
+        "anger": 0.117486, 
+        "joy": 0.11311, 
+        "sadness": 0.08546, 
+        "fear": 0.019707, 
+        "disgust": 0.016914
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.513872, 
+      "text": "Downing Street", 
+      "emotion": {
+        "anger": 0.297674, 
+        "joy": 0.023422, 
+        "sadness": 0.421221, 
+        "fear": 0.324006, 
+        "disgust": 0.230736
+      }, 
+      "sentiment": {
+        "score": -0.293499, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.511159, 
+      "text": "main political parties", 
+      "emotion": {
+        "anger": 0.076851, 
+        "joy": 0.102121, 
+        "sadness": 0.569499, 
+        "fear": 0.107322, 
+        "disgust": 0.129423
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.51063, 
+      "text": "level playing field", 
+      "emotion": {
+        "anger": 0.015392, 
+        "joy": 0.71483, 
+        "sadness": 0.091298, 
+        "fear": 0.060952, 
+        "disgust": 0.100001
+      }, 
+      "sentiment": {
+        "score": 0.362802, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.506909, 
+      "text": "hard left extremism", 
+      "emotion": {
+        "anger": 0.111196, 
+        "joy": 0.066672, 
+        "sadness": 0.448238, 
+        "fear": 0.371061, 
+        "disgust": 0.272689
+      }, 
+      "sentiment": {
+        "score": -0.296212, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.505658, 
+      "text": "cabinet office minister", 
+      "emotion": {
+        "anger": 0.023661, 
+        "joy": 0.237983, 
+        "sadness": 0.26285, 
+        "fear": 0.278466, 
+        "disgust": 0.083387
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.505204, 
+      "text": "senior minister Damian", 
+      "emotion": {
+        "anger": 0.007426, 
+        "joy": 0.338182, 
+        "sadness": 0.323519, 
+        "fear": 0.095788, 
+        "disgust": 0.105304
+      }, 
+      "sentiment": {
+        "score": 0.247063, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.504062, 
+      "text": "real average earnings", 
+      "emotion": {
+        "anger": 0.339945, 
+        "joy": 0.030434, 
+        "sadness": 0.229453, 
+        "fear": 0.228136, 
+        "disgust": 0.166395
+      }, 
+      "sentiment": {
+        "score": -0.524315, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.49973, 
+      "text": "national living wage", 
+      "emotion": {
+        "anger": 0.025766, 
+        "joy": 0.306504, 
+        "sadness": 0.135641, 
+        "fear": 0.078043, 
+        "disgust": 0.319981
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.48625, 
+      "text": "government", 
+      "emotion": {
+        "anger": 0.208469, 
+        "joy": 0.124162, 
+        "sadness": 0.619417, 
+        "fear": 0.163595, 
+        "disgust": 0.187252
+      }, 
+      "sentiment": {
+        "score": -0.399595, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.484282, 
+      "text": "social justice", 
+      "emotion": {
+        "anger": 0.139951, 
+        "joy": 0.219333, 
+        "sadness": 0.458379, 
+        "fear": 0.108636, 
+        "disgust": 0.188628
+      }, 
+      "sentiment": {
+        "score": 0.484247, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.482637, 
+      "text": "social policy", 
+      "emotion": {
+        "anger": 0.05459, 
+        "joy": 0.20985, 
+        "sadness": 0.083808, 
+        "fear": 0.077058, 
+        "disgust": 0.062839
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.479184, 
+      "text": "social division", 
+      "emotion": {
+        "anger": 0.072166, 
+        "joy": 0.174038, 
+        "sadness": 0.417743, 
+        "fear": 0.077719, 
+        "disgust": 0.023306
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.479005, 
+      "text": "current government", 
+      "emotion": {
+        "anger": 0.097203, 
+        "joy": 0.071085, 
+        "sadness": 0.202623, 
+        "fear": 0.117173, 
+        "disgust": 0.192379
+      }, 
+      "sentiment": {
+        "score": -0.337602, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.473906, 
+      "text": "social divisions", 
+      "emotion": {
+        "anger": 0.273191, 
+        "joy": 0.017774, 
+        "sadness": 0.566426, 
+        "fear": 0.211352, 
+        "disgust": 0.039246
+      }, 
+      "sentiment": {
+        "score": -0.644009, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.471356, 
+      "text": "good progress", 
+      "emotion": {
+        "anger": 0.02427, 
+        "joy": 0.932659, 
+        "sadness": 0.014309, 
+        "fear": 0.004217, 
+        "disgust": 0.016915
+      }, 
+      "sentiment": {
+        "score": 0.401136, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.470448, 
+      "text": "Gillian Shephard", 
+      "emotion": {
+        "anger": 0.134177, 
+        "joy": 0.113522, 
+        "sadness": 0.319407, 
+        "fear": 0.094499, 
+        "disgust": 0.43492
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.469097, 
+      "text": "fairer Britain", 
+      "emotion": {
+        "anger": 0.185903, 
+        "joy": 0.374259, 
+        "sadness": 0.187005, 
+        "fear": 0.1086, 
+        "disgust": 0.113967
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.468737, 
+      "text": "little hope", 
+      "emotion": {
+        "anger": 0.052529, 
+        "joy": 0.114531, 
+        "sadness": 0.256584, 
+        "fear": 0.381996, 
+        "disgust": 0.152513
+      }, 
+      "sentiment": {
+        "score": -0.481635, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.467275, 
+      "text": "disadvantaged areas", 
+      "emotion": {
+        "anger": 0.020023, 
+        "joy": 0.292856, 
+        "sadness": 0.121088, 
+        "fear": 0.118304, 
+        "disgust": 0.019305
+      }, 
+      "sentiment": {
+        "score": -0.314174, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.462534, 
+      "text": "individual ministers", 
+      "emotion": {
+        "anger": 0.029751, 
+        "joy": 0.197338, 
+        "sadness": 0.099635, 
+        "fear": 0.097806, 
+        "disgust": 0.110184
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.46247, 
+      "text": "meaningful action", 
+      "emotion": {
+        "anger": 0.084139, 
+        "joy": 0.283455, 
+        "sadness": 0.10186, 
+        "fear": 0.246857, 
+        "disgust": 0.102665
+      }, 
+      "sentiment": {
+        "score": 0.614607, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.461679, 
+      "text": "board members", 
+      "emotion": {
+        "anger": 0.154858, 
+        "joy": 0.150654, 
+        "sadness": 0.189958, 
+        "fear": 0.070511, 
+        "disgust": 0.378355
+      }, 
+      "sentiment": {
+        "score": -0.320143, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.461584, 
+      "text": "political consequence", 
+      "emotion": {
+        "anger": 0.157984, 
+        "joy": 0.165935, 
+        "sadness": 0.421495, 
+        "fear": 0.159932, 
+        "disgust": 0.11273
+      }, 
+      "sentiment": {
+        "score": 0.770324, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.461553, 
+      "text": "Paul Gregg", 
+      "emotion": {
+        "anger": 0.154858, 
+        "joy": 0.150654, 
+        "sadness": 0.189958, 
+        "fear": 0.070511, 
+        "disgust": 0.378355
+      }, 
+      "sentiment": {
+        "score": -0.320143, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460807, 
+      "text": "poorer people", 
+      "emotion": {
+        "anger": 0.18983, 
+        "joy": 0.018281, 
+        "sadness": 0.624415, 
+        "fear": 0.255589, 
+        "disgust": 0.194403
+      }, 
+      "sentiment": {
+        "score": -0.320643, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460594, 
+      "text": "young people", 
+      "emotion": {
+        "anger": 0.085009, 
+        "joy": 0.078802, 
+        "sadness": 0.543456, 
+        "fear": 0.101443, 
+        "disgust": 0.289071
+      }, 
+      "sentiment": {
+        "score": -0.528397, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.460481, 
+      "text": "personal belief", 
+      "emotion": {
+        "anger": 0.139951, 
+        "joy": 0.219333, 
+        "sadness": 0.458379, 
+        "fear": 0.108636, 
+        "disgust": 0.188628
+      }, 
+      "sentiment": {
+        "score": 0.484247, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.460268, 
+      "text": "David Johnston", 
+      "emotion": {
+        "anger": 0.095939, 
+        "joy": 0.113309, 
+        "sadness": 0.269212, 
+        "fear": 0.034979, 
+        "disgust": 0.331723
+      }, 
+      "sentiment": {
+        "score": 0.422359, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.459888, 
+      "text": "independent body", 
+      "emotion": {
+        "anger": 0.079446, 
+        "joy": 0.04071, 
+        "sadness": 0.680996, 
+        "fear": 0.267192, 
+        "disgust": 0.089578
+      }, 
+      "sentiment": {
+        "score": -0.716879, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.459759, 
+      "text": "health secretary", 
+      "emotion": {
+        "anger": 0.030821, 
+        "joy": 0.51706, 
+        "sadness": 0.112877, 
+        "fear": 0.065995, 
+        "disgust": 0.037949
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.459438, 
+      "text": "Brexit vote", 
+      "emotion": {
+        "anger": 0.111196, 
+        "joy": 0.066672, 
+        "sadness": 0.448238, 
+        "fear": 0.371061, 
+        "disgust": 0.272689
+      }, 
+      "sentiment": {
+        "score": -0.296212, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.45942, 
+      "text": "deputy chair", 
+      "emotion": {
+        "anger": 0.134177, 
+        "joy": 0.113522, 
+        "sadness": 0.319407, 
+        "fear": 0.094499, 
+        "disgust": 0.43492
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.459403, 
+      "text": "little evidence", 
+      "emotion": {
+        "anger": 0.084139, 
+        "joy": 0.283455, 
+        "sadness": 0.10186, 
+        "fear": 0.246857, 
+        "disgust": 0.102665
+      }, 
+      "sentiment": {
+        "score": 0.614607, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.458813, 
+      "text": "chief executive", 
+      "emotion": {
+        "anger": 0.082455, 
+        "joy": 0.345411, 
+        "sadness": 0.083114, 
+        "fear": 0.069744, 
+        "disgust": 0.24282
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.458484, 
+      "text": "fewer top jobs", 
+      "emotion": {
+        "anger": 0.085009, 
+        "joy": 0.078802, 
+        "sadness": 0.543456, 
+        "fear": 0.101443, 
+        "disgust": 0.289071
+      }, 
+      "sentiment": {
+        "score": -0.528397, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.457742, 
+      "text": "different country", 
+      "emotion": {
+        "anger": 0.076133, 
+        "joy": 0.157058, 
+        "sadness": 0.248248, 
+        "fear": 0.076795, 
+        "disgust": 0.074169
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.457672, 
+      "text": "industrial areas", 
+      "emotion": {
+        "anger": 0.085009, 
+        "joy": 0.078802, 
+        "sadness": 0.543456, 
+        "fear": 0.101443, 
+        "disgust": 0.289071
+      }, 
+      "sentiment": {
+        "score": -0.528397, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.143512, 
+        "joy": 0.141814, 
+        "sadness": 0.455628, 
+        "fear": 0.082889, 
+        "disgust": 0.118123
+      }, 
+      "count": 17, 
+      "sentiment": {
+        "score": -0.228099, 
+        "label": "negative"
+      }, 
+      "text": "Alan Milburn", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "TVActor"
+        ], 
+        "name": "Alan Milburn", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Alan_Milburn"
+      }, 
+      "relevance": 0.860839, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.49498, 
+        "joy": 0.603922, 
+        "sadness": 0.588561, 
+        "fear": 0.17506, 
+        "disgust": 0.148215
+      }, 
+      "count": 8, 
+      "sentiment": {
+        "score": -0.220937, 
+        "label": "negative"
+      }, 
+      "text": "Social Mobility Commission", 
+      "relevance": 0.811792, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.082455, 
+        "joy": 0.345411, 
+        "sadness": 0.083114, 
+        "fear": 0.069744, 
+        "disgust": 0.24282
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Social Mobility Foundation", 
+      "relevance": 0.286395, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.052162, 
+        "joy": 0.295177, 
+        "sadness": 0.191881, 
+        "fear": 0.093354, 
+        "disgust": 0.260663
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "secretary", 
+      "relevance": 0.250059, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.185189, 
+        "joy": 0.285582, 
+        "sadness": 0.447973, 
+        "fear": 0.027875, 
+        "disgust": 0.204971
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Baroness Shephard", 
+      "relevance": 0.223688, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.125079, 
+        "joy": 0.1862, 
+        "sadness": 0.09428, 
+        "fear": 0.353245, 
+        "disgust": 0.026675
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Theresa May", 
+      "disambiguation": {
+        "subtype": [
+          "Politician"
+        ], 
+        "name": "Theresa May", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Theresa_May"
+      }, 
+      "relevance": 0.216673, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.101949, 
+        "joy": 0.16325, 
+        "sadness": 0.542738, 
+        "fear": 0.101555, 
+        "disgust": 0.140414
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Britain", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.209589, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.134177, 
+        "joy": 0.113522, 
+        "sadness": 0.319407, 
+        "fear": 0.094499, 
+        "disgust": 0.43492
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Gillian Shephard", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Gillian Shephard", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Gillian_Shephard"
+      }, 
+      "relevance": 0.205389, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087271, 
+        "joy": 0.062985, 
+        "sadness": 0.675847, 
+        "fear": 0.254542, 
+        "disgust": 0.127824
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.296212, 
+        "label": "negative"
+      }, 
+      "text": "Brexit", 
+      "relevance": 0.19866, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.093315, 
+        "joy": 0.028338, 
+        "sadness": 0.072253, 
+        "fear": 0.181494, 
+        "disgust": 0.465194
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.469601, 
+        "label": "negative"
+      }, 
+      "text": "England", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalDistrict", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "Country"
+        ], 
+        "name": "England", 
+        "dbpedia_resource": "http://dbpedia.org/resource/England"
+      }, 
+      "relevance": 0.19795, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.033188, 
+        "joy": 0.2343, 
+        "sadness": 0.305826, 
+        "fear": 0.261037, 
+        "disgust": 0.102386
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Jon Trickett", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "MemberOfParliament"
+        ], 
+        "name": "Jon Trickett", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Jon_Trickett"
+      }, 
+      "relevance": 0.192639, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087271, 
+        "joy": 0.062985, 
+        "sadness": 0.675847, 
+        "fear": 0.254542, 
+        "disgust": 0.127824
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Brexit", 
+      "relevance": 0.183312, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087271, 
+        "joy": 0.062985, 
+        "sadness": 0.675847, 
+        "fear": 0.254542, 
+        "disgust": 0.127824
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.320304, 
+        "label": "negative"
+      }, 
+      "text": "Brexit", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.171517, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.162816, 
+        "joy": 0.170216, 
+        "sadness": 0.176075, 
+        "fear": 0.061582, 
+        "disgust": 0.38256
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.320143, 
+        "label": "negative"
+      }, 
+      "text": "Paul Gregg", 
+      "disambiguation": {
+        "subtype": [], 
+        "name": "Paul Gregg", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Paul_Gregg"
+      }, 
+      "relevance": 0.169234, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.237538, 
+        "joy": 0.088988, 
+        "sadness": 0.121917, 
+        "fear": 0.050795, 
+        "disgust": 0.048407
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "the Observer", 
+      "relevance": 0.164706, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.05459, 
+        "joy": 0.20985, 
+        "sadness": 0.083808, 
+        "fear": 0.077058, 
+        "disgust": 0.062839
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "University of Bath", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "CollegeUniversity", 
+          "University"
+        ], 
+        "name": "University of Bath", 
+        "dbpedia_resource": "http://dbpedia.org/resource/University_of_Bath"
+      }, 
+      "relevance": 0.1643, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.084457, 
+        "joy": 0.195587, 
+        "sadness": 0.279759, 
+        "fear": 0.260547, 
+        "disgust": 0.04985
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "London", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "OlympicHostCity", 
+          "PlaceWithNeighborhoods", 
+          "City"
+        ], 
+        "name": "London", 
+        "dbpedia_resource": "http://dbpedia.org/resource/London"
+      }, 
+      "relevance": 0.163365, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.083457, 
+        "joy": 0.325606, 
+        "sadness": 0.012604, 
+        "fear": 0.047456, 
+        "disgust": 0.013089
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "UK", 
+      "disambiguation": {
+        "subtype": [
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "Kingdom", 
+          "MeteorologicalService", 
+          "Country"
+        ], 
+        "name": "United Kingdom", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_Kingdom"
+      }, 
+      "relevance": 0.162989, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.005494, 
+        "joy": 0.804345, 
+        "sadness": 0.027844, 
+        "fear": 0.098383, 
+        "disgust": 0.045154
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Sunday Times", 
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ], 
+        "name": "The Sunday Times", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Sunday_Times"
+      }, 
+      "relevance": 0.160967, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.339945, 
+        "joy": 0.030434, 
+        "sadness": 0.229453, 
+        "fear": 0.228136, 
+        "disgust": 0.166395
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.524315, 
+        "label": "negative"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.160467, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.007426, 
+        "joy": 0.338182, 
+        "sadness": 0.323519, 
+        "fear": 0.095788, 
+        "disgust": 0.105304
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.247063, 
+        "label": "positive"
+      }, 
+      "text": "Damian Green", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "MemberOfParliament"
+        ], 
+        "name": "Damian Green", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Damian_Green"
+      }, 
+      "relevance": 0.159691, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.049375, 
+        "joy": 0.252549, 
+        "sadness": 0.427831, 
+        "fear": 0.079311, 
+        "disgust": 0.052737
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Chancellor", 
+      "relevance": 0.15868, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.095939, 
+        "joy": 0.113309, 
+        "sadness": 0.269212, 
+        "fear": 0.034979, 
+        "disgust": 0.331723
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.422359, 
+        "label": "positive"
+      }, 
+      "text": "David Johnston", 
+      "relevance": 0.153224, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.082455, 
+        "joy": 0.345411, 
+        "sadness": 0.083114, 
+        "fear": 0.069744, 
+        "disgust": 0.24282
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "chief executive", 
+      "relevance": 0.152964, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.05459, 
+        "joy": 0.20985, 
+        "sadness": 0.083808, 
+        "fear": 0.077058, 
+        "disgust": 0.062839
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "professor", 
+      "relevance": 0.148574, 
+      "type": "JobTitle"
+    }, 
+    {
+      "relevance": 0.148574, 
+      "text": "two years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.148574, 
+      "text": "20 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.148574, 
+      "text": "30 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.bbc.com/news/uk-politics-42212270"
+}

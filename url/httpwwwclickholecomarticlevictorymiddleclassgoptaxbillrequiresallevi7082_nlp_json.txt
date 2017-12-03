@@ -1,0 +1,701 @@
+{
+  "usage": {
+    "text_characters": 2974, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.985697, 
+      "text": "eviction notices", 
+      "emotion": {
+        "anger": 0.096394, 
+        "joy": 0.044705, 
+        "sadness": 0.304676, 
+        "fear": 0.094306, 
+        "disgust": 0.116756
+      }, 
+      "sentiment": {
+        "score": -0.411813, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.799604, 
+      "text": "middle class", 
+      "emotion": {
+        "anger": 0.178474, 
+        "joy": 0.02259, 
+        "sadness": 0.102775, 
+        "fear": 0.397664, 
+        "disgust": 0.558893
+      }, 
+      "sentiment": {
+        "score": -0.226303, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.694354, 
+      "text": "eviction notice", 
+      "emotion": {
+        "anger": 0.024471, 
+        "joy": 0.780656, 
+        "sadness": 0.068041, 
+        "fear": 0.037538, 
+        "disgust": 0.118003
+      }, 
+      "sentiment": {
+        "score": -0.0119101, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.565892, 
+      "text": "GOP tax", 
+      "emotion": {
+        "anger": 0.097063, 
+        "joy": 0.040203, 
+        "sadness": 0.3777, 
+        "fear": 0.084853, 
+        "disgust": 0.111683
+      }, 
+      "sentiment": {
+        "score": -0.50721, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.538428, 
+      "text": "trickle-down economics", 
+      "emotion": {
+        "anger": 0.050318, 
+        "joy": 0.158378, 
+        "sadness": 0.108249, 
+        "fear": 0.088366, 
+        "disgust": 0.250997
+      }, 
+      "sentiment": {
+        "score": -0.621933, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.536103, 
+      "text": "GOP tax plan", 
+      "emotion": {
+        "anger": 0.027232, 
+        "joy": 0.085113, 
+        "sadness": 0.460609, 
+        "fear": 0.064584, 
+        "disgust": 0.042813
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.527896, 
+      "text": "tax cuts", 
+      "emotion": {
+        "anger": 0.172699, 
+        "joy": 0.659432, 
+        "sadness": 0.108501, 
+        "fear": 0.025035, 
+        "disgust": 0.103314
+      }, 
+      "sentiment": {
+        "score": -0.0543299, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.524445, 
+      "text": "tax reform", 
+      "emotion": {
+        "anger": 0.162761, 
+        "joy": 0.024261, 
+        "sadness": 0.093395, 
+        "fear": 0.056773, 
+        "disgust": 0.316754
+      }, 
+      "sentiment": {
+        "score": 0.485263, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.521348, 
+      "text": "beleaguered American families", 
+      "emotion": {
+        "anger": 0.068274, 
+        "joy": 0.200035, 
+        "sadness": 0.459027, 
+        "fear": 0.129767, 
+        "disgust": 0.09278
+      }, 
+      "sentiment": {
+        "score": -0.803843, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.513013, 
+      "text": "economic growing pains", 
+      "emotion": {
+        "anger": 0.037958, 
+        "joy": 0.34563, 
+        "sadness": 0.487367, 
+        "fear": 0.039235, 
+        "disgust": 0.002385
+      }, 
+      "sentiment": {
+        "score": -0.86595, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.485058, 
+      "text": "Leader Mitch McConnell", 
+      "emotion": {
+        "anger": 0.097864, 
+        "joy": 0.134113, 
+        "sadness": 0.137094, 
+        "fear": 0.126997, 
+        "disgust": 0.335183
+      }, 
+      "sentiment": {
+        "score": -0.546121, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.479, 
+      "text": "ice cream cone", 
+      "emotion": {
+        "anger": 0.027232, 
+        "joy": 0.085113, 
+        "sadness": 0.460609, 
+        "fear": 0.064584, 
+        "disgust": 0.042813
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.386414, 
+      "text": "ordinary Americans", 
+      "emotion": {
+        "anger": 0.073585, 
+        "joy": 0.04335, 
+        "sadness": 0.608478, 
+        "fear": 0.167412, 
+        "disgust": 0.141888
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.379303, 
+      "text": "resounding victory", 
+      "emotion": {
+        "anger": 0.325062, 
+        "joy": 0.154348, 
+        "sadness": 0.246156, 
+        "fear": 0.088623, 
+        "disgust": 0.295472
+      }, 
+      "sentiment": {
+        "score": 0.284608, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.370296, 
+      "text": "richest Americans", 
+      "emotion": {
+        "anger": 0.015419, 
+        "joy": 0.430782, 
+        "sadness": 0.077729, 
+        "fear": 0.075307, 
+        "disgust": 0.149195
+      }, 
+      "sentiment": {
+        "score": -0.736656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.351981, 
+      "text": "Republican tax", 
+      "emotion": {
+        "anger": 0.239102, 
+        "joy": 0.071508, 
+        "sadness": 0.174766, 
+        "fear": 0.053044, 
+        "disgust": 0.598377
+      }, 
+      "sentiment": {
+        "score": -0.418192, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.334334, 
+      "text": "major victory", 
+      "emotion": {
+        "anger": 0.239102, 
+        "joy": 0.071508, 
+        "sadness": 0.174766, 
+        "fear": 0.053044, 
+        "disgust": 0.598377
+      }, 
+      "sentiment": {
+        "score": -0.418192, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.334029, 
+      "text": "much-needed relief", 
+      "emotion": {
+        "anger": 0.068274, 
+        "joy": 0.200035, 
+        "sadness": 0.459027, 
+        "fear": 0.129767, 
+        "disgust": 0.09278
+      }, 
+      "sentiment": {
+        "score": -0.803843, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.333005, 
+      "text": "lower-income households", 
+      "emotion": {
+        "anger": 0.015419, 
+        "joy": 0.430782, 
+        "sadness": 0.077729, 
+        "fear": 0.075307, 
+        "disgust": 0.149195
+      }, 
+      "sentiment": {
+        "score": -0.736656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.325026, 
+      "text": "additional wealth", 
+      "emotion": {
+        "anger": 0.015419, 
+        "joy": 0.430782, 
+        "sadness": 0.077729, 
+        "fear": 0.075307, 
+        "disgust": 0.149195
+      }, 
+      "sentiment": {
+        "score": -0.736656, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.324517, 
+      "text": "new provision", 
+      "emotion": {
+        "anger": 0.068274, 
+        "joy": 0.200035, 
+        "sadness": 0.459027, 
+        "fear": 0.129767, 
+        "disgust": 0.09278
+      }, 
+      "sentiment": {
+        "score": -0.803843, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.323285, 
+      "text": "Jobs Act", 
+      "emotion": {
+        "anger": 0.243087, 
+        "joy": 0.08769, 
+        "sadness": 0.228597, 
+        "fear": 0.066783, 
+        "disgust": 0.242111
+      }, 
+      "sentiment": {
+        "score": -0.779076, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.322082, 
+      "text": "graduate students", 
+      "emotion": {
+        "anger": 0.10415, 
+        "joy": 0.296656, 
+        "sadness": 0.167988, 
+        "fear": 0.049416, 
+        "disgust": 0.128769
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.321683, 
+      "text": "supply-side economics", 
+      "emotion": {
+        "anger": 0.037884, 
+        "joy": 0.06399, 
+        "sadness": 0.187967, 
+        "fear": 0.125451, 
+        "disgust": 0.122781
+      }, 
+      "sentiment": {
+        "score": -0.266491, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.321451, 
+      "text": "simple breakdown", 
+      "emotion": {
+        "anger": 0.125162, 
+        "joy": 0.727696, 
+        "sadness": 0.096183, 
+        "fear": 0.026761, 
+        "disgust": 0.071244
+      }, 
+      "sentiment": {
+        "score": 0.724746, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.320595, 
+      "text": "welcome news", 
+      "emotion": {
+        "anger": 0.125162, 
+        "joy": 0.727696, 
+        "sadness": 0.096183, 
+        "fear": 0.026761, 
+        "disgust": 0.071244
+      }, 
+      "sentiment": {
+        "score": 0.724746, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.316157, 
+      "text": "low-income families", 
+      "emotion": {
+        "anger": 0.079172, 
+        "joy": 0.007097, 
+        "sadness": 0.065137, 
+        "fear": 0.788737, 
+        "disgust": 0.196604
+      }, 
+      "sentiment": {
+        "score": -0.60363, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.315498, 
+      "text": "broad strokes", 
+      "emotion": {
+        "anger": 0.037884, 
+        "joy": 0.06399, 
+        "sadness": 0.187967, 
+        "fear": 0.125451, 
+        "disgust": 0.122781
+      }, 
+      "sentiment": {
+        "score": -0.266491, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.314644, 
+      "text": "extra cash", 
+      "emotion": {
+        "anger": 0.037958, 
+        "joy": 0.34563, 
+        "sadness": 0.487367, 
+        "fear": 0.039235, 
+        "disgust": 0.002385
+      }, 
+      "sentiment": {
+        "score": -0.86595, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.310688, 
+      "text": "economic hardship", 
+      "emotion": {
+        "anger": 0.097864, 
+        "joy": 0.134113, 
+        "sadness": 0.137094, 
+        "fear": 0.126997, 
+        "disgust": 0.335183
+      }, 
+      "sentiment": {
+        "score": -0.546121, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.307712, 
+      "text": "tide lifts", 
+      "emotion": {
+        "anger": 0.257414, 
+        "joy": 0.210327, 
+        "sadness": 0.102154, 
+        "fear": 0.37601, 
+        "disgust": 0.17961
+      }, 
+      "sentiment": {
+        "score": 0.21723, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.306829, 
+      "text": "major boon", 
+      "emotion": {
+        "anger": 0.097864, 
+        "joy": 0.134113, 
+        "sadness": 0.137094, 
+        "fear": 0.126997, 
+        "disgust": 0.335183
+      }, 
+      "sentiment": {
+        "score": -0.546121, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.306144, 
+      "text": "Republican Party", 
+      "emotion": {
+        "anger": 0.059188, 
+        "joy": 0.266474, 
+        "sadness": 0.273965, 
+        "fear": 0.025883, 
+        "disgust": 0.539712
+      }, 
+      "sentiment": {
+        "score": 0.297319, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.303643, 
+      "text": "helpful diagram", 
+      "emotion": {
+        "anger": 0.027232, 
+        "joy": 0.085113, 
+        "sadness": 0.460609, 
+        "fear": 0.064584, 
+        "disgust": 0.042813
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.297791, 
+      "text": "true party", 
+      "emotion": {
+        "anger": 0.059188, 
+        "joy": 0.266474, 
+        "sadness": 0.273965, 
+        "fear": 0.025883, 
+        "disgust": 0.539712
+      }, 
+      "sentiment": {
+        "score": 0.297319, 
+        "label": "positive"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.097063, 
+        "joy": 0.040203, 
+        "sadness": 0.3777, 
+        "fear": 0.084853, 
+        "disgust": 0.111683
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": 0.0550186, 
+        "label": "positive"
+      }, 
+      "text": "GOP", 
+      "relevance": 0.78828, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.059188, 
+        "joy": 0.266474, 
+        "sadness": 0.273965, 
+        "fear": 0.025883, 
+        "disgust": 0.539712
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.0604364, 
+        "label": "negative"
+      }, 
+      "text": "America", 
+      "disambiguation": {
+        "subtype": [
+          "Continent"
+        ]
+      }, 
+      "relevance": 0.473215, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.162761, 
+        "joy": 0.024261, 
+        "sadness": 0.093395, 
+        "fear": 0.056773, 
+        "disgust": 0.316754
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.617247, 
+        "label": "positive"
+      }, 
+      "text": "Senate", 
+      "disambiguation": {
+        "subtype": [
+          "GovernmentalBody", 
+          "Legislature"
+        ], 
+        "name": "Australian Senate", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Australian_Senate"
+      }, 
+      "relevance": 0.44734, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.059188, 
+        "joy": 0.266474, 
+        "sadness": 0.273965, 
+        "fear": 0.025883, 
+        "disgust": 0.539712
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.297319, 
+        "label": "positive"
+      }, 
+      "text": "Republican Party", 
+      "disambiguation": {
+        "subtype": [
+          "PoliticalParty"
+        ], 
+        "name": "Republican Party (United States)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Republican_Party_(United_States)"
+      }, 
+      "relevance": 0.428353, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.097864, 
+        "joy": 0.134113, 
+        "sadness": 0.137094, 
+        "fear": 0.126997, 
+        "disgust": 0.335183
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.546121, 
+        "label": "negative"
+      }, 
+      "text": "Mitch McConnell", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "Senator", 
+          "U.S.Congressperson"
+        ], 
+        "name": "Mitch McConnell", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Mitch_McConnell"
+      }, 
+      "relevance": 0.39339, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.097864, 
+        "joy": 0.134113, 
+        "sadness": 0.137094, 
+        "fear": 0.126997, 
+        "disgust": 0.335183
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.546121, 
+        "label": "negative"
+      }, 
+      "text": "Senate Majority", 
+      "relevance": 0.387692, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.027232, 
+        "joy": 0.085113, 
+        "sadness": 0.460609, 
+        "fear": 0.064584, 
+        "disgust": 0.042813
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Washington", 
+      "disambiguation": {
+        "subtype": [
+          "City"
+        ]
+      }, 
+      "relevance": 0.33492, 
+      "type": "Location"
+    }, 
+    {
+      "relevance": 0.33492, 
+      "text": "1 percent", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.clickhole.com/article/victory-middle-class-gop-tax-bill-requires-all-evi-7082"
+}

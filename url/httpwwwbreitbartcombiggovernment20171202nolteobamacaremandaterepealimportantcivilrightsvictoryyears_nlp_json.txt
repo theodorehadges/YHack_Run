@@ -1,0 +1,975 @@
+{
+  "usage": {
+    "text_characters": 4487, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.934644, 
+      "text": "Obamacare mandate", 
+      "emotion": {
+        "anger": 0.237385, 
+        "joy": 0.037842, 
+        "sadness": 0.554995, 
+        "fear": 0.279998, 
+        "disgust": 0.125099
+      }, 
+      "sentiment": {
+        "score": -0.544258, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.849528, 
+      "text": "civil rights", 
+      "emotion": {
+        "anger": 0.038021, 
+        "joy": 0.594786, 
+        "sadness": 0.147549, 
+        "fear": 0.041462, 
+        "disgust": 0.105617
+      }, 
+      "sentiment": {
+        "score": -0.779781, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.837925, 
+      "text": "federal government", 
+      "emotion": {
+        "anger": 0.116895, 
+        "joy": 0.017579, 
+        "sadness": 0.270419, 
+        "fear": 0.137136, 
+        "disgust": 0.211618
+      }, 
+      "sentiment": {
+        "score": -0.518611, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.739062, 
+      "text": "mandate repeal", 
+      "emotion": {
+        "anger": 0.136398, 
+        "joy": 0.068717, 
+        "sadness": 0.565914, 
+        "fear": 0.232528, 
+        "disgust": 0.089951
+      }, 
+      "sentiment": {
+        "score": -0.676511, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.705964, 
+      "text": "health care", 
+      "emotion": {
+        "anger": 0.09052, 
+        "joy": 0.655236, 
+        "sadness": 0.179938, 
+        "fear": 0.023374, 
+        "disgust": 0.009185
+      }, 
+      "sentiment": {
+        "score": 0.525125, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.698206, 
+      "text": "purchase health insurance", 
+      "emotion": {
+        "anger": 0.167053, 
+        "joy": 0.089675, 
+        "sadness": 0.16803, 
+        "fear": 0.196258, 
+        "disgust": 0.104237
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.698009, 
+      "text": "Rube Goldberg machine", 
+      "emotion": {
+        "anger": 0.417022, 
+        "joy": 0.075442, 
+        "sadness": 0.377203, 
+        "fear": 0.244878, 
+        "disgust": 0.115875
+      }, 
+      "sentiment": {
+        "score": -0.601741, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.688522, 
+      "text": "government money", 
+      "emotion": {
+        "anger": 0.291707, 
+        "joy": 0.333653, 
+        "sadness": 0.143929, 
+        "fear": 0.04403, 
+        "disgust": 0.166708
+      }, 
+      "sentiment": {
+        "score": -0.529778, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.648645, 
+      "text": "one-size-fits-all Cadillac plan", 
+      "emotion": {
+        "anger": 0.043116, 
+        "joy": 0.433029, 
+        "sadness": 0.131455, 
+        "fear": 0.043227, 
+        "disgust": 0.072394
+      }, 
+      "sentiment": {
+        "score": 0.227907, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.636599, 
+      "text": "important civil rights", 
+      "emotion": {
+        "anger": 0.022773, 
+        "joy": 0.716844, 
+        "sadness": 0.119628, 
+        "fear": 0.024673, 
+        "disgust": 0.08344
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.633993, 
+      "text": "certain civic responsibilities", 
+      "emotion": {
+        "anger": 0.076478, 
+        "joy": 0.031697, 
+        "sadness": 0.067567, 
+        "fear": 0.102611, 
+        "disgust": 0.037315
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.624238, 
+      "text": "fascist mandate", 
+      "emotion": {
+        "anger": 0.107057, 
+        "joy": 0.059756, 
+        "sadness": 0.285552, 
+        "fear": 0.114229, 
+        "disgust": 0.284625
+      }, 
+      "sentiment": {
+        "score": -0.537153, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.617933, 
+      "text": "personal health care", 
+      "emotion": {
+        "anger": 0.10068, 
+        "joy": 0.628339, 
+        "sadness": 0.162649, 
+        "fear": 0.033112, 
+        "disgust": 0.014741
+      }, 
+      "sentiment": {
+        "score": 0.589357, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.616325, 
+      "text": "Follow John Nolte", 
+      "emotion": {
+        "anger": 0.070007, 
+        "joy": 0.281542, 
+        "sadness": 0.205608, 
+        "fear": 0.049889, 
+        "disgust": 0.075576
+      }, 
+      "sentiment": {
+        "score": 0.844716, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.532113, 
+      "text": "Obamacare repeal", 
+      "emotion": {
+        "anger": 0.264262, 
+        "joy": 0.095731, 
+        "sadness": 0.127554, 
+        "fear": 0.326646, 
+        "disgust": 0.115409
+      }, 
+      "sentiment": {
+        "score": -0.73198, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.52432, 
+      "text": "delicious irony", 
+      "emotion": {
+        "anger": 0.208373, 
+        "joy": 0.562686, 
+        "sadness": 0.161886, 
+        "fear": 0.040015, 
+        "disgust": 0.049832
+      }, 
+      "sentiment": {
+        "score": -0.705474, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.519568, 
+      "text": "hefty tax", 
+      "emotion": {
+        "anger": 0.07128, 
+        "joy": 0.016087, 
+        "sadness": 0.156139, 
+        "fear": 0.093644, 
+        "disgust": 0.201475
+      }, 
+      "sentiment": {
+        "score": -0.598668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.512452, 
+      "text": "godawful product", 
+      "emotion": {
+        "anger": 0.010723, 
+        "joy": 0.092271, 
+        "sadness": 0.236522, 
+        "fear": 0.040814, 
+        "disgust": 0.014763
+      }, 
+      "sentiment": {
+        "score": -0.590213, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.499794, 
+      "text": "legalized violation", 
+      "emotion": {
+        "anger": 0.088778, 
+        "joy": 0.269321, 
+        "sadness": 0.194761, 
+        "fear": 0.089609, 
+        "disgust": 0.134865
+      }, 
+      "sentiment": {
+        "score": -0.779781, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.498958, 
+      "text": "congressional nincompoops", 
+      "emotion": {
+        "anger": 0.102453, 
+        "joy": 0.298854, 
+        "sadness": 0.055149, 
+        "fear": 0.165539, 
+        "disgust": 0.105183
+      }, 
+      "sentiment": {
+        "score": -0.772142, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.498898, 
+      "text": "merry band", 
+      "emotion": {
+        "anger": 0.102453, 
+        "joy": 0.298854, 
+        "sadness": 0.055149, 
+        "fear": 0.165539, 
+        "disgust": 0.105183
+      }, 
+      "sentiment": {
+        "score": -0.772142, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.495467, 
+      "text": "uninsured Americans", 
+      "emotion": {
+        "anger": 0.092271, 
+        "joy": 0.323193, 
+        "sadness": 0.21263, 
+        "fear": 0.132967, 
+        "disgust": 0.082406
+      }, 
+      "sentiment": {
+        "score": -0.677503, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.494586, 
+      "text": "deficit projections", 
+      "emotion": {
+        "anger": 0.049712, 
+        "joy": 0.19013, 
+        "sadness": 0.188242, 
+        "fear": 0.122263, 
+        "disgust": 0.044269
+      }, 
+      "sentiment": {
+        "score": -0.615501, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.492375, 
+      "text": "Friday night", 
+      "emotion": {
+        "anger": 0.046596, 
+        "joy": 0.553326, 
+        "sadness": 0.10707, 
+        "fear": 0.161735, 
+        "disgust": 0.030141
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.490327, 
+      "text": "tax cuts", 
+      "emotion": {
+        "anger": 0.232301, 
+        "joy": 0.038612, 
+        "sadness": 0.223525, 
+        "fear": 0.172798, 
+        "disgust": 0.206618
+      }, 
+      "sentiment": {
+        "score": -0.5395, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.49005, 
+      "text": "insurance industry", 
+      "emotion": {
+        "anger": 0.217977, 
+        "joy": 0.008452, 
+        "sadness": 0.421329, 
+        "fear": 0.239146, 
+        "disgust": 0.061037
+      }, 
+      "sentiment": {
+        "score": -0.615745, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.487248, 
+      "text": "American people", 
+      "emotion": {
+        "anger": 0.033625, 
+        "joy": 0.735503, 
+        "sadness": 0.116435, 
+        "fear": 0.029144, 
+        "disgust": 0.116541
+      }, 
+      "sentiment": {
+        "score": 0.296152, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.486774, 
+      "text": "sweet two-fer", 
+      "emotion": {
+        "anger": 0.033625, 
+        "joy": 0.735503, 
+        "sadness": 0.116435, 
+        "fear": 0.029144, 
+        "disgust": 0.116541
+      }, 
+      "sentiment": {
+        "score": 0.296152, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.484683, 
+      "text": "lower taxes", 
+      "emotion": {
+        "anger": 0.107057, 
+        "joy": 0.059756, 
+        "sadness": 0.285552, 
+        "fear": 0.114229, 
+        "disgust": 0.284625
+      }, 
+      "sentiment": {
+        "score": -0.537153, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.482433, 
+      "text": "fascist do-gooderism", 
+      "emotion": {
+        "anger": 0.098263, 
+        "joy": 0.320045, 
+        "sadness": 0.079499, 
+        "fear": 0.07838, 
+        "disgust": 0.025922
+      }, 
+      "sentiment": {
+        "score": -0.508549, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.482012, 
+      "text": "Facebook Page", 
+      "emotion": {
+        "anger": 0.063704, 
+        "joy": 0.407558, 
+        "sadness": 0.278581, 
+        "fear": 0.038818, 
+        "disgust": 0.027923
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.480378, 
+      "text": "Senate", 
+      "emotion": {
+        "anger": 0.175735, 
+        "joy": 0.011195, 
+        "sadness": 0.584722, 
+        "fear": 0.30188, 
+        "disgust": 0.23352
+      }, 
+      "sentiment": {
+        "score": -0.46235, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.478619, 
+      "text": "small price", 
+      "emotion": {
+        "anger": 0.123845, 
+        "joy": 0.206398, 
+        "sadness": 0.084872, 
+        "fear": 0.068124, 
+        "disgust": 0.035627
+      }, 
+      "sentiment": {
+        "score": -0.226673, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.476451, 
+      "text": "mainstream media", 
+      "emotion": {
+        "anger": 0.164587, 
+        "joy": 0.077977, 
+        "sadness": 0.23221, 
+        "fear": 0.112792, 
+        "disgust": 0.304072
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.475954, 
+      "text": "long life", 
+      "emotion": {
+        "anger": 0.139803, 
+        "joy": 0.3973, 
+        "sadness": 0.316376, 
+        "fear": 0.171763, 
+        "disgust": 0.065119
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.417145, 
+      "text": "way", 
+      "emotion": {
+        "anger": 0.514366, 
+        "joy": 0.141201, 
+        "sadness": 0.399159, 
+        "fear": 0.11316, 
+        "disgust": 0.059666
+      }, 
+      "sentiment": {
+        "score": 0.0435355, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.377723, 
+      "text": "law", 
+      "emotion": {
+        "anger": 0.068205, 
+        "joy": 0.057557, 
+        "sadness": 0.19606, 
+        "fear": 0.132911, 
+        "disgust": 0.214166
+      }, 
+      "sentiment": {
+        "score": -0.598668, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.370188, 
+      "text": "fact", 
+      "emotion": {
+        "anger": 0.301743, 
+        "joy": 0.011986, 
+        "sadness": 0.480688, 
+        "fear": 0.235913, 
+        "disgust": 0.080387
+      }, 
+      "sentiment": {
+        "score": -0.615745, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.369642, 
+      "text": "freedom", 
+      "emotion": {
+        "anger": 0.124863, 
+        "joy": 0.093216, 
+        "sadness": 0.169808, 
+        "fear": 0.082628, 
+        "disgust": 0.145781
+      }, 
+      "sentiment": {
+        "score": -0.381913, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.369233, 
+      "text": "jobs", 
+      "emotion": {
+        "anger": 0.112985, 
+        "joy": 0.215564, 
+        "sadness": 0.368221, 
+        "fear": 0.164886, 
+        "disgust": 0.056915
+      }, 
+      "sentiment": {
+        "score": -0.398604, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.349627, 
+      "text": "win-win", 
+      "emotion": {
+        "anger": 0.067416, 
+        "joy": 0.756784, 
+        "sadness": 0.067275, 
+        "fear": 0.0494, 
+        "disgust": 0.041329
+      }, 
+      "sentiment": {
+        "score": 0.777215, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.34845, 
+      "text": "undoing", 
+      "emotion": {
+        "anger": 0.208373, 
+        "joy": 0.562686, 
+        "sadness": 0.161886, 
+        "fear": 0.040015, 
+        "disgust": 0.049832
+      }, 
+      "sentiment": {
+        "score": -0.705474, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.347628, 
+      "text": "f**k", 
+      "emotion": {
+        "anger": 0.063282, 
+        "joy": 0.137387, 
+        "sadness": 0.126836, 
+        "fear": 0.080166, 
+        "disgust": 0.047798
+      }, 
+      "sentiment": {
+        "score": -0.608862, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.347626, 
+      "text": "humiliation", 
+      "emotion": {
+        "anger": 0.318806, 
+        "joy": 0.013819, 
+        "sadness": 0.624436, 
+        "fear": 0.234702, 
+        "disgust": 0.131469
+      }, 
+      "sentiment": {
+        "score": -0.738585, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.346079, 
+      "text": "totalitarianism", 
+      "emotion": {
+        "anger": 0.417022, 
+        "joy": 0.075442, 
+        "sadness": 0.377203, 
+        "fear": 0.244878, 
+        "disgust": 0.115875
+      }, 
+      "sentiment": {
+        "score": -0.601741, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.345487, 
+      "text": "fiasco", 
+      "emotion": {
+        "anger": 0.208373, 
+        "joy": 0.562686, 
+        "sadness": 0.161886, 
+        "fear": 0.040015, 
+        "disgust": 0.049832
+      }, 
+      "sentiment": {
+        "score": -0.705474, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.343104, 
+      "text": "God-given", 
+      "emotion": {
+        "anger": 0.13803, 
+        "joy": 0.573035, 
+        "sadness": 0.105337, 
+        "fear": 0.042315, 
+        "disgust": 0.069384
+      }, 
+      "sentiment": {
+        "score": 0.545109, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.339577, 
+      "text": "precedent", 
+      "emotion": {
+        "anger": 0.302074, 
+        "joy": 0.092919, 
+        "sadness": 0.342072, 
+        "fear": 0.110896, 
+        "disgust": 0.374044
+      }, 
+      "sentiment": {
+        "score": 0.774294, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.339354, 
+      "text": "heavens", 
+      "emotion": {
+        "anger": 0.045492, 
+        "joy": 0.804458, 
+        "sadness": 0.005792, 
+        "fear": 0.002954, 
+        "disgust": 0.003991
+      }, 
+      "sentiment": {
+        "score": 0.48958, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.338937, 
+      "text": "outrage", 
+      "emotion": {
+        "anger": 0.519474, 
+        "joy": 0.053535, 
+        "sadness": 0.379242, 
+        "fear": 0.124721, 
+        "disgust": 0.18702
+      }, 
+      "sentiment": {
+        "score": -0.742039, 
+        "label": "negative"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.244564, 
+        "joy": 0.094232, 
+        "sadness": 0.552295, 
+        "fear": 0.229662, 
+        "disgust": 0.131502
+      }, 
+      "count": 6, 
+      "sentiment": {
+        "score": -0.611249, 
+        "label": "negative"
+      }, 
+      "text": "Obamacare", 
+      "relevance": 0.858222, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.175735, 
+        "joy": 0.011195, 
+        "sadness": 0.584722, 
+        "fear": 0.30188, 
+        "disgust": 0.23352
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": -0.46235, 
+        "label": "negative"
+      }, 
+      "text": "Senate", 
+      "relevance": 0.620007, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.244564, 
+        "joy": 0.094232, 
+        "sadness": 0.552295, 
+        "fear": 0.229662, 
+        "disgust": 0.131502
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.544258, 
+        "label": "negative"
+      }, 
+      "text": "Obamacare", 
+      "disambiguation": {
+        "subtype": [
+          "Country"
+        ]
+      }, 
+      "relevance": 0.600411, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.417022, 
+        "joy": 0.075442, 
+        "sadness": 0.377203, 
+        "fear": 0.244878, 
+        "disgust": 0.115875
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.601741, 
+        "label": "negative"
+      }, 
+      "text": "Rube Goldberg", 
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner", 
+          "VisualArtist", 
+          "FilmWriter"
+        ], 
+        "name": "Rube Goldberg", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Rube_Goldberg"
+      }, 
+      "relevance": 0.39389, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.109496, 
+        "joy": 0.049847, 
+        "sadness": 0.074073, 
+        "fear": 0.055832, 
+        "disgust": 0.591527
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.595623, 
+        "label": "negative"
+      }, 
+      "text": "Bill Ayers", 
+      "disambiguation": {
+        "subtype": [
+          "FilmActor"
+        ], 
+        "name": "Bill Ayers", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Bill_Ayers"
+      }, 
+      "relevance": 0.393112, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.063704, 
+        "joy": 0.407558, 
+        "sadness": 0.278581, 
+        "fear": 0.038818, 
+        "disgust": 0.027923
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Facebook", 
+      "disambiguation": {
+        "subtype": [
+          "  Website", 
+          "VentureFundedCompany"
+        ], 
+        "name": "Facebook", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Facebook"
+      }, 
+      "relevance": 0.338199, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.189882, 
+        "joy": 0.15393, 
+        "sadness": 0.278428, 
+        "fear": 0.162739, 
+        "disgust": 0.344816
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Trump and Co.", 
+      "relevance": 0.330001, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.070007, 
+        "joy": 0.281542, 
+        "sadness": 0.205608, 
+        "fear": 0.049889, 
+        "disgust": 0.075576
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.844716, 
+        "label": "positive"
+      }, 
+      "text": "John Nolte", 
+      "relevance": 0.319215, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.043116, 
+        "joy": 0.433029, 
+        "sadness": 0.131455, 
+        "fear": 0.043227, 
+        "disgust": 0.072394
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.227907, 
+        "label": "positive"
+      }, 
+      "text": "Cadillac", 
+      "relevance": 0.290898, 
+      "type": "Company"
+    }, 
+    {
+      "relevance": 0.266943, 
+      "text": "$340 billion", 
+      "type": "Quantity", 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266943, 
+      "text": "ten years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.266943, 
+      "text": "@NolteNC", 
+      "type": "TwitterHandle", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/02/nolte-obamacare-mandate-repeal-important-civil-rights-victory-years/"
+}

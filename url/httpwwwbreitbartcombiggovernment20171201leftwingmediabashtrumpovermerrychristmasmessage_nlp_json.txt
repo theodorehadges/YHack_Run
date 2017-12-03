@@ -1,0 +1,1311 @@
+{
+  "usage": {
+    "text_characters": 4988, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.996744, 
+      "text": "Christmas", 
+      "emotion": {
+        "anger": 0.577826, 
+        "joy": 0.738762, 
+        "sadness": 0.44995, 
+        "fear": 0.045111, 
+        "disgust": 0.061383
+      }, 
+      "sentiment": {
+        "score": 0.152534, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.987845, 
+      "text": "President Barack Obama", 
+      "emotion": {
+        "anger": 0.033773, 
+        "joy": 0.422442, 
+        "sadness": 0.145172, 
+        "fear": 0.019892, 
+        "disgust": 0.255598
+      }, 
+      "sentiment": {
+        "score": 0.37221, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.979462, 
+      "text": "President Donald Trump", 
+      "emotion": {
+        "anger": 0.054521, 
+        "joy": 0.63382, 
+        "sadness": 0.104127, 
+        "fear": 0.127306, 
+        "disgust": 0.145261
+      }, 
+      "sentiment": {
+        "score": -0.37202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.951431, 
+      "text": "Merry Christmas", 
+      "emotion": {
+        "anger": 0.018358, 
+        "joy": 0.807607, 
+        "sadness": 0.083315, 
+        "fear": 0.029068, 
+        "disgust": 0.018406
+      }, 
+      "sentiment": {
+        "score": 0.576824, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.935719, 
+      "text": "Melania Trump", 
+      "sentiment": {
+        "score": 0.488881, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.930342, 
+      "text": "lady Melania Trump", 
+      "sentiment": {
+        "score": 0.488881, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.928174, 
+      "text": "Obama administration", 
+      "emotion": {
+        "anger": 0.395139, 
+        "joy": 0.031731, 
+        "sadness": 0.222056, 
+        "fear": 0.1126, 
+        "disgust": 0.59293
+      }, 
+      "sentiment": {
+        "score": -0.444738, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.926615, 
+      "text": "Obama family", 
+      "emotion": {
+        "anger": 0.05186, 
+        "joy": 0.531542, 
+        "sadness": 0.200896, 
+        "fear": 0.013089, 
+        "disgust": 0.089681
+      }, 
+      "sentiment": {
+        "score": 0.569555, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.898033, 
+      "text": "Obama administration officials", 
+      "emotion": {
+        "anger": 0.182337, 
+        "joy": 0.292887, 
+        "sadness": 0.179604, 
+        "fear": 0.053047, 
+        "disgust": 0.432611
+      }, 
+      "sentiment": {
+        "score": -0.247067, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.889636, 
+      "text": "national Christmas tree", 
+      "emotion": {
+        "anger": 0.054521, 
+        "joy": 0.63382, 
+        "sadness": 0.104127, 
+        "fear": 0.127306, 
+        "disgust": 0.145261
+      }, 
+      "sentiment": {
+        "score": -0.37202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.859683, 
+      "text": "columnist Petula Dvorak", 
+      "emotion": {
+        "anger": 0.072384, 
+        "joy": 0.212603, 
+        "sadness": 0.090667, 
+        "fear": 0.338557, 
+        "disgust": 0.127099
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.858572, 
+      "text": "President Trump", 
+      "emotion": {
+        "anger": 0.173115, 
+        "joy": 0.302681, 
+        "sadness": 0.166301, 
+        "fear": 0.055548, 
+        "disgust": 0.119945
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.85214, 
+      "text": "annual Christmas cards", 
+      "emotion": {
+        "anger": 0.036535, 
+        "joy": 0.428885, 
+        "sadness": 0.145785, 
+        "fear": 0.10768, 
+        "disgust": 0.082217
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.850662, 
+      "text": "official Christmas card", 
+      "emotion": {
+        "anger": 0.082588, 
+        "joy": 0.579008, 
+        "sadness": 0.177333, 
+        "fear": 0.054878, 
+        "disgust": 0.116648
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.848589, 
+      "text": "Christmas decorations", 
+      "emotion": {
+        "anger": 0.033755, 
+        "joy": 0.654268, 
+        "sadness": 0.237004, 
+        "fear": 0.018036, 
+        "disgust": 0.095475
+      }, 
+      "sentiment": {
+        "score": 0.488881, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.824559, 
+      "text": "Washington Post", 
+      "emotion": {
+        "anger": 0.060512, 
+        "joy": 0.604276, 
+        "sadness": 0.08365, 
+        "fear": 0.162396, 
+        "disgust": 0.157236
+      }, 
+      "sentiment": {
+        "score": -0.37202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.820637, 
+      "text": "Christian message", 
+      "emotion": {
+        "anger": 0.018273, 
+        "joy": 0.5864, 
+        "sadness": 0.324403, 
+        "fear": 0.038881, 
+        "disgust": 0.049992
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.820255, 
+      "text": "Obama era", 
+      "emotion": {
+        "anger": 0.284093, 
+        "joy": 0.373732, 
+        "sadness": 0.281509, 
+        "fear": 0.024328, 
+        "disgust": 0.107967
+      }, 
+      "sentiment": {
+        "score": -0.555206, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.812967, 
+      "text": "White House", 
+      "emotion": {
+        "anger": 0.127949, 
+        "joy": 0.268976, 
+        "sadness": 0.172238, 
+        "fear": 0.318307, 
+        "disgust": 0.198453
+      }, 
+      "sentiment": {
+        "score": -0.469525, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.803038, 
+      "text": "Jesus Christ", 
+      "emotion": {
+        "anger": 0.427227, 
+        "joy": 0.35547, 
+        "sadness": 0.023257, 
+        "fear": 0.014732, 
+        "disgust": 0.01292
+      }, 
+      "sentiment": {
+        "score": 0.201755, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.801348, 
+      "text": "time Trump", 
+      "emotion": {
+        "anger": 0.230947, 
+        "joy": 0.302698, 
+        "sadness": 0.22222, 
+        "fear": 0.068125, 
+        "disgust": 0.137732
+      }, 
+      "sentiment": {
+        "score": 0.307257, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.799169, 
+      "text": "Happy Holidays", 
+      "emotion": {
+        "anger": 0.005156, 
+        "joy": 0.927353, 
+        "sadness": 0.008754, 
+        "fear": 0.002211, 
+        "disgust": 0.032627
+      }, 
+      "sentiment": {
+        "score": 0.60188, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.795976, 
+      "text": "New York Post", 
+      "emotion": {
+        "anger": 0.036535, 
+        "joy": 0.428885, 
+        "sadness": 0.145785, 
+        "fear": 0.10768, 
+        "disgust": 0.082217
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.794811, 
+      "text": "joyous holiday season", 
+      "emotion": {
+        "anger": 0.014702, 
+        "joy": 0.92748, 
+        "sadness": 0.049083, 
+        "fear": 0.002976, 
+        "disgust": 0.005179
+      }, 
+      "sentiment": {
+        "score": 0.795502, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.787031, 
+      "text": "Christmas Story", 
+      "emotion": {
+        "anger": 0.033231, 
+        "joy": 0.664314, 
+        "sadness": 0.275795, 
+        "fear": 0.027874, 
+        "disgust": 0.020043
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.78012, 
+      "text": "HHS contraceptive mandate", 
+      "emotion": {
+        "anger": 0.04865, 
+        "joy": 0.192772, 
+        "sadness": 0.506372, 
+        "fear": 0.039195, 
+        "disgust": 0.407644
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.775548, 
+      "text": "radical Islamic terrorists", 
+      "emotion": {
+        "anger": 0.196976, 
+        "joy": 0.033286, 
+        "sadness": 0.601022, 
+        "fear": 0.310133, 
+        "disgust": 0.191496
+      }, 
+      "sentiment": {
+        "score": -0.535147, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.774883, 
+      "text": "Islamic State radicals", 
+      "emotion": {
+        "anger": 0.396213, 
+        "joy": 0.017218, 
+        "sadness": 0.299177, 
+        "fear": 0.151175, 
+        "disgust": 0.497295
+      }, 
+      "sentiment": {
+        "score": -0.642408, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.77433, 
+      "text": "national journalism conference", 
+      "emotion": {
+        "anger": 0.331748, 
+        "joy": 0.113393, 
+        "sadness": 0.321967, 
+        "fear": 0.030165, 
+        "disgust": 0.473118
+      }, 
+      "sentiment": {
+        "score": -0.482094, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.768845, 
+      "text": "Christmas Eve", 
+      "emotion": {
+        "anger": 0.053175, 
+        "joy": 0.22809, 
+        "sadness": 0.408475, 
+        "fear": 0.021538, 
+        "disgust": 0.066112
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.767156, 
+      "text": "Christmas cheer", 
+      "emotion": {
+        "anger": 0.010044, 
+        "joy": 0.517284, 
+        "sadness": 0.400122, 
+        "fear": 0.052912, 
+        "disgust": 0.078506
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.752826, 
+      "text": "Christmas approaches", 
+      "emotion": {
+        "anger": 0.008298, 
+        "joy": 0.777848, 
+        "sadness": 0.15512, 
+        "fear": 0.031565, 
+        "disgust": 0.020123
+      }, 
+      "sentiment": {
+        "score": 0.338509, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.726553, 
+      "text": "Christian genocide", 
+      "emotion": {
+        "anger": 0.396213, 
+        "joy": 0.017218, 
+        "sadness": 0.299177, 
+        "fear": 0.151175, 
+        "disgust": 0.497295
+      }, 
+      "sentiment": {
+        "score": -0.642408, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.722251, 
+      "text": "left-wing media", 
+      "emotion": {
+        "anger": 0.054521, 
+        "joy": 0.63382, 
+        "sadness": 0.104127, 
+        "fear": 0.127306, 
+        "disgust": 0.145261
+      }, 
+      "sentiment": {
+        "score": -0.37202, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.718019, 
+      "text": "baby son", 
+      "emotion": {
+        "anger": 0.016928, 
+        "joy": 0.933892, 
+        "sadness": 0.026867, 
+        "fear": 0.010385, 
+        "disgust": 0.015226
+      }, 
+      "sentiment": {
+        "score": 0.731463, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.717628, 
+      "text": "ominous hallway", 
+      "emotion": {
+        "anger": 0.041337, 
+        "joy": 0.514463, 
+        "sadness": 0.187372, 
+        "fear": 0.045279, 
+        "disgust": 0.242599
+      }, 
+      "sentiment": {
+        "score": 0.488881, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.715807, 
+      "text": "extraordinary gift", 
+      "emotion": {
+        "anger": 0.016928, 
+        "joy": 0.933892, 
+        "sadness": 0.026867, 
+        "fear": 0.010385, 
+        "disgust": 0.015226
+      }, 
+      "sentiment": {
+        "score": 0.731463, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.715775, 
+      "text": "campaign promise", 
+      "emotion": {
+        "anger": 0.010957, 
+        "joy": 0.597173, 
+        "sadness": 0.322363, 
+        "fear": 0.04379, 
+        "disgust": 0.047991
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.71394, 
+      "text": "ate tofurky", 
+      "emotion": {
+        "anger": 0.010044, 
+        "joy": 0.517284, 
+        "sadness": 0.400122, 
+        "fear": 0.052912, 
+        "disgust": 0.078506
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.710953, 
+      "text": "Christian celebration", 
+      "emotion": {
+        "anger": 0.008298, 
+        "joy": 0.777848, 
+        "sadness": 0.15512, 
+        "fear": 0.031565, 
+        "disgust": 0.020123
+      }, 
+      "sentiment": {
+        "score": 0.338509, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.710638, 
+      "text": "Festivus tree", 
+      "emotion": {
+        "anger": 0.010044, 
+        "joy": 0.517284, 
+        "sadness": 0.400122, 
+        "fear": 0.052912, 
+        "disgust": 0.078506
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.709639, 
+      "text": "executive order", 
+      "emotion": {
+        "anger": 0.053175, 
+        "joy": 0.22809, 
+        "sadness": 0.408475, 
+        "fear": 0.021538, 
+        "disgust": 0.066112
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.7096, 
+      "text": "federal employees", 
+      "emotion": {
+        "anger": 0.053175, 
+        "joy": 0.22809, 
+        "sadness": 0.408475, 
+        "fear": 0.021538, 
+        "disgust": 0.066112
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.708491, 
+      "text": "blessed season", 
+      "emotion": {
+        "anger": 0.011888, 
+        "joy": 0.898526, 
+        "sadness": 0.019191, 
+        "fear": 0.02273, 
+        "disgust": 0.005743
+      }, 
+      "sentiment": {
+        "score": 0.873228, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.708185, 
+      "text": "Fox News", 
+      "emotion": {
+        "anger": 0.06685, 
+        "joy": 0.20154, 
+        "sadness": 0.503832, 
+        "fear": 0.099403, 
+        "disgust": 0.307688
+      }, 
+      "sentiment": {
+        "score": -0.710503, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.707728, 
+      "text": "Breitbart News", 
+      "emotion": {
+        "anger": 0.0763, 
+        "joy": 0.087131, 
+        "sadness": 0.206794, 
+        "fear": 0.092655, 
+        "disgust": 0.150986
+      }, 
+      "sentiment": {
+        "score": -0.498636, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.707726, 
+      "text": "anti-Christian sentiment", 
+      "emotion": {
+        "anger": 0.284093, 
+        "joy": 0.373732, 
+        "sadness": 0.281509, 
+        "fear": 0.024328, 
+        "disgust": 0.107967
+      }, 
+      "sentiment": {
+        "score": -0.555206, 
+        "label": "negative"
+      }
+    }, 
+    {
+      "relevance": 0.70758, 
+      "text": "kente cloth", 
+      "emotion": {
+        "anger": 0.088473, 
+        "joy": 0.180651, 
+        "sadness": 0.148831, 
+        "fear": 0.091248, 
+        "disgust": 0.074744
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.706606, 
+      "text": "Season\u2019s Greetings", 
+      "emotion": {
+        "anger": 0.070753, 
+        "joy": 0.273611, 
+        "sadness": 0.262099, 
+        "fear": 0.073907, 
+        "disgust": 0.074374
+      }, 
+      "sentiment": {
+        "score": 0.565205, 
+        "label": "positive"
+      }
+    }, 
+    {
+      "relevance": 0.704809, 
+      "text": "shadowy branches", 
+      "emotion": {
+        "anger": 0.008477, 
+        "joy": 0.51432, 
+        "sadness": 0.194735, 
+        "fear": 0.011554, 
+        "disgust": 0.105569
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.143964, 
+        "joy": 0.582899, 
+        "sadness": 0.239576, 
+        "fear": 0.133745, 
+        "disgust": 0.157627
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": 0.338822, 
+        "label": "positive"
+      }, 
+      "text": "President Trump", 
+      "relevance": 0.578361, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.036968, 
+        "joy": 0.251804, 
+        "sadness": 0.360499, 
+        "fear": 0.014597, 
+        "disgust": 0.505796
+      }, 
+      "count": 4, 
+      "sentiment": {
+        "score": 0.37221, 
+        "label": "positive"
+      }, 
+      "text": "Barack Obama", 
+      "disambiguation": {
+        "subtype": [
+          "Politician", 
+          "President", 
+          "Appointer", 
+          "AwardWinner", 
+          "Celebrity", 
+          "PoliticalAppointer", 
+          "U.S.Congressperson", 
+          "USPresident", 
+          "TVActor"
+        ], 
+        "name": "Barack Obama", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Barack_Obama"
+      }, 
+      "relevance": 0.360708, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.017408, 
+        "joy": 0.798635, 
+        "sadness": 0.090145, 
+        "fear": 0.030234, 
+        "disgust": 0.018073
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": 0.54802, 
+        "label": "positive"
+      }, 
+      "text": "Merry Christmas", 
+      "relevance": 0.34948, 
+      "type": "TelevisionShow"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.127865, 
+        "joy": 0.582419, 
+        "sadness": 0.455842, 
+        "fear": 0.049358, 
+        "disgust": 0.275949
+      }, 
+      "count": 7, 
+      "sentiment": {
+        "score": -0.0822924, 
+        "label": "negative"
+      }, 
+      "text": "president", 
+      "relevance": 0.322769, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.227772, 
+        "joy": 0.024819, 
+        "sadness": 0.495533, 
+        "fear": 0.286436, 
+        "disgust": 0.327167
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": -0.0681731, 
+        "label": "negative"
+      }, 
+      "text": "Petula Dvorak", 
+      "relevance": 0.31605, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.037773, 
+        "joy": 0.593708, 
+        "sadness": 0.317806, 
+        "fear": 0.007119, 
+        "disgust": 0.085186
+      }, 
+      "count": 5, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Obamas", 
+      "relevance": 0.249933, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0, 
+        "joy": 0.0, 
+        "sadness": 0.0, 
+        "fear": 0.0, 
+        "disgust": 0.0
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Melania Trump", 
+      "relevance": 0.235944, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.395139, 
+        "joy": 0.031731, 
+        "sadness": 0.222056, 
+        "fear": 0.1126, 
+        "disgust": 0.59293
+      }, 
+      "count": 3, 
+      "sentiment": {
+        "score": -0.444738, 
+        "label": "negative"
+      }, 
+      "text": "Obama administration", 
+      "relevance": 0.228012, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.060512, 
+        "joy": 0.604276, 
+        "sadness": 0.08365, 
+        "fear": 0.162396, 
+        "disgust": 0.157236
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.37202, 
+        "label": "negative"
+      }, 
+      "text": "Washington Post", 
+      "disambiguation": {
+        "subtype": [
+          "Newspaper"
+        ], 
+        "name": "The Washington Post", 
+        "dbpedia_resource": "http://dbpedia.org/resource/The_Washington_Post"
+      }, 
+      "relevance": 0.211545, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.127949, 
+        "joy": 0.268976, 
+        "sadness": 0.172238, 
+        "fear": 0.318307, 
+        "disgust": 0.198453
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.469526, 
+        "label": "negative"
+      }, 
+      "text": "White House", 
+      "disambiguation": {
+        "subtype": [
+          "Location", 
+          "House", 
+          "TouristAttraction", 
+          "Building"
+        ], 
+        "name": "White House", 
+        "dbpedia_resource": "http://dbpedia.org/resource/White_House"
+      }, 
+      "relevance": 0.190589, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.011888, 
+        "joy": 0.898526, 
+        "sadness": 0.019191, 
+        "fear": 0.02273, 
+        "disgust": 0.005743
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.873228, 
+        "label": "positive"
+      }, 
+      "text": "Melania", 
+      "relevance": 0.175927, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.036535, 
+        "joy": 0.428885, 
+        "sadness": 0.145785, 
+        "fear": 0.10768, 
+        "disgust": 0.082217
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "New York Post", 
+      "disambiguation": {
+        "subtype": [
+          "AwardWinner", 
+          "Newspaper"
+        ], 
+        "name": "New York Post", 
+        "dbpedia_resource": "http://dbpedia.org/resource/New_York_Post"
+      }, 
+      "relevance": 0.158321, 
+      "type": "PrintMedia"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.396213, 
+        "joy": 0.017218, 
+        "sadness": 0.299177, 
+        "fear": 0.151175, 
+        "disgust": 0.497295
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.642408, 
+        "label": "negative"
+      }, 
+      "text": "Middle East", 
+      "disambiguation": {
+        "subtype": [
+          "Region"
+        ], 
+        "name": "Middle East", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Middle_East"
+      }, 
+      "relevance": 0.151699, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.065527, 
+        "joy": 0.174679, 
+        "sadness": 0.063048, 
+        "fear": 0.046551, 
+        "disgust": 0.045454
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "MSNBC", 
+      "disambiguation": {
+        "subtype": [
+          "Broadcast", 
+          "TVNetwork"
+        ], 
+        "name": "MSNBC", 
+        "dbpedia_resource": "http://dbpedia.org/resource/MSNBC"
+      }, 
+      "relevance": 0.147702, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.06685, 
+        "joy": 0.20154, 
+        "sadness": 0.503832, 
+        "fear": 0.099403, 
+        "disgust": 0.307688
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.710503, 
+        "label": "negative"
+      }, 
+      "text": "Fox News", 
+      "relevance": 0.144807, 
+      "type": "Company"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.277843, 
+        "joy": 0.207313, 
+        "sadness": 0.216393, 
+        "fear": 0.02171, 
+        "disgust": 0.513989
+      }, 
+      "count": 2, 
+      "sentiment": {
+        "score": -0.36458, 
+        "label": "negative"
+      }, 
+      "text": "Dan Savage", 
+      "disambiguation": {
+        "subtype": [
+          "AwardNominee", 
+          "AwardWinner"
+        ], 
+        "name": "Dan Savage", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Dan_Savage"
+      }, 
+      "relevance": 0.143732, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.053175, 
+        "joy": 0.22809, 
+        "sadness": 0.408475, 
+        "fear": 0.021538, 
+        "disgust": 0.066112
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "executive", 
+      "relevance": 0.143467, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.137524, 
+        "joy": 0.060142, 
+        "sadness": 0.227926, 
+        "fear": 0.583568, 
+        "disgust": 0.233663
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.465154, 
+        "label": "negative"
+      }, 
+      "text": "ISIS", 
+      "disambiguation": {
+        "subtype": [
+          "MusicalGroup", 
+          "MusicalArtist", 
+          "MusicalGroupMember"
+        ], 
+        "name": "Isis (band)", 
+        "dbpedia_resource": "http://dbpedia.org/resource/Isis_(band)"
+      }, 
+      "relevance": 0.143028, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.0763, 
+        "joy": 0.087131, 
+        "sadness": 0.206794, 
+        "fear": 0.092655, 
+        "disgust": 0.150986
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.498636, 
+        "label": "negative"
+      }, 
+      "text": "Breitbart", 
+      "relevance": 0.141884, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.284093, 
+        "joy": 0.373732, 
+        "sadness": 0.281509, 
+        "fear": 0.024328, 
+        "disgust": 0.107967
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.555206, 
+        "label": "negative"
+      }, 
+      "text": "United States", 
+      "disambiguation": {
+        "subtype": [
+          "Region", 
+          "AdministrativeDivision", 
+          "GovernmentalJurisdiction", 
+          "FilmEditor", 
+          "Country"
+        ], 
+        "name": "United States", 
+        "dbpedia_resource": "http://dbpedia.org/resource/United_States"
+      }, 
+      "relevance": 0.141004, 
+      "type": "Location"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.082588, 
+        "joy": 0.579008, 
+        "sadness": 0.177333, 
+        "fear": 0.054878, 
+        "disgust": 0.116648
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "official", 
+      "relevance": 0.131198, 
+      "type": "JobTitle"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.087765, 
+        "joy": 0.091761, 
+        "sadness": 0.35024, 
+        "fear": 0.010943, 
+        "disgust": 0.51909
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.63664, 
+        "label": "negative"
+      }, 
+      "text": "Roman Empire", 
+      "relevance": 0.130432, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.084764, 
+        "joy": 0.202449, 
+        "sadness": 0.132824, 
+        "fear": 0.08248, 
+        "disgust": 0.07836
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Knights of Columbus", 
+      "relevance": 0.12397, 
+      "type": "Facility"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.396213, 
+        "joy": 0.017218, 
+        "sadness": 0.299177, 
+        "fear": 0.151175, 
+        "disgust": 0.497295
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.642408, 
+        "label": "negative"
+      }, 
+      "text": "Islamic State", 
+      "relevance": 0.123393, 
+      "type": "Organization"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.124492, 
+        "joy": 0.189862, 
+        "sadness": 0.272172, 
+        "fear": 0.110675, 
+        "disgust": 0.113185
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Carl Anderson", 
+      "relevance": 0.118089, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.084764, 
+        "joy": 0.202449, 
+        "sadness": 0.132824, 
+        "fear": 0.08248, 
+        "disgust": 0.07836
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "Supreme Knight", 
+      "relevance": 0.111899, 
+      "type": "Person"
+    }, 
+    {
+      "emotion": {
+        "anger": 0.04865, 
+        "joy": 0.192772, 
+        "sadness": 0.506372, 
+        "fear": 0.039195, 
+        "disgust": 0.407644
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }, 
+      "text": "HHS", 
+      "relevance": 0.110294, 
+      "type": "Organization"
+    }, 
+    {
+      "relevance": 0.110294, 
+      "text": "2,000 years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.110294, 
+      "text": "eight years", 
+      "type": "Quantity", 
+      "count": 1, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "retrieved_url": "http://www.breitbart.com/big-government/2017/12/01/left-wing-media-bash-trump-over-merry-christmas-message/"
+}

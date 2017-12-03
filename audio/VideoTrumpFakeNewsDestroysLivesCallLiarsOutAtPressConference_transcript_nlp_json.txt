@@ -1,0 +1,217 @@
+{
+  "usage": {
+    "text_characters": 761, 
+    "features": 2, 
+    "text_units": 1
+  }, 
+  "keywords": [
+    {
+      "relevance": 0.934794, 
+      "text": "media outlets", 
+      "emotion": {
+        "anger": 0.359215, 
+        "joy": 0.027128, 
+        "sadness": 0.483902, 
+        "fear": 0.086499, 
+        "disgust": 0.33181
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.926053, 
+      "text": "sad thing", 
+      "emotion": {
+        "anger": 0.283543, 
+        "joy": 0.007087, 
+        "sadness": 0.739294, 
+        "fear": 0.159994, 
+        "disgust": 0.12585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.923381, 
+      "text": "Sheik news", 
+      "emotion": {
+        "anger": 0.192169, 
+        "joy": 0.096559, 
+        "sadness": 0.524778, 
+        "fear": 0.214105, 
+        "disgust": 0.218557
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.914636, 
+      "text": "honest  reporters", 
+      "emotion": {
+        "anger": 0.283543, 
+        "joy": 0.007087, 
+        "sadness": 0.739294, 
+        "fear": 0.159994, 
+        "disgust": 0.12585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.891739, 
+      "text": "fake news", 
+      "emotion": {
+        "anger": 0.359215, 
+        "joy": 0.027128, 
+        "sadness": 0.483902, 
+        "fear": 0.086499, 
+        "disgust": 0.33181
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.802871, 
+      "text": "people", 
+      "emotion": {
+        "anger": 0.268688, 
+        "joy": 0.006529, 
+        "sadness": 0.70352, 
+        "fear": 0.173975, 
+        "disgust": 0.17624
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.574294, 
+      "text": "HESITATION", 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.571538, 
+      "text": "megaphone", 
+      "emotion": {
+        "anger": 0.283543, 
+        "joy": 0.007087, 
+        "sadness": 0.739294, 
+        "fear": 0.159994, 
+        "disgust": 0.12585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.555041, 
+      "text": "anybody", 
+      "emotion": {
+        "anger": 0.359215, 
+        "joy": 0.027128, 
+        "sadness": 0.483902, 
+        "fear": 0.086499, 
+        "disgust": 0.33181
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.546572, 
+      "text": "sorts", 
+      "emotion": {
+        "anger": 0.192169, 
+        "joy": 0.096559, 
+        "sadness": 0.524778, 
+        "fear": 0.214105, 
+        "disgust": 0.218557
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.534865, 
+      "text": "idea", 
+      "emotion": {
+        "anger": 0.359215, 
+        "joy": 0.027128, 
+        "sadness": 0.483902, 
+        "fear": 0.086499, 
+        "disgust": 0.33181
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.531601, 
+      "text": "advantage", 
+      "emotion": {
+        "anger": 0.283543, 
+        "joy": 0.007087, 
+        "sadness": 0.739294, 
+        "fear": 0.159994, 
+        "disgust": 0.12585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }, 
+    {
+      "relevance": 0.52743, 
+      "text": "kind", 
+      "emotion": {
+        "anger": 0.283543, 
+        "joy": 0.007087, 
+        "sadness": 0.739294, 
+        "fear": 0.159994, 
+        "disgust": 0.12585
+      }, 
+      "sentiment": {
+        "score": 0.0, 
+        "label": "neutral"
+      }
+    }
+  ], 
+  "language": "en", 
+  "entities": [
+    {
+      "emotion": {
+        "anger": 0.192169, 
+        "joy": 0.096559, 
+        "sadness": 0.524778, 
+        "fear": 0.214105, 
+        "disgust": 0.218557
+      }, 
+      "count": 1, 
+      "sentiment": {
+        "score": -0.647863, 
+        "label": "negative"
+      }, 
+      "text": "Sheik", 
+      "relevance": 0.33, 
+      "type": "Person"
+    }
+  ]
+}
