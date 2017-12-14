@@ -1,0 +1,6 @@
+pafy==0.5.3.1
+pydub==0.20.0
+watson_developer_cloud==1.0.0
+goose==1.0.25
+flask==0.12.1
+jinja2==2.9.6
