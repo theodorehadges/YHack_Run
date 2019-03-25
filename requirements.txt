@@ -1,0 +1,9 @@
+# Install with
+# $ pip install -r requirements.txt
+
+pafy
+pydub
+watson_developer_cloud
+youtube_dl
+goose3==3.1.6
+flask
